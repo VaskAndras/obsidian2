@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2-Menu/Angol.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2-Menu/Angol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2-Menu/Angol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2-Menu/Angol.md"
               }
             }
           },
@@ -157,9 +157,11 @@
   },
   "active": "7f943750c6d9e034",
   "lastOpenFiles": [
+    "Az elektromágneses hullámok.md",
+    "4-tananyag/Fizika/Elektromágneses hullámok, optika/Rezgőkör és elektromágneses rezgés.md",
+    "README.md",
     "test2.md",
     "Teszt 1.md",
-    "Az elektromágneses hullámok.md",
     "images/Pasted image 20241012215742.png",
     "images/Pasted image 20241012215730.png",
     "images/Pasted image 20241012215719.png",
@@ -200,8 +202,6 @@
     "4-tananyag/Irodalom/Avantgárd/Guillaume Apollinaire élete és munkássága.md",
     "4-tananyag/Fizika/váltóáram/Váltóáramú áramkör.md",
     "4-tananyag/Fizika/váltóáram/Váltóáram.md",
-    "4-tananyag/Fizika/váltóáram/Váltóáram esszék.md",
-    "4-tananyag/Fizika/váltóáram/Váltakozó áramú motorok.md",
-    "4-tananyag/Fizika/váltóáram/Váltakozó áramú generátorok.md"
+    "4-tananyag/Fizika/váltóáram/Váltóáram esszék.md"
   ]
 }

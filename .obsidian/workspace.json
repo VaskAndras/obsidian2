@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ad24811b4415ea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "one/test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8011ac13b86640bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test2.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test2.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test2.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test2.md"
+                "file": "README.md"
               }
             }
           },
@@ -180,13 +155,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8011ac13b86640bc",
+  "active": "7f943750c6d9e034",
   "lastOpenFiles": [
-    "one/test.md",
     "test2.md",
-    "Untitled.md",
-    "one",
-    "README.md",
-    "Untitled"
+    "Teszt 1.md",
+    "Az elektromágneses hullámok.md",
+    "images/Pasted image 20241012215742.png",
+    "images/Pasted image 20241012215730.png",
+    "images/Pasted image 20241012215719.png",
+    "images/Pasted image 20241012215712.png",
+    "images/Pasted image 20241012215654.png",
+    "images/Pasted image 20241012214425.png",
+    "images/Pasted image 20241012212924.png",
+    "images/Pasted image 20241012212904.png",
+    "images/Pasted image 20241012212410.png",
+    "images/Pasted image 20241012212348.png",
+    "images",
+    "4-tananyag/Magyar gyakorlás/Teszt 1.md",
+    "4-tananyag/Történelem/A kétpólusú világ/Kétpólusú világrend kialakulása.md",
+    "4-tananyag/Történelem/A kétpólusú világ/A hidegháború.md",
+    "4-tananyag/Történelem/2. Világháború/Tengelyhatalmak sikerei 2.md",
+    "4-tananyag/Történelem/2. Világháború/Magyarország pusztulása 2.md",
+    "4-tananyag/Történelem/2. Világháború/Magyarország a második világháborúban 2.md",
+    "4-tananyag/Történelem/2. Világháború/II.VH fogalmak 2.md",
+    "4-tananyag/Történelem/2. Világháború/II. VH egyben.md",
+    "4-tananyag/Történelem/2. Világháború/II. VH Esszék 2.md",
+    "4-tananyag/Történelem/2. Világháború/Holokauszt 2.md",
+    "4-tananyag/Történelem/2. Világháború/A szövetségesek győzelme.md",
+    "4-tananyag/plugins/obsidian-latex-suite/styles.css",
+    "4-tananyag/plugins/obsidian-latex-suite/manifest.json",
+    "4-tananyag/plugins/obsidian-latex-suite/main.js",
+    "4-tananyag/plugins/obsidian-latex-suite/data.json",
+    "4-tananyag/Irodalom/Késői modernség/Thomas Mann.md",
+    "4-tananyag/Irodalom/Késői modernség/manifest.json",
+    "4-tananyag/Irodalom/Késői modernség/Késői modernség.md",
+    "4-tananyag/Irodalom/Késői modernség/Franz Kafka-átváltozás.md",
+    "4-tananyag/Irodalom/Késői modernség/data.json",
+    "4-tananyag/Irodalom/Késői modernség/daily-notes.json",
+    "4-tananyag/Irodalom/Késői modernség/core-plugins.json",
+    "4-tananyag/Irodalom/Késői modernség/community-plugins.json",
+    "4-tananyag/Irodalom/Késői modernség/Bulgatov-A Mester és Margerita.md",
+    "4-tananyag/Irodalom/Késői modernség/20. századi drámatípusok.md",
+    "4-tananyag/Irodalom/Avantgárd/Avantgárd.md",
+    "4-tananyag/Irodalom/Avantgárd/Guillaume Apollinaire élete és munkássága.md",
+    "4-tananyag/Fizika/váltóáram/Váltóáramú áramkör.md",
+    "4-tananyag/Fizika/váltóáram/Váltóáram.md",
+    "4-tananyag/Fizika/váltóáram/Váltóáram esszék.md",
+    "4-tananyag/Fizika/váltóáram/Váltakozó áramú motorok.md",
+    "4-tananyag/Fizika/váltóáram/Váltakozó áramú generátorok.md"
   ]
 }

@@ -330,10 +330,42 @@ ahol:
 
 ### h) Lencsék leképezési törvénye
 
-A lencséknél a tárgytávolság (\( t \)), a képtávolság (\( k \)), és a fókusztávolság (\( f \)) közötti kapcsolatot a leképezési törvény írja le:
+A lencséknél a tárgytávolság ( t ), a képtávolság ( k ), és a fókusztávolság ( f ) közötti kapcsolatot a leképezési törvény írja le:
 
-\[
+$$
 \frac{1}{f} = \frac{1}{t} + \frac{1}{k}
-\]
+$$
+### Leképezési törvény levezetése
+![[Pasted image 20241017222108.png]]
 
-Ez azt jelenti, hogy a lencsék fókusztávolságának reciproka megegyezik a tárgytávolság és a képtávolság reciprokának összegével.
+A törvény levezethető a háromszögek hasonlóságának elvéből. Az **A'B'O** háromszög hasonló az **ABO** háromszöghöz, így:
+
+$$
+\frac{K}{T} = \frac{k}{t}
+$$
+- Az ábrán felfedezhető két másik hasonló háromszög is. 
+- Az $LOF_2$ háromszög hasonló $A'B'F_2$ háromszöghöz. 
+##### Így a két hasonlóságból az arány:
+
+$$
+\frac{K}{T} = \frac{k - f}{f}
+$$
+
+###### A két egyenletből:
+$$
+\frac{k}{t}=\frac{k-f}{f}
+$$
+$$
+k*f=t*k-t*f
+$$
+$$
+\frac{1}{t}=\frac{1}{f}-\frac{1}{k}
+$$
+
+### Ebből a leképezési törvény:
+$$
+\frac{1}{f} = \frac{1}{t} + \frac{1}{k}
+$$
+>[!note]
+>Lencsék fókusztávolságának reciproka megegyezik a tárgytávolság és a képtávolság reciprokának összegével.
+

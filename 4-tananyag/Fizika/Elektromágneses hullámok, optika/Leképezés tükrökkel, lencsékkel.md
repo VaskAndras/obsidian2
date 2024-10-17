@@ -251,6 +251,8 @@ ahol:
 - Ha a felület a közeg felől nézve domború, a sugár pozitív,
 - Ha a felület a közeg felől nézve homorú, a sugár negatív.
 
+#### Dioptria
+
 A fókusztávolság reciproka **dioptria** (D), amely a lencse törőerejét méri:
 
 $$
@@ -259,3 +261,77 @@ $$
 
 - **Gyűjtőlencse** fókusztávolsága és dioptriája pozitív.
 - **Szórólencse** fókusztávolsága és dioptriája negatív.
+
+
+### e) Gyűjtőlencse képalkotása
+
+1. **Ha a tárgy a kétszeres fókusztávolságon kívül helyezkedik el**:
+![[Pasted image 20241017221307.png]]
+   - A kép a lencse túlsó oldalán az egyszeres és a kétszeres fókusztávolság között keletkezik.
+   - A kép:
+     - **valódi**,
+     - **fordított állású** és
+     - **kicsinyített**.
+
+3. **Ha a tárgy a kétszeres fókusztávolságban helyezkedik el**:
+![[Pasted image 20241017221326.png]]
+   - A kép a lencse túlsó oldalán is a kétszeres fókusztávolságban keletkezik.
+   - A kép:
+     - **valódi**,
+     - **fordított állású** és
+     - a **nagyítása 1**.
+
+5. **Ha a tárgy az egyszeres és a kétszeres fókusztávolság között van**:
+![[Pasted image 20241017221341.png]]
+   - A kép a lencse túlsó oldalán a kétszeres fókusztávolságon kívül keletkezik.
+   - A kép:
+     - **valódi**,
+     - **fordított állású** és
+     - **nagyított**.
+
+7. **Ha a tárgy a fókuszpontban helyezkedik el**:
+   - Nem keletkezik kép.
+
+8. **Ha a tárgy a fókuszponton belül helyezkedik el**:
+   - A keletkező kép **ernyőn nem fogható fel**.
+   - A kép:
+     - **virtuális**,
+     - **egyenes állású** és
+     - **nagyított**.
+
+---
+
+### f) Szórólencse képalkotása
+
+A szórólencse (konkáv lencse) bármely tárgyhelyzetben az alábbi képet alkotja:
+- **virtuális**,
+- **egyenes állású** és
+- **kicsinyített**.
+
+---
+
+### g) Lencsék nagyítása
+
+A **nagyítás** a képnagyság és a tárgynagyság hányadosa, jele: \( N \).
+
+Mind gyűjtő-, mind szórólencse esetén az ABO háromszög hasonló az A'B'O háromszöghöz, így a nagyítás képlete:
+
+\[
+N = \frac{K}{T} = \frac{k}{t}
+\]
+
+ahol:
+- \( k \) a képtávolság,
+- \( t \) a tárgytávolság.
+
+---
+
+### h) Lencsék leképezési törvénye
+
+A lencséknél a tárgytávolság (\( t \)), a képtávolság (\( k \)), és a fókusztávolság (\( f \)) közötti kapcsolatot a leképezési törvény írja le:
+
+\[
+\frac{1}{f} = \frac{1}{t} + \frac{1}{k}
+\]
+
+Ez azt jelenti, hogy a lencsék fókusztávolságának reciproka megegyezik a tárgytávolság és a képtávolság reciprokának összegével.

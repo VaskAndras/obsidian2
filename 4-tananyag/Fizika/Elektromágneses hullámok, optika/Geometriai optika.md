@@ -132,20 +132,22 @@ $$
 \frac{1}{\sin\alpha_{h}}=n_{s,r}
 $$
 ## Plánparalel lemez fénytörése
+### Plánparalel lemez 
+- átlátszó test, 
+- két párhuzamos sík határol.
+### Fénytörése
+- A ferdén beeső fénysugarat a plánparalel lemez önmagával párhuzamosan eltolja,
+- a __fénysugár iránya nem változik.
+- **Felületre merőleges beesés** 
+	- esetén a fénysugár nem tolódik el.
+- ##### Példa: 
+	- ha vastag kirakatüvegen át nézünk tárgyakat, azok a valóságosnál közelebb látszanak, mivel a fénysugár eltolódik, és a szemünkbe jutó sugarak metszéspontja a tárgyhoz közelebb van (A pont helyett az A' pontban).
 
-- A **plánparalel lemez** egy olyan átlátszó test, amelyet két párhuzamos sík határol.
-- A ferdén beeső fénysugarat a plánparalel lemez önmagával párhuzamosan eltolja, de a fénysugár iránya nem változik.
-- **Felületre merőleges beesés** esetén a fénysugár nem tolódik el.
-- Példa: ha vastag kirakatüvegen át nézünk tárgyakat, azok a valóságosnál közelebb látszanak, mivel a fénysugár eltolódik, és a szemünkbe jutó sugarak metszéspontja a tárgyhoz közelebb van (A pont helyett az A' pontban).
-
----
-
+![[Pasted image 20241017210330.png]]
 ## A prizma fénytörése
 
-- A prizma egy átlátszó test, amelyet egymással szöget bezáró síklapok határolnak. A síklapok által bezárt szög a **törőszög** (\(\varphi\)).
+- A prizma egy átlátszó test, amelyet egymással szöget bezáró síklapok határolnak. A síklapok által bezárt szög a **törőszög** (\varphi\)).
 - A prizma megváltoztatja a fénysugár irányát, amikor az áthalad rajta, amit az ábrán megjelenített fénytörés mutat.
-
----
 
 ## Fénytörés a természetben
 

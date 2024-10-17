@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fda467532db84c34",
+        "id": "097551ada883c1c1",
         "type": "tabs",
         "children": [
           {
-            "id": "7f943750c6d9e034",
+            "id": "b0489a9ef11b6dde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Menu/Angol.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +64,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -93,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Angol"
             }
           },
           {
@@ -105,7 +111,9 @@
                 "file": "2-Menu/Angol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Angol"
             }
           },
           {
@@ -116,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +136,9 @@
               "type": "outline",
               "state": {
                 "file": "2-Menu/Angol.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Angol"
             }
           },
           {
@@ -134,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -142,66 +156,66 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Gyors váltó megnyitása": false,
-      "graph:Grafikon nézet megnyitása": false,
-      "canvas:Új vászon létrehozása": false,
-      "daily-notes:Mai jegyzet megnyitása": false,
-      "templates:Sablon beszúrása": false,
-      "command-palette:Parancspaletta megnyitása": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48e5c56837c9d888",
+  "active": "b0489a9ef11b6dde",
   "lastOpenFiles": [
-    "Az elektromágneses hullámok.md",
+    "Geometriai optika.md",
+    "images/Pasted image 20241017184204.png",
+    "images/Pasted image 20241017184127.png",
+    "images/Pasted image 20241017184116.png",
+    "images/Pasted image 20241017183755.png",
+    "images/Pasted image 20241017182439.png",
+    "images/Pasted image 20241017182415.png",
+    "images/Pasted image 20241017182355.png",
+    "images/Pasted image 20241017182342.png",
+    "images/Pasted image 20241016194514.png",
+    "images/Pasted image 20241016192727.png",
+    "4-tananyag/Fizika/váltóáram/Transzformátor.md",
+    "4-tananyag/Fizika/váltóáram/Ellenállások váltóáramban.md",
     "4-tananyag/Fizika/Elektromágneses hullámok, optika/Rezgőkör és elektromágneses rezgés.md",
-    "README.md",
-    "test2.md",
-    "Teszt 1.md",
-    "images/Pasted image 20241012215742.png",
-    "images/Pasted image 20241012215730.png",
-    "images/Pasted image 20241012215719.png",
-    "images/Pasted image 20241012215712.png",
-    "images/Pasted image 20241012215654.png",
-    "images/Pasted image 20241012214425.png",
-    "images/Pasted image 20241012212924.png",
-    "images/Pasted image 20241012212904.png",
-    "images/Pasted image 20241012212410.png",
-    "images/Pasted image 20241012212348.png",
+    "4-tananyag/Fizika/Elektromágneses hullámok, optika/Elektromágneses hullámok.md",
+    "4-tananyag/Fizika/Elektromágneses hullámok, optika/Az elektromágneses hullámok.md",
+    "conflict-files-obsidian-git.md",
+    "3-tags/II. világháború.md",
+    "2-Menu/Töri.md",
+    "angol közép 2018 máj.md",
+    "A gyarmati világ felbomlása.md",
     "images",
-    "4-tananyag/Magyar gyakorlás/Teszt 1.md",
-    "4-tananyag/Történelem/A kétpólusú világ/Kétpólusú világrend kialakulása.md",
-    "4-tananyag/Történelem/A kétpólusú világ/A hidegháború.md",
-    "4-tananyag/Történelem/2. Világháború/Tengelyhatalmak sikerei 2.md",
-    "4-tananyag/Történelem/2. Világháború/Magyarország pusztulása 2.md",
-    "4-tananyag/Történelem/2. Világháború/Magyarország a második világháborúban 2.md",
-    "4-tananyag/Történelem/2. Világháború/II.VH fogalmak 2.md",
-    "4-tananyag/Történelem/2. Világháború/II. VH egyben.md",
-    "4-tananyag/Történelem/2. Világháború/II. VH Esszék 2.md",
-    "4-tananyag/Történelem/2. Világháború/Holokauszt 2.md",
-    "4-tananyag/Történelem/2. Világháború/A szövetségesek győzelme.md",
-    "4-tananyag/plugins/obsidian-latex-suite/styles.css",
-    "4-tananyag/plugins/obsidian-latex-suite/manifest.json",
-    "4-tananyag/plugins/obsidian-latex-suite/main.js",
-    "4-tananyag/plugins/obsidian-latex-suite/data.json",
-    "4-tananyag/Irodalom/Késői modernség/Thomas Mann.md",
-    "4-tananyag/Irodalom/Késői modernség/manifest.json",
-    "4-tananyag/Irodalom/Késői modernség/Késői modernség.md",
-    "4-tananyag/Irodalom/Késői modernség/Franz Kafka-átváltozás.md",
-    "4-tananyag/Irodalom/Késői modernség/data.json",
-    "4-tananyag/Irodalom/Késői modernség/daily-notes.json",
-    "4-tananyag/Irodalom/Késői modernség/core-plugins.json",
-    "4-tananyag/Irodalom/Késői modernség/community-plugins.json",
-    "4-tananyag/Irodalom/Késői modernség/Bulgatov-A Mester és Margerita.md",
-    "4-tananyag/Irodalom/Késői modernség/20. századi drámatípusok.md",
-    "4-tananyag/Irodalom/Avantgárd/Avantgárd.md",
-    "4-tananyag/Irodalom/Avantgárd/Guillaume Apollinaire élete és munkássága.md",
-    "4-tananyag/Fizika/váltóáram/Váltóáramú áramkör.md",
-    "4-tananyag/Fizika/váltóáram/Váltóáram.md",
-    "4-tananyag/Fizika/váltóáram/Váltóáram esszék.md"
+    "Fogalmak.md",
+    "Dürrenmatt.md",
+    "3-tags/magyar/Nyelvtan.md",
+    "3-tags/magyar/Magyar Gyakorlás.md",
+    "3-tags/magyar/Irodalom.md",
+    "3-tags/Váltóáram.md",
+    "3-tags/magyar",
+    "3-tags/Levelek.md",
+    "3-tags/Félvezetők.md",
+    "3-tags/Elektromágneses hullámok, optika.md",
+    "3-tags/A kétpólusú világ.md",
+    "3-tags",
+    "2-Menu/Menü.md",
+    "2-Menu/Matek.md",
+    "2-Menu/Magyar.md",
+    "2-Menu/Fizika.md",
+    "2-Menu",
+    "1-Random notes",
+    "repo",
+    "Új Szöveges dokumentum.txt",
+    "Új mappa",
+    "4-tananyag/Matek",
+    "4-tananyag/angol"
   ]
 }

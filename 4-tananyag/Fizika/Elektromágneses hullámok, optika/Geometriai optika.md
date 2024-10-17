@@ -212,7 +212,8 @@ $$
 - Az **optikai középpont** (O) az optikai tengely és a gömbszelet közös pontja.
 - A **gömb középpontját** (G) geometriai középpontnak nevezzük.
 - A gömb sugara a **görbületi sugár** (r).
-- A gömbtükör **nyílásszöge** $\varphi$, és ha ez kisebb mint 50°, akkor **kis nyílásszögű gömbtükörről** beszélünk.
+- A gömbtükör **nyílásszöge** $\varphi$, és ha ez kisebb mint 5°, akkor **kis nyílásszögű gömbtükörről** beszélünk.
+![[Pasted image 20241017212142.png]]
 
 #### Fókuszpont és fókusztávolság
 - Az optikai tengellyel párhuzamosan beeső fénysugarak egy pontban, a **fókuszpontban** (F) találkoznak.

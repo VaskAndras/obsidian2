@@ -236,13 +236,12 @@ $$
 ![[Pasted image 20241017212512.png]]
 
 ## Homorú gömbtükör képalkotása
-A homorú gömbtükör által alkotott kép könnyen megszerkeszthető a nevezetes sugarak segítségével, függetlenül a tárgy helyzetétől.
 
 ### Képalkotás különböző tárgyhelyzetekben:
 
 1. **Ha a tárgy a geometriai középponton kívül van**:  
    A kép a fókuszpont és a geometriai középpont között keletkezik.    
-	![[Pasted image 20241017212837.png]]
+	![[Pasted image 20241017212912.png]]
    A kép:
    - **valódi**,
    - **fordított állású**,
@@ -250,6 +249,8 @@ A homorú gömbtükör által alkotott kép könnyen megszerkeszthető a nevezet
 
 2. **Ha a tárgy a geometriai középpontban van**:  
    A kép szintén a geometriai középpontban keletkezik.  
+   ![[Pasted image 20241017212924.png]]
+   
    A kép:
    - **valódi**,
    - **fordított állású**,
@@ -257,21 +258,26 @@ A homorú gömbtükör által alkotott kép könnyen megszerkeszthető a nevezet
 
 3. **Ha a tárgy a fókuszpont és a geometriai középpont között van**:  
    A kép a geometriai középponton kívül keletkezik.  
+   ![[Pasted image 20241017212958.png]]
    A kép:
    - **valódi**,
    - **fordított állású**,
    - és **nagyított**.
 
 4. **Ha a tárgy a fókuszpontban van**:  
+![[Pasted image 20241017213016.png]]
    A homorú gömbtükör **nem alkot képet** a tárgyról.
 
 ## d) Leképezés domború gömbtükörrel
 A **domború gömbtükör** olyan tükör, amelynek külső felülete tükröz. A domború tükör sugarai is nevezetesek:
-
+![[Pasted image 20241017213124.png]]
 1. Az **optikai tengellyel párhuzamosan beeső** fénysugár visszaverődés után úgy halad tovább, mintha a tükör mögötti fókuszpontból indult volna ki.
 2. A **tükör mögötti gyújtópont felé** beeső fénysugár az **optikai tengellyel párhuzamosan** verődik vissza.
 3. A **geometriai középpont felé** beeső fénysugár saját magában verődik vissza.
 4. Az **optikai középpontba** beeső fénysugár az optikai tengelyre szimmetrikusan verődik vissza.
 
 ### Szórt sugarak
-A domború gömbtükör az **optikai tengellyel nem párhuzamos sugarakat** úgy szórja szét, hogy a visszavert fénysugarak meghosszabbítása a tükör mögötti egy pontban metszik egymást. Ez a pont a **fókuszsíkban** helyezkedik el.
+- A domború gömbtükör az **optikai tengellyel nem párhuzamos sugarakat** úgy szórja szét, hogy 
+- a visszavert fénysugarak meghosszabbítása a tükör mögötti egy pontban metszik egymást. 
+- Ez a pont a **fókuszsíkban** helyezkedik el.
+![[Pasted image 20241017213207.png]]

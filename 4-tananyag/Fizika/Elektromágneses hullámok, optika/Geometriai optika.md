@@ -140,14 +140,23 @@ $$
 - a __fénysugár iránya nem változik.
 - **Felületre merőleges beesés** 
 	- esetén a fénysugár nem tolódik el.
-- ##### Példa: 
-	- ha vastag kirakatüvegen át nézünk tárgyakat, azok a valóságosnál közelebb látszanak, mivel a fénysugár eltolódik, és a szemünkbe jutó sugarak metszéspontja a tárgyhoz közelebb van (A pont helyett az A' pontban).
-
 ![[Pasted image 20241017210330.png]]
-## A prizma fénytörése
 
-- A prizma egy átlátszó test, amelyet egymással szöget bezáró síklapok határolnak. A síklapok által bezárt szög a **törőszög** (\varphi\)).
+### Gyakorlatban
+- vastag kirakatüvegen át nézünk tárgyakat
+- azok a valóságosnál közelebb látszanak
+- #### oka:
+- a fénysugár eltolódik, 
+- a szemünkbe jutó sugarak metszéspontja a tárgyhoz közelebb van (A pont helyett az A' pontban).
+![[Pasted image 20241017210744.png]]
+
+## A prizma fénytörése
+### A prizma 
+- egy átlátszó test, amelyet egymással szöget bezáró síklapok határolnak. 
+- A síklapok által bezárt szög a **törőszög** ($\varphi$).
+### Hatása
 - A prizma megváltoztatja a fénysugár irányát, amikor az áthalad rajta, amit az ábrán megjelenített fénytörés mutat.
+![[Pasted image 20241017210841.png]]
 
 ## Fénytörés a természetben
 

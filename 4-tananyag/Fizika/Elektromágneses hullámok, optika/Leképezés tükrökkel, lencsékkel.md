@@ -131,6 +131,7 @@ ahol:
 - \( k \) a képtávolság.
 
 ### A törvény levezetése
+![[Pasted image 20241017214352.png]]
 
 A törvény levezethető a háromszögek hasonlóságának elvéből. Az **A'B'O** háromszög hasonló az **ABO** háromszöghöz, így:
 
@@ -138,10 +139,21 @@ $$
 \frac{K}{T} = \frac{k}{t}
 $$
 
-Ezen kívül az **LHF** háromszög hasonló az **A'B'F** háromszöghöz. Mivel a gömbtükör kis nyílásszögű, az OF és HF szakaszok egyenlőnek tekinthetők, így a háromszög oldalainak aránya:
+Ezen kívül az **LHF** háromszög hasonló az **A'B'F** háromszöghöz. Mivel a gömbtükör kis nyílásszögű, az OF és HF szakaszok egyenlőnek tekinthetők, 
+##### Így a háromszög oldalainak aránya:
 
 $$
-\frac{f}{k} = \frac{f - T}{T}
+\frac{K}{T} = \frac{k - f}{f}
 $$
 
+###### A két egyenletből:
+$$
+\frac{k}{t}=\frac{k-f}{f}
+$$
+$$
+k*f=t*k-t*f
+$$
+$$
+\frac{1}{t}=\frac{1}{f}-\frac{1}{k}
+$$
 Ez a kapcsolat a **leképezési törvény** alapja, amely meghatározza, hogy a gömbtükör fókusztávolságának reciproka megegyezik a tárgytávolság és a képtávolság reciprokának összegével.

@@ -233,7 +233,7 @@ A **szórólencse** (konkáv lencse) szétoszlatja a fénysugarakat,
 ![[Pasted image 20241017220305.png]]
 
 ### d) A lencse fókusztávolsága
-
+![[Pasted image 20241017220704.png]]
 A **vékony lencsék fókusztávolsága** két tényezőtől függ:
 
 1. A határoló felületek görbületi sugara.
@@ -244,18 +244,18 @@ A fókusztávolság kiszámításának képlete:
 $$
 \frac{1}{f} = (n-1) \left( \frac{1}{r_1} + \frac{1}{r_2} \right)
 $$
-
+ahol:
 - $r_1$ és $r_2$ a lencse felületeinek görbületi sugarai,
-- \( n \) a lencse anyagának törésmutatója.
-
+- $n$ a lencse anyagának törésmutatója.
+##### Előjel:
 - Ha a felület a közeg felől nézve domború, a sugár pozitív,
 - Ha a felület a közeg felől nézve homorú, a sugár negatív.
 
 A fókusztávolság reciproka **dioptria** (D), amely a lencse törőerejét méri:
 
-\[
-D = \frac{1}{f} \quad \text{(méterben kifejezve)}
-\]
+$$
+D = \frac{1}{f(m)}
+$$
 
 - **Gyűjtőlencse** fókusztávolsága és dioptriája pozitív.
 - **Szórólencse** fókusztávolsága és dioptriája negatív.

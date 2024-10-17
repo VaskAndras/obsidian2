@@ -1,2 +1,3 @@
 [[Rezgőkör és elektromágneses rezgés]]
-[[Az elektromágneses hullámok]]
+[[Elektromágneses hullámok]]
+[[Geometriai optika]]

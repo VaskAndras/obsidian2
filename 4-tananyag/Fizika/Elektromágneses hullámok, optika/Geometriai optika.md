@@ -109,14 +109,16 @@
 - A megfigyeléshez fontos, hogy a forgatható optikai korong és az üveg félkorong középpontja egybeessen. Ilyenkor az üvegből kilépő fénysugár irányváltoztatás nélkül halad tovább.
 ![[Pasted image 20241017203340.png]]
 ## Fénytörés törvényei
-1. A beeső fénysugár, a beesési merőleges és a megtört fénysugár egy síkban vannak.
-2. A beesési és a törési szög szinuszainak hányadosa megegyezik a két közegben mérhető fénysebességek hányadosával. Ez a hányados a második közeg törésmutatójával egyenlő az első közeghez viszonyítva:
-
+>[!note] 
+>1. A beeső fénysugár, a beesési merőleges és a megtört fénysugár egy síkban vannak.
+>2. A beesési és a törési szög szinuszainak hányadosa megegyezik a két közegben mérhető fénysebességek hányadosával. Ez a hányados a második közeg törésmutatójával egyenlő az első közeghez viszonyítva:
 $$
-\frac{\sin \alpha}{\sin \beta} = \frac{c_1}{c_2} = \frac{n_2}{n_1}
+\frac{\sin \alpha}{\sin \beta} = \frac{c_1}{c_2} = n_{2,1}
 $$
-
 - Ezt a törvényt **Snellius-Descartes törvénynek** nevezzük.
+#### Abszolút törésmutató
+- __Valamely anyagnak légüres térre__ vonatkoztatott törésmutatóját abszolút törésmutatónak nevezzük.
+- Két közeg közül az __optikailag sűrűbb abszolút törésmutatója nagyobb
 ## Törésmutató és teljes visszaverődés
 
 #### Törésmutatók

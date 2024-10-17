@@ -190,3 +190,43 @@ $$
 - Ilyenkor a távoli tárgyak fordított képét látjuk.
 	- __fordított délibáb
 - ![[Pasted image 20241017211317.png]]
+## Leképezés tükrökkel
+
+### a) Leképezés síktükörrel
+- A **síktükör** olyan tükör, amelyen a visszaverődő fénysugarak egyenes vonalban haladnak tovább, és élethű képet adnak.
+- #### Alkotott képe kép:
+- ![[Pasted image 20241017211842.png]]
+  - egyenes állású
+  - Látszólagos kép
+  - A képtávolság és a tárgytávolság __megegyezik__.
+  - A képnagyság és a tárgynagyság __azonos__.
+  - A jobb és bal oldal felcserélődik.
+
+#### Látszólagos kép
+- Akkor keletkezik, amikor a tárgy pontjairól kiinduló fénysugarak úgy terjednek szét, mintha egy másik pontból indultak volna ki.
+- Az emberi szem ilyenkor a fénysugarak metszéspontját képzeletben a térben "látja".
+
+### b) Gömbtükör jellemzői
+- A **gömbtükör** egy gömbhéjszelet, amelynek vagy a belső, vagy a külső felülete tükröz.
+- Az **optikai tengely** a gömbhéjszelet szimmetriatengelye.
+- Az **optikai középpont** (O) az optikai tengely és a gömbszelet közös pontja.
+- A **gömb középpontját** (G) geometriai középpontnak nevezzük.
+- A gömb sugara a **görbületi sugár** (r).
+- A gömbtükör **nyílásszöge** $\varphi$, és ha ez kisebb mint 50°, akkor **kis nyílásszögű gömbtükörről** beszélünk.
+
+#### Fókuszpont és fókusztávolság
+- Az optikai tengellyel párhuzamosan beeső fénysugarak egy pontban, a **fókuszpontban** (F) találkoznak.
+- A **fókusztávolság** (f) a fókuszpont és az optikai középpont közötti távolság.
+- A fókusztávolság a görbületi sugár fele:  
+  $$
+  f = \frac{r}{2}
+  $$
+### c) Leképezés homorú gömbtükörrel
+- **Homorú gömbtükörről** beszélünk, ha a gömbtükör belső felülete tükröz.
+- A homorú gömbtükör nevezetes sugarai:
+  1. Az **optikai tengellyel párhuzamos** fénysugár a visszaverődés után a **gyújtóponton** (fókuszponton) halad át.
+  2. A **gyújtóponton át** beeső fénysugár az **optikai tengellyel párhuzamosan** verődik vissza.
+  3. Az **optikai tengely mentén** beeső fénysugár saját magában verődik vissza.
+  4. Az **optikai középpontba** beeső fénysugár az optikai tengelyre szimmetrikusan verődik vissza.
+
+- A homorú tükör az optikai tengellyel nem párhuzamos fénysugarakat is egy pontba gyűjti, amely az **optikai tengelyre** merőleges **fókuszsíkban** helyezkedik el.

@@ -108,27 +108,24 @@ $$
 
 Mind a **homorú**, mind a **domború gömbtükör** esetében az ABO háromszög hasonló az A'B'O háromszöghöz. Ennek megfelelően a nagyítás is levezethető:
 
-
-N = \frac{k}{t} = \frac{T}{K}
-\]
+$$
+N = \frac{K}{T} = \frac{k}{t}
+$$
 
 ahol:
-
 - \( k \) a képtávolság,
-- \( t \) a tárgytávolság.
-
----
-
+- ( t ) a tárgytávolság.
 ## f) Gömbtükrök leképezési törvénye
 
-A **gömbtükrök leképezési törvénye** a tárgytávolság, a képtávolság és a fókusztávolság közötti kapcsolatot írja le. A leképezési törvény egyenlete:
+A **gömbtükrök leképezési törvénye** a tárgytávolság, a képtávolság és a fókusztávolság közötti kapcsolatot írja le. 
 
-\[
+### A leképezési törvény egyenlete:
+
+$$
 \frac{1}{f} = \frac{1}{t} + \frac{1}{k}
-\]
+$$
 
 ahol:
-
 - \( f \) a fókusztávolság,
 - \( t \) a tárgytávolság,
 - \( k \) a képtávolság.
@@ -137,14 +134,14 @@ ahol:
 
 A törvény levezethető a háromszögek hasonlóságának elvéből. Az **A'B'O** háromszög hasonló az **ABO** háromszöghöz, így:
 
-\[
-\frac{k}{t} = \frac{T}{K}
-\]
+$$
+\frac{K}{T} = \frac{k}{t}
+$$
 
 Ezen kívül az **LHF** háromszög hasonló az **A'B'F** háromszöghöz. Mivel a gömbtükör kis nyílásszögű, az OF és HF szakaszok egyenlőnek tekinthetők, így a háromszög oldalainak aránya:
 
-\[
+$$
 \frac{f}{k} = \frac{f - T}{T}
-\]
+$$
 
 Ez a kapcsolat a **leképezési törvény** alapja, amely meghatározza, hogy a gömbtükör fókusztávolságának reciproka megegyezik a tárgytávolság és a képtávolság reciprokának összegével.

@@ -202,25 +202,35 @@ Az **optikai lencsék** olyan átlátszó testek, amelyeket gömbfelület-darabo
 ### b) Gyűjtőlencse
 
 A **gyűjtőlencse** (konvex lencse) a fénysugarakat összegyűjti. 
+![[Pasted image 20241017215845.png]]
+
+- optikai tengellyel párhuzamosan érkező fénysugarakat a lencse másik oldalán a  fókuszpontban gyűjti össze 
+- minden lencsének __két fókuszpontja van__
 #### Nevezetes fénysugarai a következők:
 
-- Az optikai tengellyel párhuzamos fénysugarak kétszeres törés után a túloldali fókuszpontban haladnak át.
-- A fókuszponton át beeső fénysugár kétszeres törés után az optikai tengellyel párhuzamosan halad tovább.
-- Az optikai középpontba beeső fénysugár irányváltoztatás nélkül halad át a lencsén.
+1. Az optikai tengellyel párhuzamos fénysugarak kétszeres törés után a túloldali fókuszpontban haladnak át.
+2. A fókuszponton át beeső fénysugár kétszeres törés után az optikai tengellyel párhuzamosan halad tovább.
+3. Az optikai középpontba beeső fénysugár irányváltoztatás nélkül halad át a lencsén.
+
+![[Pasted image 20241017220019.png]]
 
 Az egymással párhuzamos, de az optikai tengellyel nem párhuzamos fénysugarak egy pontban metszik egymást, amely az optikai tengelyre merőlegesen, a fókuszsíkban található.
 
----
+![[Pasted image 20241017220032.png]]
 
 ### c) Szórólencse
 
-A **szórólencse** (konkáv lencse) szétoszlatja a fénysugarakat, mintha azok a lencse előtti fókuszpontból indultak volna ki. Nevezetes fénysugarai a következők:
+A **szórólencse** (konkáv lencse) szétoszlatja a fénysugarakat, 
+![[Pasted image 20241017220133.png]]
 
-- Az optikai tengellyel párhuzamosan haladó fénysugarak kétszeres törés után úgy haladnak tovább, mintha a lencse előtti fókuszpontból indultak volna ki.
-- Az optikai középpontba beeső fénysugár irányváltoztatás nélkül halad tovább.
-- A lencse utáni fókuszpont felé beeső fénysugár kétszeres törés után az optikai tengellyel párhuzamosan halad tovább.
+- Az optikai tengellyel párhuzamosan érkező fénysugarakat kétszeres törés után úgy szórja szét,
+- mintha azok a fókuszpontból indultak volna ki
+#### Nevezetes fénysugarai a következők:
 
----
+1. Az optikai tengellyel párhuzamosan haladó fénysugarak kétszeres törés után úgy haladnak tovább, mintha a lencse előtti fókuszpontból indultak volna ki.
+2. Az optikai középpontba beeső fénysugár irányváltoztatás nélkül halad tovább.
+3. A lencse utáni fókuszpont felé beeső fénysugár kétszeres törés után az optikai tengellyel párhuzamosan halad tovább.
+![[Pasted image 20241017220305.png]]
 
 ### d) A lencse fókusztávolsága
 
@@ -231,11 +241,11 @@ A **vékony lencsék fókusztávolsága** két tényezőtől függ:
 
 A fókusztávolság kiszámításának képlete:
 
-\[
+$$
 \frac{1}{f} = (n-1) \left( \frac{1}{r_1} + \frac{1}{r_2} \right)
-\]
+$$
 
-- \( r_1 \) és \( r_2 \) a lencse felületeinek görbületi sugarai,
+- $r_1$ és $r_2$ a lencse felületeinek görbületi sugarai,
 - \( n \) a lencse anyagának törésmutatója.
 
 - Ha a felület a közeg felől nézve domború, a sugár pozitív,

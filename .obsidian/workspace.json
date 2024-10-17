@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Geometriai optika"
             }
+          },
+          {
+            "id": "fb9e64c9f8721682",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,22 +186,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd97845150a01c59",
+  "active": "1a27ef9776193d7b",
   "lastOpenFiles": [
-    "Pasted image 20241017213207.png",
-    "Pasted image 20241017213124.png",
-    "Pasted image 20241017213016.png",
-    "Pasted image 20241017212958.png",
-    "Pasted image 20241017212924.png",
-    "Pasted image 20241017212912.png",
-    "Pasted image 20241017212837.png",
-    "Pasted image 20241017212702.png",
-    "Pasted image 20241017212512.png",
-    "Pasted image 20241017212434.png",
-    "Pasted image 20241017212408.png",
-    "4-tananyag/Fizika/Elektromágneses hullámok, optika/Geometriai optika.md",
-    "2-Menu/Fizika.md",
+    "4-tananyag/Fizika/Elektromágneses hullámok, optika/Leképezés tükrökkel, lencsékkel.md",
+    "images/Pasted image 20241017213531.png",
+    "images/Pasted image 20241017213417.png",
+    "images/Pasted image 20241017213207.png",
+    "images/Pasted image 20241017213124.png",
+    "images/Pasted image 20241017213016.png",
+    "images/Pasted image 20241017212958.png",
+    "images/Pasted image 20241017212924.png",
+    "images/Pasted image 20241017212912.png",
+    "images/Pasted image 20241017212837.png",
+    "images/Pasted image 20241017212702.png",
     "3-tags/Elektromágneses hullámok, optika.md",
+    "2-Menu/Fizika.md",
+    "4-tananyag/Fizika/Elektromágneses hullámok, optika/Geometriai optika.md",
     "3-tags/Váltóáram.md",
     "3-tags/Levelek.md",
     "4-tananyag/angol/angol közép 2017 máj levelek.md",
@@ -214,7 +225,6 @@
     "3-tags/magyar/Irodalom.md",
     "3-tags/magyar",
     "3-tags/Félvezetők.md",
-    "3-tags/A kétpólusú világ.md",
     "3-tags",
     "2-Menu",
     "1-Random notes",

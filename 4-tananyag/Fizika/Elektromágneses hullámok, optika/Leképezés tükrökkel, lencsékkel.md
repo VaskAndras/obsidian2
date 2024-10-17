@@ -290,9 +290,11 @@ $$
      - **nagyított**.
 
 7. **Ha a tárgy a fókuszpontban helyezkedik el**:
+![[Pasted image 20241017221420.png]]
    - Nem keletkezik kép.
 
-8. **Ha a tárgy a fókuszponton belül helyezkedik el**:
+9. **Ha a tárgy a fókuszponton belül helyezkedik el**:
+![[Pasted image 20241017221437.png]]
    - A keletkező kép **ernyőn nem fogható fel**.
    - A kép:
      - **virtuális**,
@@ -302,8 +304,8 @@ $$
 ---
 
 ### f) Szórólencse képalkotása
-
-A szórólencse (konkáv lencse) bármely tárgyhelyzetben az alábbi képet alkotja:
+![[Pasted image 20241017221449.png]]
+-  bármely tárgyhelyzetben:
 - **virtuális**,
 - **egyenes állású** és
 - **kicsinyített**.
@@ -313,18 +315,18 @@ A szórólencse (konkáv lencse) bármely tárgyhelyzetben az alábbi képet alk
 ### g) Lencsék nagyítása
 
 A **nagyítás** a képnagyság és a tárgynagyság hányadosa, jele: \( N \).
-
+![[Pasted image 20241017221745.png]]
+$$
+N = \frac{K}{T} 
+$$
 Mind gyűjtő-, mind szórólencse esetén az ABO háromszög hasonló az A'B'O háromszöghöz, így a nagyítás képlete:
 
-\[
+$$
 N = \frac{K}{T} = \frac{k}{t}
-\]
-
+$$
 ahol:
 - \( k \) a képtávolság,
 - \( t \) a tárgytávolság.
-
----
 
 ### h) Lencsék leképezési törvénye
 

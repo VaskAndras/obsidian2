@@ -369,3 +369,6 @@ $$
 >[!note]
 >Lencsék fókusztávolságának reciproka megegyezik a tárgytávolság és a képtávolság reciprokának összegével.
 
+#### Leképezési törvény alkalmazásának feltétele lencsék esetén: 
+-  __Valódi kép__ esetén a képtávolság és a képnagyság __előjele pozitív__. 
+- __Látszólagos kép__ esetén a képtávolság és a képnagyság __előjele negatív__.

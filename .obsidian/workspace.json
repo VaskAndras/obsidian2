@@ -11,10 +11,14 @@
             "id": "b0489a9ef11b6dde",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Geometriai optika.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Geometriai optika"
             }
           }
         ]
@@ -172,6 +176,7 @@
   },
   "active": "b0489a9ef11b6dde",
   "lastOpenFiles": [
+    "4-tananyag/Fizika/Elektromágneses hullámok, optika/Elektromágneses hullámok.md",
     "Geometriai optika.md",
     "images/Pasted image 20241017184204.png",
     "images/Pasted image 20241017184127.png",
@@ -186,7 +191,6 @@
     "4-tananyag/Fizika/váltóáram/Transzformátor.md",
     "4-tananyag/Fizika/váltóáram/Ellenállások váltóáramban.md",
     "4-tananyag/Fizika/Elektromágneses hullámok, optika/Rezgőkör és elektromágneses rezgés.md",
-    "4-tananyag/Fizika/Elektromágneses hullámok, optika/Elektromágneses hullámok.md",
     "4-tananyag/Fizika/Elektromágneses hullámok, optika/Az elektromágneses hullámok.md",
     "conflict-files-obsidian-git.md",
     "3-tags/II. világháború.md",

@@ -121,8 +121,10 @@ $$
 - Két közeg közül az __optikailag sűrűbb abszolút törésmutatója nagyobb__
 ## Törésmutató és teljes visszaverődés
 #### Teljes visszaverődés
-- A jelenség akkor következik be, ha a fény az __optikailag sűrűbb közegből a ritkább közeg felé___ halad.
-- Ilyenkor a törési szög nagyobb lesz, mint a beesési szög.
+- A fény az __optikailag sűrűbb közegből a ritkább közeg felé___ halad.
+- A __törési szög nagyobb lesz, mint a beesési szög.
 - Ha a beesési szöget növeljük, elérhető egy olyan érték, ahol a törési szög **90°-os** lesz. Ezt az értéket a **teljes visszaverődés határszögének** ($\alpha_h$) nevezzük.
 - ![[Pasted image 20241017203915.png]]
-- 
+ $$ 
+\frac{\sin\alpha_{h}}{\sin90^{\circ}}
+$$

@@ -83,10 +83,48 @@
 - **Beesési merőleges (n)**: a beesési pontban a felületre állított merőleges.
 - **Beesési szög (α)**: a beeső fénysugárnak a beesési merőlegessel bezárt szöge.
 - **Visszaverődési szög (α')**: a visszavert fénysugárnak a beesési merőlegessel bezárt szöge.
+- ![[Pasted image 20241017202859.png]]
 #### Fényvisszaverődés törvényei
 1. A beeső fénysugár, a beesési merőleges és a visszavert fénysugár egy síkban van.
 2. A visszaverődési szög egyenlő a beesési szöggel.
 - E törvényt **Euklidesz** már i.e. 300 körül megállapította.
 ##### Felület hatása
-- Ha párhuzamos fénynyaláb **tökéletesen sima** felülethez érkezik, akkor a visszavert fénynyaláb is párhuzamos lesz.
+- Ha párhuzamos fénynyaláb **tökéletesen sima** felülethez érkezik, akkor a visszavert fénynyaláb is párhuzamos lesz
+![[Pasted image 20241017202937.png]]
 - Ha a visszaverő felület **érdes**, akkor a visszavert fénysugarak szétszóródnak, mivel a beesési merőlegesek nem lesznek párhuzamosak. Ezt a jelenséget nevezzük **diffúz fényvisszaverődésnek**.
+![[Pasted image 20241017202950.png]]
+
+## A fény törése
+
+#### Törési jelenség
+- A fény törése akkor következik be, ha a fény olyan új közeghez érkezik, amelyben a fény terjedési sebessége eltér. Ilyenkor a fény terjedési iránya is legtöbbször megváltozik.
+![[Pasted image 20241017203233.png]]
+#### Fogalmak
+- A visszaverődésnél ismertetett elnevezések alkalmazhatók itt is, viszont:
+  - **Megtört fénysugár**: a visszavert fénysugár helyett.
+  - **Törési szög**: a visszaverődési szög helyett.
+
+#### Fénykísérlet
+- A fénytörés jól megfigyelhető az optikai korong (Hartl-korong) segítségével.
+- A megfigyeléshez fontos, hogy a forgatható optikai korong és az üveg félkorong középpontja egybeessen. Ilyenkor az üvegből kilépő fénysugár irányváltoztatás nélkül halad tovább.
+![[Pasted image 20241017203340.png]]
+## Fénytörés törvényei
+1. A beeső fénysugár, a beesési merőleges és a megtört fénysugár egy síkban vannak.
+2. A beesési és a törési szög szinuszainak hányadosa megegyezik a két közegben mérhető fénysebességek hányadosával. Ez a hányados a második közeg törésmutatójával egyenlő az első közeghez viszonyítva:
+
+$$
+\frac{\sin \alpha}{\sin \beta} = \frac{c_1}{c_2} = \frac{n_2}{n_1}
+$$
+
+- Ezt a törvényt **Snellius-Descartes törvénynek** nevezzük.
+## Törésmutató és teljes visszaverődés
+
+#### Törésmutatók
+- A felületre **merőlegesen érkező fénysugár** irányváltoztatás nélkül halad tovább.
+- Egy anyag légüres térre vonatkoztatott törésmutatóját **abszolút törésmutatónak** nevezzük.
+- Az optikailag **sűrűbb közeg** az, amelynek abszolút törésmutatója nagyobb.
+
+#### Teljes visszaverődés
+- A jelenség akkor következik be, ha a fény az optikailag sűrűbb közegből a ritkább közeg felé halad.
+- Ilyenkor a törési szög nagyobb lesz, mint a beesési szög.
+- Ha a beesési szöget növeljük, elérhető egy olyan érték, ahol a törési szög **90°-os** lesz. Ezt az értéket a **teljes visszaverődés határszögének** (\(\alpha_h\)) nevezzük.

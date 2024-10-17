@@ -57,3 +57,34 @@
 - Később más módszereket is kidolgoztak a fénysebesség mérésére (Fizeau, Foucault, Michelson).
 - **Fény terjedési sebessége légüres térben**: 
   $$ c \approx 3 \times 10^8 \, \text{m/s} $$
+  
+## A fény viselkedése két közeg határán
+
+#### Fényinterakciók
+- Új közeg határához érkezve a fény háromféle módon reagál: 
+  - részben **elnyelődik**,
+  - részben **visszaverődik**,
+  - részben **megtörik**.
+  
+- A jelenség megfigyelhető, ha egy fluoreszceinoldattal töltött üvegkád fölé füstöt fújunk, majd a két közeg határfelületét párhuzamos fénynyalábbal világítjuk meg. Ilyenkor a fény terjedési iránya megváltozik.
+## A fény elnyelődése
+#### Elnyelési jelenség
+- A fény új közeg határfelületéhez érkezve energiájának egy részét átadja az új közegnek. 
+- Ezt a jelenséget **elnyelődésnek** nevezzük.
+## A fény visszaverődése
+#### Visszaverődés jelensége
+- Az ábra a sík felületre érkező fénysugár visszaverődését mutatja. A következő elnevezéseket használjuk:
+##### Fogalmak
+- **Beeső fénysugár (s)**: a felülethez tartó fénysugár.
+- **Visszavert fénysugár (s')**: a felülettől távolodó fénysugár.
+- **Beesési pont (O)**: ahol a beeső fénysugár a felületet éri.
+- **Beesési merőleges (n)**: a beesési pontban a felületre állított merőleges.
+- **Beesési szög (α)**: a beeső fénysugárnak a beesési merőlegessel bezárt szöge.
+- **Visszaverődési szög (α')**: a visszavert fénysugárnak a beesési merőlegessel bezárt szöge.
+#### Fényvisszaverődés törvényei
+1. A beeső fénysugár, a beesési merőleges és a visszavert fénysugár egy síkban van.
+2. A visszaverődési szög egyenlő a beesési szöggel.
+- E törvényt **Euklidesz** már i.e. 300 körül megállapította.
+##### Felület hatása
+- Ha párhuzamos fénynyaláb **tökéletesen sima** felülethez érkezik, akkor a visszavert fénynyaláb is párhuzamos lesz.
+- Ha a visszaverő felület **érdes**, akkor a visszavert fénysugarak szétszóródnak, mivel a beesési merőlegesek nem lesznek párhuzamosak. Ezt a jelenséget nevezzük **diffúz fényvisszaverődésnek**.

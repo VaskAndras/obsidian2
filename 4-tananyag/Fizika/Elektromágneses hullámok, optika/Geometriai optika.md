@@ -127,4 +127,46 @@ $$
 - ![[Pasted image 20241017203915.png]]
  $$ 
 \frac{\sin\alpha_{h}}{\sin90^{\circ}}
+=n_{r,s}$$
 $$
+\frac{1}{\sin\alpha_{h}}=n_{s,r}
+$$
+## Plánparalel lemez fénytörése
+
+- A **plánparalel lemez** egy olyan átlátszó test, amelyet két párhuzamos sík határol.
+- A ferdén beeső fénysugarat a plánparalel lemez önmagával párhuzamosan eltolja, de a fénysugár iránya nem változik.
+- **Felületre merőleges beesés** esetén a fénysugár nem tolódik el.
+- Példa: ha vastag kirakatüvegen át nézünk tárgyakat, azok a valóságosnál közelebb látszanak, mivel a fénysugár eltolódik, és a szemünkbe jutó sugarak metszéspontja a tárgyhoz közelebb van (A pont helyett az A' pontban).
+
+---
+
+## A prizma fénytörése
+
+- A prizma egy átlátszó test, amelyet egymással szöget bezáró síklapok határolnak. A síklapok által bezárt szög a **törőszög** (\(\varphi\)).
+- A prizma megváltoztatja a fénysugár irányát, amikor az áthalad rajta, amit az ábrán megjelenített fénytörés mutat.
+
+---
+
+## Fénytörés a természetben
+
+### Mélységek és optikai illúziók
+- A vizek mélysége a valóságosnál kisebbnek tűnik, mert a fenékről (A pontból) induló fénysugarak törést szenvednek, és a visszafelé történő meghosszabbításaik a felszínhez közelebbi pontban (A') találkoznak. Így úgy látjuk, mintha a fenék közelebb lenne.
+- Példa: a vízbe merülő tárgyak, mint például egy teáskanál, megtörni látszanak a felszínnél.
+
+### Légköri fénytörés
+- A légkör nem homogén, felfelé haladva ritkul, emiatt a törésmutatója csökken.
+- Az égitestek fényének útja a légkörben görbül a folytonos fénytörés következtében. Ezért az égitesteket a valóságosnál magasabban látjuk.
+
+---
+
+## Optikai jelenségek a légkörben
+
+### Reszkető tárgyak látványa
+- Nyáron, tűzhely fölött vagy kályha mellett a felszálló meleg légáramlatok sűrűsége változik, így a törésmutató is ingadozik. Emiatt a tárgyak, amelyeket ezeken a légáramlatokon át nézünk, "reszketni" látszanak.
+
+### Délibáb
+- Erős napsütésben a talaj feletti levegőréteg ritkább lehet, mint a felette lévő réteg. Ez teljes visszaverődést okoz, aminek következtében a tárgyak fordított képét láthatjuk.
+- Példa: nyári autózás közben az út távolabbi részein tükörszerű csillogást láthatunk, mert az égboltról ferdén érkező fénysugarak teljes visszaverődést szenvednek.
+
+### Fata morgana
+- Távoli kilátáskor, például tengeren, a nagy beesési szöggel induló fénysugarak a felső, ritkább légköri rétegekről visszaverődhetnek, a szemünkbe jutva. Ilyenkor a távoli tárgyak fordított képét látjuk.

@@ -217,17 +217,61 @@ $$
 
 #### Fókuszpont és fókusztávolság
 - Az optikai tengellyel párhuzamosan beeső fénysugarak egy pontban, a **fókuszpontban** (F) találkoznak.
+- ![[Pasted image 20241017212401.png]]
 - A **fókusztávolság** (f) a fókuszpont és az optikai középpont közötti távolság.
+- ![[Pasted image 20241017212408.png]]
 - A fókusztávolság a görbületi sugár fele:  
   $$
   f = \frac{r}{2}
   $$
 ### c) Leképezés homorú gömbtükörrel
 - **Homorú gömbtükörről** beszélünk, ha a gömbtükör belső felülete tükröz.
-- A homorú gömbtükör nevezetes sugarai:
+#### A homorú gömbtükör nevezetes sugarai:
   1. Az **optikai tengellyel párhuzamos** fénysugár a visszaverődés után a **gyújtóponton** (fókuszponton) halad át.
   2. A **gyújtóponton át** beeső fénysugár az **optikai tengellyel párhuzamosan** verődik vissza.
   3. Az **optikai tengely mentén** beeső fénysugár saját magában verődik vissza.
   4. Az **optikai középpontba** beeső fénysugár az optikai tengelyre szimmetrikusan verődik vissza.
-
+![[Pasted image 20241017212434.png]]
 - A homorú tükör az optikai tengellyel nem párhuzamos fénysugarakat is egy pontba gyűjti, amely az **optikai tengelyre** merőleges **fókuszsíkban** helyezkedik el.
+![[Pasted image 20241017212512.png]]
+
+## Homorú gömbtükör képalkotása
+A homorú gömbtükör által alkotott kép könnyen megszerkeszthető a nevezetes sugarak segítségével, függetlenül a tárgy helyzetétől.
+
+### Képalkotás különböző tárgyhelyzetekben:
+
+1. **Ha a tárgy a geometriai középponton kívül van**:  
+   A kép a fókuszpont és a geometriai középpont között keletkezik.    
+	![[Pasted image 20241017212837.png]]
+   A kép:
+   - **valódi**,
+   - **fordított állású**,
+   - és **kicsinyített**.
+
+2. **Ha a tárgy a geometriai középpontban van**:  
+   A kép szintén a geometriai középpontban keletkezik.  
+   A kép:
+   - **valódi**,
+   - **fordított állású**,
+   - és a **nagyítása 1** (a kép mérete megegyezik a tárgy méretével).
+
+3. **Ha a tárgy a fókuszpont és a geometriai középpont között van**:  
+   A kép a geometriai középponton kívül keletkezik.  
+   A kép:
+   - **valódi**,
+   - **fordított állású**,
+   - és **nagyított**.
+
+4. **Ha a tárgy a fókuszpontban van**:  
+   A homorú gömbtükör **nem alkot képet** a tárgyról.
+
+## d) Leképezés domború gömbtükörrel
+A **domború gömbtükör** olyan tükör, amelynek külső felülete tükröz. A domború tükör sugarai is nevezetesek:
+
+1. Az **optikai tengellyel párhuzamosan beeső** fénysugár visszaverődés után úgy halad tovább, mintha a tükör mögötti fókuszpontból indult volna ki.
+2. A **tükör mögötti gyújtópont felé** beeső fénysugár az **optikai tengellyel párhuzamosan** verődik vissza.
+3. A **geometriai középpont felé** beeső fénysugár saját magában verődik vissza.
+4. Az **optikai középpontba** beeső fénysugár az optikai tengelyre szimmetrikusan verődik vissza.
+
+### Szórt sugarak
+A domború gömbtükör az **optikai tengellyel nem párhuzamos sugarakat** úgy szórja szét, hogy a visszavert fénysugarak meghosszabbítása a tükör mögötti egy pontban metszik egymást. Ez a pont a **fókuszsíkban** helyezkedik el.

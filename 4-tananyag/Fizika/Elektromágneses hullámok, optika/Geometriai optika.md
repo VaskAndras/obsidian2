@@ -118,15 +118,11 @@ $$
 - Ezt a törvényt **Snellius-Descartes törvénynek** nevezzük.
 #### Abszolút törésmutató
 - __Valamely anyagnak légüres térre__ vonatkoztatott törésmutatóját abszolút törésmutatónak nevezzük.
-- Két közeg közül az __optikailag sűrűbb abszolút törésmutatója nagyobb
+- Két közeg közül az __optikailag sűrűbb abszolút törésmutatója nagyobb__
 ## Törésmutató és teljes visszaverődés
-
-#### Törésmutatók
-- A felületre **merőlegesen érkező fénysugár** irányváltoztatás nélkül halad tovább.
-- Egy anyag légüres térre vonatkoztatott törésmutatóját **abszolút törésmutatónak** nevezzük.
-- Az optikailag **sűrűbb közeg** az, amelynek abszolút törésmutatója nagyobb.
-
 #### Teljes visszaverődés
 - A jelenség akkor következik be, ha a fény az optikailag sűrűbb közegből a ritkább közeg felé halad.
 - Ilyenkor a törési szög nagyobb lesz, mint a beesési szög.
-- Ha a beesési szöget növeljük, elérhető egy olyan érték, ahol a törési szög **90°-os** lesz. Ezt az értéket a **teljes visszaverődés határszögének** (\(\alpha_h\)) nevezzük.
+- Ha a beesési szöget növeljük, elérhető egy olyan érték, ahol a törési szög **90°-os** lesz. Ezt az értéket a **teljes visszaverődés határszögének** ($\alpha_h$) nevezzük.
+- ![[Pasted image 20241017203915.png]]
+- 

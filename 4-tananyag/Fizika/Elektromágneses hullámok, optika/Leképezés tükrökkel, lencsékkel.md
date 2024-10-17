@@ -156,4 +156,21 @@ $$
 $$
 \frac{1}{t}=\frac{1}{f}-\frac{1}{k}
 $$
-Ez a kapcsolat a **leképezési törvény** alapja, amely meghatározza, hogy a gömbtükör fókusztávolságának reciproka megegyezik a tárgytávolság és a képtávolság reciprokának összegével.
+
+### Ebből a leképezési törvény:
+$$
+\frac{1}{f} = \frac{1}{t} + \frac{1}{k}
+$$
+>[!note]
+>Gömbtükrök fókusztávolságának reciproka megegyezik a tárgytávolság és a képtávolság reciprokának összegével.
+
+### Leképezési törvény alkalmazásának feltétele gömbtükrök esetén:
+-  __Homorú gömbtükör esetén__ 
+	- a görbületi sugár és a fókusztávolság __előjele pozitív.__
+- #### Domború gömbtükör esetén 
+	- a görbületi sugár és a fókusztávolság __előjele negatív.__ 
+- #### Valódi kép esetén 
+	- a képtávolság és a képnagyság __előjele pozitív__. 
+- #### Látszólagos kép esetén 
+	- a képtávolság és a képnagyság __előjele negatív
+

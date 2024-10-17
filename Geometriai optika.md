@@ -67,6 +67,7 @@
   - részben **megtörik**.
   
 - A jelenség megfigyelhető, ha egy fluoreszceinoldattal töltött üvegkád fölé füstöt fújunk, majd a két közeg határfelületét párhuzamos fénynyalábbal világítjuk meg. Ilyenkor a fény terjedési iránya megváltozik.
+- ![[Pasted image 20241017201352.png]]
 ## A fény elnyelődése
 #### Elnyelési jelenség
 - A fény új közeg határfelületéhez érkezve energiájának egy részét átadja az új közegnek. 
@@ -74,6 +75,7 @@
 ## A fény visszaverődése
 #### Visszaverődés jelensége
 - Az ábra a sík felületre érkező fénysugár visszaverődését mutatja. A következő elnevezéseket használjuk:
+![[Pasted image 20241017201414.png]]
 ##### Fogalmak
 - **Beeső fénysugár (s)**: a felülethez tartó fénysugár.
 - **Visszavert fénysugár (s')**: a felülettől távolodó fénysugár.

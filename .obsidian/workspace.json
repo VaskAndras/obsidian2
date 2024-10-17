@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +177,11 @@
   },
   "active": "b0489a9ef11b6dde",
   "lastOpenFiles": [
-    "4-tananyag/Fizika/Elektromágneses hullámok, optika/Elektromágneses hullámok.md",
+    "2024-10-17.md",
     "Geometriai optika.md",
+    "Pasted image 20241017201414.png",
+    "Pasted image 20241017201352.png",
+    "4-tananyag/Fizika/Elektromágneses hullámok, optika/Elektromágneses hullámok.md",
     "images/Pasted image 20241017184204.png",
     "images/Pasted image 20241017184127.png",
     "images/Pasted image 20241017184116.png",
@@ -186,8 +190,6 @@
     "images/Pasted image 20241017182415.png",
     "images/Pasted image 20241017182355.png",
     "images/Pasted image 20241017182342.png",
-    "images/Pasted image 20241016194514.png",
-    "images/Pasted image 20241016192727.png",
     "4-tananyag/Fizika/váltóáram/Transzformátor.md",
     "4-tananyag/Fizika/váltóáram/Ellenállások váltóáramban.md",
     "4-tananyag/Fizika/Elektromágneses hullámok, optika/Rezgőkör és elektromágneses rezgés.md",

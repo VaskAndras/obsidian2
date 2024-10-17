@@ -174,3 +174,78 @@ $$
 - #### Látszólagos kép esetén 
 	- a képtávolság és a képnagyság __előjele negatív
 
+## Leképezés optikai lencsékkel
+
+### a) Optikai lencsék jellemzői
+
+Az **optikai lencsék** olyan átlátszó testek, amelyeket gömbfelület-darabokkal, vagy egyik oldalán síkkal határolnak. A lencsék különböző formákban léteznek:
+
+#### Domború
+- **Kétszer domború lencse** (bikonvex lencse)
+- **Sík-domború lencse** (plán-konvex lencse)
+- **Homorú-domború lencse** (konkáv-konvex lencse)
+![[Pasted image 20241017215528.png]]
+
+#### Homorú
+- **Kétszer homorú lencse** (bikonkáv lencse)
+- **Sík-homorú lencse** (plán-konkáv lencse)
+- **Domború-homorú lencse** (konvex-konkáv lencse)
+![[Pasted image 20241017215600.png]]
+
+
+- A lencsék szimmetriatengelyét **optikai tengelynek**, az optikai tengely és a lencse metszéspontját **optikai középpontnak** nevezzük.
+- ![[Pasted image 20241017215652.png]]
+
+- Az egyszerűség kedvéért csak a **vékony lencsékkel** foglalkozunk, amelyek vastagsága elhanyagolható az átmérőjükhöz képest.
+
+
+### b) Gyűjtőlencse
+
+A **gyűjtőlencse** (konvex lencse) a fénysugarakat összegyűjti. 
+#### Nevezetes fénysugarai a következők:
+
+- Az optikai tengellyel párhuzamos fénysugarak kétszeres törés után a túloldali fókuszpontban haladnak át.
+- A fókuszponton át beeső fénysugár kétszeres törés után az optikai tengellyel párhuzamosan halad tovább.
+- Az optikai középpontba beeső fénysugár irányváltoztatás nélkül halad át a lencsén.
+
+Az egymással párhuzamos, de az optikai tengellyel nem párhuzamos fénysugarak egy pontban metszik egymást, amely az optikai tengelyre merőlegesen, a fókuszsíkban található.
+
+---
+
+### c) Szórólencse
+
+A **szórólencse** (konkáv lencse) szétoszlatja a fénysugarakat, mintha azok a lencse előtti fókuszpontból indultak volna ki. Nevezetes fénysugarai a következők:
+
+- Az optikai tengellyel párhuzamosan haladó fénysugarak kétszeres törés után úgy haladnak tovább, mintha a lencse előtti fókuszpontból indultak volna ki.
+- Az optikai középpontba beeső fénysugár irányváltoztatás nélkül halad tovább.
+- A lencse utáni fókuszpont felé beeső fénysugár kétszeres törés után az optikai tengellyel párhuzamosan halad tovább.
+
+---
+
+### d) A lencse fókusztávolsága
+
+A **vékony lencsék fókusztávolsága** két tényezőtől függ:
+
+1. A határoló felületek görbületi sugara.
+2. A lencse anyagának törésmutatója a környező közeghez képest.
+
+A fókusztávolság kiszámításának képlete:
+
+\[
+\frac{1}{f} = (n-1) \left( \frac{1}{r_1} + \frac{1}{r_2} \right)
+\]
+
+- \( r_1 \) és \( r_2 \) a lencse felületeinek görbületi sugarai,
+- \( n \) a lencse anyagának törésmutatója.
+
+- Ha a felület a közeg felől nézve domború, a sugár pozitív,
+- Ha a felület a közeg felől nézve homorú, a sugár negatív.
+
+A fókusztávolság reciproka **dioptria** (D), amely a lencse törőerejét méri:
+
+\[
+D = \frac{1}{f} \quad \text{(méterben kifejezve)}
+\]
+
+- **Gyűjtőlencse** fókusztávolsága és dioptriája pozitív.
+- **Szórólencse** fókusztávolsága és dioptriája negatív.

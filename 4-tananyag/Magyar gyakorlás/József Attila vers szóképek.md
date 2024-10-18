@@ -1,25 +1,44 @@
-## Jelen, Mult, Jövő
+## Az örök elmulás
 
-Az elmultba szemem tétován tekint  
-Egy percre csak! Üldözi a jelen,  
-Nem pihenhet régi emlékeken,  
-Unos untalan visszatér megint.
+A földön semmi nem örök …  
+A fákon árnyak nőnek este,  
+A félhomály is nyöszörög.
 
-A jelen, oh! a jelen mindig bántott,  
-Amerre én, mindig arra haladt,  
-Tövisekkel hinté bé az utamat  
-S elvett tőlem reményt, boldogságot.
+Eloszlik a Gond barna teste,  
+(A zsíros földbe rothadunk)  
+S ki egykor óhajunkat leste
 
-Nem veheté el, bár kínzott nagyon  
-– Történik minden, ahogy írva vagyon –  
-Nem veheté el, nem, a jövőt tőlem.
+– Ó, puszta szív, borus agyunk! –  
+Már könnyező szem, búcsut intett.  
+Mi mindent, mindent elhagyunk
 
-Tövises úton segít a jövendő;  
-Jövőben dicsőül meg a szenvedő;  
-Jövő mutatja az utat előttem!
+És minden, minden elhagy minket,  
+A szó, kisértés, dölyf s a vér  
+És visszasírjuk könnyeinket,
 
-- 1921. ápr. 15.
+Mely már az Óceánba ér.  
+És csak hiába, nem jő vissza,  
+De jön helyette téli Dér,
 
-| szókép   | igézet                | értelmezés |
-| -------- | --------------------- | ---------- |
-| metafora | "szem tétován tekint" |            |
+Ki sóhajunkat is fölissza.  
+Már aztán csendesek vagyunk –  
+A téli álom dermedt, tiszta,
+
+De senkit nem csókolhatunk.  
+Virágot hullat el a bodza  
+S majd egy csomóba rothadunk.
+
+S rég hallgat a hős méla kobza.  
+A vágyam még ma dübörög  
+És holnap vesztemet okozza.
+
+A földön semmi nem örök:  
+A hernyó hull és a madár is  
+S az évszázad föl nem hörög.
+
+1921. nov. 26.
+
+| szókép           | igézet                     | értelmezés                                                                   |
+| ---------------- | -------------------------- | ---------------------------------------------------------------------------- |
+| megszemélyesítés | "a félhomály is nyöszörög" | a félhományt emberi tulajdonságokkal ruházza fel, egyfajta mélabússágra utal |
+|                  |                            |                                                                              |

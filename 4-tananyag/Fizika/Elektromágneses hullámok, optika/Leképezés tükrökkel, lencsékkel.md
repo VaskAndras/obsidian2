@@ -165,7 +165,7 @@ $$
 >Gömbtükrök fókusztávolságának reciproka megegyezik a tárgytávolság és a képtávolság reciprokának összegével.
 
 ### Leképezési törvény alkalmazásának feltétele gömbtükrök esetén:
--  __Homorú gömbtükör esetén__ 
+- #### Homorú gömbtükör esetén 
 	- a görbületi sugár és a fókusztávolság __előjele pozitív.__
 - #### Domború gömbtükör esetén 
 	- a görbületi sugár és a fókusztávolság __előjele negatív.__ 

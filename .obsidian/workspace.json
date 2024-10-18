@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e0028c0d2e98d83",
+        "id": "8bb338e64ceb7b27",
         "type": "tabs",
         "children": [
           {
-            "id": "a70f0a8fa7e044e3",
+            "id": "bb7f30dc470cb4f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,14 +154,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "90c6777d551ee8af",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +184,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a27ef9776193d7b",
+  "active": "bb7f30dc470cb4f1",
   "lastOpenFiles": [
-    "3-tags/magyar/Magyar Gyakorlás.md",
     "4-tananyag/Magyar gyakorlás/József Attila vers szóképek.md",
+    "3-tags/magyar/Magyar Gyakorlás.md",
     "2-Menu/Magyar.md",
     "4-tananyag/Fizika/Elektromágneses hullámok, optika/Leképezés tükrökkel, lencsékkel.md",
     "3-tags/Elektromágneses hullámok, optika.md",

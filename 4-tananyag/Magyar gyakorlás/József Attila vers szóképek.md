@@ -38,7 +38,8 @@ S az évszázad föl nem hörög.
 
 1921. nov. 26.
 
-| szókép           | igézet                     | értelmezés                                                                   |
-| ---------------- | -------------------------- | ---------------------------------------------------------------------------- |
-| megszemélyesítés | "a félhomály is nyöszörög" | a félhományt emberi tulajdonságokkal ruházza fel, egyfajta mélabússágra utal |
-|                  |                            |                                                                              |
+| szókép           | igézet                           | értelmezés                                                                                                                                          |
+| ---------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| megszemélyesítés | "a félhomály is nyöszörög"       | a félhományt emberi tulajdonságokkal ruházza fel, egyfajta mélabússágra utal                                                                        |
+| megszemélysítés  | "Eloszlik a Gond barna teste,  " | a gond nagy betűvel írva mintha egy személy lenne, ezt erősíti m, hogy testbe zárta. Ez személyességként jelenik meg, és kihangsúlyozza az eseményt |
+|                  |                                  |                                                                                                                                                     |

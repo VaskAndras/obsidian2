@@ -172,7 +172,7 @@ $$
 - #### Valódi kép esetén 
 	- a képtávolság és a képnagyság __előjele pozitív__. 
 - #### Látszólagos kép esetén 
-	- a képtávolság és a képnagyság __előjele negatív
+	- a képtávolság és a képnagyság __előjele negatív__
 
 ## Leképezés optikai lencsékkel
 

@@ -88,3 +88,23 @@ A konfliktus rendezésére 1962. október 28-án került sor, amikor Nikita Hrus
 A kubai válság alapvetően a hidegháborús szembenállás, a szovjet-amerikai viszony és a nukleáris fegyverkezés hátterében alakult ki. A forradalom és a nagyhatalmi vetélkedés tette lehetővé, hogy a világ a háború szélére sodródjon. A válság rendezése azonban azt mutatta, hogy a diplomácia képes volt megakadályozni a fegyveres konfliktust, még a legfeszültebb időszakokban is.
 
 <2011 okt >
+
+## Az Amerikai Egyesült Államok és a Szovjetunió Törekvései az 1940-es Évek Második Felében
+
+### Bevezetés
+
+A második világháború után Európa politikai berendezkedése radikálisan megváltozott, ahogy az Egyesült Államok és a Szovjetunió megerősítette befolyását a kontinens felett. Winston Churchill 1946-os fultoni beszéde jól tükrözte ezt a helyzetet, amikor a „vasfüggöny” kifejezést használta, hogy leírja a kelet-nyugati megosztottságot.
+
+### Az Amerikai Egyesült Államok Törekvései
+
+Az Egyesült Államok célja a demokrácia és a piacgazdaság helyreállítása volt Európában. A Truman-elv keretében az USA megpróbálta megállítani a kommunizmus terjedését, támogatva a demokratikus kormányzatokat és gazdasági segítséget nyújtva, például a Marshall-terv révén. Ezen kívül létrehozta a NATO-t (1949), hogy katonai védelmet nyújtson a nyugati demokráciák számára, ezzel is megerősítve befolyását Nyugat-Európában.
+
+### A Szovjetunió Törekvései
+
+A Szovjetunió célja a kommunista diktatúrák létrehozása volt Közép- és Kelet-Európában. A szovjet vezetés ezt egyfajta védelmi övezet kialakításának tekintette, amely lehetővé tette, hogy a szovjet befolyás alatt álló országok függő helyzetben maradjanak. A „népi demokráciák” kiépítése demokratikus látszatot adott a szovjet hatalomátvételnek, miközben a tervgazdaság bevezetésével igyekezett stabilizálni a régiót.
+
+### Összegzés
+
+Az 1940-es évek második felében Európa politikai berendezkedése a két szuperhatalom, az Egyesült Államok és a Szovjetunió ellentétes törekvéseinek eredményeként alakult ki. Míg az USA a demokrácia és a piacgazdaság védelmére törekedett, a Szovjetunió a kommunista befolyás kiterjesztésére összpontosított. A kettéosztott Európa és a kialakuló hidegháború így a globális politikai tájat alapvetően megváltoztatta.
+
+<2018 okt> 

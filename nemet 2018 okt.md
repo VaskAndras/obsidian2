@@ -9,4 +9,5 @@ Andras Vasko
 
 Hallo Claudia,
 Ich finde es auch sehr toll, dass die Sommerferien beginnen. Die letzten paar Monaten war sehr traurig, und stark. Es wäre besser, einpaar Tage ruhe haben. Leider, (oder nicht) habe ich sehr viele Programme für das Ferien. Natürlich, ich kann einpaar raten. 
-Ich möchte in diesem Ferien sehr Aktiv sein. Festivale besuchen, wandern, eine Radtur machen dieres sind auch in meiner Plänen. 
+Ich möchte in diesem Ferien sehr Aktiv sein. Festivale besuchen, wandern, eine Radtur machen dieres sind auch in meiner Plänen. Ich rate is auch für dich, alles ausprobieren. Macht alles du möchtest! 
+Weil du 18 jahre alt bist, gibt es für dich eine möglichkeit im Europa ein Monat kostenlos mit dem Zug zu fahren.  Ich finde es sehr interresant um Europa herumfahren. Aber du muss

@@ -6,3 +6,6 @@ Wenn ist es Möglich für sie teilzunommen, ich möchte Ihre personale Wünchen 
 Ich warte an Ihrer schneller Antwort.
 Liebe Grüsse, 
 Andras Vasko
+
+Hallo Claudia,
+Ich finde es auch sehr toll, dass die Sommerferien beginnen. Die letzten paar Monaten Ich habe sehr viele Programme dafür. Natürlich, ich kann einpaar raten. 

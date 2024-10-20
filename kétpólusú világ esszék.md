@@ -65,3 +65,26 @@ Az ENSZ Közgyűlése és Biztonsági Tanácsa kulcsszerepet játszik a nemzetk�
 
 <2013 máj>
 
+## A Kubai Válság Alapvető Vonásai és Összefüggései
+
+### Bevezetés
+
+A kubai válság 1962 őszén zajlott, és a hidegháború egyik legfeszültebb időszaka volt, amely az Egyesült Államok és a Szovjetunió között a világméretű konfliktus veszélyét jelentette. A válság hátterében a kubai forradalom állt, amely lehetőséget teremtett a Szovjetunió számára befolyásának kiterjesztésére a Karibi térségben.
+
+### A Válság Okai
+
+A kubai forradalom 1959-ben Fidel Castro vezetésével zajlott, amely megdöntötte a Batista-rezsimet. Ezt követően Kuba a Szovjetunió szövetségesévé vált, ami növelte a feszültséget az Egyesült Államok és a szocialista blokk között. Az Egyesült Államok számára a kommunista Kuba közelsége fenyegetést jelentett, így Washington igyekezett megakadályozni a kommunizmus terjedését a térségben. A Szovjetunió, válaszul az amerikai rakéták telepítésére Törökországban, rakétákat helyezett el Kubában, így kialakítva egy stratégiai pozíciót.
+
+### A Válság Kialakulása
+
+A válság 1962 októberében kezdődött, amikor az amerikai hírszerzés légifelvételei felfedték a szovjet rakéták telepítését Kubában. John F. Kennedy amerikai elnök válaszul tengeri blokád alá vette Kubát, amelyet „karibi karanténnak” neveztek. A válság eszkalálódott, amikor a két nagyhatalom között feszültség alakult ki, és a katonai megoldások lehetősége is felmerült.
+
+### A Válság Rendezése
+
+A konfliktus rendezésére 1962. október 28-án került sor, amikor Nikita Hruscsov, a Szovjetunió vezetője bejelentette a rakéták kivonását Kubából. Cserébe az Egyesült Államok ígéretet tett, hogy nem támadja meg Kubát, valamint titokban kivonja a rakétáit Törökországból. Ez a kompromisszum elkerülte a közvetlen katonai összecsapást, ami a hidegháború legnagyobb válságának tekinthető.
+
+### Összegzés
+
+A kubai válság alapvetően a hidegháborús szembenállás, a szovjet-amerikai viszony és a nukleáris fegyverkezés hátterében alakult ki. A forradalom és a nagyhatalmi vetélkedés tette lehetővé, hogy a világ a háború szélére sodródjon. A válság rendezése azonban azt mutatta, hogy a diplomácia képes volt megakadályozni a fegyveres konfliktust, még a legfeszültebb időszakokban is.
+
+<2011 okt >

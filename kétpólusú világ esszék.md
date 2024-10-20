@@ -108,3 +108,57 @@ A Szovjetunió célja a kommunista diktatúrák létrehozása volt Közép- és 
 Az 1940-es évek második felében Európa politikai berendezkedése a két szuperhatalom, az Egyesült Államok és a Szovjetunió ellentétes törekvéseinek eredményeként alakult ki. Míg az USA a demokrácia és a piacgazdaság védelmére törekedett, a Szovjetunió a kommunista befolyás kiterjesztésére összpontosított. A kettéosztott Európa és a kialakuló hidegháború így a globális politikai tájat alapvetően megváltoztatta.
 
 <2018 okt> 
+
+# Nem érettségi
+## A Szovjetunió Átalakulása Sztálin Halála Után: Hruscsov Munkája
+
+### Bevezetés
+
+Sztálin halála, 1953. március 5-én, jelentős mérföldkő volt a Szovjetunió történetében, amely egy új politikai korszak kezdetét jelezte. Nikita Hruscsov, Sztálin utódja, vezető szerepet vállalt az ország irányításában, és reformokat indított el, amelyek célja a kommunista rendszer revitalizálása és a társadalmi feszültségek enyhítése volt. Hruscsov munkája nemcsak a Szovjetunió politikai táját, hanem a nemzetközi kapcsolatokat is alapvetően megváltoztatta.
+
+### Sztálin Öröksége
+
+Sztálin uralma alatt a Szovjetunió egy represszív rendszerbe zárult, ahol a politikai ellenfelek megsemmisítése, a terror és a személyi kultusz voltak a jellemzők. A háború utáni időszakban Sztálin a gazdasági fejlesztések mellett a külpolitikai befolyás kiterjesztésére összpontosított, különösen Kelet-Európában. Sztálin halálával a politikai légkör megváltozott, és Hruscsov feladata volt, hogy helyreállítsa a társadalmi rendet és enyhítse a represszív intézkedéseket.
+
+### Hruscsov Reformjai
+
+Hruscsov 1956-ban, a XX. Pártértekezleten tartotta meg híres beszédét, amelyben nyilvánosan bírálta Sztálin politikáját. E beszéd célja a sztálinizmus bűneinek leleplezése és a „de-sztálinizáció” megkezdése volt. Hruscsov reformokat indított, amelyek a politikai elnyomás csökkentésére, a kultúra liberalizálására és a mezőgazdaság modernizálására irányultak. A „kalapács és a véső” politikájával Hruscsov arra törekedett, hogy a mezőgazdasági termelést növelje, és javítsa a lakosság életszínvonalát.
+
+### A Külső Politika Kihívásai
+
+Hruscsov külpolitikája is markánsan eltért elődjétől. Az 1950-es évek végén Hruscsov a „békés együttélés” politikáját hirdette, amely célja a nyugati hatalmakkal való konfliktusok mérséklése volt. A Kuba melletti válság és a berlini fal felépítése azonban rávilágított arra, hogy a hidegháború feszültségei továbbra is fennállnak. Hruscsov a nemzetközi színtéren a szovjet érdekek védelmében folytatta a politikai és katonai versenyt, ugyanakkor próbálta elkerülni a közvetlen konfliktusokat.
+
+### A Szovjetunió Gazdasági Problémái
+
+Hruscsov reformjainak ellenére a Szovjetunió gazdasági problémákkal küzdött. A mezőgazdasági reformok nem hozták meg a várt eredményeket, és a tervgazdaság rigiditása továbbra is megnehezítette a hatékony működést. A gazdasági problémák felerősödése és a lakosság elégedetlensége végül hozzájárult Hruscsov 1964-es eltávolításához.
+
+### Összegzés
+
+Nikita Hruscsov vezetése alatt a Szovjetunió átalakuláson ment keresztül, amely a sztálinizmus bírálatával és a társadalmi reformokkal indult. Hruscsov célja a politikai elnyomás csökkentése és a gazdasági fejlesztések ösztönzése volt, de a külpolitikai kihívások és a gazdasági nehézségek végül megerősítették a rendszer ellentmondásait. Hruscsov öröksége összetett, hiszen reformjai kétségtelenül hozzájárultak a Szovjetunió modernizációjához, ugyanakkor a rendszer belső feszültségeit nem tudta maradéktalanul felszámolni.
+
+## A Kubai Rakétaválság: A Hidegháború Csúcspontja
+
+### Bevezetés
+
+A Kubai rakétaválság, amely 1962 októberében zajlott, a hidegháború legkritikusabb pillanatai közé tartozik. Ez az esemény nemcsak az Egyesült Államok és a Szovjetunió közötti feszültséget fokozta, hanem a világ egy újabb, nukleáris konfliktus közeli állapotába is sodorta. A válság mélyen befolyásolta a nemzetközi politikai tájat, és hosszú távú hatásai még évtizedekig érezhetők voltak.
+
+### A Válság Előzményei
+
+A kubai forradalom 1959-es győzelme után Fidel Castro vezetésével Kuba kommunista állammá alakult, amely szoros szövetségbe került a Szovjetunióval. A szovjet-amerikai kapcsolatok már a hidegháború kezdetén feszültek voltak, és Castro hatalomra jutása tovább fokozta a feszültségeket. 1961-ben az Egyesült Államok által támogatott disszidens csoportok kísérlete a Disznó-öbölnél való partra szállásra, amely kudarcot vallott, csak még inkább aggasztotta a szovjet vezetést.
+
+### A Rakéták Telepítése
+
+1962 augusztusában a Szovjetunió titokban rakétákat kezdett telepíteni Kubában, amelyek közvetlen fenyegetést jelentettek az Egyesült Államokra. Az amerikai hírszerzés légifelvételeken észlelte a rakétabázisokat, és október 16-án John F. Kennedy elnök értesült a helyzetről. A válság gyorsan kibontakozott, és az amerikai kormány döntést hozott a rakéták eltávolításának megakadályozására.
+
+### A Blokád és a Diplomáciai Tárgyalások
+
+Kennedy elnök október 22-én nyilvánosan bejelentette, hogy tengeri blokádot rendel el Kuba körül, amelyet „karanténnak” nevezett. A célja az volt, hogy megakadályozza a további szovjet rakéták beérkezését. Ezzel párhuzamosan diplomáciai tárgyalások kezdődtek, amelyek során mindkét fél kereste a megoldást a feszültség csökkentésére. A szovjet vezető, Nikita Hruscsov is igyekezett elkerülni a közvetlen katonai összecsapást.
+
+### A Válság Megoldása
+
+A helyzet egy héten belül kritikus szintre jutott, és a világ egy háború küszöbén állt. A diplomáciai erőfeszítések végül eredményt hoztak: Hruscsov beleegyezett a rakéták visszavonásába, cserébe pedig az Egyesült Államok vállalta, hogy nem támadja meg Kubát, és titokban ígéretet tett a törökországi amerikai rakéták eltávolítására is. A válság október 28-án ért véget, és a világ lélegzet-visszafojtva figyelte az eseményeket.
+
+### Összegzés
+
+A kubai rakétaválság nemcsak a hidegháborús feszültségek csúcspontja volt, hanem egy új korszak kezdetét is jelezte a globális politikában. A válság rávilágított arra, hogy a nukleáris fegyverek elterjedése milyen komoly veszélyt jelent, és hogy a diplomáciai megoldások elengedhetetlenek a konfliktusok kezelésében. Az esemény következményeként a Szovjetunió és az Egyesült Államok közötti kommunikációs csatornákat megerősítették, és létrejöttek olyan intézkedések, amelyek célja a nukleáris háború megelőzése volt, például a későbbi nukleáris fegyverzet-ellenőrzési szerződések. A kubai rakétaválság öröksége tehát nem csupán a hidegháború eseményeit formálta, hanem a jövőbeli nemzetközi kapcsolatok alapjait is lerakta.
+

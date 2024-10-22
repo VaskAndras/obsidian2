@@ -13,7 +13,10 @@
 		{"id":"2333f5fd7c821a6d","x":-1480,"y":-421,"width":250,"height":60,"type":"text","text":"Országh József"},
 		{"id":"fef149f999908c3a","x":-1840,"y":-220,"width":250,"height":119,"type":"text","text":"Pozsgai László\n1867-XXXX\nHázasság: 1891.április.19.\nBana"},
 		{"id":"15e31f0a31fbae02","x":-1840,"y":-375,"width":250,"height":85,"type":"text","text":"Rozália Zsidi\n1872-1980\nBana"},
-		{"id":"a37f562026f84e80","x":-1482,"y":-379,"width":250,"height":60,"type":"text","text":"József Zsidi"}
+		{"id":"a37f562026f84e80","x":-2160,"y":-465,"width":250,"height":60,"type":"text","text":"József Zsidi\n1837-XXX"},
+		{"id":"5c0442bdeaf76e86","x":-2160,"y":-310,"width":250,"height":60,"type":"text","text":"Farkas Erzsgébet"},
+		{"id":"727f9ac41fd7e388","x":-2588,"y":-525,"width":250,"height":60,"type":"text","text":"Theresia Vörös"},
+		{"id":"e64c155d9ae50122","x":-2588,"y":-382,"width":250,"height":50,"type":"text","text":"Gábor Zsidi"}
 	],
 	"edges":[
 		{"id":"8ff1355ab97f1448","fromNode":"3e6d88b8b3bf396b","fromSide":"bottom","toNode":"21bd945f3831545b","toSide":"top"},
@@ -27,6 +30,10 @@
 		{"id":"a1f46e56d1e89f2d","fromNode":"2333f5fd7c821a6d","fromSide":"right","toNode":"03a362212d2eab12","toSide":"left"},
 		{"id":"c741426035a325ff","fromNode":"53af779e8fe06a38","fromSide":"right","toNode":"03a362212d2eab12","toSide":"left"},
 		{"id":"912b8c18d22e9fa1","fromNode":"fef149f999908c3a","fromSide":"right","toNode":"53af779e8fe06a38","toSide":"left"},
-		{"id":"71d6c737efb1a437","fromNode":"15e31f0a31fbae02","fromSide":"right","toNode":"53af779e8fe06a38","toSide":"left"}
+		{"id":"71d6c737efb1a437","fromNode":"15e31f0a31fbae02","fromSide":"right","toNode":"53af779e8fe06a38","toSide":"left"},
+		{"id":"8ba355612a709086","fromNode":"5c0442bdeaf76e86","fromSide":"right","toNode":"15e31f0a31fbae02","toSide":"left"},
+		{"id":"a71ca86833753817","fromNode":"a37f562026f84e80","fromSide":"right","toNode":"15e31f0a31fbae02","toSide":"left"},
+		{"id":"b1046b97c9916721","fromNode":"727f9ac41fd7e388","fromSide":"right","toNode":"a37f562026f84e80","toSide":"left"},
+		{"id":"292ca4a2a7bc2b23","fromNode":"e64c155d9ae50122","fromSide":"right","toNode":"a37f562026f84e80","toSide":"left"}
 	]
 }

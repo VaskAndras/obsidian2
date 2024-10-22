@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"21bd945f3831545b","type":"text","text":"Vaskó András","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"b14621b1bc9a89ee","type":"text","text":"Vaskó János\n1971-\nvállalkozó\nBőny ","x":-270,"y":-220,"width":250,"height":120},
+		{"id":"3e6d88b8b3bf396b","type":"text","text":"Erős Andrea\n1975-\nTanár\nBőny","x":40,"y":-220,"width":250,"height":120},
+		{"id":"bf68c51774e0fe02","type":"text","text":"Vaskó János\n1942 (Budapest)-\nKőműves\nLakhely: Bőny","x":-685,"y":-495,"width":196,"height":120},
+		{"id":"b0c996837434e765","type":"text","text":"Démy Katalin\n19XX (Bőny)-2013 (Bőny)\nbérszámfejtő???\nLAkhely:Bőny","x":-739,"y":40,"width":250,"height":125},
+		{"id":"9bcf8eefc3423865","type":"text","text":"Vaskó János","x":-1080,"y":-600,"width":250,"height":60},
+		{"id":"03a362212d2eab12","type":"text","text":"Ország Margit\n1920 (Bőny)-2020 (Bőny)\nGazdálkodó\n","x":-1080,"y":-375,"width":250,"height":109},
+		{"id":"b2f67e5b4c0f11bb","type":"text","text":"Erős Lajos\n1942 (Furta)- 2022 (Budapest)\nRendőr\nLakhely: Dunakeszi","x":610,"y":40,"width":250,"height":125},
+		{"id":"c5f0435a615639dd","type":"text","text":"Nemes Julianna\n1942 (Vekerd)- \nBérszámfejtő\nLakhely: Dunakeszi","x":610,"y":-500,"width":250,"height":125}
+	],
+	"edges":[
+		{"id":"8ff1355ab97f1448","fromNode":"3e6d88b8b3bf396b","fromSide":"bottom","toNode":"21bd945f3831545b","toSide":"top"},
+		{"id":"a3333b2c2a28e7d3","fromNode":"b14621b1bc9a89ee","fromSide":"bottom","toNode":"21bd945f3831545b","toSide":"top"},
+		{"id":"7d526940e087a094","fromNode":"b0c996837434e765","fromSide":"right","toNode":"b14621b1bc9a89ee","toSide":"left"},
+		{"id":"04036dfdb2dbed6e","fromNode":"bf68c51774e0fe02","fromSide":"right","toNode":"b14621b1bc9a89ee","toSide":"left"},
+		{"id":"e28495c5654f3fbb","fromNode":"03a362212d2eab12","fromSide":"right","toNode":"bf68c51774e0fe02","toSide":"left"},
+		{"id":"e3eb8808d07b4de6","fromNode":"9bcf8eefc3423865","fromSide":"right","toNode":"bf68c51774e0fe02","toSide":"left"},
+		{"id":"812ba0463d9df1af","fromNode":"b2f67e5b4c0f11bb","fromSide":"left","toNode":"3e6d88b8b3bf396b","toSide":"right"},
+		{"id":"bbda54e3b29107d0","fromNode":"c5f0435a615639dd","fromSide":"left","toNode":"3e6d88b8b3bf396b","toSide":"right"}
+	]
+}

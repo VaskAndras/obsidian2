@@ -12,7 +12,8 @@
 		{"id":"53af779e8fe06a38","x":-1480,"y":-280,"width":250,"height":60,"type":"text","text":"Pozsgai Erzsébet"},
 		{"id":"2333f5fd7c821a6d","x":-1480,"y":-421,"width":250,"height":60,"type":"text","text":"Országh József"},
 		{"id":"fef149f999908c3a","x":-1840,"y":-220,"width":250,"height":119,"type":"text","text":"Pozsgai László\n1867-XXXX\nHázasság: 1891.április.19.\nBana"},
-		{"id":"15e31f0a31fbae02","x":-1840,"y":-350,"width":250,"height":60,"type":"text","text":"Rozália Zsidi\n1872-1980\nBana"}
+		{"id":"15e31f0a31fbae02","x":-1840,"y":-375,"width":250,"height":85,"type":"text","text":"Rozália Zsidi\n1872-1980\nBana"},
+		{"id":"a37f562026f84e80","x":-1482,"y":-379,"width":250,"height":60,"type":"text","text":"József Zsidi"}
 	],
 	"edges":[
 		{"id":"8ff1355ab97f1448","fromNode":"3e6d88b8b3bf396b","fromSide":"bottom","toNode":"21bd945f3831545b","toSide":"top"},

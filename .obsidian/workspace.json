@@ -11,14 +11,17 @@
             "id": "3ce379d5855fd4ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "teszt 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -1356.7620702682266,
+                  "y": -348.67331538286396,
+                  "zoom": -1.2464615055400696
+                }
               },
-              "icon": "lucide-file",
-              "title": "teszt 2"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -77,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -170,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f79b0219d0fdb633",
+  "active": "3ce379d5855fd4ea",
   "lastOpenFiles": [
-    "3-tags/magyar/Magyar Gyakorlás.md",
     "teszt 2.md",
+    "3-tags/magyar/Magyar Gyakorlás.md",
     "2-Menu/Magyar.md",
     "i.md",
     "4-tananyag/Történelem/2. Világháború/II. VH egyben.md",

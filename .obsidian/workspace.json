@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,8 +218,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90c80c9f14f0bc84",
+  "active": "9995534379f608bf",
   "lastOpenFiles": [
+    "4-tananyag/Magyar gyakorlás/József Attila vers szóképek.md",
     "4-tananyag/Fizika/Elektromágneses hullámok, optika/Leképezés tükrökkel, lencsékkel.md",
     "3-tags/Elektromágneses hullámok, optika.md",
     "2-Menu/Fizika.md",
@@ -264,7 +265,6 @@
     "Teszt 1.md",
     "Az elektromágneses hullámok.md",
     "4-tananyag/Fizika/Elektromágneses hullámok, optika/Rezgőkör és elektromágneses rezgés.md",
-    "test2.md",
-    "4-tananyag/Magyar gyakorlás/Teszt 1.md"
+    "test2.md"
   ]
 }

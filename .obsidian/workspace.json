@@ -11,17 +11,14 @@
             "id": "3ce379d5855fd4ea",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -1459.347911807901,
-                  "y": -118.57500391105813,
-                  "zoom": 0
-                }
+                "file": "3-tags/Elektromágneses hullámok, optika.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Elektromágneses hullámok, optika"
             }
           }
         ]
@@ -80,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -191,18 +187,18 @@
   },
   "active": "3ce379d5855fd4ea",
   "lastOpenFiles": [
+    "2-Menu/Fizika.md",
+    "Untitled.canvas",
     "teszt 2.md",
     "3-tags/magyar/Magyar Gyakorlás.md",
     "2-Menu/Magyar.md",
     "i.md",
     "4-tananyag/Történelem/2. Világháború/II. VH egyben.md",
-    "Untitled.canvas",
     "Kétpólusú világ esszék.md",
     "2. vh után egyben.md",
     "4-tananyag/Magyar gyakorlás/József Attila vers szóképek.md",
     "4-tananyag/Fizika/Elektromágneses hullámok, optika/Leképezés tükrökkel, lencsékkel.md",
     "3-tags/Elektromágneses hullámok, optika.md",
-    "2-Menu/Fizika.md",
     "nemet 2018 okt.md",
     "3-tags/A kétpólusú világ.md",
     "4-tananyag/Történelem/A kétpólusú világ/Kétpólusú világrend kialakulása.md",
@@ -236,7 +232,6 @@
     "4-tananyag/Irodalom",
     "4-tananyag/Fizika",
     "4-tananyag/angol",
-    "4-tananyag",
-    "README.md"
+    "4-tananyag"
   ]
 }

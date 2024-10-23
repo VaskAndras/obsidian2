@@ -9,14 +9,16 @@
 		{"id":"03a362212d2eab12","type":"text","text":"Ország Margit\n1920 (Bőny)-2020 (Bőny)\nGazdálkodó\n","x":-1080,"y":-375,"width":250,"height":109},
 		{"id":"b2f67e5b4c0f11bb","type":"text","text":"Erős Lajos\n1942 (Furta)- 2022 (Budapest)\nRendőr\nLakhely: Dunakeszi","x":610,"y":40,"width":250,"height":125},
 		{"id":"c5f0435a615639dd","type":"text","text":"Nemes Julianna\n1942 (Vekerd)- \nBérszámfejtő\nLakhely: Dunakeszi","x":610,"y":-500,"width":250,"height":125},
-		{"id":"53af779e8fe06a38","x":-1480,"y":-280,"width":250,"height":60,"type":"text","text":"Pozsgai Erzsébet"},
-		{"id":"2333f5fd7c821a6d","x":-1480,"y":-421,"width":250,"height":60,"type":"text","text":"Országh József"},
-		{"id":"fef149f999908c3a","x":-1840,"y":-220,"width":250,"height":119,"type":"text","text":"Pozsgai László\n1867-XXXX\nHázasság: 1891.április.19.\nBana"},
-		{"id":"15e31f0a31fbae02","x":-1840,"y":-375,"width":250,"height":85,"type":"text","text":"Rozália Zsidi\n1872-1980\nBana"},
-		{"id":"a37f562026f84e80","x":-2160,"y":-465,"width":250,"height":60,"type":"text","text":"József Zsidi\n1837-XXX"},
-		{"id":"5c0442bdeaf76e86","x":-2160,"y":-310,"width":250,"height":60,"type":"text","text":"Farkas Erzsgébet"},
-		{"id":"727f9ac41fd7e388","x":-2588,"y":-525,"width":250,"height":60,"type":"text","text":"Theresia Vörös"},
-		{"id":"e64c155d9ae50122","x":-2588,"y":-382,"width":250,"height":50,"type":"text","text":"Gábor Zsidi"}
+		{"id":"53af779e8fe06a38","type":"text","text":"Pozsgai Erzsébet","x":-1480,"y":-280,"width":250,"height":60},
+		{"id":"2333f5fd7c821a6d","type":"text","text":"Országh József","x":-1480,"y":-421,"width":250,"height":60},
+		{"id":"fef149f999908c3a","type":"text","text":"Pozsgai László\n1867-XXXX\nHázasság: 1891.április.19.\nBana","x":-1840,"y":-220,"width":250,"height":119},
+		{"id":"15e31f0a31fbae02","type":"text","text":"Rozália Zsidi\n1872-1980\nBana","x":-1840,"y":-375,"width":250,"height":85},
+		{"id":"a37f562026f84e80","type":"text","text":"József Zsidi\n1837-XXX","x":-2160,"y":-465,"width":250,"height":60},
+		{"id":"5c0442bdeaf76e86","type":"text","text":"Farkas Erzsgébet","x":-2160,"y":-310,"width":250,"height":60},
+		{"id":"727f9ac41fd7e388","type":"text","text":"Theresia Vörös","x":-2588,"y":-525,"width":250,"height":60},
+		{"id":"e64c155d9ae50122","type":"text","text":"Gábor Zsidi","x":-2588,"y":-382,"width":250,"height":50},
+		{"id":"553d8f8171be07ab","x":-2260,"y":-190,"width":250,"height":60,"type":"text","text":"Pozsgai Vendel"},
+		{"id":"2d9d147158d5cb00","x":-2260,"y":-40,"width":250,"height":60,"type":"text","text":"Tóth Apollónia"}
 	],
 	"edges":[
 		{"id":"8ff1355ab97f1448","fromNode":"3e6d88b8b3bf396b","fromSide":"bottom","toNode":"21bd945f3831545b","toSide":"top"},
@@ -34,6 +36,8 @@
 		{"id":"8ba355612a709086","fromNode":"5c0442bdeaf76e86","fromSide":"right","toNode":"15e31f0a31fbae02","toSide":"left"},
 		{"id":"a71ca86833753817","fromNode":"a37f562026f84e80","fromSide":"right","toNode":"15e31f0a31fbae02","toSide":"left"},
 		{"id":"b1046b97c9916721","fromNode":"727f9ac41fd7e388","fromSide":"right","toNode":"a37f562026f84e80","toSide":"left"},
-		{"id":"292ca4a2a7bc2b23","fromNode":"e64c155d9ae50122","fromSide":"right","toNode":"a37f562026f84e80","toSide":"left"}
+		{"id":"292ca4a2a7bc2b23","fromNode":"e64c155d9ae50122","fromSide":"right","toNode":"a37f562026f84e80","toSide":"left"},
+		{"id":"fcf5eb55d2985cf8","fromNode":"553d8f8171be07ab","fromSide":"right","toNode":"fef149f999908c3a","toSide":"left"},
+		{"id":"13eb86626444782f","fromNode":"2d9d147158d5cb00","fromSide":"right","toNode":"fef149f999908c3a","toSide":"left"}
 	]
 }

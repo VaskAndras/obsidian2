@@ -19,5 +19,10 @@
 - #### Kategórikus
 	- Minden ember halandó így te is
 - #### Feltételes
-	- Ha szeretnél újra csokit enni meg kell mosnod a fogad
-		-
+	- Példa	
+		- Ha szeretnél újra csokit enni meg kell mosnod a fogad
+		- Megmosom akkor a fogam
+	- Feltételekhez kötött megállapodás
+### Levezetésük szerint
+- **Definícióból levezetett érv**
+- **Okfejtés**

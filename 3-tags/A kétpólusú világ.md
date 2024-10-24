@@ -6,4 +6,4 @@ tananyag
 összefoglalás:
 [[Fogalmak]]
 [[2. vh után egyben]]
-[[kétpólusú világ esszék]]
+[[Kétpólusú világ esszék]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Az érvek fajtái.md",
-                "mode": "preview",
+                "file": "3-tags/Elektromágneses hullámok, optika.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Az érvek fajtái"
+              "title": "Elektromágneses hullámok, optika"
             }
           }
         ]
@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,15 +187,15 @@
   },
   "active": "c0aedad0fa9785ae",
   "lastOpenFiles": [
-    "4-tananyag/Magyar nyelv/TED vs mindenki akadémiája.md",
+    "2-Menu/Fizika.md",
     "Az érvek fajtái.md",
+    "4-tananyag/Magyar nyelv/TED vs mindenki akadémiája.md",
     "3-tags/magyar/Nyelvtan.md",
     "2-Menu/Magyar.md",
     "3-tags/magyar/Magyar Gyakorlás.md",
     "4-tananyag/Történelem/A kétpólusú világ/Kétpólusú világ esszék.md",
     "4-tananyag/Fizika/Elektromágneses hullámok, optika/Optika a gyakorlatban.md",
     "3-tags/Elektromágneses hullámok, optika.md",
-    "2-Menu/Fizika.md",
     "2-Menu/Menü.md",
     "3-tags/Váltóáram.md",
     "2-Menu/Matek.md",

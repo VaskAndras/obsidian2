@@ -27,7 +27,7 @@
 - **Definícióból levezetett érv**
 - **Okfejtés**
 	- okok magyarázatával érvel
-- **Körülményekől levezetett érvek
+- **Körülményekől levezetett érvek**
 	- a helyzet szükségességének indoklása
 - **Összehasonlításból és példákból levezetett érvek**
 - **Tényekből és adatokból levezetett érvek**

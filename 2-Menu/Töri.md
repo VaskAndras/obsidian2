@@ -3,4 +3,5 @@
 [[A kétpólusú világ]]
 
 ## 12. osztály
-[[háborútól ]]
+[[Háburútól forradalomig]]
+

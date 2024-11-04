@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-tags/Félvezetők.md",
+                "file": "4-tananyag/Fizika/Elektromágneses hullámok, optika/Optika a gyakorlatban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Kimenő linkek Félvezetők jegyzetből"
+              "title": "Outgoing links from Optika a gyakorlatban"
             }
           },
           {
@@ -170,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {

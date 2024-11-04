@@ -10,3 +10,6 @@ Késői modernség
 [[20. századi drámatípusok]]
 [[Bulgatov-A Mester és Margerita]]
 [[Dürrenmatt]]
+
+Poszmodern
+[[Posztmodern]]

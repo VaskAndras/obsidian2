@@ -88,8 +88,7 @@
               "title": "Könyvjelzők"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,18 +200,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0664f6f09858a93",
+  "active": "3f2190f555f10c6c",
   "lastOpenFiles": [
+    "3-tags/magyar/Irodalom.md",
+    "4-tananyag/Irodalom/posztmodern/Posztmodern.md",
     "3-tags/magyar/Nyelvtan.md",
     "4-tananyag/Irodalom/kötelezők/Nov 13-ra.md",
     "2-Menu/Magyar.md",
     "4-tananyag/Magyar nyelv/Az érvek fajtái.md",
-    "4-tananyag/Irodalom/posztmodern/Posztmodern.md",
     "4-tananyag/Irodalom/kötelezők",
     "4-tananyag/Irodalom/Untitled.md",
     "4-tananyag/Irodalom/posztmodern",
     "2-Menu/Matek.md",
-    "3-tags/magyar/Irodalom.md",
     "3-tags/Elektromágneses hullámok, optika.md",
     "2-Menu/Fizika.md",
     "4-tananyag/Fizika/Elektromágneses hullámok, optika/Optika a gyakorlatban.md",

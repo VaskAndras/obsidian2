@@ -6,4 +6,4 @@
 - [[4. beszéd szertektése]]
 - [[A szónoki beszéd stíluseszközei]]
 - [[TED vs mindenki akadémiája]]
-- 
+- [[Az érvek fajtái]]

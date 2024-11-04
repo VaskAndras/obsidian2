@@ -35,3 +35,5 @@
 - nincs narrátor
 - sok önreflexió
 ### Fonos a nyelvi játékosság
+
+## Szerzők

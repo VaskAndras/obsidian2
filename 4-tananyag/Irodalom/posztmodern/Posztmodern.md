@@ -37,3 +37,10 @@
 ### Fonos a nyelvi játékosság
 
 ## Szerzők
+### Berges
+- elágazó ösvények kertje
+### Cortazár
+-  A játék vége
+### Garcia Margues
+### Bohumil Rabal
+

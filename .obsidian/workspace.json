@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b48c84f949d78d66",
+        "id": "8323bcf288a6b719",
         "type": "tabs",
         "children": [
           {
-            "id": "c0aedad0fa9785ae",
+            "id": "daf4976d1f5c63f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-tananyag/Fizika/Elektromágneses hullámok, optika/Optika a gyakorlatban.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Optika a gyakorlatban"
+              "title": "New tab"
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -185,17 +180,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0aedad0fa9785ae",
+  "active": "1a27ef9776193d7b",
   "lastOpenFiles": [
-    "3-tags/Elektromágneses hullámok, optika.md",
     "2-Menu/Fizika.md",
     "Az érvek fajtái.md",
+    "4-tananyag/Fizika/Elektromágneses hullámok, optika/Optika a gyakorlatban.md",
+    "3-tags/Elektromágneses hullámok, optika.md",
     "4-tananyag/Magyar nyelv/TED vs mindenki akadémiája.md",
     "3-tags/magyar/Nyelvtan.md",
     "2-Menu/Magyar.md",
     "3-tags/magyar/Magyar Gyakorlás.md",
     "4-tananyag/Történelem/A kétpólusú világ/Kétpólusú világ esszék.md",
-    "4-tananyag/Fizika/Elektromágneses hullámok, optika/Optika a gyakorlatban.md",
     "2-Menu/Menü.md",
     "3-tags/Váltóáram.md",
     "2-Menu/Matek.md",

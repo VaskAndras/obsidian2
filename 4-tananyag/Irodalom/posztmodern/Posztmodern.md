@@ -29,6 +29,9 @@
 ### Szöveg poétikai megfontoltsága
 - szöveg gondos megszerkesztése
 - korábbi szövegek megújítása
+- **intertextualitás**
 ### A narrációt a reflexió váltotta fel
 - szétzilált kronológia
-- 
+- nincs narrátor
+- sok önreflexió
+### Fonos a nyelvi játékosság

@@ -1,6 +1,5 @@
-# József Attila: SZÜLETÉSNAPOMRA
-
-SZÜLETÉSNAPOMRA 
+# József Attila:
+## SZÜLETÉSNAPOMRA 
 
 Harminckét éves lettem én -  
 meglepetés e költemény  
@@ -54,9 +53,7 @@ tani! 
 
 1937. ápr. 11.
 
-# József Attila: MAMA
-
-MAMA 
+## MAMA 
 
 Már egy hete csak a mamára  
 gondolok mindíg, meg-megállva.  
@@ -106,9 +103,7 @@ megrezzenni lágy emlőidet és
 a kerek fehér köveken,  
 fogaidon a tündér nevetés.
 
-# József Attila: REMÉNYTELENÜL
-
-REMÉNYTELENÜL 
+## REMÉNYTELENÜL
 
 Lassan, tünődve 
 
@@ -151,9 +146,7 @@ Mégiscsak száll új szárnyakon a dal
 S ha elátkozza százszor [Pusztaszer](https://magyar-irodalom.elte.hu/sulinet/igyjo/setup/portrek/ady/gog.htm#pusztaszer),  
 Mégis győztes, mégis új és magyar.
 
-# Ady Endre: Őrizem a szemed
-
-Őrizem a szemed 
+## Őrizem a szemed 
 
 Már vénülő kezemmel  
 Fogom meg a kezedet,  
@@ -174,3 +167,22 @@ Nem tudom, miért, meddig
 Maradok meg még neked,  
 De a kezedet fogom  
 S őrizem a szemedet.
+
+# Ady Endre: Kocsi-út az éjszakában
+
+Kocsi-út az éjszakában 
+
+Milyen csonka ma a Hold,  
+Az éj milyen sivatag, néma,  
+Milyen szomoru vagyok én ma,  
+Milyen csonka ma a Hold. 
+
+Minden Egész eltörött,  
+Minden láng csak részekben lobban,  
+Minden szerelem darabokban,  
+Minden Egész eltörött. 
+
+Fut velem egy rossz szekér,  
+Utána mintha jajszó szállna,  
+Félig mély csönd és félig lárma,  
+Fut velem egy rossz szekér.

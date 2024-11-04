@@ -8,26 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "daf4976d1f5c63f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kötelezők.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kötelezők"
-            }
-          },
-          {
             "id": "5c96a26a48ccd244",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posztmodern.md",
+                "file": "4-tananyag/Irodalom/kötelezők/Nov 13-ra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nov 13-ra"
+            }
+          },
+          {
+            "id": "3f2190f555f10c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-tananyag/Irodalom/posztmodern/Posztmodern.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,12 +200,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c96a26a48ccd244",
+  "active": "3f2190f555f10c6c",
   "lastOpenFiles": [
-    "Kötelezők.md",
-    "Posztmodern.md",
-    "3-tags/magyar/Irodalom.md",
+    "4-tananyag/Irodalom/kötelezők/Nov 13-ra.md",
     "2-Menu/Magyar.md",
+    "4-tananyag/Irodalom/kötelezők",
+    "4-tananyag/Irodalom/Untitled.md",
+    "4-tananyag/Irodalom/posztmodern",
+    "2-Menu/Matek.md",
+    "4-tananyag/Irodalom/posztmodern/Posztmodern.md",
+    "3-tags/magyar/Irodalom.md",
     "3-tags/Elektromágneses hullámok, optika.md",
     "2-Menu/Fizika.md",
     "Az érvek fajtái.md",
@@ -215,19 +220,16 @@
     "4-tananyag/Történelem/A kétpólusú világ/Kétpólusú világ esszék.md",
     "2-Menu/Menü.md",
     "3-tags/Váltóáram.md",
-    "2-Menu/Matek.md",
     "4-tananyag/Történelem/Untitled.canvas",
     "i.md",
     "nemet 2018 okt.md",
     "4-tananyag/Magyar gyakorlás/teszt 2.md",
-    "4-tananyag/Irodalom/Dürrenmatt.md",
+    "4-tananyag/Irodalom/Késői modernség/Dürrenmatt.md",
     "4-tananyag/Történelem/A kétpólusú világ/2. vh után egyben.md",
     "4-tananyag/Matek/Teljes valószínüség tétele.md",
     "4-tananyag/Magyar gyakorlás/3. József Attila, Falu.md",
     "4-tananyag/Történelem/A kétpólusú világ/A gyarmati világ felbomlása.md",
     "3-tags/A kétpólusú világ.md",
-    "2-Menu/Töri.md",
-    "4-tananyag/Fizika/Elektromágneses hullámok, optika/Leképezés tükrökkel, lencsékkel.md",
     "images/Pasted image 20241017222108.png",
     "images/Pasted image 20241017221745.png",
     "images/Pasted image 20241017221449.png",
@@ -245,8 +247,6 @@
     "4-tananyag/Magyar nyelv",
     "4-tananyag/Magyar gyakorlás",
     "4-tananyag/Irodalom",
-    "4-tananyag/Fizika",
-    "4-tananyag/angol",
-    "4-tananyag"
+    "4-tananyag/Fizika"
   ]
 }

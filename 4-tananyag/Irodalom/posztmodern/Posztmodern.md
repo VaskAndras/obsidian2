@@ -16,6 +16,19 @@
 - kortudat
 
 ## Modernség megújítása
+**Például**
 - neoavantgárd
 - újrealizmus
 ### Jellemzőik
+- modernség elvetése
+- avantgárd megújítása
+- hagyományok kétségbe vonása
+- változásban keresi az állandóságot
+
+## Posztmodern irodalom
+### Szöveg poétikai megfontoltsága
+- szöveg gondos megszerkesztése
+- korábbi szövegek megújítása
+### A narrációt a reflexió váltotta fel
+- szétzilált kronológia
+- 

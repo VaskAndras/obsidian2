@@ -16,4 +16,11 @@
 - Milyen asszociációkat képeznek?
 - Milyen hatásuk van?
 
-## 
+## Szavak
+- Igék vagy névszók?
+- Milyen a szavak stílusárnyalata?
+- Milyen a szavak eredete?
+- Milyen a szavak hangulata?
+- Vannak e utalások más költőkre?
+- Jellemző jelzők?
+- 

@@ -11,17 +11,14 @@
             "id": "3601509118366694",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "4-tananyag/Történelem/Untitled.canvas",
-                "viewState": {
-                  "x": 831.8094084325684,
-                  "y": -81.42093428939741,
-                  "zoom": -0.9890476119501166
-                }
+                "file": "4-tananyag/Magyar gyakorlás/Költői eszközök 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Költői eszközök 1"
             }
           }
         ]
@@ -190,6 +187,7 @@
   },
   "active": "3601509118366694",
   "lastOpenFiles": [
+    "4-tananyag/Történelem/Untitled.canvas",
     "4-tananyag/Történelem/2. világháború után magyarország/Az átmenet évei.md",
     "images/ZXoHiwdz.jpeg",
     "images/Pasted image 20241017222108.png",
@@ -234,7 +232,6 @@
     "4-tananyag/Irodalom/posztmodern/Posztmodern.md",
     "3-tags/magyar/Irodalom.md",
     "3-tags/magyar/Nyelvtan.md",
-    "4-tananyag/Magyar nyelv/Az érvek fajtái.md",
-    "4-tananyag/Történelem/Untitled.canvas"
+    "4-tananyag/Magyar nyelv/Az érvek fajtái.md"
   ]
 }

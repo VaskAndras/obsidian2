@@ -4,8 +4,8 @@
 - [[3. József Attila, Falu]]
 - [[3. József Attila, Falu 2]]
 - [[Teszt 1]]
-- [[Költői eszközök]]
+- [[4-tananyag/Magyar gyakorlás/Költői eszközök]]
 - [[Szavak szerepe]]
 - [[József Attila vers szóképek]]
 - [[teszt 2]]
-- 
+- [[Költői eszközök]] 

@@ -12,22 +12,22 @@
 → **Tildy Zoltán, az FKgP vezetője lett a miniszterelnök**
 	- a koalíciós kormányban korrigálta a helyzetet az MKP
 	- pár hónapig létezett, utána Tildyből köztársasági elnök lett
-
-## Az új közjogi berendezkedés	
+## A köztársaság kikiáltása
+### Az új közjogi berendezkedés	
 → **1946. február 1-től az ország köztársaság volt**
 - szimbolikus aktus a monarchia megszüntetése
-- a parlament választotta az **államfőt 4 évre: Tildy Zoltán lett**
-## Az új közjogi berendezkedés
+- a parlament választotta az **államfőt 4 évre: Tildy Zoltán lett*
 → **az új miniszterelnök a kisgazda Nagy Ferenc** lett
 	- a kommunisták ellensúlyozása volt a célja
-## A gazdaság válsága
+## A gazdasági élet nehézségei
+### A gazdaság válsága
 → megszakadtak a német kapcsolatok
-→ kiépültek az egyoldalú keleti kapcsolatok
+→ **kiépültek az egyoldalú keleti kapcsolatok**
 	- a SzU megkapta a német tulajdonú javakat (vállalatokat)
-→ megkezdődött a jóvátétel teljesítése
+→ **megkezdődött a jóvátétel teljesítése**
 	- gyárak, berendezések, késztermékek, mg-i cikkek, állatok stb.
-→ a költségvetés kb. 40%-át a jóvátételre és a szovjet csapatok ellátására kellett fordítani 
-→ a külkereskedelem nagy része a Szovjetunióba irányult 
+→ **a költségvetés kb. 40%-át a jóvátételre és a szovjet csapatok ellátására kellett fordítani** 
+→ a **külkereskedelem nagy része a Szovjetunióba irányult** 
 	- a magyar ipar egyes ágazatai ottani nyersanyagokra épültek
 
 ## A forint bevezetése
@@ -38,25 +38,22 @@
 	    => hiperinfláció
     - **naturális cseregazdálkodás**
 	    => batyuzók
+## A kommunisták térnyerése
 ### A Baloldali Blokk
  → MKP, SZDP, NPP
     - a kisgazdákkal szembeni fellépés
     - a SZEB támogatta
 → kizárások az FKGP-ből
-
-## A kommunisták térnyerése
-A köztársaság-ellenesnek mondott Magyar Közösség pere.
-    - A vád szerint kapcsolatban álltak az FKGP-vel.
-## A „szalámitaktika” eredménye
+### A „szalámitaktika” eredménye
 → az ellenfelek kiszorítása a hatalomból
     - külső leszámolás + belső tisztogatás
-### A szalámi szeletei
-- A kisgazdapárt képviselői (1946–1948)
-- A polgári ellenzék képviselői (1947)
-- A szociáldemokraták képviselői (1948–1950)
-- A kommunista politikusok (1949–1952)
-- A parasztpárt képviselői (1948–1950)
-## A kényszerű együttműködés
+- #### A szalámi szeletei
+	- A kisgazdapárt képviselői (1946–1948)
+	- A polgári ellenzék képviselői (1947)
+	- A szociáldemokraták képviselői (1948–1950)
+	- A kommunista politikusok (1949–1952)
+	- A parasztpárt képviselői (1948–1950)
+### A kényszerű együttműködés
 → az FKGP-ben a békeszerződés aláírásától várak enyhülést
 → az MKP növelte tömegbázisát, befolyását
 	- gazdasági élet irányítása
@@ -65,7 +62,7 @@ A köztársaság-ellenesnek mondott Magyar Közösség pere.
 ### „B” listázás a közigazgatásban
 - 60 ezer közalkalmazott elbocsátása
 - 1500 „reakciós” szervezet feloszlatása (Rajk László)
-## A kényszerű együttműködés
+### A kényszerű együttműködés
 → az SZDP kritikusai
 	- Peyer Károly és Kéthly Anna
 → az NPP kritikusai

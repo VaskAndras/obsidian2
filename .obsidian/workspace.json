@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Költői eszközök 1"
             }
+          },
+          {
+            "id": "23f1c3f147d71092",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3601509118366694",
+  "active": "23f1c3f147d71092",
   "lastOpenFiles": [
     "4-tananyag/Magyar gyakorlás/Költői eszközök.md",
     "4-tananyag/Magyar gyakorlás/Költői eszközök 1.md",

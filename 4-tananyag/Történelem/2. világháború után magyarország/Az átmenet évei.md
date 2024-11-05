@@ -1,15 +1,15 @@
-# Magyarország 1945 és 1956 között
+# Magyarország úton a diktatúra felé
 
-## Magyarország úton a diktatúra felé
-▪ Az első választás a háború után
-	→ Jalta: választásokat kell tartani
-		- a szovjet övezetben először itt tartottak ilyet
-		- nem lehet tudni, mi várható
-	→ többpárti választásokat tartottak, szovjet beleegyezéssel
-		- az FKgP került többségbe, de nem alakíthatott egyedül kormányt
+## Nemzetgyűlés 1945 novemberében
+### Az első választás a háború után
+→ **Jalta: választásokat kell tartani**
+	- a szovjet övezetben először itt tartottak ilyet
+	- nem lehet tudni, mi várható
+→ többpárti választásokat tartottak, szovjet beleegyezéssel
+	- az FKgP került többségbe, de nem alakíthatott egyedül kormányt
 
-## Az új kormány
-→ Tildy Zoltán, az FKgP vezetője lett a miniszterelnök
+### Az új kormány
+→ **Tildy Zoltán, az FKgP vezetője lett a miniszterelnök**
 	- a koalíciós kormányban korrigálta a helyzetet az MKP
 	- pár hónapig létezett, utána Tildyből köztársasági elnök lett
 
@@ -29,14 +29,16 @@
 → a költségvetés kb. 40%-át a jóvátételre és a szovjet csapatok ellátására kellett fordítani 
 → a külkereskedelem nagy része a Szovjetunióba irányult 
 	- a magyar ipar egyes ágazatai ottani nyersanyagokra épültek
-## Az új fizetőeszköz (1946. aug. 1.)
+
+## A forint bevezetése
+### Az új fizetőeszköz (1946. aug. 1.)
 → a kormány nem tudta fedezni kiadásait (7-8%-ra elég bevétel!)
     - nincs külföldi hitelezés
     - **fedezetlen pénzkibocsátás**
 	    => hiperinfláció
     - **naturális cseregazdálkodás**
 	    => batyuzók
-## A Baloldali Blokk
+### A Baloldali Blokk
  → MKP, SZDP, NPP
     - a kisgazdákkal szembeni fellépés
     - a SZEB támogatta
@@ -54,46 +56,21 @@ A köztársaság-ellenesnek mondott Magyar Közösség pere.
 - A szociáldemokraták képviselői (1948–1950)
 - A kommunista politikusok (1949–1952)
 - A parasztpárt képviselői (1948–1950)
-# A kommunisták térnyerése
-    ▪ A kényszerű együttműködés
-    → az FKGP-ben a békeszerződés aláírásától várak enyhülést
-    → az MKP növelte tömegbázisát, befolyását
-        - gazdasági élet irányítása
-        - belügyi szervek
-        - „kisnyilasok” beléptetése
-
-# Népbírósági eljárás
-    - Endre László és Baky László a Népbíróság előtt.
-    - Kb. 160–190 főt végeztek ki.
-
-# Politikai humor és társadalmi helyzet
-    Kohn és Grün a véletlen szerencse folytán életben maradt. A járda szeléről a május elsejei felvonulást nézik, és egymás szavába vágva hüledeznek:
-    - „Odanézz! Aki ott elöl azt a vörös csillagot viszi, nemrég még nyilaskereszttel feszített!”
-    - „Mögötte, aki a jelszót cipeli, az jelentett fel engem!”
-    - „Aki a Rákosi-képet viszi, az ellenőrizte a gettót!”
-    - „Hát ez már mindennek a teteje, tennünk kellene valamit!”
-    - „Ugyan, hagyd! Kis nép vagyunk, nekünk csak egy csőcselékünk van.”
-
-# „B” listázás a közigazgatásban
-    - 60 ezer közalkalmazott elbocsátása
-    - 1500 „reakciós” szervezet feloszlatása (Rajk László)
-
-# A kommunisták térnyerése
-    ▪ A kényszerű együttműködés
-    → az SZDP kritikusai
-        - Peyer Károly és Kéthly Anna
-    → az NPP kritikusai
-        - Kovács Imre
-        - „Hát egybekelnek?”
-        - „Persze! Már három éve jegyben jártunk, csak az öregek akadékoskodtak.” 
-        (Hepiend, Ludas Matyi, 1948.)
-        - „Azon a jobboldali úton is lehet menni?” „Lehet, de veszélyes.” (Ludas Matyi, 1948.)
-
-# Az MKP térnyerése
-    → politikai rendőrség
-        - ÁVO
-    → kollaboránsok/kriptokommunisták
-
-# A kommunisták térnyerése
-    „Alapvető feladatunknak azt tartjuk, hogy mindent előre megtudjunk, s tájékoztassuk erről vezetőinket. E célból meglehetősen kiterjedt informátorhálózatot hoztunk létre. Valamennyi pártban vannak embereink. […] A beszervezésre többnyire annak köszönhetően került sor, hogy kompromittáló anyagok vannak a kezünkben. […] Minden minisztériumban, sőt az egyházi személyek között is megvannak az embereink. […] A politikai rendőrség nagy segítséget nyújt a pártnak. Pártközi tanácskozások előtt általában sikerül megtudnunk, mi a szándéka politikai ellenfeleinknek, s ennek köszönhetően idejében tájékoztatjuk mindenről a kommunista párt vezetőségét. Megszerveztük a telefonlehallgatásokat. […]”
-    (Részletek Péter Gábor jelentéséből, 1947)
+## A kényszerű együttműködés
+→ az FKGP-ben a békeszerződés aláírásától várak enyhülést
+→ az MKP növelte tömegbázisát, befolyását
+	- gazdasági élet irányítása
+    - belügyi szervek
+    - „kisnyilasok” beléptetése
+### „B” listázás a közigazgatásban
+- 60 ezer közalkalmazott elbocsátása
+- 1500 „reakciós” szervezet feloszlatása (Rajk László)
+## A kényszerű együttműködés
+→ az SZDP kritikusai
+	- Peyer Károly és Kéthly Anna
+→ az NPP kritikusai
+    - Kovács Imre
+## Az MKP térnyerése
+ → politikai rendőrség
+    - ÁVO
+→ kollaboránsok/kriptokommunisták

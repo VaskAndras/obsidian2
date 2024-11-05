@@ -9,3 +9,5 @@
 - [[József Attila vers szóképek]]
 - [[teszt 2]]
 - [[Költői eszközök 1]] 
+- [[Ötletek a verselemzéshez]]
+- 

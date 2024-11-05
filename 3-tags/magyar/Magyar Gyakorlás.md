@@ -8,4 +8,4 @@
 - [[Szavak szerepe]]
 - [[József Attila vers szóképek]]
 - [[teszt 2]]
-- [[Költői eszközök]] 
+- [[Költői eszközök 1]] 

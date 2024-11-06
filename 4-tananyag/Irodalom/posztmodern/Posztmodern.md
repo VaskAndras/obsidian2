@@ -141,7 +141,7 @@
   - A címben szereplő „száz év” a regényidőt jelöli, a Buendía család történetének kezdetétől a végéig.
   - Az idő relatív: bár lineárisan halad, a hangsúly a miértjén van, nem a mikorján. A múlt hibái újra megjelennek a következő generációkban.
 
-### Vázlat: Sörgyári capriccio (részletes kiegészítéssel)
+## Sörgyári capriccio 
 
 ### I. Bevezetés
 - **Megjelenés**: 1963, magyar fordítás

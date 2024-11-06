@@ -13,4 +13,4 @@ Késői modernség
 
 Poszmodern
 [[Posztmodern]]
-[[ kós károly]]
+[[Kós Károly]]

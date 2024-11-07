@@ -31,4 +31,9 @@
 	- a helyzet szükségességének indoklása
 - **Összehasonlításból és példákból levezetett érvek**
 - **Tényekből és adatokból levezetett érvek**
+### Érvelés feltételei
+- Nyitott viselkedés
+- Kommunikatív 
+- Kíváncsiság
+- Felelősség
 - 

@@ -61,10 +61,8 @@ jelentkezik Magyarországon
 - **Végső döntés:** Csehszlovákia, Jugoszlávia és a Szovjetunió érdekei
   - **Térvesztés:** Magyarország nem tarthatott meg plusz területet
   - **Kárpótlás:** Románia Észak-Erdéllyel, a Szovjetunió Besszarábiával
-
 ### Az amerikai javaslat (1943)
 - **Cél:** Egy igazságosabb határok
-
 ### A párizsi békeszerződés aláírása (1947. február 10.)
 - **Következmények:** 
   - 1938-as határok visszaállítása

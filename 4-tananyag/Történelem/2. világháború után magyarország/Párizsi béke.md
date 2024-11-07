@@ -38,16 +38,17 @@
 - **Magyarok esetében:** kb. 44 ezer fő deportálása cseh területekre
 - **Lakosságcsere-egyezmény:** Kényszerített magyar kormány a területi cserére
 
-## A lakosságcsere 1947-ben
-- Megkötötték az egyezményt
-	- **annyi magyart telepíthetnek át, ahány szlovák önkéntesen jelentkezik Magyarországon**
-	- egy időre elakadt a folyamat, mire a csehek zsarolásba kezdtek
-- **Egyezmény:** Cseh önkéntesek száma határozza meg a magyarok áthelyezését
-- **Deportálás:** 1946. november 17–19. (Felső-Csallóköz)
-  - **Kényszerintézkedések:** Vagyonelkobzás, emberiesség figyelmen kívül hagyása
-  - **Halálesetek:** Szigorú téli körülmények, nem megfelelő szállítás
-  - **Munkaerő kiválasztása:** Fyzikai erő alapján
-
+### A lakosságcsere
+#### Megkötötték az egyezményt
+- annyi magyart telepíthetnek át, ahány szlovák önkéntesen
+jelentkezik Magyarországon
+- egy időre elakadt a folyamat, mire a csehek zsarolásba kezdtek
+- több százezer jelentkezőre helyett csak kb. 73 ezer fő települt át
+- kb. 90 ezer magyar érkezett így
+#### Az ott maradt visszakaphatták állampolgárságukat a
+- reszlovakizáció folyamatában 1948-tól (~ 330 ezer fő)
+- kérelmezni kellett a szlovákká nyilvánítást
+- szlovákosítani kellett a nevet
 ### Visszatelepítés és reszlovakizáció
 - **73 ezer fő áthelyezése** a magyar területre
 - **90 ezer magyar érkezése** Csehszlovákiából

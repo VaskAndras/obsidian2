@@ -39,6 +39,9 @@
 - **Lakosságcsere-egyezmény:** Kényszerített magyar kormány a területi cserére
 
 ## A lakosságcsere 1947-ben
+- Megkötötték az egyezményt
+	- **annyi magyart telepíthetnek át, ahány szlovák önkéntesen jelentkezik Magyarországon**
+	- egy időre elakadt a folyamat, mire a csehek zsarolásba kezdtek
 - **Egyezmény:** Cseh önkéntesek száma határozza meg a magyarok áthelyezését
 - **Deportálás:** 1946. november 17–19. (Felső-Csallóköz)
   - **Kényszerintézkedések:** Vagyonelkobzás, emberiesség figyelmen kívül hagyása

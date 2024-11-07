@@ -36,4 +36,7 @@
 - Kommunikatív 
 - Kíváncsiság
 - Felelősség
-- 
+
+### Cáfolás
+- #### Tagadás
+	- Az állítás ellentétének állítása

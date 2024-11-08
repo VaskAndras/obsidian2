@@ -10,4 +10,4 @@
 - [[teszt 2]]
 - [[Költői eszközök 1]] 
 - [[Ötletek a verselemzéshez]]
-- 
+- [[Ötletek a novellaelemzéshez]]

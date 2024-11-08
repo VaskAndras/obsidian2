@@ -27,4 +27,5 @@
 - **Motívumok és Szimbólumok**: Fontos motívumok, szimbólumok és jelentésük változása.
 
 ### Jelentés
-- **Témák és Üzenetek**: Fő kérdések a társadalomról, emberi természetről, filozófiai gondolatokról.
+- **Témák és Üzenetek**: Hogyan áll a mű fő társadalmi kérdésekhez,
+- **Központi kérdés**:  Mi a mű központi kérdése?

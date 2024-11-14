@@ -28,4 +28,13 @@ esszék: érettségi típusú 33p
 - mindszenti per
 - internálás
 - recski munkatábor
-- cse
+- csengőfrász
+- személyi kultusz
+- ötéves terv
+- KGST
+- feketevágás
+- beszolgáltatás
+- padlássöprés
+- kulákok
+- Ratkó korszak 1950-53
+- 

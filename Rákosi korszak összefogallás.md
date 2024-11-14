@@ -4,3 +4,28 @@ esszék: érettségi típusú 33p
 - 2015 máj
 - 2015 okt
 - 2019 okt
+
+## Fogalmak:
+-  Pártok
+	- kisgazdák, kommunisták, parasztpárt, függetlenségi front pártjai, szociáldemokrata 
+	- politikusok ki melyik
+- Ideiglenes nemzetgyűlés
+- ideiglenes nemzeti kormány
+- népbítóság
+- földosztás
+- baloldali blokk
+- forint 
+- hiperinfláció
+- szalámitaktika
+- államosítás
+- b listázás
+- ÁVO
+- ÁVH
+- koncepciós per
+- kékcédulás választás
+- magyar dolgozók pártja
+- elnöki tanács
+- mindszenti per
+- internálás
+- recski munkatábor
+- cse

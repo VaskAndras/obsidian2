@@ -13,9 +13,15 @@ Melyik iparágba hoz megoldást az ötletetek?* (megadása kötelező)
 
 Kérlek, ismertessétek 2-3 mondatban az ötletet, amivel a versenyre jelentkeztek!* (megadása kötelező)
 
+Egy applikációt szerenénk létrehozni, mely segítséget nyújtana a vadkempingező számára, hogy ne teljesen vakon induljanak neki a nagyvilágnak. A célja hogy az emberek megosszák a tapasztalataikat a vadkempingezéssel kapcsolatban. Feltölthetik a  A felhasználók közösségileg formálhatnák az applikációt, mely organikusan tudna bővülni.  A térképen fel lennéne tűntetve a pontos zónák, hogy területalapon mik vadkempingezés szabályai.
+
 Közösségi fejlesztésű és terjesztésű vadkemping app, amelyen a felhasználók megoszthatják a vadkemping helyszíneket ahol jártak. Tippeket adhatnak az arra túrázóknak.
 
 Mi az a probléma, melyre megoldást kínál az ötletetek? Miért hasznos társadalmi szempontból? Ismertessétek 2-3 mondatban!* (megadása kötelező)
+
+
+
+
 
 Ha az ember vadkempingezni indul, nagyon nehéz előzetesen felkészülni, hogy pontosan mi is vár rá. Meg lehet nézni az útvonalat, de rengeteg pihenő, pad, vagy csak szimplán kellemes környék nincs feltűntetve, vagy csak nagy utánajárással lehet megtalálni. Ezen felül ezek az információk hiányosak, elavultak és pontatlanok lehetnek.  
 

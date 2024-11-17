@@ -17,7 +17,9 @@ Közösségi fejlesztésű és terjesztésű vadkemping app, amelyen a felhaszn�
 
 Mi az a probléma, melyre megoldást kínál az ötletetek? Miért hasznos társadalmi szempontból? Ismertessétek 2-3 mondatban!* (megadása kötelező)
 
-Ha az ember vadkempingezni indul, nagyon nehéz előzetesen felkészülni, hogy pontosan mi is vár rá. Meg lehet nézni az útvonalat természetesen, illetve a hatóságok által fenntartott helyek dokumentációja is nyílvánosan elérető. Sajnos ezek az információk hiányosak, elavultak és pontatlanok lehetnek, illeErre nyújtana megoldást a 
+Ha az ember vadkempingezni indul, nagyon nehéz előzetesen felkészülni, hogy pontosan mi is vár rá. Meg lehet nézni az útvonalat, de rengeteg pihenő, pad, vagy csak szimplán kellemes környék nincs feltűntetve, vagy csak nagy utánajárással lehet megtalálni. Ezen felül ezek az információk hiányosak, elavultak és pontatlanok lehetnek. Jelenleg rengeteg Facebook csoport létezik arra, hogy ezt a hiányt pótolják. Ezekben a csoportokban kérdezgetik egymást a tagok a jó helyszínekről, tippekről. 
+Sajnos egy
+Erre nyújtana megoldást applikációnk, mellyel az emberek folyamatosan tudják informálni egymást, hogy mi az aktuális helyzet,, illetve új helyeket is megjeleníthetnek a térképen. Ez az app egy
 
 _Az ötleted (legyen az tevékenység, áru vagy szolgáltatás) kollektív érdeket képvisel akár egy ország polgárainak, akár nagyobb mértékben, az egész emberiség számára? Hogyan tud hosszútávon is működni a projekted? Mik a projekted távlati céljai, pél. 5-10 év múlva hol képzeled el a projektet? Hogyan tudja a projekted az önfenntartást biztosítani? Van mellékterméke a projektnek, melyet valahol máshol a projekten belül vagy kívül hasznosítani tudsz? Milyen egyes lépésekben (folyamatban) gondolkodsz, ami értéket teremt jövendőbeli fogyasztóid körében?_ 
 

@@ -84,7 +84,7 @@ Fresnel 1816-ban végezte el interferenciakísérletét két tükör segítség�
 - Az akadály mögött is érzékelhetők hullámjelenségek.  
 - Példa: Tűvel lyukasztott papíron át nézve a lámpa körül színes gyűrűk jelennek meg.
 
-### Magyarázat: a **Huygens-Fresnel elv**  
+### Magyarázat: a Huygens-Fresnel elv 
 - *Huygens-elv*: A hullámfelület minden pontja elemi gömbhullámokat bocsát ki.  
 - *Fresnel-elv*: Az elemi hullámok interferenciája határozza meg a fényhatást egy adott pontban.  
 
@@ -98,7 +98,7 @@ Fresnel 1816-ban végezte el interferenciakísérletét két tükör segítség�
 - Az interferencia miatt az ernyőn sötét és világos foltok alakulnak ki.  
 - **Intenzitásmaximum**: Ha a résből érkező sugarak útkülönbsége a félhullámhossz páratlan számú többszöröse.  
 - **Intenzitásminimum**: Ha az útkülönbség a félhullámhossz páros számú többszöröse.  
-
+![[IMG_1681.jpeg]]
 ### Zónák és interferencia  
 - A fény nyalábjait zónákra osztjuk, ahol az útkülönbség félhullámhossznyi.  
 - Páros számú zónák esetén a hullámok kioltják egymást, sötét folt keletkezik.  

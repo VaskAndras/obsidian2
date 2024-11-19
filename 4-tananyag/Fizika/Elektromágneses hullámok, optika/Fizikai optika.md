@@ -176,13 +176,21 @@ Fresnel 1816-ban végezte el interferenciakísérletét két tükör segítség�
 ![[IMG_1684.jpeg]]
 ### Brewster-törvény  
 - A visszavert fény akkor lesz teljesen poláros, ha a visszavert és a megtört fénysugár által bezárt szög **90°**.  
+- ![[IMG_1685 1.jpeg]]
 - Ez akkor teljesül, ha a **beesési szög tangense egyenlő a felület törésmutatójával**:  
 
 $$
 \frac{\sin\alpha}{\sin\beta} = n
 $$
-ééé
-
+$$
+\frac{\sin\alpha}{\sin(90-\alpha)} = n
+$$
+$$
+\frac{\sin\alpha}{\cos\alpha} = n
+$$
+$$
+\tan \alpha = n
+$$
 #### A poláros fény viselkedése  
 - A poláros fény visszaverődéskor és anyagokon való áthaladáskor eltérően viselkedik a természetes fénytől.  
 - **Polárszűrők** segítségével megszűrhetők a tükröződő felületek zavaró fényei.  
@@ -196,8 +204,61 @@ $$
 - Bizonyos kristályok, például mészpát, a belépő fénysugarakat kettéválasztják:  
   - **Rendes sugár**: A fénytörés törvénye szerint halad (Snellius–Descartes törvény).  
   - **Rendellenes sugár**: Nem követi a törvényt, irányváltoztatás nélkül halad.  
+  - ![[IMG_1686.jpeg]]
 - Mindkét fénysugár **poláros**, és rezgési síkjuk egymásra merőleges.  
 
 #### Polaroidszűrők készítése  
 - A kristály által előállított két fénysugár közül a polaroidszűrő csak az egyiket engedi át.  
 - Ezáltal létrehoz egy irányított, poláros fényt.  
+
+## A lézer  
+
+#### A lézer működése és alapjai  
+- **Elmélet kidolgozása**: 1957-ben két amerikai tudós állt elő a lézer elméletével.  
+- **Első lézer**: 1960-ban készült el az első működő lézer.  
+
+#### A lézer fényének tulajdonságai  
+- **Monokromatikus**: Egyetlen színt tartalmaz.  
+- **Párhuzamos**: A lézersugár szinte teljesen párhuzamos.  
+- **Koherens**: Rendezett, azonos fázisú hullámokból áll.  
+- **Nagy intenzitású**: Az egységnyi felületen átáramló energia kiemelkedően nagy.  
+
+#### A lézerfény keletkezése  
+- A lézer neve az angol **"Light Amplification by Stimulated Emission of Radiation"** rövidítéséből származik.  
+- **Alapfolyamatok**:  
+  - **Gerjesztés**: Az elektromos áram gerjeszti a gázt egy üvegcsőben.  
+  - **Spontán emisszió**: A gerjesztett atomok egy része fotonokat bocsát ki magától.  
+  - **Indukált emisszió**: Az egyik foton gerjesztett atommal ütközve újabb azonos fotont hoz létre.  
+  - **Láncreakció**: Az indukált emisszió során egyre több azonos fázisú foton keletkezik.  
+  - **Párhuzamos nyaláb**: A fotonok a cső végén tükrökről visszaverődve jönnek létre.  
+
+#### A lézerek típusai  
+- **Gázlézer**  
+- **Festéklézer**  
+- **Szilárdtest-lézer**  
+- **Kémiai lézer**  
+
+#### Lézer teljesítménye  
+- Teljesítménye néhány milliwattól több millió wattig terjedhet.  
+- Példa: Egy 10 wattos lézer fénye képes átlyukasztani egy könyvet.  
+
+
+### Hologram  
+
+#### A hologram jellemzői  
+- **Háromdimenziós kép**: A hologram térhatású képet ad.  
+- **Egyedi szerkezet**: A hologram "zavaros maszatnak" tűnik a lemezen.  
+- **Rekonstrukció**: Ha a hologram lemeze eltörik, minden darabja tartalmazza az egész tárgy képét.  
+
+#### A hologram készítésének folyamata  
+1. **Lézersugarak irányítása**: Tükrökkel és lencsékkel vezetik a lézersugarat.  
+2. **Kémiai változások**: A fényképezőlemezen a lézerfény kémiai reakciókat idéz elő, amelyek rögzítik a képet.  
+3. **Zavarás minimalizálása**: Minden rezgés, például a hang, elkenheti a hologramot.  
+4. **Nyalábosztás**:  
+   - **Tárgysugár**: A tárgyra irányul.  
+   - **Referenciasugár**: Közvetlenül a lemezre irányul.  
+5. **Interferencia**: A két sugár a lemezen találkozva interferenciaképet hoz létre.  
+
+#### A hologram megjelenítése  
+- A hologramot a **referenciasugár oldaláról** kell megvilágítani, hogy az eredeti kép visszatükröződjön.  
+- A hologram színe attól függ, hogy milyen színű lézerfényt használtak.  

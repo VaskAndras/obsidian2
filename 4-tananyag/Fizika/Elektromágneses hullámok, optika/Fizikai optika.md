@@ -77,4 +77,29 @@ Fresnel 1816-ban végezte el interferenciakísérletét két tükör segítség�
 - A vékony rétegekben a fény egy része a külső felületről, a másik része a belső felületről verődik vissza, így a kétféle úton haladó fény interferál.
 - Az interferencia színes gyűrűket eredményez, mivel különböző fényhullámhosszak **különböző helyeken erősítik vagy gyengítik egymást.**
 
+### Fényelhajlás vázlat
 
+### Mi a fényelhajlás?  
+- A fényelhajlás akkor figyelhető meg, ha az egyenes vonalban haladó fény útjába akadály kerül.  
+- Az akadály mögött is érzékelhetők hullámjelenségek.  
+- Példa: Tűvel lyukasztott papíron át nézve a lámpa körül színes gyűrűk jelennek meg.
+
+### Magyarázat: a **Huygens-Fresnel elv**  
+- *Huygens-elv*: A hullámfelület minden pontja elemi gömbhullámokat bocsát ki.  
+- *Fresnel-elv*: Az elemi hullámok interferenciája határozza meg a fényhatást egy adott pontban.  
+
+### Fényelhajlás optikai résen keresztül  
+- Egy rést homogén fényű izzóval világítunk meg.  
+- A rés szűkítésével a fényfolt mellett sötét és világos csíkok jelennek meg, ahol árnyékot várnánk.  
+- Fehér fény esetén a csíkok a színekre bomlanak (külső: vörös, belső: ibolya).  
+
+#### A jelenség magyarázata  
+- A rés minden pontjából azonos fázisú elemi hullámok indulnak ki.  
+- Az interferencia miatt az ernyőn sötét és világos foltok alakulnak ki.  
+- **Intenzitásmaximum**: Ha a résből érkező sugarak útkülönbsége a félhullámhossz páratlan számú többszöröse.  
+- **Intenzitásminimum**: Ha az útkülönbség a félhullámhossz páros számú többszöröse.  
+
+### Zónák és interferencia  
+- A fény nyalábjait zónákra osztjuk, ahol az útkülönbség félhullámhossznyi.  
+- Páros számú zónák esetén a hullámok kioltják egymást, sötét folt keletkezik.  
+- Páratlan számú zónák esetén egy részzóna világítja meg az ernyőt, így világos folt jelenik meg.

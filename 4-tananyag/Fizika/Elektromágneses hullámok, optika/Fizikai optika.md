@@ -64,8 +64,6 @@ Fresnel 1816-ban végezte el interferenciakísérletét két tükör segítség�
 - Az interferenciát csak akkor látjuk, ha a fényhullámok rendszeres módon érkeznek egy adott pontra, amit az atomok szabálytalan fénykibocsátása megakadályozhat.
 - Az interferencia észleléséhez a fényhullámokat hasonló atomi folyamatokból kell származtatni, és az útkülönbség ne legyen nagyobb 1 m-nél.
 
----
-
 ## Interferencia vékony rétegen
 
 - Fényben színes foltokat láthatunk különböző vékony rétegeken:
@@ -73,6 +71,10 @@ Fresnel 1816-ban végezte el interferenciakísérletét két tükör segítség�
     - szappanbuborék
     - üveglapok közé szorított levegő
     - acéllemezen képződött oxidréteg
+    
+    ![[IMG_1679.jpeg]]
 - Ez a fényinterferenciával magyarázható.
 - A vékony rétegekben a fény egy része a külső felületről, a másik része a belső felületről verődik vissza, így a kétféle úton haladó fény interferál.
-- Az interferencia színes gyűrűket eredményez, mivel különböző fényhullámhosszak különböző helyeken erősítik vagy gyengítik egymást.
+- Az interferencia színes gyűrűket eredményez, mivel különböző fényhullámhosszak **különböző helyeken erősítik vagy gyengítik egymást.**
+
+

@@ -88,18 +88,72 @@ Fresnel 1816-ban végezte el interferenciakísérletét két tükör segítség�
 - *Huygens-elv*: A hullámfelület minden pontja elemi gömbhullámokat bocsát ki.  
 - *Fresnel-elv*: Az elemi hullámok interferenciája határozza meg a fényhatást egy adott pontban.  
 
-### Fényelhajlás optikai résen keresztül  
+## Fényelhajlás optikai résen keresztül  
 - Egy rést homogén fényű izzóval világítunk meg.  
 - A rés szűkítésével a fényfolt mellett sötét és világos csíkok jelennek meg, ahol árnyékot várnánk.  
 - Fehér fény esetén a csíkok a színekre bomlanak (külső: vörös, belső: ibolya).  
-
-#### A jelenség magyarázata  
+![[IMG_1680.jpeg]]
+### A jelenség magyarázata  
 - A rés minden pontjából azonos fázisú elemi hullámok indulnak ki.  
 - Az interferencia miatt az ernyőn sötét és világos foltok alakulnak ki.  
 - **Intenzitásmaximum**: Ha a résből érkező sugarak útkülönbsége a félhullámhossz páratlan számú többszöröse.  
 - **Intenzitásminimum**: Ha az útkülönbség a félhullámhossz páros számú többszöröse.  
 ![[IMG_1681.jpeg]]
-### Zónák és interferencia  
-- A fény nyalábjait zónákra osztjuk, ahol az útkülönbség félhullámhossznyi.  
-- Páros számú zónák esetén a hullámok kioltják egymást, sötét folt keletkezik.  
-- Páratlan számú zónák esetén egy részzóna világítja meg az ernyőt, így világos folt jelenik meg.
+### Zónákra osztás és interferencia  
+
+- A fénynyalábot zónákra osztjuk, ahol az egymás mellett lévő zónák útkülönbsége *félhullámhossznyi*.  
+- Ha a zónák az ernyőn találkoznak, az interferencia miatt kioltják egymást.  
+
+#### Páros számú zónák  
+- Ha a nyaláb páros számú zónára osztható, az egymás melletti zónák teljesen kioltják egymást.  
+- Az ernyőn ilyenkor **sötét folt** látható.  
+
+#### Páratlan számú zónák  
+- Ha a nyaláb páratlan számú zónára osztható, a kioltás után egy részzóna megmarad.  
+- Az ernyőn ilyenkor **világos folt** jelenik meg.  
+
+#### Intenzitásmaximum (*erősítés*)  
+- Erősítés akkor következik be, ha a nyaláb szélső sugarainak útkülönbsége a *félhullámhossz páratlan számú többszöröse*:  
+  $$
+  \Delta s = (2k+1) \cdot \frac{\lambda}{2}
+ $$ 
+
+#### Intenzitásminimum (*kioltás*)  
+- Kioltás akkor történik, ha a nyaláb szélső sugarainak útkülönbsége a *félhullámhossz páros számú többszöröse*:  
+  $$
+  \Delta s = 2k \cdot \frac{\lambda}{2}
+  $$
+## Fényelhajlás optikai rácson  
+
+### Az optikai rács felépítése  
+- Az optikai rács párhuzamos vonalak sűrű sorozata, amelyeket üveglemezre húznak.  
+- Egy milliméteren akár több ezer vonal is lehet.  
+- A rések olyan vékonyak, hogy pontszerű fényforrásokként viselkednek.  
+
+### A fényhullámok tulajdonságai rácson  
+- A résekből kilépő fénysugarak adott pillanatban azonos fázisban indulnak el.  
+- A szomszédos rések sugarainak távolsága kicsi, ezért közel párhuzamosnak tekinthetők.  
+
+#### Maximális erősítés  
+- Erősítés akkor tapasztalható, ha az egymás melletti résekből kilépő fénysugarak között az útkülönbség a *félhullámhossz páros számú többszöröse*:  
+  $$
+  \Delta s = 2k \cdot \frac{\lambda}{2}
+  $$ 
+
+#### Kioltás  
+- Kioltás akkor következik be, ha az útkülönbség a *félhullámhossz páratlan számú többszöröse*:  
+  $$
+  \Delta s = (2k+1) \cdot \frac{\lambda}{2}
+  $$ 
+
+#### Az útkülönbség meghatározása  
+- Az útkülönbséget az alábbi képlet adja meg:  
+  $$
+  \Delta s = d \cdot \sin \alpha
+  $$ 
+- Itt \(d\) a rácsállandó, amely a szomszédos rések távolságát jelenti.  
+
+#### A rács elhajlási képének jellemzői  
+- A rács elhajlási képe nem fokozatosan halványodó, hanem **sötét és világos sávokból** áll.  
+- A rács fényfoltjai sokkal **fényesebbek és távolabb helyezkednek el egymástól**, mint a rés esetén.  
+

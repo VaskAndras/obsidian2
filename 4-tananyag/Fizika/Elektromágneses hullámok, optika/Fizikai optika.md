@@ -133,7 +133,7 @@ Fresnel 1816-ban végezte el interferenciakísérletét két tükör segítség�
 ### A fényhullámok tulajdonságai rácson  
 - A résekből kilépő fénysugarak adott pillanatban azonos fázisban indulnak el.  
 - A szomszédos rések sugarainak távolsága kicsi, ezért közel párhuzamosnak tekinthetők.  
-
+![[IMG_1682.jpeg]]
 #### Maximális erősítés  
 - Erősítés akkor tapasztalható, ha az egymás melletti résekből kilépő fénysugarak között az útkülönbség a *félhullámhossz páros számú többszöröse*:  
   $$
@@ -157,3 +157,47 @@ Fresnel 1816-ban végezte el interferenciakísérletét két tükör segítség�
 - A rács elhajlási képe nem fokozatosan halványodó, hanem **sötét és világos sávokból** áll.  
 - A rács fényfoltjai sokkal **fényesebbek és távolabb helyezkednek el egymástól**, mint a rés esetén.  
 
+## A fény polarizációja  
+
+### A polarizáció fogalma  
+- **Polarizáció**: A különböző rezgésirányú hullámok közül egy adott rezgésirányú hullám kiválasztása.  
+- Csak **tranzverzális hullámok** polarizálhatók, mivel rezgésük merőleges a terjedési irányra.  
+- A fény polarizálhatósága bizonyítja, hogy tranzverzális hullám.  
+
+### Malus kísérlete (1808)  
+- Malus természetes fényt irányított egy üveglapra, majd egy második üveglapot forgatott a visszavert fény tengelye körül.  
+- Megfigyelte, hogy a második üveglap által visszavert fény intenzitása periodikusan változott.  
+![[IMG_1683.jpeg]]
+
+
+- Magyarázat:  
+  - Az első üveglap (polarizátor) csak egy adott rezgési síkú fényt ver vissza, amely "illeszkedik" az üveglap síkjához.  
+  - A második üveglap (analizátor) forgása során, amikor síkja merőleges a polarizált fény rezgési síkjára, a fényt elnyeli.  
+![[IMG_1684.jpeg]]
+### Brewster-törvény  
+- A visszavert fény akkor lesz teljesen poláros, ha a visszavert és a megtört fénysugár által bezárt szög **90°**.  
+- Ez akkor teljesül, ha a **beesési szög tangense egyenlő a felület törésmutatójával**:  
+
+$$
+\frac{\sin\alpha}{\sin\beta} = n
+$$
+ééé
+
+#### A poláros fény viselkedése  
+- A poláros fény visszaverődéskor és anyagokon való áthaladáskor eltérően viselkedik a természetes fénytől.  
+- **Polárszűrők** segítségével megszűrhetők a tükröződő felületek zavaró fényei.  
+
+#### Polárszűrők gyakorlati alkalmazásai  
+- **Napszemüvegek**: Csökkentik a csillogást, például víz vagy üvegfelületekről.  
+- **Fényképezőgépek**: Javítják a képminőséget tükröződések kiszűrésével.  
+- A polárszűrők láncmolekulákból állnak, amelyek csak egy adott irányú rezgést engednek át.  
+
+#### Poláros fény előállítása kettős töréssel  
+- Bizonyos kristályok, például mészpát, a belépő fénysugarakat kettéválasztják:  
+  - **Rendes sugár**: A fénytörés törvénye szerint halad (Snellius–Descartes törvény).  
+  - **Rendellenes sugár**: Nem követi a törvényt, irányváltoztatás nélkül halad.  
+- Mindkét fénysugár **poláros**, és rezgési síkjuk egymásra merőleges.  
+
+#### Polaroidszűrők készítése  
+- A kristály által előállított két fénysugár közül a polaroidszűrő csak az egyiket engedi át.  
+- Ezáltal létrehoz egy irányított, poláros fényt.  

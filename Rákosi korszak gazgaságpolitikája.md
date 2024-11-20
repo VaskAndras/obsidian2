@@ -1,80 +1,55 @@
 # Rákosi gazdaságpolitikája és felemás leváltása
 
 ## Gazdaságpolitikai irányváltás
-- Az életszínvonal romlása  
+### Az életszínvonal romlása**  
   → a KGST-n kívüli gazdasági kapcsolatokat le kellett építeni  
   - gazdasági önellátás, elzárkózás  
 
-- A tervgazdaság működése  
+### A tervgazdaság működése  
   → első ötéves terv  
   - a politikai célokhoz igazították a terveket  
   - módosítások, változások  
   - a megvalósítás is kikényszeríti  
   - óriási bürokrácia  
 
-- A „vas és acél” országa  
-  → erőltetett iparosítás  
+### A „vas és acél” országa  
+  → **erőltetett iparosítás  
   - nyersanyaghiány, gyártókapacitás hiánya, iparszerkezeti sajátosságok, világgazdasági trendek  
   - külföldi beszerzések (nyugat, SZU: nyersanyag, technológia)  
-
-- A „vas és acél” országa  
-  → a munkaerő kiaknázása  
+→ **a munkaerő kiaknázása  
   - szükséges ágazatokhoz, üzemekhez terelték (pl. tilalmak)  
   - teljesítménybérezés, normák emelése  
   - sztahanovizmus  
-  - „újítások”  
-
-*Idézet helye*
-
-- A sztahanovista munkaverseny jutalmai  
-  - példák a sztahanovista mozgalomról  
-
-*Idézet helye*
-
----
-
+  - „újítások”   
 ## A mezőgazdaság és a parasztság sorsa
-- A vidéki Magyarország a „vas és acél országában”  
-  → a birtokos parasztság részben megőrizte önállóságát  
+### A vidéki Magyarország a „vas és acél országában”  
+- **a birtokos parasztság részben megőrizte önállóságát  **
   - a hatalom fel akarta számolni  
   - erőszakos téeszesítés  
   - ellenállás  
-
-- A vidéki Magyarország a „vas és acél országában”  
-  → az ellenállás megtörése  
+- **az ellenállás megtörése  
   - kb. 400 ezer paraszt elítélése („közellátási bűntettek”)  
   - zaklatás + ellehetetlenítés  
   - sokan elhagyták földjeiket  
   - kulákok elleni fellépés  
-
-- A vidéki Magyarország a „vas és acél országában”  
-  → a következmények  
+- **a következmények  
   - ellátási nehézségek = jegyrendszer  
   - gabonabehozatal  
   - állatállomány drasztikus csökkenése  
   - magángazdaságok (háztáji) eredményesebbek voltak  
-
----
-
 ## A társadalom feletti politikai ellenőrzés kiépítése
-- Az egypártrendszer hatásai  
-  → gazdaság, tudomány, társadalom minden területén érvényesült  
+- **Az egypártrendszer hatásai  
+  → gazdaság, tudomány, társadalom minden területén érvényesült  **
   - önállóság felszámolása  
   - pártellenőrzés- és irányítás  
   - munkahelyi pártszervezetek  
-
-*Idézet helye*
-
 - Az új szakembergárda megteremtése  
   → képzések  
-  - NÉKOSZ: tehetséges, szegény fiatalok felemelése  
+  - **NÉKOSZ**: tehetséges, szegény fiatalok felemelése  
     - több tízezer fiatal tanulhatott  
     - 1949-ben felszámolták  
   - szakérettségi  
-    - tanfolyamok + egyetem  
-
----
-
+    - tanfolyamok + egyetem 
 ## A társadalom változásai
 - A társadalom átalakítása  
   → 600 ezerrel nőtt a keresők száma 1949 és 1956 között  
@@ -89,27 +64,27 @@
   - abortusz tilalma (Ratkó Anna)  
 
 ## Az életszínvonal alakulása
-- Az életminőség romlása  
+- **Az életminőség romlása  
   → csökkenő reálbérek  
   - csökkent az életszínvonal:  
     - a tapasztalat és a propaganda ellentmondó volt  
 
-- Az életminőség romlása  
+- **Az életminőség romlása  
   → hiányos ellátás  
   - hiánygazdaság  
   - negatív külkereskedelmi mérleg  
 
 ## Politikai változások Sztálin halála után
-- Rákosi politikájának csődje  
+- **Rákosi politikájának csődje  
   → terror, kollektivizálás, életszínvonal süllyedése, magánszféra megsértése, monolit kultúra  
   - változás: Sztálin halála, 1953. március 6.  
 
-- A feszültség enyhítése  
+- **A feszültség enyhítése  
   → Moszkva érzékelte a rendszert fenyegető veszélyeket  
   - szondázták a perifériák elégedetlenségét  
   - a magyar pártvezéreknek is új politikát írtak elő  
 
-- Rákosi bukása  
+- **Rákosi bukása  
   → Moszkvába rendelték a magyar pártvezetőket  
   - kifogásolták az MDP egyes lépéseit  
   - Rákosi leváltása a miniszterelnöki posztról  

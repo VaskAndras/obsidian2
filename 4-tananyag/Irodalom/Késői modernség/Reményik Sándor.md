@@ -19,3 +19,7 @@
 	- Pl.: Eredj
 -  A haza ügye szent üggyé magasztosul
 - Tagadó szavas mondatszerkesztés
+Műfaj:
+- óda
+- elégikus 
+- Elégiko-Óda

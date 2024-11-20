@@ -160,29 +160,32 @@ Műfaj:
   - A lírai én az otthonosság szépségében talál megnyugvást:  
     - *„S amíg itthon vagyunk [...] örökkévaló szent szépség vagyunk.”*
 
-| R   | E   | M   | É   | Ny  | I   | K   |
+|     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |
+|     | E   |     |     |     |     |     |
+|     | r   |     |     |     |     |     |
+|     | d   |     |     |     |     |     |
+| P   | é   |     |     |     | t   |     |
+| á   | ly  |     |     |     | r   |     |
+| sz  | i   |     |     |     | a   |     |
+| t   |     |     |     |     | n   |     |
+| o   | H   |     |     |     | sz  |     |
+| R   | e   | m   | é   | ny  | i   | k   |
+| t   | l   | a   |     |     | z   | o   |
+| ű   | i   | g   |     |     | m   | l   |
+| z   | k   | a   |     |     | u   | o   |
+|     | o   | s   |     |     | s   | zs  |
+|     | n   | f   |     |     |     | v   |
+|     |     | e   |     |     |     | á   |
+|     |     | sz  |     |     |     | r   |
+|     |     | ü   |     |     |     |     |
+|     |     | l   |     |     |     |     |
+|     |     | t   |     |     |     |     |
+|     |     | s   |     |     |     |     |
+|     |     | é   |     |     |     |     |
+|     |     | g   |     |     |     |     |
 Itt vannak új kérdések egyszavas válaszokkal:
 
-### Életrajzi adatok:
-1. **Mikor született Reményik Sándor?**  
-   1890
-
-2. **Melyik városban született?**  
-   Kolozsvár
-
-3. **Milyen diplomát szerzett?**  
-   Nem
-
-4. **Mi volt apja foglalkozása?**  
-   Építészmérnök
 
 5. **Hol nyugszik Reményik Sándor?**  
    Kolozsvár
@@ -190,12 +193,6 @@ Itt vannak új kérdések egyszavas válaszokkal:
 ### Költői pálya:
 6. **Melyik folyóiratot szerkesztette?**  
    Pásztortűz
-
-7. **Melyik irodalmi csoportnak volt alapító tagja?**  
-   Helikon
-
-8. **Mi volt az első költői álnéve?**  
-   Végvári
 
 ### Művek:
 9. **Melyik művét tartják legérettebbnek?**  
@@ -252,3 +249,24 @@ Itt vannak új kérdések egyszavas válaszokkal:
 ### Különleges kifejezések:
 25. **Milyen példát hozott Reményik Mikes Kelemenre?**  
     Hontalanság
+
+- **Ki volt Reményik Sándor költői álneve 1918 és 1921 között?**  
+    **R** - Végvári
+    
+- **Melyik folyóiratnak volt alapító tagja?**  
+    **E** - Erdélyi Helikon
+    
+- **Melyik évben született Reményik Sándor?**  
+    **M** - 1890
+    
+- **Mi volt Reményik Sándor fő filozófiai gondolata a költészetében?**  
+    **É** - Érdekvédelem
+    
+- **Mi jellemezte Reményik Sándor költészetét a Trianon utáni időszakban?**  
+    **NY** - Nyelvi megmaradás
+    
+- **Melyik költő hatott jelentősen Reményik Sándorra?**  
+    **I** - Illés Endre
+    
+- **Mi volt Reményik Sándor egyik legismertebb műve, amely a nemzeti sorsot boncolgatja?**  
+    **K** - _Kenyér helyett_

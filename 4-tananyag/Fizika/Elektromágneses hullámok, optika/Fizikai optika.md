@@ -213,44 +213,47 @@ $$
 
 ## A lézer  
 
-#### A lézer működése és alapjai  
+### A lézer működése és alapjai  
 - **Elmélet kidolgozása**: 1957-ben két amerikai tudós állt elő a lézer elméletével.  
 - **Első lézer**: 1960-ban készült el az első működő lézer.  
 
-#### A lézer fényének tulajdonságai  
+### A lézer fényének tulajdonságai  
 - **Monokromatikus**: Egyetlen színt tartalmaz.  
 - **Párhuzamos**: A lézersugár szinte teljesen párhuzamos.  
 - **Koherens**: Rendezett, azonos fázisú hullámokból áll.  
 - **Nagy intenzitású**: Az egységnyi felületen átáramló energia kiemelkedően nagy.  
 
-#### A lézerfény keletkezése  
+### A lézerfény keletkezése  
 - A lézer neve az angol **"Light Amplification by Stimulated Emission of Radiation"** rövidítéséből származik.  
-- **Alapfolyamatok**:  
+
+ ![[IMG_1687.jpeg]]
+#### Alapfolyamatok:  
   - **Gerjesztés**: Az elektromos áram gerjeszti a gázt egy üvegcsőben.  
   - **Spontán emisszió**: A gerjesztett atomok egy része fotonokat bocsát ki magától.  
   - **Indukált emisszió**: Az egyik foton gerjesztett atommal ütközve újabb azonos fotont hoz létre.  
   - **Láncreakció**: Az indukált emisszió során egyre több azonos fázisú foton keletkezik.  
   - **Párhuzamos nyaláb**: A fotonok a cső végén tükrökről visszaverődve jönnek létre.  
 
-#### A lézerek típusai  
+### A lézerek típusai  
 - **Gázlézer**  
 - **Festéklézer**  
 - **Szilárdtest-lézer**  
 - **Kémiai lézer**  
 
-#### Lézer teljesítménye  
+### Lézer teljesítménye  
 - Teljesítménye néhány milliwattól több millió wattig terjedhet.  
 - Példa: Egy 10 wattos lézer fénye képes átlyukasztani egy könyvet.  
 
 
-### Hologram  
+## Hologram  
 
-#### A hologram jellemzői  
+### A hologram jellemzői  
 - **Háromdimenziós kép**: A hologram térhatású képet ad.  
 - **Egyedi szerkezet**: A hologram "zavaros maszatnak" tűnik a lemezen.  
 - **Rekonstrukció**: Ha a hologram lemeze eltörik, minden darabja tartalmazza az egész tárgy képét.  
 
-#### A hologram készítésének folyamata  
+### A hologram készítésének folyamata  
+![[IMG_1688.jpeg]]
 1. **Lézersugarak irányítása**: Tükrökkel és lencsékkel vezetik a lézersugarat.  
 2. **Kémiai változások**: A fényképezőlemezen a lézerfény kémiai reakciókat idéz elő, amelyek rögzítik a képet.  
 3. **Zavarás minimalizálása**: Minden rezgés, például a hang, elkenheti a hologramot.  
@@ -259,6 +262,6 @@ $$
    - **Referenciasugár**: Közvetlenül a lemezre irányul.  
 5. **Interferencia**: A két sugár a lemezen találkozva interferenciaképet hoz létre.  
 
-#### A hologram megjelenítése  
+### A hologram megjelenítése  
 - A hologramot a **referenciasugár oldaláról** kell megvilágítani, hogy az eredeti kép visszatükröződjön.  
 - A hologram színe attól függ, hogy milyen színű lézerfényt használtak.  

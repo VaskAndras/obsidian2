@@ -162,111 +162,40 @@ Műfaj:
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | E   |     |     |     |     |     |
-|     | r   |     |     |     |     |     |
-|     | d   |     |     |     |     |     |
-| P   | é   |     |     |     | t   |     |
-| á   | ly  |     |     |     | r   |     |
-| sz  | i   |     |     |     | a   |     |
-| t   |     |     |     |     | n   |     |
-| o   | H   |     |     |     | sz  |     |
+| x   | E   | x   | x   | x   | x   | x   |
+| x   | r   | x   | x   | x   | x   | x   |
+| x   | d   | x   | x   | x   | x   | x   |
+| P   | é   | x   | x   | x   | t   | x   |
+| á   | ly  | x   | x   | x   | r   | x   |
+| sz  | i   | x   | x   | x   | a   | x   |
+| t   | x   | x   | x   | k   | n   | x   |
+| o   | H   | x   | x   | e   | sz  | x   |
 | R   | e   | m   | é   | ny  | i   | k   |
-| t   | l   | a   |     |     | z   | o   |
-| ű   | i   | g   |     |     | m   | l   |
-| z   | k   | a   |     |     | u   | o   |
-|     | o   | s   |     |     | s   | zs  |
-|     | n   | f   |     |     |     | v   |
-|     |     | e   |     |     |     | á   |
-|     |     | sz  |     |     |     | r   |
-|     |     | ü   |     |     |     |     |
-|     |     | l   |     |     |     |     |
-|     |     | t   |     |     |     |     |
-|     |     | s   |     |     |     |     |
-|     |     | é   |     |     |     |     |
-|     |     | g   |     |     |     |     |
+| t   | l   | a   | l   | é   | l   | o   |
+| ű   | i   | g   | e   | r   | v   | l   |
+| z   | k   | a   | t   | h   | a   | o   |
+| x   | o   | s   | x   | e   | n   | zs  |
+| x   | n   | f   | x   | ly  | i   | v   |
+| x   | x   | e   | x   | e   | z   | á   |
+| x   | x   | sz  | x   | t   | m   | r   |
+| x   | x   | ü   | x   | t   | u   | x   |
+| x   | x   | l   | x   | e   | s   | x   |
+| x   | x   | t   | x   | x   | x   | x   |
+| x   | x   | s   | x   | x   | x   | x   |
+| x   | x   | é   | x   | x   | x   | x   |
+| x   | x   | g   | x   | x   | x   | x   |
 Itt vannak új kérdések egyszavas válaszokkal:
 
 
-5. **Hol nyugszik Reményik Sándor?**  
-   Kolozsvár
-
-### Költői pálya:
-6. **Melyik folyóiratot szerkesztette?**  
-   Pásztortűz
-
-### Művek:
-9. **Melyik művét tartják legérettebbnek?**  
-   Magasfeszültség
-
-10. **Mi volt Reményik költészetének fő témája?**  
+1. **Hol nyugszik Reményik Sándor?**  
+	Kolozsvár
+2.  **Melyik folyóiratot szerkesztette?**  
+	Pásztortűz
+3. **Melyik művét tartják legérettebbnek?**  
+	Magasfeszültség
+4. **Mi volt Reményik költészetének fő témája?**  
     Transzilvanizmus
-
-11. **Melyik kötetben szerepel a *Szemben az örökméccsel* vers?**  
-    1932
-
-12. **Mi volt Reményik kedvenc műfaja?**  
-    Óda
-
-### Művelemzés:
-13. **Mi a központi üzenete az *Eredj, ha tudsz!* versnek?**  
-    Maradás
-
-14. **Milyen hatás érte Reményik költészetét a Trianon után?**  
-    Hontalanság
-
-15. **Mi inspirálta Reményik *Erdély magyarjaihoz* versét?**  
-    Petőfi
-
-16. **Mi a költői válasz Reményik *Eredj, ha tudsz!* versében?**  
-    Hazához hűség
-
-17. **Milyen műfaji jellegű *Eredj, ha tudsz!*?**  
-    Óda
-
-18. **Kivel hasonlította össze Kosztolányi Reményiket?**  
-    Petőfivel
-
-19. **Mi volt a *Halotti beszéd a hulló leveleknek* központi motívuma?**  
-    Elmúlás
-
-### Elismerések:
-20. **Milyen díjat kapott Reményik 1927-ben?**  
-    Baumgarten-díj
-
-21. **Milyen kitüntetést kapott 1940-ben?**  
-    Corvin-lánc
-
-### Szimbólumok és képek:
-22. **Mi a fa szimbolikája Reményik költészetében?**  
+5. **Mi a fa szimbolikája Reményik költészetében?**  
     Élet
-
-23. **Mi a levelek szimbolikája Reményik versében?**  
-    Elmúlás
-
-24. **Mi a táj szerepe Reményik költészetében?**  
-    Otthon
-
-### Különleges kifejezések:
-25. **Milyen példát hozott Reményik Mikes Kelemenre?**  
-    Hontalanság
-
-- **Ki volt Reményik Sándor költői álneve 1918 és 1921 között?**  
-    **R** - Végvári
-    
-- **Melyik folyóiratnak volt alapító tagja?**  
-    **E** - Erdélyi Helikon
-    
-- **Melyik évben született Reményik Sándor?**  
-    **M** - 1890
-    
-- **Mi volt Reményik Sándor fő filozófiai gondolata a költészetében?**  
-    **É** - Érdekvédelem
-    
-- **Mi jellemezte Reményik Sándor költészetét a Trianon utáni időszakban?**  
-    **NY** - Nyelvi megmaradás
-    
-- **Melyik költő hatott jelentősen Reményik Sándorra?**  
-    **I** - Illés Endre
-    
-- **Mi volt Reményik Sándor egyik legismertebb műve, amely a nemzeti sorsot boncolgatja?**  
-    **K** - _Kenyér helyett_
+6.  **Mi volt Reményik Sándor egyik legismertebb műve, amely a nemzeti sorsot boncolgatja?**  
+    Kenyér helyett

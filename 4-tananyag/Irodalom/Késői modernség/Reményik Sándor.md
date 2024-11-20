@@ -159,3 +159,96 @@ Műfaj:
 - **Zárógondolat**:  
   - A lírai én az otthonosság szépségében talál megnyugvást:  
     - *„S amíg itthon vagyunk [...] örökkévaló szent szépség vagyunk.”*
+
+| R   | E   | M   | É   | Ny  | I   | K   |
+| --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+Itt vannak új kérdések egyszavas válaszokkal:
+
+### Életrajzi adatok:
+1. **Mikor született Reményik Sándor?**  
+   1890
+
+2. **Melyik városban született?**  
+   Kolozsvár
+
+3. **Milyen diplomát szerzett?**  
+   Nem
+
+4. **Mi volt apja foglalkozása?**  
+   Építészmérnök
+
+5. **Hol nyugszik Reményik Sándor?**  
+   Kolozsvár
+
+### Költői pálya:
+6. **Melyik folyóiratot szerkesztette?**  
+   Pásztortűz
+
+7. **Melyik irodalmi csoportnak volt alapító tagja?**  
+   Helikon
+
+8. **Mi volt az első költői álnéve?**  
+   Végvári
+
+### Művek:
+9. **Melyik művét tartják legérettebbnek?**  
+   Magasfeszültség
+
+10. **Mi volt Reményik költészetének fő témája?**  
+    Transzilvanizmus
+
+11. **Melyik kötetben szerepel a *Szemben az örökméccsel* vers?**  
+    1932
+
+12. **Mi volt Reményik kedvenc műfaja?**  
+    Óda
+
+### Művelemzés:
+13. **Mi a központi üzenete az *Eredj, ha tudsz!* versnek?**  
+    Maradás
+
+14. **Milyen hatás érte Reményik költészetét a Trianon után?**  
+    Hontalanság
+
+15. **Mi inspirálta Reményik *Erdély magyarjaihoz* versét?**  
+    Petőfi
+
+16. **Mi a költői válasz Reményik *Eredj, ha tudsz!* versében?**  
+    Hazához hűség
+
+17. **Milyen műfaji jellegű *Eredj, ha tudsz!*?**  
+    Óda
+
+18. **Kivel hasonlította össze Kosztolányi Reményiket?**  
+    Petőfivel
+
+19. **Mi volt a *Halotti beszéd a hulló leveleknek* központi motívuma?**  
+    Elmúlás
+
+### Elismerések:
+20. **Milyen díjat kapott Reményik 1927-ben?**  
+    Baumgarten-díj
+
+21. **Milyen kitüntetést kapott 1940-ben?**  
+    Corvin-lánc
+
+### Szimbólumok és képek:
+22. **Mi a fa szimbolikája Reményik költészetében?**  
+    Élet
+
+23. **Mi a levelek szimbolikája Reményik versében?**  
+    Elmúlás
+
+24. **Mi a táj szerepe Reményik költészetében?**  
+    Otthon
+
+### Különleges kifejezések:
+25. **Milyen példát hozott Reményik Mikes Kelemenre?**  
+    Hontalanság

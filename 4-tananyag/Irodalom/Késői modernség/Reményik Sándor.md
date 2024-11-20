@@ -9,4 +9,11 @@
 - Szemben az örökméccsel 1934
 - Romon virág 1935
 - Magasfeszültség 1940
+## Eredj ha tudsz!
+- A költemény intelem, lekiismeret ébresztés
+- nincs benne korszakmegejölés
+	-  megszólítottak köre kibővül
+- Mikes Kelemen példája
+- Felkiáltás
+- Felszólítás
 - 

@@ -16,4 +16,6 @@
 - Mikes Kelemen példája
 - Felkiáltás
 - Felszólítás
-- 
+	- Pl.: Eredj
+-  A haza ügye szent üggyé magasztosul
+- Tagadó szavas mondatszerkesztés

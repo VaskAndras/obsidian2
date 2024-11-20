@@ -3,5 +3,10 @@
 - jogot hallgatott
 - Pásztortűz és Erdélyi helikon
 	- Alapító
-Anyanyelvet a végső menedéknek tekintette
-Végvári írói alnév
+- Anyanyelvet a végső menedéknek tekintette
+- Végvári írói alnév
+- Transzilvanizmus nézeteit kiegészíti nála az embertestvériség gondolata
+- Szemben az örökméccsel 1934
+- Romon virág 1935
+- Magasfeszültség 1940
+- 

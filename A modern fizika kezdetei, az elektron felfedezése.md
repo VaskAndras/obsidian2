@@ -154,11 +154,12 @@ $$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
         - Gyorsítási munka:  
 	        $$Uq = \frac{1}{2}mv^2$$ 
 	- **Helyettesítsünk bele a korábbiakba:** 
-        $$Uq = \frac{1}{2}m \cdot{\frac{q^{2}}{}{}$$
+        $$U \cdot q = \frac{1}{2}m \cdot{\frac{q^{2}}{m^{2}}}{R^{2}\cdot B^{2}}$$
     - **Fajlagos töltés meghatározása**:  
         $$\frac{q}{m} = \frac{2U}{B^2R^2}$$
 
 #### 4. **Eredmények és jelentőség**
 
-- Elektron tömege: me=9.1×10−31 kgm_e = 9.1 \times 10^{-31} \, \text{kg}.
+- Elektron tömege: $$m_e = 9.1 \times 10^{-31} \, \text{kg}$$
 - Az elektron felfedezése az atom szerkezetének forradalmasítása.
+

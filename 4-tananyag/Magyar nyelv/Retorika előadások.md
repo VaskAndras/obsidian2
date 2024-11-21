@@ -33,9 +33,10 @@
 	- Fegyelem és türelem, őszinteség és becsületesség, nyitottság és belátás, körültekintő gondolkodás, tárcsilagosság, udvariasság
 
 ## 3. Dávid - szónoki beszéd szerkezete
-Bevezetés, elbeszélés, kitérés, mémamegjelölés
+**Mi a szónoki beszéd szerkezete?**
+Bevezetés, elbeszélés, kitérés, Témamegjelölés,
 
-BEvezetés fajtái:
+#### Bevezetés fajtái:
 - Előadásra készülő beszéd
 	- megszólítás
 	- átvezetés
@@ -43,8 +44,26 @@ BEvezetés fajtái:
 	- Cím 
 	- átvezetés
 
-Elbeszélés:
-	Tényfeltárás
+#### Elbeszélés:
+Tényfeltárás
 		- Előzmények, kutatások
 		- fogalmak
-		-
+		
+#### Kitérés
+
+#### Témamegjelölés
+- álláspont kimondása
+- bizonyítás előkészítése
+
+#### bizonyítás:
+-  cél: mások meggyőzése
+- Fajtái:
+	- jelek
+	- érvek
+		- indukció
+		- dedukció
+	- példák
+#### Cáfolás
+- ha a hallgató ellenvéleményen van
+
+##

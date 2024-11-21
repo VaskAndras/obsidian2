@@ -21,29 +21,15 @@
 	11. **Irónia**: Látszólagos dicséret vagy állítás, amely az ellenkezőjét sugallja, így rejtett kritikai vagy humoros hatást kelt.
 ## 2. Micó - Kultúrált vita
  - **Milyen vitafajták vannak?**
- -  veszekedés, racionális vita, tényfeltáró vita, törvényszéki vita, 
+ -  veszekedés, racionális vita, tényfeltáró vita, törvényszéki vita ide értve a  politikai vitát is, tárgyalás típusú vita (alkudozás)
+- 
+	1. **Veszekedés**: Heves, érzelmekkel teli szócsata, ahol a cél nem a probléma megoldása, hanem a másik fél legyőzése vagy sértése.
+1. **Racionális vita**: Logikai érvekkel és tényekkel alátámasztott érvelés, melynek célja az igazság kiderítése, nem a győzelem.
+2. **Tényfeltáró vita**: Tudományos viták, amelyek célja a tények, bizonyítékok és adatok részletes feltárása, gyakran új ismeretek megszerzése érdekében.
+3. **Törvényszéki vita**: Két fél közötti jogi érvelés, ahol mindkét fél egy harmadik fél, például egy bíróság vagy zsűri meggyőzésére törekszik, hogy a saját álláspontját támogassa.
+4. **Tárgyalás típusú vita (alkudozás)**: A felek közötti egyeztetés, melynek célja a kompromisszum keresése, miközben minden fél próbálja saját érdekeit érvényesíteni a közös megállapodás érdekében.
 
-1. **Racionális vita**: Célja a logikai érvek és tények mentén való érvelés, ahol a résztvevők próbálnak bizonyítékokkal alátámasztani álláspontjukat. A cél itt nem a győzelem, hanem az igazság kiderítése.
 
-3. **Dialektikai vita**: Az ókori filozófiából ered, és az érvek és ellenérvek kölcsönös cseréjére épít. A célja nemcsak a probléma megoldása, hanem a résztvevők közötti tudás- és értelemcserélés.
-    
-3. **Politikai vita**: Politikai témákról, döntésekről, törvényekről és politikai programokról folyik. Gyakran az a cél, hogy elnyerje a közönség támogatását, miközben érveket ütköztetnek egymással.
-    
-4. **Kulturális vita**: A társadalmi, vallási, művészeti vagy kulturális értékekről szóló viták, amelyekben az érvek személyes hitek és meggyőződések mellett érzelmi és társadalmi tényezők is szerepet kaphatnak.
-    
-5. **Jogi vita**: A törvények és jogi normák értelmezése és alkalmazása körül kialakult vita. Az ilyen viták célja egy jogi kérdés eldöntése egy bíróság vagy jogi testület előtt.
-    
-6. **Vitafórum (nyilvános vita)**: Egy nagy közönség előtt zajló, több résztvevős vita, ahol az érvek és ellenérvek szabadon ütköztethetők, gyakran médián keresztül. A cél itt a közvélemény formálása.
-    
-7. **Konstruktív vita**: A cél nem egymás legyőzése, hanem egy közös megoldás vagy kompromisszum elérése. A résztvevők próbálnak együttműködni, nem csupán érvekkel, hanem megoldási javaslatokkal is hozzájárulni.
-    
-8. **Kritikai vita**: A másik fél álláspontját vagy munkáját alapos kritikának vetik alá. Itt gyakran nemcsak a tényeket, hanem a módszereket is megkérdőjelezik.
-    
-9. **Perszonális vita**: Személyes támadások, sértések, vagy viták, amelyek nem feltétlenül a tények vagy logikai érvek mentén zajlanak. Ezek gyakran érzelmi indíttatásúak, és kevésbé célravezetők.
-    
-10. **Szimpózium**: Tudományos vagy filozófiai környezetben folyó vita, ahol több szakértő közösen osztja meg véleményét és érveit egy témáról, és próbálnak közelebb jutni egy közös megértéshez.
-    
-11. **Képzeletbeli vita (szóbeliség, eszmefuttatás)**: Az emberek közötti viták formáját utánzó belső érvelés, amikor valaki egy problémát vagy dilemmát önállóan, fejben vitat meg különböző álláspontok között.
-    
+- Fegyelem és türelem, őszinteség és becsületesség, nyitottság és belátás, körültekintő gondolkodás, tárcsilagosság, udvariasság
+  
 
-Mindezek a vitafajták különböző célokat szolgálnak, és különböző érvelési technikákat és stratégiákat alkalmaznak. Ha érdekel egy adott típus részletesebb leírása, vagy valamilyen konkrét vitatéma, szívesen kifejtem!

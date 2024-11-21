@@ -7,3 +7,5 @@
 - [[A szónoki beszéd stíluseszközei]]
 - [[TED vs mindenki akadémiája]]
 - [[Az érvek fajtái]]
+- [[Retorika előadások]]
+- 

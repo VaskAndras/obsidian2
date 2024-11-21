@@ -46,17 +46,17 @@
 5. **Kinetikus gázelmélet**:    
     - A XIX. században a gázok nyomását és hőmérsékletét a részecskék mozgására vezették vissza.
     - Az atom és molekula fogalmai tudatosan beépültek a tudományos elméletekbe.
-### Az elektron felfedezése
+## Az elektron felfedezése
 
-#### Az atom fogalmának változása
+### Az atom fogalmának változása
 
 - **A kémia fejlődése**: A kísérleti eredmények megmutatták, hogy az atom nem oszthatatlan részecske, hanem töltéssel rendelkező elemi részeket tartalmaz.
 - **Az elektron**: Elsőként felfedezett elemi részecske, amely negatív töltésű.
 - **Semlegesség**: Mivel az atom elektromosan semleges, a pozitív töltésű részecskék jelenlétének feltételezése vált szükségessé.
 
-#### Az elektron létét igazoló kísérletek
+### Az elektron létét igazoló kísérletek
 
-##### Elektrolízis
+#### Elektrolízis
 
 - **Elektrolitok**: Ionokat tartalmazó folyadékok.
 - **Kísérlet menete**:
@@ -72,7 +72,7 @@
 $$m=I*t*k$$
     - 1 mol anyag kiválasztásához 96500 C töltés szükséges, vegyértékenként.
 
-##### Millikan-kísérlet
+#### Millikan-kísérlet
 
 - **Kísérlet menete**:
     - Kondenzátorlemezek közé olajcseppeket porlasztott.
@@ -85,7 +85,7 @@ $$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
     - Az olajcseppek töltése mindig az elemi töltés (e) egész számú többszöröse.
     - Elemi töltés értéke: $1.6 \times 10^{-19}C$.
 
-##### Hidegemisszió
+#### Hidegemisszió
 
 - **Jelenség**:
     - Fémtárgyra helyezett töltés az azonos töltések taszítása miatt a fém felületére húzódik.
@@ -117,7 +117,7 @@ $$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
     - Az izzóelektromos jelenséget termikus emissziónak is nevezik.
 
 
-### Katódsugárzás és az elektron felfedezése
+## Katódsugárzás és az elektron felfedezése
 
 #### 1. **Kísérlet alapjai**
 
@@ -128,7 +128,7 @@ $$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
         - Az üveg burán fluoreszcens anyag fényjelenséget hoz létre.
     - A sugárzást **katódsugárzásnak** nevezzük.
 
-#### 2. **J. J. Thomson (1856–1940) kísérletei**
+### 2. J. J. Thomson (1856–1940) kísérletei
 
 - **Cél**: A katódsugárzás természetének vizsgálata.
 - **Módszer**:
@@ -138,7 +138,7 @@ $$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
     - Azonos töltésű, univerzális részecskék (elektronok).
     - Az elemi töltés és a fajlagos töltés alapján kiszámította a részecskék tömegét.
 
-#### 3. **Thomson mérésének egyszerűsített változata**
+### 3. Thomson mérésének egyszerűsített változata
 
 - **Berendezés**:
     - Izzókatódos katódsugárcső.
@@ -158,8 +158,77 @@ $$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
     - **Fajlagos töltés meghatározása**:  
         $$\frac{q}{m} = \frac{2U}{B^2R^2}$$
 
-#### 4. **Eredmények és jelentőség**
+### 4. Eredmények és jelentőség
 
 - Elektron tömege: $$m_e = 9.1 \times 10^{-31} \, \text{kg}$$
 - Az elektron felfedezése az atom szerkezetének forradalmasítása.
 
+## Kvantumfizika születése 
+
+### 1. Bevezetés a kvantumfizikába
+
+- A kvantumfizika az elektronok atomon belüli viselkedését írja le.
+- Különböző kísérletek és elméletek vezettek el a kvantumelmélet kialakulásához, amelyek segítettek az elektronok atomi állapotainak jellemzésében.
+
+### 2. Fontos kísérletek és elméletek
+
+- **Hőmérsékleti sugárzás intenzitás-hullámhossz grafikonjának matematikai leírása**
+- **Fényelektromos hatás magyarázata**
+- **Színképelemzés**
+- **Atompályák energiaszintjének meghatározása (Franck és Hertz)**
+- **Elektron hullámtermészetének felismerése**
+
+### a) Hőmérsékleti sugárzás
+
+#### 1. **A hőmérsékleti sugárzás fogalma**
+
+- A testek minden hőmérsékleten hőt sugároznak ki elektromágneses hullámok formájában.
+- A sugárzás intenzitása növekszik a hőmérséklet emelkedésével.
+- A sugárzás hullámhossz-eloszlása változik a hőmérséklet függvényében.
+
+#### 2. Fontos megállapítások a XIX. század végéről
+
+- **Stefan-Boltzmann-törvény**:
+    
+    - A sugárzott energia arányos a test abszolút hőmérsékletének negyedik hatványával.
+    
+    $$ΔQΔt∝T4\frac{\Delta Q}{\Delta t} \propto T^4$$
+- **Abszolút fekete test fogalma**:
+    - Olyan idealizált test, amely minden érkező sugárzást teljesen elnyel. (pl. kicsiny nyílású üreg)
+
+
+- **Wien-féle eltolódási törvény**:
+    
+    - Minden hőmérséklethez tartozik egy hullámhossz, ahol a sugárzás intenzitása maximális.
+    - A hullámhossz fordítva arányos a hőmérséklettel.
+  
+#### 3. Max Planck kutatásai (1900)
+
+- **Probléma**: A hőmérsékleti sugárzás intenzitás-hullámhossz grafikonjának matematikai leírása klasszikus fizikai elméletekkel nem volt lehetséges.
+
+- **Planck felfedezése**:
+    - A részecskék nem folytonosan, hanem **elkülönült adagokban** (kvantumokban) sugároznak ki és nyelnek el energiát.
+    - A sugárzott energia mennyisége arányos a sugárzás frekvenciájával.
+    
+    E=h⋅fE = h \cdot f
+    
+    - **Planck-állandó**:
+    
+    h=6.63×10−34 J\cdotpsh = 6.63 \times 10^{-34} \, \text{J·s}
+    - Bevezetésre került az **energiaadag** és az **energiakvantum** fogalma.
+- **Következmény**:
+    - Ez ellentmondott a klasszikus fizika folytonos energiaátadásának elképzelésének.
+- **Elmélet sikeressége**:
+    - Planck elmélete sikeresen leírta a hőmérsékleti sugárzás hullámhossz szerinti eloszlását.
+    - Tartalmazza a **Wien-féle eltolódási törvényt** és a **Stefan-Boltzmann-törvényt**.
+
+#### 4. **A kvantumelmélet elismerése**
+
+- **Nobel-díj (1918)**:
+    - Planck csak 1918-ban kapott Nobel-díjat az energiamennyiség kvantálásának felfedezéséért.
+- **Planck önéletrajza**:
+    - „Valamely új tudományos igazság nem úgy szokott győzelemre jutni, hogy az ellenfelek meggyőznek, hanem inkább úgy, hogy a felnövekvő nemzedék már hozzászokik az igazsághoz…”
+
+---
+
+Ez a vázlat pontosan összefoglalja a kvantumfizika kialakulásának egyik fontos állomását, a hőmérsékleti sugárzás és a kvantumelmélet összefonódását.

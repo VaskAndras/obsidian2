@@ -52,7 +52,7 @@ A politika a mindennapok világában mindent áthatott, a rendszer mindent alár
 
 Összefoglalva, a Rákosi-korszak alatt a mindennapokat meghatározta az életszínvonal csökkenése, a szűkös erőforrásokkal való küzdelem, valamint a politika mindenre kiterjedő ellenőrzése. Ez az időszak mély nyomot hagyott a magyar társadalomban, amely hosszú ideig viselte ennek a korszaknak a gazdasági és szellemi következményeit.
 
-**régi hosszú, 42 pontos**
+**régi hosszú, 42 pontos esszé**
 ### 2014 okt:
 #### A Szovjetunió és a szovjet példa dicsőítése a Rákosi-korszak mindennapjaiban
 
@@ -65,5 +65,37 @@ A szovjet vezetők, különösen Sztálin körül személyi kultuszt alakította
 Az oktatás és a kultúra szintén a szovjet minta dicsőítésének eszköze lett. Az orosz nyelv kötelezővé vált az iskolákban, a tananyagban előtérbe került a szovjet történelem és irodalom, valamint az orosz szerzők műveinek propagálása. A bolsevik hatalomátvétel évfordulóját ünnepségekkel tették emlékezetessé, miközben a szocialista realizmus művészeti stílusa kizárólagossá vált. A szovjet tankönyvek használata és a kommunista ideológia erőltetése azt a célt szolgálta, hogy a szovjet kultúra „magasabb rendűségét” hangsúlyozzák, és elfogadtassák a bolsevik értékeket.
 
 Összességében a Szovjetunió dicsőítése minden társadalmi színtéren jelen volt. A propaganda nemcsak a rendszer legitimációját, hanem az emberek mindennapi gondolkodásának formálását is szolgálta, mély nyomot hagyva a korszak emlékezetében.
-
+**Régi rövid, 24 ponos esszé**
 ### 2015 máj:
+#### A Rákosi-korszak iparfejlesztésének jellegzetességei
+
+A Rákosi-korszakban (1948/49–1953) Magyarország iparpolitikája a szovjet modellre épült, amelyben a nehézipar fejlesztése került előtérbe. Az ország gazdaságát a tervgazdálkodás határozta meg, amelyben ötéves tervek készültek. Ezek irreálisan magas célokat tűztek ki, és az elvárás az volt, hogy ezeket túlteljesítsék. A tervgazdálkodás felett a Tervhivatal gyakorolt ellenőrzést.
+
+A nehézipar fejlesztését elsősorban a hadiipar növelésére fókuszálták, figyelmen kívül hagyva az ország adottságait. Magyarországnak nem volt elegendő nyersanyagkészlete ahhoz, hogy a túlzott iparosítást fenntartható módon végezze, ennek ellenére a gépgyártás és a bányászat aránytalanul nagy támogatást kapott. A gyárak állami tulajdonban voltak, és az ipari munkásokra folyamatos nyomást gyakoroltak a munkaversenyek és a Sztahanov-mozgalom révén, amely a túltermelést szorgalmazta.
+
+A könnyűipar és a fogyasztási cikkek termelése háttérbe szorult, ami az életszínvonal stagnálásához vagy csökkenéséhez vezetett. A kommunista ideológia az önellátásra törekedett, ami a gazdaság elszigetelődését eredményezte. A kollektivizálás révén a mezőgazdaság tőkéjét vonták el az ipar támogatására, miközben a parasztság és a vidéki lakosság terhei jelentősen növekedtek.
+
+Összességében a Rákosi-korszak iparpolitikáját a szovjet orientáció, a gazdaságtalan tervezés és az erőltetett iparosítás jellemezte. A gazdaság struktúrájában bekövetkező torzulások és a munkásokra nehezedő terhek hosszú távon súlyos társadalmi és gazdasági problémákat okoztak.
+
+**régi rövid 24 pontos**
+
+2015 ok
+### A Rákosi-korszak gazdaságpolitikájának fő jellemzői és hatásai a mindennapokra
+
+A Rákosi-korszak gazdaságpolitikája az 1948/49–1953/56 közötti időszakot ölelte fel, és szovjet mintára épült. Alapvető célja az iparosítás, különösen a nehézipar fejlesztése volt, miközben a mezőgazdaságot és a könnyűipart háttérbe szorították. E politika fő jellemzője a tervgazdálkodás volt, amelyben ötéves tervek határozták meg az ágazatok termelési céljait. Ezeket az előírásokat politikai döntések alapján állapították meg, figyelmen kívül hagyva az ország adottságait és a lakossági szükségleteket.
+
+#### **Gazdaságpolitika és az iparosítás**
+
+Az iparosítás keretében új gyárakat és bányákat nyitottak, valamint iparvárosokat, például Sztálinvárost (ma Dunaújváros) építettek. A város a Sztálin Vasmű köré szerveződött, és szovjet mintára készült, politikai és kulturális központokkal kiegészítve. Az iparfejlesztés célja elsősorban a hadiipar bővítése volt. A beruházásokat gyakran tőkekivonással finanszírozták, amely a mezőgazdaság és a könnyűipar rovására valósult meg. Ezért az ipar korszerűtlen és alacsony hatékonyságú maradt.
+
+#### **A mezőgazdaság kollektivizálása**
+
+A mezőgazdaságban az állam erőszakos kollektivizálási politikát folytatott. A parasztokat téeszekbe (termelőszövetkezetekbe) kényszerítették, és beszolgáltatási kötelezettségeket róttak ki rájuk. A terményeiket a piacinál jóval alacsonyabb áron kellett leadniuk. Az élelmiszerhiány miatt a rendőrség ellenőrizte a termékek beszolgáltatását, amely az élelmiszerek és vetőmagok elkobzását is magában foglalta. Mindez a termelési hatékonyság csökkenéséhez, valamint a falusi lakosság szegénységének növekedéséhez vezetett.
+
+#### **A mindennapi életre gyakorolt hatások**
+
+A korszak gazdaságpolitikájának egyik következménye az árak drasztikus emelkedése volt. A mellékelt táblázat szerint 1949 és 1952 között például az élelmiszerek ára több mint duplájára nőtt (113%-ról 236%-ra). A ruházati cikkek, iparcikkek és szolgáltatások ára is jelentősen emelkedett, ami az életszínvonal általános csökkenését eredményezte. Az infláció mellett az alapvető fogyasztási cikkek hiánya is nehezítette a mindennapokat, miközben a propaganda a nehézipar "sikereit" hangsúlyozta.
+
+#### **Összegzés**
+
+A Rákosi-korszak gazdaságpolitikája a szovjet rendszer másolásán alapult, amelyet a nehézipar erőltetett fejlesztése, a mezőgazdaság tőkekivonása és a tervgazdálkodás dominált. Bár az iparvárosok építése és az iparosítás rövid távon munkahelyeket teremtett, a gazdasági torzulások és az életszínvonal csökkenése hosszú távon jelentős társadalmi és gazdasági problémákat okoztak. A szigorú központosítás és a lakosság mindennapjaira gyakorolt negatív hatások miatt a korszakot széles körben a magyar gazdaságtörténet egyik legnagyobb válságaként tartják számon.

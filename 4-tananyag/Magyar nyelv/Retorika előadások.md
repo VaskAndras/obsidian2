@@ -22,14 +22,29 @@
 ## 2. Micó - Kultúrált vita
  - **Milyen vitafajták vannak?**
  -  veszekedés, racionális vita, tényfeltáró vita, törvényszéki vita ide értve a  politikai vitát is, tárgyalás típusú vita (alkudozás)
-- 
+- **Mi az a...**:
 	1. **Veszekedés**: Heves, érzelmekkel teli szócsata, ahol a cél nem a probléma megoldása, hanem a másik fél legyőzése vagy sértése.
-1. **Racionális vita**: Logikai érvekkel és tényekkel alátámasztott érvelés, melynek célja az igazság kiderítése, nem a győzelem.
-2. **Tényfeltáró vita**: Tudományos viták, amelyek célja a tények, bizonyítékok és adatok részletes feltárása, gyakran új ismeretek megszerzése érdekében.
-3. **Törvényszéki vita**: Két fél közötti jogi érvelés, ahol mindkét fél egy harmadik fél, például egy bíróság vagy zsűri meggyőzésére törekszik, hogy a saját álláspontját támogassa.
-4. **Tárgyalás típusú vita (alkudozás)**: A felek közötti egyeztetés, melynek célja a kompromisszum keresése, miközben minden fél próbálja saját érdekeit érvényesíteni a közös megállapodás érdekében.
+	2. **Racionális vita**: Logikai érvekkel és tényekkel alátámasztott érvelés, melynek célja az igazság kiderítése, nem a győzelem.
+	3. **Tényfeltáró vita**: Tudományos viták, amelyek célja a tények, bizonyítékok és adatok részletes feltárása, gyakran új ismeretek megszerzése érdekében.
+	4. **Törvényszéki vita**: Két fél közötti jogi érvelés, ahol mindkét fél egy harmadik fél, például egy bíróság vagy zsűri meggyőzésére törekszik, hogy a saját álláspontját támogassa.
+	5. **Tárgyalás típusú vita (alkudozás)**: A felek közötti egyeztetés, melynek célja a kompromisszum keresése, miközben minden fél próbálja saját érdekeit érvényesíteni a közös megállapodás érdekében.
 
+- **Mi fontos egy vitában?**
+	- Fegyelem és türelem, őszinteség és becsületesség, nyitottság és belátás, körültekintő gondolkodás, tárcsilagosság, udvariasság
 
-- Fegyelem és türelem, őszinteség és becsületesség, nyitottság és belátás, körültekintő gondolkodás, tárcsilagosság, udvariasság
-  
+## 3. Dávid - szónoki beszéd szerkezete
+Bevezetés, elbeszélés, kitérés, mémamegjelölés
 
+BEvezetés fajtái:
+- Előadásra készülő beszéd
+	- megszólítás
+	- átvezetés
+- Írott szöveg esetén
+	- Cím 
+	- átvezetés
+
+Elbeszélés:
+	Tényfeltárás
+		- Előzmények, kutatások
+		- fogalmak
+		-

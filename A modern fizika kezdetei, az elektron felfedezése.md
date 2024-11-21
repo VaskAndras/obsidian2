@@ -149,12 +149,14 @@ $$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
         - A mágneses Lorentz-erő biztosítja a körmozgást:  
             $$Bvq = \frac{mv^2}{R}$$
         - Elektron sebessége:  
-            $$v=q⋅B⋅Rmv = \frac{q \cdot B \cdot R}{m}$$
+            $$v = \frac{q \cdot B \cdot R}{m}$$
     - **Energia-egyensúly**:
         - Gyorsítási munka:  
-            Uq=12mv2Uq = \frac{1}{2}mv^2
+	        $$Uq = \frac{1}{2}mv^2$$ 
+	- **Helyettesítsünk bele a korábbiakba:** 
+        $$Uq = \frac{1}{2}m \cdot{\frac{q^{2}}{}{}$$
     - **Fajlagos töltés meghatározása**:  
-        qm=2UB2R2\frac{q}{m} = \frac{2U}{B^2R^2}
+        $$\frac{q}{m} = \frac{2U}{B^2R^2}$$
 
 #### 4. **Eredmények és jelentőség**
 

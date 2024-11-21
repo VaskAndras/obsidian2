@@ -79,8 +79,8 @@ A könnyűipar és a fogyasztási cikkek termelése háttérbe szorult, ami az �
 
 **régi rövid 24 pontos**
 
-2015 ok
-### A Rákosi-korszak gazdaságpolitikájának fő jellemzői és hatásai a mindennapokra
+### 2015 okt
+#### A Rákosi-korszak gazdaságpolitikájának fő jellemzői és hatásai a mindennapokra
 
 A Rákosi-korszak gazdaságpolitikája az 1948/49–1953/56 közötti időszakot ölelte fel, és szovjet mintára épült. Alapvető célja az iparosítás, különösen a nehézipar fejlesztése volt, miközben a mezőgazdaságot és a könnyűipart háttérbe szorították. E politika fő jellemzője a tervgazdálkodás volt, amelyben ötéves tervek határozták meg az ágazatok termelési céljait. Ezeket az előírásokat politikai döntések alapján állapították meg, figyelmen kívül hagyva az ország adottságait és a lakossági szükségleteket.
 
@@ -99,3 +99,32 @@ A korszak gazdaságpolitikájának egyik következménye az árak drasztikus eme
 #### **Összegzés**
 
 A Rákosi-korszak gazdaságpolitikája a szovjet rendszer másolásán alapult, amelyet a nehézipar erőltetett fejlesztése, a mezőgazdaság tőkekivonása és a tervgazdálkodás dominált. Bár az iparvárosok építése és az iparosítás rövid távon munkahelyeket teremtett, a gazdasági torzulások és az életszínvonal csökkenése hosszú távon jelentős társadalmi és gazdasági problémákat okoztak. A szigorú központosítás és a lakosság mindennapjaira gyakorolt negatív hatások miatt a korszakot széles körben a magyar gazdaságtörténet egyik legnagyobb válságaként tartják számon.
+
+**régi hosszú 42 pontos**
+
+### 2019 okt:
+A Rákosi-korszak gazdaságpolitikája (1948–1953) a sztálinista rendszer szerves részeként a szovjet mintát követte, és alapvetően meghatározta Magyarország gazdasági és társadalmi viszonyait. Az alábbiakban a korszak fő jellemzőit mutatom be a források és az önálló ismereteim segítségével.
+
+### **Tervgazdálkodás és iparosítás**
+
+A korszakban központi tervgazdálkodást vezettek be. Az ötéves tervek keretében központi utasítások határozták meg az ipar és a mezőgazdaság teljesítendő céljait. Az első ötéves terv (1950–1954) a nehézipar fejlesztésére koncentrált, mert a rendszer a szocializmus építésének alapját ebben látta. Új bányákat nyitottak és gyárakat építettek, mint például a Sztálin Vasmű és Sztálinváros.
+
+Az iparosítás azonban súlyos társadalmi és gazdasági áldozatokat követelt. A mezőgazdaságtól és a könnyűipartól jelentős forrásokat vontak el, amelyek az élelmiszer-ellátás és az életszínvonal csökkenéséhez vezettek. A források alapján például az iparcikkek és az élelmiszerek ára jelentősen növekedett 1949 és 1952 között (113%-ról 236%-ra emelkedett az élelmiszerek ára), ami tovább nehezítette a mindennapi életet.
+
+### **Mezőgazdaság és kollektivizálás**
+
+A mezőgazdaságot a kollektivizálás erőltetett politikája jellemezte. Ennek célja az volt, hogy megszüntessék a magántulajdont, és termelőszövetkezeteket (téeszeket) hozzanak létre. A beszolgáltatási rendszer keretében a parasztokat kötelezték terményeik alacsony áron történő átadására. A rendszer gyakran teljesíthetetlen követeléseket támasztott, ami az élelmiszertermelés visszaeséséhez és az éhínség fenyegetéséhez vezetett.
+
+Az államhatalom erőszakos eszközökkel, például kuláklisták összeállításával és a „módos parasztok” ellehetetlenítésével próbálta kikényszeríteni a kollektivizálást. A paraszti ellenállás ellenére a téeszesítés csak részleges sikereket ért el, és 1953 után átmenetileg mérséklődött a politika.
+
+### **A mindennapi élet hatásai**
+
+A gazdaságpolitika drasztikus hatást gyakorolt a lakosság életkörülményeire. A források szerint a sztahanovista mozgalom és a munkaversenyek célja a termelési eredmények növelése volt, de a munkások számára ez fokozott terheket jelentett. Bár egyes munkásokat példaképként állítottak be, a fizetések és az életkörülmények javulása elmaradt.
+
+A forrásokból kiderül továbbá, hogy az iparvárosok, mint Sztálinváros, nemcsak gazdasági, hanem ideológiai célt is szolgáltak. Az új városok építése a szocialista rendszer „diadalmas erejét” volt hivatott tükrözni, ugyanakkor ezek az ipari beruházások hatalmas állami kiadásokkal jártak.
+
+### **Összegzés**
+
+A Rákosi-korszak gazdaságpolitikája elsősorban a szovjet mintát követte, amelyet az erőltetett iparosítás, a tervgazdálkodás és a kollektivizálás jellemzett. Ez a politika hosszú távon súlyos gazdasági és társadalmi problémákhoz vezetett, és hozzájárult a lakosság elégedetlenségének növekedéséhez. A korszak egyértelműen megmutatta a sztálinista modell fenntarthatatlanságát, amely az 1953-as politikai változásokhoz és az 1956-os forradalom előzményeihez is vezetett.
+
+**új hosszú, 33 pontos**

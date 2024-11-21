@@ -192,7 +192,7 @@ $$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
     
     - A sugárzott energia arányos a test abszolút hőmérsékletének negyedik hatványával.
     
-    $$ΔQΔt∝T4\frac{\Delta Q}{\Delta t} \propto T^4$$
+    $$\frac{\Delta Q}{\Delta t} \propto T^4$$
 - **Abszolút fekete test fogalma**:
     - Olyan idealizált test, amely minden érkező sugárzást teljesen elnyel. (pl. kicsiny nyílású üreg)
 
@@ -210,25 +210,16 @@ $$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
     - A részecskék nem folytonosan, hanem **elkülönült adagokban** (kvantumokban) sugároznak ki és nyelnek el energiát.
     - A sugárzott energia mennyisége arányos a sugárzás frekvenciájával.
     
-    E=h⋅fE = h \cdot f
+    $$E=h⋅f$$
     
     - **Planck-állandó**:
-    
-    h=6.63×10−34 J\cdotpsh = 6.63 \times 10^{-34} \, \text{J·s}
+    $$h = 6.63 \times 10^{-34} \, \text{J·s}$$
     - Bevezetésre került az **energiaadag** és az **energiakvantum** fogalma.
+
 - **Következmény**:
     - Ez ellentmondott a klasszikus fizika folytonos energiaátadásának elképzelésének.
+
 - **Elmélet sikeressége**:
     - Planck elmélete sikeresen leírta a hőmérsékleti sugárzás hullámhossz szerinti eloszlását.
     - Tartalmazza a **Wien-féle eltolódási törvényt** és a **Stefan-Boltzmann-törvényt**.
 
-#### 4. **A kvantumelmélet elismerése**
-
-- **Nobel-díj (1918)**:
-    - Planck csak 1918-ban kapott Nobel-díjat az energiamennyiség kvantálásának felfedezéséért.
-- **Planck önéletrajza**:
-    - „Valamely új tudományos igazság nem úgy szokott győzelemre jutni, hogy az ellenfelek meggyőznek, hanem inkább úgy, hogy a felnövekvő nemzedék már hozzászokik az igazsághoz…”
-
----
-
-Ez a vázlat pontosan összefoglalja a kvantumfizika kialakulásának egyik fontos állomását, a hőmérsékleti sugárzás és a kvantumelmélet összefonódását.

@@ -46,45 +46,58 @@
 5. **Kinetikus gázelmélet**:    
     - A XIX. században a gázok nyomását és hőmérsékletét a részecskék mozgására vezették vissza.
     - Az atom és molekula fogalmai tudatosan beépültek a tudományos elméletekbe.
-## Az elektron felfedezése
-1. **Az atom nem oszthatatlan**:
-    - A kémiai kísérletek eredményei rámutattak, hogy az atom **töltéssel rendelkező elemi részeket** tartalmaz.
-    - Az első felfedezett elemi részecske az **elektron** volt.
+### Az elektron felfedezése
 
-2. **Az atom elektromos semlegessége**:
-    - Az elektron negatív töltése mellett pozitív töltésű részecskék jelenlétére is szükség van az atomban.
+#### Az atom fogalmának változása
 
-### Kísérletek és jelenségek az elektron létét bizonyítva
+- **A kémia fejlődése**: A kísérleti eredmények megmutatták, hogy az atom nem oszthatatlan részecske, hanem töltéssel rendelkező elemi részeket tartalmaz.
+- **Az elektron**: Elsőként felfedezett elemi részecske, amely negatív töltésű.
+- **Semlegesség**: Mivel az atom elektromosan semleges, a pozitív töltésű részecskék jelenlétének feltételezése vált szükségessé.
 
-1. **Elektrolízis**:
-    - **Ionokat tartalmazó folyadékok** (elektrolitok) áramot vezetnek.
-    - Két elektródát helyezve az oldatba és áramforráshoz kötve:
-        - Az ellentétes töltésű ionok az **elektródákhoz vándorolnak**.
-        - A katódon **elektronfelvétel**, az anódon **elektronleadás** történik.
-        - Az így kiváló anyagok mennyisége alapján a **töltések mennyisége** meghatározható.
-    - **Faraday törvényei**:
-        - Az elektródán kiváló anyag tömege arányos az áram erősségével és időtartamával.
-        - Egy mol anyag kiválasztásához **96 500 C töltés** szükséges, az anyag vegyértékétől függően.
+#### Az elektron létét igazoló kísérletek
 
-2. **Millikan-kísérlet**:
-    
-    - **Olajcseppes kísérlet**:
-        - Millikan olajcseppeket helyezett kondenzátorlemezek közé.
-        - A cseppeket elektromos mező segítségével lebegtette azzal, hogy az **elektrosztatikus és gravitációs erőt kiegyensúlyozta**.
-    - Az olajcsepp **töltése optikai úton** és az elektromos mező paramétereinek segítségével kiszámítható:
-        - Q=m⋅g/EQ = m \cdot g / E, ahol E=U/dE = U / d.
-    - **Eredmény**:
-        - Az olajcseppek töltése mindig az elemi töltés (**e**) egész számú többszöröse volt.
-        - **Elemi töltés értéke**: e≈1.6×10−19 Ce \approx 1.6 \times 10^{-19} \, C.
-3. **Hidegemisszió**:
-    
-    - Nagy töltést helyezve egy fém felületére, a töltések taszítása **kifelé nyomja a töltéshordozó részecskéket**.
-    - Légritkított térben a környező gázmolekulák hatása kiküszöbölhető, és a **töltéshordozók mozgása** megfigyelhető.
+##### Elektrolízis
+
+- **Elektrolitok**: Ionokat tartalmazó folyadékok.
+- **Kísérlet menete**:
+    - Két elektródát helyezünk elektrolitba, majd áramforrást kapcsolunk rá.
+    - Az ionok az ellentétes töltésű elektródákhoz vándorolnak:
+        - Katódon: elektronfelvétel.
+        - Anódon: elektronleadás.
+- **Megfigyelések**:
+    - Az ionok semlegesítődnek, és anyag formájában kiválnak (gáz vagy szilárd halmazállapotban).
+    - A kivált anyag mennyisége a kémiai reakciók alapján mérhető.
+- **Faraday törvényei**:
+    - A kivált anyag tömege egyenesen arányos az áramerősség (I) és az idő (t) szorzatával. Az arányossági tényező a (k).
+$$m=I*t*k$$
+    - 1 mol anyag kiválasztásához 96500 C töltés szükséges, vegyértékenként.
+
+##### Millikan-kísérlet
+
+- **Kísérlet menete**:
+    - Kondenzátorlemezek közé olajcseppeket porlasztott.
+    - Az elektromos mezőt addig változtatta, míg egy olajcsepp lebegni kezdett.
+- **Egyensúlyi erők**:
+    - Gravitációs erő (mg).
+    - Elektrosztatikus erő (QE, ahol E=U/dE = U/d).
+    - $$m\times g = V \times  $$
+- **Eredmények**:
+    - Az olajcseppek töltése mindig az elemi töltés (e) egész számú többszöröse.
+    - Elemi töltés értéke: $1.6 \times 10^{-19}C$.
+
+##### Hidegemisszió
+
+- **Jelenség**:
+    - Fémtárgyra helyezett töltés az azonos töltések taszítása miatt a fém felületére húzódik.
+    - Nagy töltés esetén a taszítás hatására a töltések egy része kiléphet a felületből, különösen éles csúcsoknál.
+- **Vizsgálat feltételei**:
+    - A környezeti gázmolekulák zavaró hatásainak kizárása érdekében légritkított térben végzik a kísérletet.
+- **Következtetés**:
+    - A jelenség azt bizonyítja, hogy a töltések meghatározott töltéshordozókhoz kötődnek.
 
 ---
 
-#### **Összegzés**
+#### További jelenségek az elektron tulajdonságainak igazolására
 
-1. Az elektron felfedezése a kémia és fizika közös eredménye.
-2. A **Faraday-féle elektrolízis**, a **Millikan-kísérlet** és a **hidegemisszió** kulcsszerepet játszottak az elektron tulajdonságainak megismerésében.
-3. Az elektron felfedezése rámutatott, hogy az atomok **nem oszthatatlanok**, hanem szerkezetük van.
+- **Richardson-hatás**: Elektronok hőmérséklet hatására történő kibocsátása fémekből.
+- **Izzóelektromos hatás**: Elektronok kibocsátása izzó fémből.

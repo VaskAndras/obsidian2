@@ -1,4 +1,23 @@
 ## 1. Ágoston
 - **Mi az a retorika?**
 	- Szónoklattan
-- ****
+- **Mi a retorikai stíluseszközök célja?**
+	- Hatáskeltés, a mondanivaló színesítése
+-  **Milyen csoportokra bontjuk a retorikai szóképeket?**
+	- Alakzatok, szóképek
+- **Milyen alakzatok vannak?**
+	- Alliteráció
+- **Mi az az alliteráció?**
+	- A szó eleji mássalhangzók összecsengnek
+- Ismétlés
+	- Teljes szóalak ismétlődése
+- Figura etimologica?
+	- Szótövek ismétlődése
+- Felsorolás
+	- Azonos mondatrészek ismétlődése
+- fokozás
+
+- Ellentét
+	- két szó vagy szóalak 
+- paradoxon
+- Elipszis

@@ -223,3 +223,47 @@ $$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
     - Planck elmélete sikeresen leírta a hőmérsékleti sugárzás hullámhossz szerinti eloszlását.
     - Tartalmazza a **Wien-féle eltolódási törvényt** és a **Stefan-Boltzmann-törvényt**.
 
+### b) Fényelektromos hatás 
+
+#### 1. Fényelektromos jelenség (fotoeffektus)
+
+- A fényelektromos jelenség, amikor fény hatására a fémek felületéről elektronok lépnek ki.
+- A jelenség azt mutatja, hogy **csak a fény frekvenciája** határozza meg, hogy elektronok lépnek-e ki a fém felületéről, nem a fény intenzitása.
+    - **Vörös fény**: nem indítja el a jelenséget.
+    - **Ibolya fény**: ritkán indítja el.
+    - **Ultraibolya fény**: sok fém esetén elegendő a jelenséghez.
+
+#### 2. A fény intenzitásának hatása
+
+- A fény intenzitása **csak a kilépő elektronok számát** befolyásolja, de a kilépés bekövetkezését és az elektronok energiáját nem.
+#### 3. Einstein magyarázata
+
+- **Einstein** a fényt **részecske-természetűnek** is tekintette, nemcsak hullámtermészetűnek.
+    - A fény **kvantumokban** (fotonokban) szállítja az energiát.
+    - A fény **részecskéi** a fotonok, és amikor a foton ütközik egy elektronval, átadja annak energiáját.
+    - **Egy foton energiája**: $$E=h⋅f$$ ahol **h** a Planck-állandó és **f** a fény frekvenciája.
+
+#### 4. Elektronok kiszabadulása
+
+- Az elektron akkor lép ki a fém felületéről, ha a foton energiája nagyobb, mint az elektron **kötési energiája**.
+    - A foton energiájának egy része a **kilépési munkát** biztosítja, a másik része az elektron **mozgási energiáját** adja.
+    - **Energiaegyenlet**: $$W = h \cdot f - \frac{m \cdot v^2}{2}$$ ahol **W** a kilépési munka, **v** az elektron sebessége.
+
+#### 5. Praktikus alkalmazás: Fotocellák működése
+
+- A fotocellákban a katódot megvilágítják, így elektronok lépnek ki belőle, és áramot indítanak.
+- **Fotocella működése**:
+    - A katód felületét olyan fémmel vonják be, ahol az atomok legkülső elektronjai közeli energiaállapotban vannak (pl. alkálifémek).
+    - Ha nem világítják meg a katódot, az áramkör nyitott marad, de ha megvilágítják, az elektronok kilépnek, és áramkör záródik.
+
+#### 6. Kilépési munka meghatározása
+
+- A fotocellában ellentétes polaritással csatlakoztatott feszültség segítségével a kilépő elektronokat lelassíthatjuk.
+- A **mért feszültséget** megszorozva az elektron töltésével meghatározhatjuk a kilépési munkát. $$W=U⋅e$$ ahol **U** a mért feszültség, **e** az elektron töltése.
+
+#### 7. Kísérlet a fényelektromos hatás kimutatására
+
+- **Fényelektromos hatás fotocella nélkül**:
+    - **Cinklemez** elektroszkóppal csatlakoztatva, töltés felvételével.
+    - Ha ultraibolya fényt használunk, akkor a cinkből elektronok lépnek ki, és az elektroszkóp a töltés csökkenését mutatja.
+    - A cink egy alkáliföldfém, amely **látható fényben** nem engedi el elektronjait, de **ultraibolya fényben** a fotoeffektus bekövetkezik.

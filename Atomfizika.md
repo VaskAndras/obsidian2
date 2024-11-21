@@ -1,1 +1,1 @@
-[[modern fizika kezdetei, az elektron felfe]]
+[[A modern fizika kezdetei, az elektron felfedezése]]

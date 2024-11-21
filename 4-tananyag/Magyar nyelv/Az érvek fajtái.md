@@ -12,11 +12,11 @@
 	- A szónok 
 ### Logikája szerint
 - #### Visszakövetkeztető bizonyítás (dedukció)
-	- Álltalános --> Egyedi
+	- Általános --> Egyedi
 - #### Az egyedivel kezdődő bizonyítás (indukció)
 	- egyedi --> Általános
 ### Formájuk szerint
-- #### Kategórikus
+- #### Kategorikus
 	- Minden ember halandó így te is
 - #### Feltételes
 	- Példa	

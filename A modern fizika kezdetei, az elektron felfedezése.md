@@ -117,19 +117,49 @@ $$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
     - Az izzóelektromos jelenséget termikus emissziónak is nevezik.
 
 
-#### Katódsugárzás
+### Katódsugárzás és az elektron felfedezése
 
-- **Kísérlet**:
-    - Erősen légritkított térben két elektródát helyeznek el, amelyeket áramforráshoz kapcsolnak.
-    - A katód láthatatlan sugárzást bocsát ki, amely fluoreszcens anyaggal bevont üvegfelületen fényt kelt.
-- **Vizsgálatok**:
-    - **J. J. Thomson (1856–1940)** kutatásai:
-        - Elektromos és mágneses terek segítségével a katódsugár eltérülését vizsgálta.
-        - Meghatározta az elektron fajlagos töltését qm\frac{q}{m} és tömegét.
-- **Egyenletek**:
-    - A mágneses Lorentz-erő: Bvq=mv2RBvq = \frac{mv^2}{R}
-    - Gyorsítási munka: Uq=12mv2Uq = \frac{1}{2} mv^2
-    - Fajlagos töltés: qm=2UB2R2\frac{q}{m} = \frac{2U}{B^2R^2}
+#### A katódsugárzás felfedezése
+
+- **Kísérlet alapjai**:
+    - Két elektródát helyeztek erősen légritkított térbe, amelyre áramforrást kapcsoltak.
+    - Alacsony gáznyomás mellett a katód láthatatlan sugárzást bocsát ki.
+    - A sugárzás jelenléte úgy válik észlelhetővé, hogy a katóddal szemben, az üveg burán fluoreszcens anyag fényjelenséget produkál, amikor a sugárzás eléri azt.
+- **Sugárzás tulajdonságai**:
+    - Egyenes vonalban halad.
+    - Képes mechanikai munkát végezni, például egy forgatható lapátot megforgatni.
+    - Elektromos és mágneses térrel eltéríthető, ami arra utal, hogy részecske-természetű, és töltéssel rendelkezik.
+
+#### J. J. Thomson kísérletei (1897)
+
+- **Cél**: A katódsugárzás részecskéinek vizsgálata és jellemzőik meghatározása.
+- **Módszer**:
+    - Elektromos és mágneses terek segítségével eltérítették a katódsugárzást.
+    - Az eltérülés mértékéből meghatározták a részecskék fajlagos töltését (qm\frac{q}{m}, azaz töltés/tömeg arány).
+    - Thomson kimutatta, hogy a fajlagos töltés független az alkalmazott katód anyagától, így univerzális részecskéről van szó.
 - **Eredmények**:
-    - Az elektron tömege: 9.1×10−31 kg9.1 \times 10^{-31} \, \text{kg}.
-    - Az elektron „polgárjogot nyert” az atom oszthatatlan részecskéjeként.
+    - A katódsugárzás részecskéi negatív töltésűek.
+    - Az elemi töltés (ee) ismeretében meghatározta a részecskék tömegét.
+
+#### A katódsugárzás vizsgálata: egyszerűsített levezetés
+
+- **Kísérleti berendezés**:
+    - Egy izzókatódot alkalmazó katódsugárcsőben az elektronokat gyorsítófeszültséggel gyorsítják a katód és anód között.
+    - Az anód nyílásán áthaladó elektronok homogén mágneses térbe kerülnek, amelyben körpályára kényszerülnek.
+- **Fizikai összefüggések**:
+    - A körmozgáshoz szükséges centripetális erőt a mágneses Lorentz-erő biztosítja:  
+        $$Bvq=mv2RBvq = \frac{mv^2}{R}$$  
+        Innen az elektron sebessége:  
+ $$       v=q⋅B⋅Rmv = \frac{q \cdot B \cdot R}{m}$$
+    - Az elektronok gyorsításakor a mozgási energiájuk megegyezik a gyorsítási munkával:  
+        $$Uq=12mv2Uq = \frac{1}{2}mv^2$$
+    - Az egyenletek kombinálásával a fajlagos töltésre adódik:  
+        $$qm=2UB2R2\frac{q}{m} = \frac{2U}{B^2R^2}$$
+- **Eredmény**:
+    - Az elektron tömege:$$ me=9.1×10−31 kgm_e = 9.1 \times 10^{-31} \, \text{kg}.$$
+    - Ez a részecske lett az atom oszthatatlan részének elsőként azonosított alkotóeleme.
+
+#### Jelentősége
+
+- Az elektron felfedezése forradalmasította az atomok szerkezetéről alkotott képet, bizonyítva, hogy az atom nem oszthatatlan, hanem elemi részecskéket tartalmaz.
+- Az eredmények az elektron későbbi tanulmányozásának alapjait teremtették meg, és meghatározták a modern atomfizika fejlődésének irányát.

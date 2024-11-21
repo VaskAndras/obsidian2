@@ -119,47 +119,44 @@ $$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
 
 ### Katódsugárzás és az elektron felfedezése
 
-#### A katódsugárzás felfedezése
+#### 1. **Kísérlet alapjai**
 
-- **Kísérlet alapjai**:
-    - Két elektródát helyeztek erősen légritkított térbe, amelyre áramforrást kapcsoltak.
-    - Alacsony gáznyomás mellett a katód láthatatlan sugárzást bocsát ki.
-    - A sugárzás jelenléte úgy válik észlelhetővé, hogy a katóddal szemben, az üveg burán fluoreszcens anyag fényjelenséget produkál, amikor a sugárzás eléri azt.
-- **Sugárzás tulajdonságai**:
-    - Egyenes vonalban halad.
-    - Képes mechanikai munkát végezni, például egy forgatható lapátot megforgatni.
-    - Elektromos és mágneses térrel eltéríthető, ami arra utal, hogy részecske-természetű, és töltéssel rendelkezik.
+- Két elektródát helyeznek légritkított térbe, áramforrásra kapcsolva.
+- **Megfigyelés**:
+    - Kis gáznyomás esetén a katód láthatatlan sugárzást bocsát ki.
+    - Sugárzás kimutatása:
+        - Az üveg burán fluoreszcens anyag fényjelenséget hoz létre.
+    - A sugárzást **katódsugárzásnak** nevezzük.
 
-#### J. J. Thomson kísérletei (1897)
+#### 2. **J. J. Thomson (1856–1940) kísérletei**
 
-- **Cél**: A katódsugárzás részecskéinek vizsgálata és jellemzőik meghatározása.
+- **Cél**: A katódsugárzás természetének vizsgálata.
 - **Módszer**:
-    - Elektromos és mágneses terek segítségével eltérítették a katódsugárzást.
-    - Az eltérülés mértékéből meghatározták a részecskék fajlagos töltését (qm\frac{q}{m}, azaz töltés/tömeg arány).
-    - Thomson kimutatta, hogy a fajlagos töltés független az alkalmazott katód anyagától, így univerzális részecskéről van szó.
-- **Eredmények**:
-    - A katódsugárzás részecskéi negatív töltésűek.
-    - Az elemi töltés (ee) ismeretében meghatározta a részecskék tömegét.
-
-#### A katódsugárzás vizsgálata: egyszerűsített levezetés
-
-- **Kísérleti berendezés**:
-    - Egy izzókatódot alkalmazó katódsugárcsőben az elektronokat gyorsítófeszültséggel gyorsítják a katód és anód között.
-    - Az anód nyílásán áthaladó elektronok homogén mágneses térbe kerülnek, amelyben körpályára kényszerülnek.
-- **Fizikai összefüggések**:
-    - A körmozgáshoz szükséges centripetális erőt a mágneses Lorentz-erő biztosítja:  
-        $$Bvq=mv2RBvq = \frac{mv^2}{R}$$  
-        Innen az elektron sebessége:  
- $$       v=q⋅B⋅Rmv = \frac{q \cdot B \cdot R}{m}$$
-    - Az elektronok gyorsításakor a mozgási energiájuk megegyezik a gyorsítási munkával:  
-        $$Uq=12mv2Uq = \frac{1}{2}mv^2$$
-    - Az egyenletek kombinálásával a fajlagos töltésre adódik:  
-        $$qm=2UB2R2\frac{q}{m} = \frac{2U}{B^2R^2}$$
+    - Elektromos és mágneses terek segítségével eltérítette a sugárzást.
+    - Meghatározta a részecskék fajlagos töltését 
 - **Eredmény**:
-    - Az elektron tömege:$$ me=9.1×10−31 kgm_e = 9.1 \times 10^{-31} \, \text{kg}.$$
-    - Ez a részecske lett az atom oszthatatlan részének elsőként azonosított alkotóeleme.
+    - Azonos töltésű, univerzális részecskék (elektronok).
+    - Az elemi töltés és a fajlagos töltés alapján kiszámította a részecskék tömegét.
 
-#### Jelentősége
+#### 3. **Thomson mérésének egyszerűsített változata**
 
-- Az elektron felfedezése forradalmasította az atomok szerkezetéről alkotott képet, bizonyítva, hogy az atom nem oszthatatlan, hanem elemi részecskéket tartalmaz.
-- Az eredmények az elektron későbbi tanulmányozásának alapjait teremtették meg, és meghatározták a modern atomfizika fejlődésének irányát.
+- **Berendezés**:
+    - Izzókatódos katódsugárcső.
+    - Katód és anód között gyorsítófeszültség.
+    - Homogén mágneses tér a részecskék eltérítéséhez.
+- **Fizikai összefüggések**:
+    - **Mozgás leírása**:
+        - A mágneses Lorentz-erő biztosítja a körmozgást:  
+            $$Bvq = \frac{mv^2}{R}$$
+        - Elektron sebessége:  
+            $$v=q⋅B⋅Rmv = \frac{q \cdot B \cdot R}{m}$$
+    - **Energia-egyensúly**:
+        - Gyorsítási munka:  
+            Uq=12mv2Uq = \frac{1}{2}mv^2
+    - **Fajlagos töltés meghatározása**:  
+        qm=2UB2R2\frac{q}{m} = \frac{2U}{B^2R^2}
+
+#### 4. **Eredmények és jelentőség**
+
+- Elektron tömege: me=9.1×10−31 kgm_e = 9.1 \times 10^{-31} \, \text{kg}.
+- Az elektron felfedezése az atom szerkezetének forradalmasítása.

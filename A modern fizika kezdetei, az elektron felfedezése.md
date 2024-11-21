@@ -79,8 +79,8 @@ $$m=I*t*k$$
     - Az elektromos mezőt addig változtatta, míg egy olajcsepp lebegni kezdett.
 - **Egyensúlyi erők**:
     - Gravitációs erő (mg).
-    - Elektrosztatikus erő (QE, ahol E=U/dE = U/d).
-    - $$m\times g = V \times  $$
+    - Elektrosztatikus erő ($QE, ahol E=U/dE = U/d$).
+$$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
 - **Eredmények**:
     - Az olajcseppek töltése mindig az elemi töltés (e) egész számú többszöröse.
     - Elemi töltés értéke: $1.6 \times 10^{-19}C$.
@@ -95,9 +95,41 @@ $$m=I*t*k$$
 - **Következtetés**:
     - A jelenség azt bizonyítja, hogy a töltések meghatározott töltéshordozókhoz kötődnek.
 
----
+#### Richardson-hatás
 
-#### További jelenségek az elektron tulajdonságainak igazolására
+- **Felfedező**:
+    - Owen Willans Richardson (1879–1959) angol fizikus.
+- **Kísérlet menete**:
+    - Légritkított edénybe egymással szemben két elektródát helyezett.
+    - Az egyik elektródát földelték, a másikra gyenge pozitív feszültséget kapcsoltak.
+- **Megfigyelés**:
+    - Az elektródák között áram indul meg anélkül, hogy külső hatást gyakoroltak volna a rendszerre.
+- **Magyarázat**:
+    - A hőmozgás miatt a földelt elektródából elektronok lépnek ki, amelyek a másik elektródára kerülnek a gyenge vonzó hatás miatt.
 
-- **Richardson-hatás**: Elektronok hőmérséklet hatására történő kibocsátása fémekből.
-- **Izzóelektromos hatás**: Elektronok kibocsátása izzó fémből.
+
+#### Izzóelektromos hatás (Edison-hatás)
+
+- **Jelenség**:
+    - Magas hőmérsékleten a Richardson-hatás felerősödik.
+    - Az izzó fémből elektronok tömegesen lépnek ki.
+- **Megnevezés**:
+    - Az izzóelektromos jelenséget termikus emissziónak is nevezik.
+
+
+#### Katódsugárzás
+
+- **Kísérlet**:
+    - Erősen légritkított térben két elektródát helyeznek el, amelyeket áramforráshoz kapcsolnak.
+    - A katód láthatatlan sugárzást bocsát ki, amely fluoreszcens anyaggal bevont üvegfelületen fényt kelt.
+- **Vizsgálatok**:
+    - **J. J. Thomson (1856–1940)** kutatásai:
+        - Elektromos és mágneses terek segítségével a katódsugár eltérülését vizsgálta.
+        - Meghatározta az elektron fajlagos töltését qm\frac{q}{m} és tömegét.
+- **Egyenletek**:
+    - A mágneses Lorentz-erő: Bvq=mv2RBvq = \frac{mv^2}{R}
+    - Gyorsítási munka: Uq=12mv2Uq = \frac{1}{2} mv^2
+    - Fajlagos töltés: qm=2UB2R2\frac{q}{m} = \frac{2U}{B^2R^2}
+- **Eredmények**:
+    - Az elektron tömege: 9.1×10−31 kg9.1 \times 10^{-31} \, \text{kg}.
+    - Az elektron „polgárjogot nyert” az atom oszthatatlan részecskéjeként.

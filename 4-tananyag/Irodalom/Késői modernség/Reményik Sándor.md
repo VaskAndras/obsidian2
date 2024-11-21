@@ -162,31 +162,29 @@ Műfaj:
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| x   | E   | x   | x   | x   | x   | x   |
-| x   | r   | x   | x   | x   | x   | x   |
-| x   | d   | x   | x   | x   | x   | x   |
-| P   | é   | x   | x   | x   | t   | x   |
-| á   | ly  | x   | x   | x   | r   | x   |
-| sz  | i   | x   | x   | x   | a   | x   |
-| t   | x   | x   | x   | k   | n   | x   |
-| o   | H   | x   | x   | e   | sz  | x   |
+| x   |     | x   | x   | x   | x   | x   |
+| x   |     | x   | x   | x   | x   | x   |
+| x   |     | x   | x   | x   | x   | x   |
+|     |     | x   | x   | x   |     | x   |
+|     |     | x   | x   | x   |     | x   |
+|     |     | x   | x   | x   |     | x   |
+|     | x   | x   | x   |     |     | x   |
+|     |     | x   | x   |     |     | x   |
 | R   | e   | m   | é   | ny  | i   | k   |
-| t   | l   | a   | l   | é   | l   | o   |
-| ű   | i   | g   | e   | r   | v   | l   |
-| z   | k   | a   | t   | h   | a   | o   |
-| x   | o   | s   | x   | e   | n   | zs  |
-| x   | n   | f   | x   | ly  | i   | v   |
-| x   | x   | e   | x   | e   | z   | á   |
-| x   | x   | sz  | x   | t   | m   | r   |
-| x   | x   | ü   | x   | t   | u   | x   |
-| x   | x   | l   | x   | e   | s   | x   |
-| x   | x   | t   | x   | x   | x   | x   |
-| x   | x   | s   | x   | x   | x   | x   |
-| x   | x   | é   | x   | x   | x   | x   |
-| x   | x   | g   | x   | x   | x   | x   |
-Itt vannak új kérdések egyszavas válaszokkal:
-
-
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+| x   |     |     | x   |     |     |     |
+| x   |     |     | x   |     |     |     |
+| x   | x   |     | x   |     |     |     |
+| x   | x   |     | x   |     |     |     |
+| x   | x   |     | x   |     |     | x   |
+| x   | x   |     | x   |     |     | x   |
+| x   | x   |     | x   | x   | x   | x   |
+| x   | x   |     | x   | x   | x   | x   |
+| x   | x   |     | x   | x   | x   | x   |
+| x   | x   |     | x   | x   | x   | x   |
+Itt vannak a kérdések és a megoldások:
 1. **Hol nyugszik Reményik Sándor?**  
 	Kolozsvár
 2.  **Melyik folyóiratot szerkesztette?**  

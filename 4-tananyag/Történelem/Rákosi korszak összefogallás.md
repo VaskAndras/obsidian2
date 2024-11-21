@@ -128,3 +128,48 @@ A forrásokból kiderül továbbá, hogy az iparvárosok, mint Sztálinváros, n
 A Rákosi-korszak gazdaságpolitikája elsősorban a szovjet mintát követte, amelyet az erőltetett iparosítás, a tervgazdálkodás és a kollektivizálás jellemzett. Ez a politika hosszú távon súlyos gazdasági és társadalmi problémákhoz vezetett, és hozzájárult a lakosság elégedetlenségének növekedéséhez. A korszak egyértelműen megmutatta a sztálinista modell fenntarthatatlanságát, amely az 1953-as politikai változásokhoz és az 1956-os forradalom előzményeihez is vezetett.
 
 **új hosszú, 33 pontos**
+
+### 2019 máj (idegen nyelvi)
+
+A Rákosi-korszak gazdaságpolitikájának bemutatása során kulcsfontosságú az állami tervgazdálkodás, az erőltetett iparosítás és kollektivizálás, valamint az ezekkel összefüggő életkörülmények ismertetése. Az alábbi szempontok mentén lehet felépíteni egy részletes választ.
+
+### 1. **Térbeli és időbeli elhelyezés**
+
+- **Időszak:** A Rákosi-korszak 1948/49-től 1953/56-ig tartott, amikor Magyarország a szovjet érdekszféra része volt.
+- **Térbeli kontextus:** Magyarország a szovjet blokk tagjaként működött, gazdaságát erősen befolyásolta a szovjet minta. Új iparvárosok létesültek, például **Sztálinváros (ma Dunaújváros)**, amelyek az iparosítás központjai lettek.
+
+### 2. **A gazdaságpolitika jellemzői**
+
+#### a) **Tervgazdálkodás**
+
+- Bevezették a szovjet mintájú **három- és ötéves terveket**, amelyek központi tervutasítások alapján működtek.
+- Az ipar, főként a nehézipar fejlesztésére koncentráltak, hogy gyors gazdasági növekedést érjenek el és megerősítsék a munkásosztályt. Azonban Magyarországon hiányoztak a szükséges nyersanyagok és természeti feltételek, így az iparosítás jelentős költségekkel járt.
+
+#### b) **Iparosítás**
+
+- A nehézipar erőltetett fejlesztése volt a korszak gazdaságpolitikájának központi eleme, például a hadiipari kapacitások kiépítése miatt. Ennek érdekében a tőkét a mezőgazdaságból vonták el, és a munkaerőt is az iparba irányították.
+- **Propaganda:** A sztahanovista mozgalom keretében példaképként állították az élmunkásokat, akik irreális termelési normákat teljesítettek, például Varga Barnabás vájárhoz hasonlóan.
+
+#### c) **Kollektivizálás és mezőgazdaság átalakítása**
+
+- A mezőgazdaságban az **egyéni gazdálkodás felszámolására** törekedtek, ennek része volt a parasztság földjeinek államosítása és **termelőszövetkezetek (téeszek)** létrehozása.
+- A beszolgáltatási rendszer az egyéni gazdálkodást ellehetetlenítette. Az emberek sokszor rejtegették a terményeiket, mivel a beszolgáltatás miatt nem maradt vetőmagjuk vagy élelmük, ami éhínséget is eredményezett.
+
+### 3. **Az életkörülményekre gyakorolt hatások**
+
+- A **propaganda** pozitív képet sugallt, de a valóságban az életkörülmények romlottak:
+    - Bár néhány alapvető cikk, például a kenyér olcsóbb lett, a legtöbb árucikkhez csak sokkal több munkával lehetett hozzájutni.
+    - Az ipari munkások számára lakhatást biztosítottak, azonban a parasztság helyzete rendkívül nehéz volt.
+- Az élmunkások kiváltságokat élveztek (például rádiót, bútort vagy prémkabátot vásárolhattak), de ez csak a munkásosztály kis részét érintette.
+
+### 4. **Kritikai megjegyzések**
+
+- Az iparosítás és kollektivizálás erőltetett tempója nem vette figyelembe az ország gazdasági realitásait, ami súlyos következményekkel járt, például termelési zavarokkal és életminőség-romlással.
+- A rendszer hosszú távú fenntarthatatlansága hozzájárult a Rákosi-korszak bukásához, amit az 1956-os forradalom követett.
+
+### Források felhasználása
+
+- A **Varga Barnabás-beszéd** alapján bemutatható a propaganda és a munkásosztály kiváltságos helyzetének hangsúlyozása.
+- A **plakátok** és táblázatok az életkörülmények romlását, illetve a beszolgáltatások következményeit szemléltetik.
+
+**Összegzés:** A Rákosi-korszak gazdaságpolitikája rövid távon a szovjet érdekeket és ideológiát szolgálta, de hosszú távon Magyarország gazdaságának és társadalmának jelentős károkat okozott.

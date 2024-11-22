@@ -146,21 +146,89 @@ A szónoki beszéd szerkezete egy világos, logikus felépítést követ, amely 
     A befejezés segít összefoglalni a beszédet, és erőteljesen megerősíti az üzenetet. Hatékonyan akkor formálható, ha rávilágít a beszéd fontosságára és felhívja a közönséget a cselekvésre.
 
 ## Lili - Szónoki beszéd
+
 ### Tanácsadó beszéd
-- tudományos
-- egyházi
-- politikai
-- ##### Cél a közönség meggyűzése
+
+- Tudományos:
+    - Az értelemre hat, tárgyilagos érvelést használ.
+    - Példa: tudományos előadások, viták.
+- Egyházi:
+    - A hitre, érzelmekre hat, erkölcsi értékeket hangsúlyoz.
+    - Példa: prédikációk, vallási szertartások.
+- Politikai:
+    - Közéleti kérdésekről szól, célja a közönség meggyőzése és cselekvésre ösztönzése.
+    - Példa: kampánybeszédek, parlamenti felszólalások.
+- ##### Cél: a közönség meggyőzése és cselekvésre ösztönzése.
+
 ### Törvényszéki beszéd
-- vádbeszéd
-- védőbeszéd
-- bírói beszéd
+
+- Vádbeszéd:
+    - Célja a vádlott bűnösségének bizonyítása.
+- Védőbeszéd:
+    - A védelem érvei, célja a vádlott ártatlanságának vagy enyhébb felelősségének bemutatása.
+- Bírói beszéd:
+    - Az ítélethirdetés és az indoklás keretében történik, objektív állásfoglalás.
+
+---
+
 ### Alkalmi beszéd
 
+- Ünnepi beszéd:
+    - Meghatározott eseményhez kapcsolódik, pl. születésnap, évforduló.
+- Köszöntő:
+    - Rövidebb, általában valakit üdvözöl vagy méltat.
+- Búcsúbeszéd:
+    - Távozás, elválás alkalmával hangzik el.
+- Gyászbeszéd:
+    - Egy elhunyt személy emlékét idézi meg.
+
+---
+
 ### Szónoki beszéd alkotása
-- Előkészítés
-- elrendezés
-- kifejezés
-- megtanulás
-- előadás
-- 
+
+- **Előkészítés**:
+    - A beszéd céljának és közönségének meghatározása.
+    - Információgyűjtés és vázlat készítése.
+- **Elrendezés**:
+    - A logikai felépítés megtervezése.
+- **Kifejezés**:
+    - Stílus, nyelvezet és retorikai eszközök kiválasztása.
+- **Megtanulás**:
+    - A beszéd alapos memorizálása.
+- **Előadás**:
+    - A testbeszéd, hangszín és kifejező erő hangsúlyozása.
+
+---
+
+### Szerkezete
+
+1. **Bevezetés**:
+    - Célja a figyelem felkeltése, a téma rövid bemutatása.
+    - Példák: kérdés, idézet, anekdota.
+2. **Elbeszélés**:
+    - A téma részletes ismertetése.
+    - Helyzetek, tények bemutatása.
+3. **Kitérés**:
+    - Szubjektív vagy másodlagos információk hozzáadása.
+    - Például személyes vélemény, humoros megjegyzés.
+4. **Témamegjelölés**:
+    - A konkrét álláspont vagy fő gondolat kiemelése.
+5. **Bizonyítás**:
+    - Érvek, példák, tények felsorakoztatása.
+    - Logikus és hiteles érvelés.
+6. **Cáfolás**:
+    - Az ellenérvek megdöntése.
+    - Ellenfél érveinek gyengeségeire mutat rá.
+7. **Befejezés**:
+    - Az érzelmi hatás fokozása, összegzés.
+    - Közönség motiválása, cselekvésre ösztönzés.
+
+---
+
+### Retorikai eszközök a szónoki beszédben
+
+- Metaforák, hasonlatok.
+- Ismétlés, párhuzamok.
+- Retorikai kérdések.
+- Ellentétek kiemelése.
+- Hangzatos záró gondolat.

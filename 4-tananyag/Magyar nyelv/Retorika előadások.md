@@ -144,3 +144,23 @@ A szónoki beszéd szerkezete egy világos, logikus felépítést követ, amely 
     
 10. **Milyen hatása lehet a befejezésnek a közönségre, és hogyan lehet azt hatékonyan megformálni?**  
     A befejezés segít összefoglalni a beszédet, és erőteljesen megerősíti az üzenetet. Hatékonyan akkor formálható, ha rávilágít a beszéd fontosságára és felhívja a közönséget a cselekvésre.
+
+## Lili - Szónoki beszéd
+### Tanácsadó beszéd
+- tudományos
+- egyházi
+- politikai
+- ##### Cél a közönség meggyűzése
+### Törvényszéki beszéd
+- vádbeszéd
+- védőbeszéd
+- bírói beszéd
+### Alkalmi beszéd
+
+### Szónoki beszéd alkotása
+- Előkészítés
+- elrendezés
+- kifejezés
+- megtanulás
+- előadás
+- 

@@ -173,3 +173,322 @@ A Rákosi-korszak gazdaságpolitikájának bemutatása során kulcsfontosságú 
 - A **plakátok** és táblázatok az életkörülmények romlását, illetve a beszolgáltatások következményeit szemléltetik.
 
 **Összegzés:** A Rákosi-korszak gazdaságpolitikája rövid távon a szovjet érdekeket és ideológiát szolgálta, de hosszú távon Magyarország gazdaságának és társadalmának jelentős károkat okozott.
+
+
+A szövegben szereplő személyek nevei és rövid ismertetésük a forrás alapján:
+
+### Magyar kommunista vezetők:
+
+1. **Rákosi Mátyás** - A Moszkvából hazatérő kommunista vezetők egyike, aki kulcsszerepet játszott az ideiglenes kormányzat megszervezésében.
+2. **Gerő Ernő** - Kommunista vezető, szintén a Moszkvából érkező csoport tagja.
+3. **Révai József** - Kommunista politikus, aki részt vett a demokratikus kormányzat követelésének megszervezésében.
+4. **Nagy Imre** - A kommunisták egyik meghatározó alakja, aki később a földreform végrehajtásában játszott fontos szerepet.
+
+### Magyar politikusok:
+
+5. **Miklós Béla** - Pártonkívüli vezérezredes, aki az Ideiglenes Nemzeti Kormány miniszterelnöke lett. Korábban a szovjet oldalra állt a háború alatt.
+6. **Kállai Gyula** - Az MKP egyik vezetője, aki a földosztás során fontos szerepet töltött be.
+
+### Népbíróság által elítélt politikusok:
+
+7. **Imrédy Béla** - A népbíróság által halálra ítélt volt magyar miniszterelnök.
+8. **Bárdossy László** - Szintén halálra ítélt volt miniszterelnök, akinek pere a Zeneakadémián zajlott.
+9. **Sztójay Döme** - Nyilas politikus, akit halálra ítéltek.
+10. **Szálasi Ferenc** - Nyilas-hungarista pártvezér, akit szintén halálra ítéltek.
+
+### Egyházi vezető:
+
+11. **Mindszenty József** - Hercegprímás, akit koncepciós perben ítéltek el.
+
+### Népbírósági bíró:
+
+12. **Major Ákos** - A Magyar Királyi Honvédség korábbi hadbírója, a népbíróságok bírája, később sikeres ügyvéd a Kádár-korszakban.
+
+### Egyéb szereplők:
+
+13. **Vorosilov tábornagy** - A Szövetséges Ellenőrző Bizottság (SZEB) elnöke, aki nyomást gyakorolt a magyar kormányra a földosztás végrehajtása érdekében.
+
+### A szövegben szereplő fogalmak és azok magyarázata:
+
+#### Politikai fogalmak:
+
+1. **Ideiglenes Nemzeti Kormány**  
+    Az 1944 decemberében Debrecenben megalakult kormány, amelyet a kommunisták és más demokratikus erők közösen hoztak létre. Elsődleges célja a háború lezárása és a demokratikus átalakulás elindítása volt.
+    
+2. **Kommunista Párt (MKP)**  
+    A Magyar Kommunista Párt, amely a második világháború után kulcsszerepet játszott a politikai hatalom átvételében és a szocialista rendszer kiépítésében.
+    
+3. **Szövetséges Ellenőrző Bizottság (SZEB)**  
+    A második világháborút követően létrehozott nemzetközi szerv, amelynek célja a megszállt országok irányítása és a békefeltételek végrehajtásának ellenőrzése volt. Magyarországon a SZEB szovjet irányítás alatt működött.
+    
+4. **Földosztás**  
+    Az Ideiglenes Nemzeti Kormány által 1945-ben végrehajtott földreform, amely a nagybirtokrendszer felszámolását célozta, és a parasztság földhöz juttatásával igyekezett népszerűséget szerezni a kormánynak és a kommunista pártnak.
+    
+
+#### Jogi és társadalmi fogalmak:
+
+5. **Népbíróság**  
+    Az 1945-ben létrehozott különleges bíróság, amely a háborús bűnösök, nyilas politikusok, valamint a Horthy-rendszer felelősségre vonását szolgálta.
+    
+6. **Koncepciós per**  
+    Politikai célból megrendezett bírósági eljárás, amelyben előre eldöntött ítélet született. Az eljárások jellemzően hamis vádakra és kényszerített beismerő vallomásokra épültek.
+    
+7. **Nyilasok**  
+    A nyilaskeresztes párt tagjai, akik a második világháború végén hatalomra kerültek Magyarországon, és brutális diktatúrát vezettek be.
+    
+
+#### Személyekkel kapcsolatos fogalmak:
+
+8. **Pártonkívüli**  
+    Olyan politikai szereplő, aki egyik pártnak sem volt hivatalosan a tagja, de adott esetben politikai szerepet vállalt (például **Miklós Béla** esetében).
+
+#### Gazdasági fogalmak:
+
+9. **Nagybirtokrendszer**  
+    A mezőgazdaság feudális jellegű rendszere, ahol a földtulajdon jelentős része a nagybirtokosok kezében összpontosult. A földreform ezt a rendszert kívánta megszüntetni.
+    
+10. **Agrárproletárok**  
+    Földnélküli parasztok, akik csupán munkájukból éltek, földtulajdon nélkül. A földreform egyik célja volt, hogy földet juttasson nekik.
+    
+
+### Személyek és fogalmak az új forint és a belpolitikai küzdelmek kapcsán
+
+#### **Személyek**
+
+1. **Tildy Zoltán**
+    
+    - A Magyar Köztársaság első köztársasági elnöke, korábban kisgazdapárti miniszterelnök.
+2. **Nagy Ferenc**
+    
+    - Kisgazdapárti politikus, Tildy Zoltán utódja a miniszterelnöki poszton.
+3. **Kovács Béla**
+    
+    - Kisgazda földművelésügyi miniszter, aki lemondott a kommunista támadások miatt.
+4. **Kovács Imre**
+    
+    - Nemzeti Parasztpárt politikusa, aki a kommunisták valódi céljait felismerve távolodást szorgalmazott.
+5. **Erdei Ferenc**
+    
+    - Kommunistákkal szimpatizáló Nemzeti Parasztpárt-politikus, aki a pártból nem lépett ki, de a kommunisták révén nőtt a befolyása.
+6. **Peyer Károly és Kéthly Anna**
+    
+    - Szociáldemokrata politikusok, akik az önálló arculatot képviselték, és fokozatosan háttérbe szorultak.
+7. **Szakasits Árpád és Marosán György**
+    
+    - Szociáldemokrata „balos” politikusok, akik az MKP-val való egyesülést támogatták.
+8. **Rajk László**
+    
+    - Kommunista belügyminiszter, az Államvédelmi Osztály (ÁVO) kialakításában játszott szerepe meghatározó volt.
+9. **Sulyok Dezső**
+    
+    - A kisgazdapártból kizárt képviselő, aki a Magyar Szabadság Párt vezetője lett.
+
+#### **Fogalmak**
+
+1. **Szalámitaktika**
+    
+    - Az MKP módszere, amellyel a rivális pártokat fokozatosan felszeletelték, belső csoportokat bomlasztottak, és politikai ellenfeleiket visszaszorították.
+2. **Baloldali Blokk**
+    
+    - Az MKP által kezdeményezett politikai szövetség (1946) a Szociáldemokrata Párt (SZDP) és a Nemzeti Parasztpárt (NPP) részvételével.
+3. **A demokratikus államrend és a köztársaság büntetőjogi védelméről szóló törvény**
+    
+    - 1946-ban elfogadott törvény, amely lehetővé tette a kommunista irányítású belügyi szervek számára a politikai ellenfelek elleni fellépést.
+4. **Politikai Rendészeti Osztály (PRO)**
+    
+    - A belügyminisztérium keretében működő szerv, amely 1946-ban Államvédelmi Osztály (ÁVO) néven nagyobb önállóságot kapott.
+5. **„B” listázás**
+    
+    - A közigazgatási alkalmazottak politikai megbízhatósági szempontok szerinti felülvizsgálata, ami tízezrek elbocsátását eredményezte.
+6. **SZEB (Szövetséges Ellenőrző Bizottság)**
+    
+    - A Szovjetunió dominálta szervezet, amely Magyarország politikai ellenőrzését biztosította.
+7. **FKgP (Független Kisgazdapárt)**
+    
+    - Az 1945-ös választások győztese, amelynek parlamenti többsége a kommunista szalámitaktika hatására folyamatosan csökkent.
+8. **Nemzeti Parasztpárt (NPP)**
+    
+    - Politikai párt, amely eredetileg a földosztás miatt együttműködött az MKP-val, de később fokozatosan eltávolodott tőle.
+9. **Szociáldemokrata Párt (SZDP)**
+    
+    - Az MKP-hoz közel álló „balosok” támogatásával a kommunisták céljait segítő párt.
+10. **Államvédelmi Osztály (ÁVO)**
+    
+    - A PRO utóda, a kommunista belügyminiszter irányítása alatt álló, politikai ellenfelek elleni fellépésre specializált szervezet.
+    - ### Évszámok az új forint és a belpolitikai küzdelmek kapcsán
+
+#### **1945**
+
+- A választások évében a Független Kisgazdapárt (FKgP) több mint 50%-os többséget szerzett.
+- Létrejött a Belügyminisztérium keretében a Politikai Rendészeti Osztály (PRO).
+- A földosztás eredményeként a Nemzeti Parasztpárt (NPP) és az MKP együttműködése erősödött.
+
+#### **1946**
+
+- Február 1.: Kikiáltották a Magyar Köztársaságot.
+- Március: Az MKP kezdeményezte a Baloldali Blokk létrehozását az MKP, SZDP és NPP részvételével.
+- Elfogadták **A demokratikus államrend és a köztársaság büntetőjogi védelméről szóló törvényt**, amely a belügyi szervek hatalmát növelte.
+- A Politikai Rendészeti Osztály (PRO) az Államvédelmi Osztály (ÁVO) nevet kapta Rajk László belügyminisztersége alatt.
+- A kommunista agitáció hatására parasztok tömege vonult az utcára a „Földet vissza nem adunk!” jelszóval.
+- Nyáron Rajk László betiltott több mint 1500 egyházi és társadalmi szervezetet, például a Katolikus Legényegyletet (KALOT) és a Magyar Cserkészszövetséget.
+
+#### **1947**
+
+- Aláírták a párizsi békeszerződést, amely Magyarország számára még a trianoni diktátumnál is súlyosabb feltételeket tartalmazott.
+
+#### **Egyéb említések**
+
+- **1939**: A Nemzeti Parasztpárt megalakulása parasztpolitikusok és népi írók (pl. Illyés Gyula, Németh László) által.
+
+Ezek az évszámok kontextusba helyezik a történeti eseményeket, segítve a belpolitikai küzdelmek és a hatalomátvétel megértését.
+
+### **Személyek**
+
+1. **Kovács Béla**
+    
+    - A Független Kisgazda-, Földmunkás- és Polgári Párt főtitkára, 1945–1946-ban földművelésügyi miniszter. Erősen fellépett az MKP politikájával szemben, ezért 1947-ben a szovjetek elhurcolták.
+    - **Fontos esemény**: 1947. február 25-én elhurcolták, ami később a kommunista diktatúrák áldozatainak emléknapjává vált.
+2. **Nagy Ferenc**
+    
+    - A Kisgazdapárt politikusa, aki 1945 után a párt vezetője lett. A kommunisták politikai nyomására 1947-ben emigrációba kényszerült.
+3. **Slachta Margit**
+    
+    - A Keresztény Női Tábor vezetője és az első magyar női képviselő. A háború után politikai támadások érték, és 1949-ben emigrált. A nők jogaiért és a szociális gondoskodásért emelkedett ki.
+4. **Sulyok Dezső**
+    
+    - A Kisgazdapárt tagja, aki a Magyar Szabadság Párt vezetője lett, és a kommunisták által hozott "Lex Sulyok" törvénnyel kizárták a választásból.
+5. **Donáth György**
+    
+    - A Magyar Testvéri Közösség perének fővádlottja, aki 1947 októberében kivégzés előtt védőbeszédében leleplezte a per koncepciós jellegét.
+6. **Rákosi Mátyás**
+    
+    - A magyar kommunisták vezetője, aki a kommunista hatalom megszilárdítása érdekében az MKP és az ÁVO segítségével erőteljes propagandát folytatott és jogszerűtlen módszereket alkalmazott a politikai ellenfelek elnyomására.
+
+### **Fogalmak**
+
+1. **Szalámitaktika**
+    
+    - A szocialista pártok egyesítése és az ellenfelek fokozatos elnyomása a kommunisták célja érdekében. A taktika során a kommunisták fokozatosan elnyomták a politikai ellenfeleiket, és manipulálták a közvéleményt, hogy hatalmukat megszilárdítsák. Ezt koncepciós perek, hamis vádak, és a politikai ellenfelek megfélemlítése révén érték el.
+2. **Kék cédula**
+    
+    - A választási csalás egyik eszköze. A kommunisták az ifjú kommunisták segítségével több szavazatot gyűjtöttek a "kék cédulák" segítségével, melyeket hamisítottak és különböző választókörzetekben szavaztattak. Az igazolás lehetővé tette, hogy szavazókat szállítsanak más helyekre, hogy manipulálják a választásokat.
+3. **Koncepciós perek**
+    
+    - A kommunista hatalom által alkalmazott, előre eltervezett és manipulált perek, melyek során politikai ellenfeleket hamis vádakkal vádoltak, hogy elnémítsák őket és megszilárdítsák a hatalmukat. A szovjetek és az MKP ezt a módszert alkalmazták Kovács Béla, Donáth György és más politikai ellenfelek ellen.
+4. **"Lex Sulyok" törvény**
+    
+    - Egy olyan törvény, amely kizárta a háború előtt "jobboldali" szervezetek tagjait a választásokból. Sulyok Dezső, a Magyar Szabadság Párt vezetője által alapított párt tagjait is eltiltották e törvénnyel a politikai részvételtől.
+5. **Politikai rendőrség (ÁVO)**
+    
+    - A kommunista hatalom idején működő titkos rendőrség, mely a politikai ellenfelek üldözésére és megfélemlítésére szolgált. Az ÁVO nagy szerepet játszott a szalámitaktikában és az ellenállás elfojtásában.
+### Személyek, fogalmak, évszámok
+
+**Személyek:**
+
+- **Peyer Károly**: Szociáldemokrata politikus, aki 1948-ban kizárásra került az SZDP-ből, mivel ellenállt az MKP-vel való szorosabb együttműködésnek.
+- **Kéthly Anna**: Szociáldemokrata politikus, aki szintén ellenállt az MKP-val való együttműködésnek, és 1948-ban kizárták az SZDP-ből.
+- **Gerő Ernő**: Az MDP főtitkárhelyettese, aki a gazdaság államosítását irányította, és később a gazdasági ügyek irányítója lett.
+
+**Fogalmak:**
+
+- **MKP (Magyar Kommunista Párt)**: A kommunista párt, amely 1948-ban az SZDP-vel egyesült, és létrehozta az MDP-t.
+- **SZDP (Szociáldemokrata Párt)**: A szociáldemokrata párt, amely 1948-ban egyesült az MKP-val, és létrehozta az MDP-t.
+- **MDP (Magyar Dolgozók Pártja)**: Az MKP és SZDP egyesüléséből létrejövő új párt, amely 1948-ban alakult meg.
+- **Népfront**: 1949-ben létrehozott politikai szervezet, amelybe beolvasztották a pártokat. A Népfront jelöltjei indultak az 1949-es választásokon, amelyeket egypárti választásként tartottak.
+- **Proletárdiktatúra**: A kommunista egyeduralomra való törekvés, amelyet a munkásosztály nevében a kommunisták igyekeztek kialakítani.
+
+**Évszámok:**
+
+- **1947**: A választások, amelyek után a kommunisták, a szovjet csapatok támogatásával, továbbra is megszerezték a hatalmat. Az MKP a legnagyobb párttá vált, de a demokratikus erők nem kerülhettek hatalomra.
+- **1948**: Az MKP és SZDP egyesülése, az MDP megalakulása. Ekkor kezdődött a többpártrendszer felszámolása.
+- **1949**: A Magyar Függetlenségi Párt mandátumainak megsemmisítése, a választás, amelyen csak a Népfront jelöltjei indulhattak. Az új alkotmány bevezetése, amely rögzítette a kommunista párt kizárólagos hatalmát, és a proletárdiktatúra megerősítése.
+
+### További fogalmak és események:
+
+- **Magyar Népköztársaság**: 1949-ben létrejött államforma, amely a kommunista párt kizárólagos hatalmát rögzítette.
+- **Államosítások**: A gazdaság államosítása, amely 1947 és 1949 között zajlott. Az államosítást a kommunisták a hatalom megszerzésének elősegítésére alkalmazták.
+- **Tanácsrendszer**: A központi akarat végrehajtását biztosító új rendszer, amelyben a települések élén álló tanácsok irányították az állami életet.
+
+Ha többet szeretnél megtudni bármelyik fogalomról, szívesen segítek!
+
+
+Itt van a szövegben található fontos fogalmak, személyek és évszámok teljes listája:
+
+### Fogalmak:
+
+- **Államosítások**: A gazdaság és ipar állami tulajdonba vétele, amely az 1940-es évek végén kezdődött Magyarországon.
+- **MKP (Magyar Kommunista Párt)**: A kommunista párt, amely a második világháború után Magyarországon hatalomra került.
+- **MDP (Magyar Dolgozók Pártja)**: A Magyar Kommunista Párt utódja, amely 1948-ban jött létre.
+- **Káder**: Politikai megbízható személy, aki vezető pozíciót tölt be, de nem szükségszerűen szakértő.
+- **Koncepciós per**: Politikai célú per, amelyben a vádak és bizonyítékok nem valósak.
+- **Sztálinizmus**: A Szovjetunió vezetője, Sztálin által képviselt politikai irányvonal.
+- **Börtönviselt emberek**: Politikai foglyok, akik a rendszer idején börtönbe kerültek.
+- **ÁVH (Államvédelmi Hatóság)**: A kommunista rendszer titkosszolgálata, amely a politikai ellenfelek elnyomására szolgált.
+- **Rendőrségi szakszervezet**: A rendőrség által képviselt szakszervezet.
+- **Zsákmány-szerződés**: Politikai vagy gazdasági szerződés, amely előnyöket ad egy politikai csoportnak.
+- **Munkásellenes előírások**: Azok az intézkedések, amelyek a munkásokat vagy az ipari szektort érintették.
+- **Szentgotthárdi kémkedési ügy**: Politikai kémkedési ügy, amely az ország biztonságát érintette.
+- **Tömeges átnevelés**: Politikai és ideológiai indokokkal történő nevelés és oktatás.
+- **Állami segélyek**: A kormány által biztosított segélyek, amelyeket egyes társadalmi csoportoknak adtak.
+
+### Személyek:
+
+- **Gerő Ernő**: Az MDP főtitkárhelyettese, aki irányította a gazdaság államosítását.
+- **Rákosi Mátyás**: A kommunista rendszer vezetője Magyarországon 1945-1956 között.
+- **Péter Gábor**: Az Államvédelmi Hatóság (ÁVH) vezetője.
+- **Mindszenty József**: Esztergomi érsek, aki ellenállt a kommunista rendszernek, és koncepciós per áldozata lett.
+- **Grősz József**: Kalocsai érsek, akit politikai okokból letartóztattak.
+- **Ordass Lajos**: Evangélikus püspök, akit lemondattak.
+- **Ravasz László**: Református püspök, akit szintén lemondattak.
+- **Tóth Lajos ("Drumi")**: Vadászpilóta, a „repülős ügy” perében szereplő személy.
+- **Nagy Imre**: A kommunista vezető, aki a forradalom idején szerepet kapott.
+- **Petőfi Sándor**: Költő, aki a magyar forradalmi eszmék képviselője.
+- **Péterfi József**: A politikai és gazdasági vezető, aki a Rákosi-korszakban aktív volt.
+- **Tombor Béla**: Politikai személy, aki szerepet játszott a perekben.
+- **Varga Károly**: Politikai és gazdasági vezető.
+- **Károlyi Mihály**: Politikai személyiség, aki részt vett a forradalomban.
+- **Fekete Pál**: Politikai személy, aki szerepet kapott a 1956-os forradalomban.
+- **Szegedi Pál**: Politikai vezető, aki részt vett a rendszer munkájában.
+
+### Évszámok:
+
+- **1947**: A bankok államosítása Magyarországon.
+- **1948**: A száznál több munkást foglalkoztató üzemek államosítása, iskolák államosítása.
+- **1949**: A nagykereskedelem és a tíz munkásnál nagyobb üzemek államosítása.
+- **1950**: A szerzetesrendek feloszlatása Magyarországon.
+- **1951**: Az ÁVH tevékenysége, a „repülős ügy” perének kezdete.
+- **1955**: Mindszenty József házi őrizetbe kerül.
+- **1956**: Az 1956-os forradalom kirobbanása, Mindszenty szabadon bocsátása.
+- **1948. június**: Pócspetri ügy, ahol a helyi plébános és mások demonstráltak az egyházi iskolák védelmében.
+- **1949-1953**: Az ipari szektor átalakítása és a gazdaság irányítása a kommunista párt által.
+- **1956. október 23.**: A forradalom kirobbanása Magyarországon.
+- **1960**: A gazdasági és politikai átalakítások folytatása a kommunista hatalom alatt.
+
+
+
+### Fogalmak:
+
+- **Személyi kultusz**: A vezetők személyének túlzott istenítése és dicsőítése, amely gyakran a diktatúrák egyik jellemzője. Rákosi idején Magyarországon a személyi kultuszt szisztematikusan kiépítették.
+- **Szocialista realizmus (szocreál)**: A kommunista országok művészeti irányzata, amely az osztályharcot, a munkásosztály életét, valamint a vezetők (pl. Sztálin) és a rendszer dicsőítését helyezte a középpontba. Az egyes művészeti ágakban (pl. színház, irodalom, építészet) előírták az egyetlen "helyes" formát és tartalmat.
+- **Tervgazdálkodás**: A gazdaság irányítása, ahol az állam központilag, előre meghatározott terv szerint szabja meg a termelést és elosztást.
+- **Munkásosztály idealizálása**: A munkásosztály dicsőítése a szocialista realizmusban, ahol az ő életük és munkájuk ideálissá vált.
+- **KGST (Kölcsönös Gazdasági Segítség Tanácsa)**: A szocialista országok gazdasági együttműködési szervezete, melyet 1949-ben alapítottak.
+- **Szovjet gazdaságpolitika másolása**: A Szovjetunió gazdasági modelljének követése, amely Magyarországon is megjelent, például a nehézipar fejlesztése és az önellátásra való törekvés formájában.
+
+### Személyek:
+
+- **Rákosi Mátyás**: Magyar politikus, aki a kommunista diktatúra vezetője volt 1948 és 1956 között. Ő irányította a személyi kultusz kiépítését és az ország szovjet típusú átalakítását.
+- **Sztálin**: A Szovjetunió diktátora, akinek a személyét istenítették Magyarországon, párhuzamosan Rákosiéval.
+- **Révai József**: A kommunista párt kultúrpolitikai vezetője, aki az osztályharcos szemléletet és a sematizmust képviselte a kultúrában.
+- **Gerő Ernő**: A magyar politikus, aki Rákosi mellett vezető szerepet játszott a gazdasági politikában.
+- **Mikus Sándor**: Szobrász, aki elkészítette a Sztálin-szobrot, amelyet 1951-ben avattak fel Budapesten.
+
+### Évszámok:
+
+- **1948**: A Rákosi-diktatúra kezdete, ekkor kezdődött meg a személyi kultusz kiépítése Magyarországon.
+- **1950**: Az első ötéves terv kezdete, a tervgazdálkodás bevezetése Magyarországon. A Maszobal Rt. létrehozása is ekkor történt, amely a bauxitbányászatot és alumínium-gyártást szovjet ellenőrzés alá helyezte.
+- **1951**: A Sztálin-szobor felavatása Budapesten, amely a szovjet rendszer és Sztálin istenítését szolgálta.
+- **1952**: Rákosi 60. születésnapja, amikor a személyi kultusz a tetőpontjára ért, és Rákosi a miniszterelnöki tisztséget is betöltötte.
+- **1956**: A forradalom kitörése Magyarországon, amikor a rendszer megdöntésére irányuló törekvések is elindultak.
+
+Ezek a fogalmak, személyek és évszámok segítenek megérteni a Rákosi-diktatúra és a személyi kultusz rendszerének kialakulását és működését Magyarországon.

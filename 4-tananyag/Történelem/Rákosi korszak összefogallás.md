@@ -38,6 +38,90 @@ esszék: érettségi típusú 33p
 - kulákok
 - Ratkó korszak 1950-53
 
+A következőkben található fogalmak magyarul:
+
+1. **Pártok**:
+    
+    - **Kisgazdák**: Az 1945 utáni egyik legnagyobb párt Magyarországon, amely a parasztság és a középosztály érdekeit képviselte, és Tildy Zoltán vezetésével alakított kormányt. A kommunisták térnyerésével azonban fokozatosan elvesztette hatalmát【40†source】.
+    - **Kommunisták**: A Magyar Kommunista Párt, melyet Rákosi Mátyás irányított, fokozatosan megszerezte a hatalmat, főleg a **szalámitaktika** alkalmazásával, amelynek célja a politikai ellenfelek apró részekre szedése volt【41†source】.
+    - **Paraszttpárt**: A kisgazdák pártjához hasonlóan a parasztok érdekeit védő párt, de nem szerzett akkora politikai befolyást【41†source】.
+    - **Függetlenségi Front pártjai**: Egy antifasiszta politikai koalíció, amelyet a kommunisták is támogattak, de fokozatosan kiüresedett, miután a kommunisták átvették a hatalmat【41†source】.
+    - **Szociáldemokrata**: A Magyar Szociáldemokrata Párt, amely a koalíciós kormányzatban részt vett, de végül a kommunisták beolvasztották, megszüntetve a demokrácia védelmét【41†source】.
+2. **Ideiglenes nemzetgyűlés**: Az 1944-es német megszállás után létrehozott testület, amely a háború utáni időszak politikai és jogi kérdéseit kezelte【41†source】.
+    
+3. **Ideiglenes nemzeti kormány**: Az 1944-es ideiglenes kormány, amely a németek kivonulása után irányította az országot a kommunista párt térnyeréséig【41†source】.
+    
+4. **Népbíróság**: Politikai peres ügyekkel foglalkozó bíróság, amely gyakran koholt vádakkal ítélkezett, különösen a kommunista hatalomátvételt követően【41†source】.
+    
+5. **Földosztás**: A kommunisták által végrehajtott földreform, amelyben a nagyobb birtokokat kisparaszti birtokokra osztották, gyakran a **kulákok** (gazdagabb parasztok) kizárásával【41†source】.
+    
+6. **Baloldali blokk**: A baloldali pártok, mint a kommunisták és a szociáldemokraták által alkotott koalíció, amely a kommunista párt hatalmának megerősítésére szolgált【41†source】.
+    
+7. **Forint**: 1946-ban bevezetett új valuta, amelyet a hiperinfláció leküzdésére vezettek be. A forint bevezetése alapvető gazdasági stabilizációs lépés volt【41†source】.
+    
+8. **Hiperinfláció**: Az 1945 és 1946 közötti időszakban Magyarországon tapasztalható, rendkívül gyors pénzromlás, amely a gazdaság teljes összeomlásához vezetett【41†source】.
+    
+9. **Szalámitaktika**: A kommunisták által alkalmazott politikai stratégia, amely az ellenfelek fokozatos "felaprózásával" és elpusztításával biztosította számukra a hatalom megszerzését【41†source】.
+    
+10. **Államosítás**: Az ipari és mezőgazdasági vállalatok, valamint a közszolgáltatások állami tulajdonba vétele, amelyet a kommunisták az állam irányítása alatt kívántak összpontosítani【41†source】.
+    
+11. **B listázás**: A kommunisták által alkalmazott intézkedés, amely alapján azokat a politikusokat és közéleti személyeket, akiket nem támogattak, nyilvántartásba vettek, és politikai karrierjüket ellehetetlenítették【41†source】.
+    
+12. **ÁVO** és **ÁVH**: Az Államvédelmi Osztály, majd később az Államvédelmi Hatóság a kommunista diktatúra belső titkosszolgálata volt, amely a politikai ellenfeleket figyelte, elnyomta és büntette【41†source】.
+    Íme a kért fogalmak magyarul:
+
+1. **Koncepciós per**: Politikai célú per, amelyben az ítélet előre meghatározott, és az elítélt személyeket politikai okokból ítélik el, gyakran valódi bűnök nélkül. A legismertebb példa a **Rajk-per** (1950), amely során a kommunista vezetés kegyetlenül leszámolt egykori tagjával, Rajk Lászlóval, és másokat is áldozatul ejtettek【40†source】【41†source】.
+    
+2. **Kékcédulás választás**: A **1949-es választások** során alkalmazott manipulációs technika, amelyben a választók **kék cédulával** szavazhattak, de a választások eredménye már előre meghatározott volt. A cél a kommunista párt egyeduralmának biztosítása volt【40†source】.
+    
+3. **Magyar Dolgozók Pártja**: A kommunista párt neve Magyarországon 1948 és 1956 között. A **Magyar Kommunista Párt** és a **Szociáldemokrata Párt** egyesülésével alakult, és a Szovjetunióval szoros kapcsolatban működött, célja pedig egy egypártrendszer létrehozása volt【41†source】.
+    
+4. **Elnöki Tanács**: 1949-ben alakult testület, amely a Magyar Népköztársaság legfelsőbb vezető hatósága volt. Az Elnöki Tanács határozott a legfontosabb politikai ügyekről, és a pártvezetés közvetlen irányítása alá tartozott【40†source】.
+    
+5. **Mindszenti per**: 1952-ben zajlott koncepciós per, amelyben Mindszenty József hercegprímás a kommunista hatalom elleni „összeesküvés” vádjával került bíróság elé. A per célja az volt, hogy megszabaduljanak a katolikus egyház vezetőjétől és politikai ellenfelektől【41†source】.
+    
+6. **Internálás**: Politikai okokból történő kényszerű elhelyezés, a kommunista rezsim alatt sokakat internáltak (elzártak) különböző munkatáborokba vagy különleges intézményekbe, főleg a politikai ellenfeleket.
+    
+7. **Recski munkatábor**: Egyik legismertebb kényszermunkatábor Magyarországon, ahová politikai foglyokat internáltak a kommunista diktatúra alatt. A tábor a **Rákosi-éra** egyik szimbólumává vált【41†source】.
+    
+8. **Csengőfrász**: A magyar kémkedési ügyekkel kapcsolatos szlengkifejezés, amely a **belügyi megfigyelések** és üldözések idején használatos. Az embereket folyamatos paranoia jellemezte, hogy a titkosrendőrség vagy az ÁVH figyeli őket.
+    
+9. **Személyi kultusz**: A **Rákosi**- és **Kádár**-rendszer idején a vezetők körül kialakított **túlzott tisztelet és imádat** kultusza, amely gyakran a társadalom elnyomásával járt, és a vezető személyét istenítette.
+    
+10. **Ötéves terv**: A **kommunista gazdaságpolitikai program**, amelynek célja az ipar gyors fejlesztése és az agrárium kollektivizálása volt. Az **első ötéves terv** 1950-ben indult, és az állami irányítást, valamint a központi gazdasági irányítást kívánta megerősíteni.
+    
+11. **KGST (Kölcsönös Gazdasági Segítség Tanácsa)**: A szovjet blokk országainak gazdasági együttműködési szervezete, amelyet 1949-ben alapítottak. Célja a **szocialista országok közötti gazdasági koordináció** és a szovjet érdekszféra gazdasági integrációja volt【41†source】.
+    
+12. **Feketevágás**: A **szakszervezeti és állami hatóságok általi** megtiltott, illegális fa- és egyéb erdőgazdálkodás.
+    
+13. **Beszolgáltatás**: Az állami felhívásra történő kötelező eladás. A mezőgazdasági termelőknek előírták, hogy egyes termékeiket állami árakon adják el, gyakran a saját termelésük kárára.
+    
+14. **Padlássöprés**: A **kommunista hatalom átvételét** követően a vagyonelkobzások és a magántulajdon elleni állami támadások egyfajta szimbolikus kifejezése, amely a **felsőbb osztályok** teljes eltüntetését célozta.
+    
+15. **Kulákok**: A **szocialista kollektivizálás** során a gazdagabb parasztokat, akik ellenálltak a földosztásnak, kulákoknak nevezték. Őket **elítélték** és **internálták** a kommunista rendszerben【40†source】【41†source】.
+    
+16. **Ratkó-korszak (1950-53)**: **Ratkó Anna**, a korszak szociális politikai vezetője, a népesedési politika és a női munkavállalás területén vezetett szigorú állami intézkedéseket, miközben a háború utáni gazdaság helyreállítását is megpróbálta biztosítani. Az évek gazdasági nehézségekkel, valamint a társadalmi normák szigorú betartásával telt.
+
+A többi fogalmat a következő válaszban folytatom, hogy világosabb legyen a részletezés.
+1. **Kisgazdapárt**:
+    
+    - **Tildy Zoltán**: A Kisgazdapárt vezetője, aki az 1945-1947 közötti időszakban elnöke volt Magyarország ideiglenes kormányának. Politikai pályafutása során ő volt az, aki próbálta megvédeni a parlamentáris demokráciát a kommunisták térnyerésével szemben【40†source】【41†source】.
+    - **Dr. Kovács Béla**: A párt másik jelentős alakja, aki a nemzeti politikai életben fontos szerepet játszott.
+2. **Kommunista Párt**:
+    
+    - **Rákosi Mátyás**: A Magyar Kommunista Párt vezetője, aki a **szalámitaktika** révén megszerezte a hatalmat Magyarországon és diktátor-szerű irányítást gyakorolt az 1950-es években【40†source】【41†source】.
+    - **Gerő Ernő**: Szintén fontos vezetője volt a pártnak, aki az 1956-os forradalom idején is kulcsszerepet játszott a pártvezetésben.
+3. **Paraszttpárt**:
+    
+    - **Nagy Ferenc**: A Paraszttpárt vezetője, aki később a Nemzeti Parasztpárt szövetségeseként a Függetlenségi Frontban is szerepet vállalt【41†source】.
+4. **Függetlenségi Front pártjai**:
+    
+    - **Szakasits Árpád**: A Függetlenségi Front egyik prominens politikusa és az egyik legfontosabb antifasiszta szereplője az 1945-ös időszakban【40†source】.
+5. **Szociáldemokrata Párt**:
+    
+    - **Kéthly Anna**: A Szociáldemokrata Párt egyik legfontosabb női vezetője, aki aktív szerepet játszott a párt és a munkásosztály jogainak védelmében az 1940-es és 1950-es években【40†source】.
+
+Ezek a politikusok a pártjaik legjelentősebb képviselői, és sokuk neve szorosan összefonódik a 20. század közepi magyar politikai történelemmel.
 ## Esszék:
 ### 2011 okt:
 #### A Rákosi-korszak mindennapjai és a politika hatása az életkörülményekre
@@ -491,4 +575,30 @@ Itt van a szövegben található fontos fogalmak, személyek és évszámok telj
 - **1952**: Rákosi 60. születésnapja, amikor a személyi kultusz a tetőpontjára ért, és Rákosi a miniszterelnöki tisztséget is betöltötte.
 - **1956**: A forradalom kitörése Magyarországon, amikor a rendszer megdöntésére irányuló törekvések is elindultak.
 
-Ezek a fogalmak, személyek és évszámok segítenek megérteni a Rákosi-diktatúra és a személyi kultusz rendszerének kialakulását és működését Magyarországon.
+### Személyek:
+
+1. **Pióker Ignác** – Lakatos, aki a sztálinista propaganda hőse lett, Kossuth-díjat kapott, plakátokon és újságokban szerepelt, országgyűlési képviselő lett, és az Elnöki Tanács tagja.
+2. **Ratkó Anna** – Egészségügyi miniszter, akinek nevéhez fűződik a terhességmegszakítás (művi abortusz) betiltása, a "Ratkó-korszak" idején.
+
+### Fogalmak:
+
+1. **Sztálinváros (ma Dunaújváros)** – A kommunista szocreál stílusú ipari város, amely a szovjet vasérc feldolgozására épült, és Dunapentele helyett Mohács közelébe tervezték.
+2. **Sztahanovista mozgalom** – A Szovjetunióból honosított munkaversenyek, amelyek célja a munkásosztály teljesítményének növelése, és amelyekhez propaganda, túlteljesítések, illetve hibás termékek is kapcsolódtak.
+3. **Békekölcsön** – Államkötvény, amelyet a kormány az első ötéves terv finanszírozására bocsátott ki, kötelező volt, és nem kamatozott.
+4. **Kollektivizálás** – A mezőgazdaság szövetkezetekbe szervezése, amely a magántulajdon felszámolására és a termelés hatékonyságának növelésére irányult.
+5. **Padlássöprés** – Az állami ellenőrzések során végzett terményfoglalás a paraszti házak padlásain, az illegálisan elrejtett termények miatt.
+6. **„Kulák”** – A gazdag parasztok, akiket osztályellenségként kezeltek és ellenségesként nyilvánítottak a kommunista rendszer.
+7. **Téeszesítés (termelőszövetkezetek)** – A kollektivizálás egyik szakasza, amikor a paraszti gazdaságokat közösségi formákba szervezték, célja a szovjet típusú mezőgazdaság kialakítása volt.
+8. **ÁVH (Államvédelmi Hatóság)** – A kommunista állambiztonsági szolgálat, amelyet a rendszer politikai ellenfeleinek és ellenállásának elnyomására használtak.
+
+### Évszámok:
+
+1. **1945** – A földosztás kezdete, amely felszámolta a régi földbirtokos réteget.
+2. **1949** – Az állami gazdaságok és termelőszövetkezetek létrehozása, a „kulákok” számának növekedése.
+3. **1950** – Az állami gazdaságok és termelőszövetkezetek számának növekedése, a kisparaszti gazdaságok száma csökken.
+4. **1951** – A téeszesítés folytatódik, a gazdák elhagyták a falvakat, az agrártermelés visszaesett.
+5. **1953** – A kollektivizálás eredményeként a termelőszövetkezetek száma nő, a „kulákok” száma jelentősen csökken.
+6. **1951-1955** – A Ratkó-korszak, amely alatt a terhességmegszakítás (művi abortusz) betiltása történt.
+7. **1956** – A bérek változása, és az alkalmazottak havi átlagbére elérte a 60%-ot a politikai történelem során.
+
+Ez a lista összesíti a szövegben szereplő legfontosabb személyeket, fogalmakat és évszámokat.

@@ -27,12 +27,12 @@
   - a hatalom fel akarta számolni  
   - erőszakos téeszesítés  
   - ellenállás  
-- **az ellenállás megtörése  
+- **az ellenállás megtörése**  
   - kb. 400 ezer paraszt elítélése („közellátási bűntettek”)  
   - zaklatás + ellehetetlenítés  
   - sokan elhagyták földjeiket  
   - kulákok elleni fellépés  
-- **a következmények  
+- **a következmények**  
   - ellátási nehézségek = jegyrendszer  
   - gabonabehozatal  
   - állatállomány drasztikus csökkenése  

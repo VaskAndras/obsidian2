@@ -197,23 +197,93 @@ A szónoki beszéd szerkezete egy világos, logikus felépítést követ, amely 
 10. **Milyen hatása lehet a befejezésnek a közönségre, és hogyan lehet azt hatékonyan megformálni?**  
     A befejezés segít összefoglalni a beszédet, és erőteljesen megerősíti az üzenetet. Hatékonyan akkor formálható, ha rávilágít a beszéd fontosságára és felhívja a közönséget a cselekvésre.
 
-## Rozi - A retorikai kommunikáció
+## Rozi - A retorikai kommunikáció  
+_A retorika művészete: hogyan hatunk másokra szavainkkal._
 ### Alapja
-- Arisztotelész - "Retorika"
-	- étosz
-	- logosz 
-	- pátosz
-### Étosz
-- Erkölcs
-- karakter 
-- pl fogász reklámoz fogkrémet
-- hozzá: tapasztalat, hírnév kell
-### Pátosz
-- Érzés, szenvedély
-- Érzelmek kivívása a befogadóban.
-- veszélyes lehet
 
-### Logosz
-- Ésszerűség
-- racionalitás
-- tárgyilagos meggyőzési módszer
+- **Arisztotelész** - _"Retorika"_ műve
+    - **Három alappillér**:
+        - **Étosz**: a beszélő hitelessége, jelleme.
+        - **Pátosz**: érzelmekre gyakorolt hatás.
+        - **Logosz**: logikus érvelés, ésszerű gondolatok.
+
+---
+
+### Étosz (erkölcs, karakter)
+
+- A **beszélő hitelessége** és megbízhatósága az érvelés alapja.
+- Fontos elemei:
+    - **Jellem**: a beszélő személyisége és erkölcsisége.
+    - **Hírnév**: korábbi teljesítmények, ismertség.
+    - **Tudás**: szakmai tapasztalat és hozzáértés.
+- **Példa**: Egy fogorvos reklámoz fogkrémet.
+    - Hiteles, mert _szakember_, akinek van **tapasztalata** és **szakmai tekintélye**.
+- **Cél**: meggyőzni a befogadót, hogy a beszélőben **bízhat**.
+
+---
+
+### Pátosz (érzelmek, szenvedély)
+
+- **Érzelmek kiváltása** a hallgatóságban.
+    - Felkelti az érdeklődést, megmozgatja a belső érzéseket.
+- **Hatékony, de veszélyes fegyver**:
+    - **Pozitív hatás**: együttérzés, lelkesedés kiváltása.
+    - **Negatív hatás**: manipuláció, félelemkeltés.
+- **Eszközök**:
+    - Erős szavak, képek, metaforák használata.
+    - Példázatok, történetek, érzelmes helyzetek bemutatása.
+
+---
+
+### Logosz (ésszerűség, racionalitás)
+
+- **Logikus gondolkodás és tárgyilagos érvelés**.
+- Alapja a tények, adatok, és **értelmes következtetések** bemutatása.
+- Eszközei:
+    - **Ok-okozati kapcsolatok** megvilágítása.
+    - **Statisztikák**, kutatások, tanulmányok hivatkozása.
+    - **Objektivitás**: az érvek bizonyíthatók és következetesek.
+- **Cél**: az értelemre hatni, meggyőzni a befogadót az igazságról.
+### Összefoglalás
+
+- A retorikai kommunikáció akkor **hatékony**, ha az étosz, pátosz és logosz **egyensúlyban van**.
+- **Étosz**: hitelesség és erkölcs, ami bizalmat ébreszt.
+- **Pátosz**: érzelmek, amelyek megmozgatják a hallgatóságot.
+- **Logosz**: logika, ami meggyőz az igazságról.
+
+### Egyszerű kérdések és válaszok a retorikai kommunikációról
+1. **Mit jelent a retorika?**  
+    A retorika a meggyőzés művészete, amelynek célja, hogy a beszéd vagy írás hatást gyakoroljon másokra.
+    
+2. **Ki volt a retorika alapjainak megalkotója?**  
+    Arisztotelész.
+    
+3. **Melyik három alappillér alkotja a retorikát?**  
+    Az étosz, a pátosz és a logosz.
+    
+4. **Mit jelent az étosz?**  
+    Az étosz a beszélő hitelességét és erkölcsi jellemét jelenti.
+    
+5. **Hogyan válik hitelessé egy beszélő az étosz segítségével?**  
+    Hitelessé válik például szakmai tapasztalata, erkölcsi tisztasága és jó hírneve által.
+    
+6. **Miért fontos a beszélő erkölcsi jelleme a retorikában?**  
+    Azért, mert a hallgatóság könnyebben elfogadja és megbízik egy olyan személyben, akinek jelleme tisztességes.
+    
+7. **Mit jelent a pátosz?**  
+    A pátosz az érzelmekre gyakorolt hatást jelenti, az érzelmek kiváltását a hallgatóságban.
+    
+8. **Hogyan lehet érzelmeket kiváltani a hallgatóságban?**  
+    Például erős szavakkal, történetekkel, metaforákkal vagy érzelmes példákkal.
+    
+9. **Miért lehet veszélyes a pátosz alkalmazása?**  
+    Mert túlzott érzelemkeltés manipulációhoz vezethet, vagy félelem és feszültség kialakulását eredményezheti.
+    
+10. **Mit jelent a logosz?**  
+    A logosz a logikus érvelést és az ésszerű gondolkodást jelenti.
+    
+11. **Milyen eszközökkel érhető el a logosz alapú meggyőzés?**  
+    Ténytárak, statisztikák, kutatások, logikus ok-okozati érvek és objektív bizonyítékok használatával.
+    
+12. **Miért fontos az étosz, pátosz és logosz egyensúlya a retorikában?**  
+    Azért, mert az egyensúly biztosítja, hogy a beszéd egyszerre legyen hiteles, érzelmileg hatásos és logikailag meggyőző.

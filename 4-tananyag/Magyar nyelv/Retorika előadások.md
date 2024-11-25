@@ -536,3 +536,102 @@ _A retorika művészete: hogyan hatunk másokra szavainkkal._
     
 15. **Mi a különbség az ethosz, pátosz és logosz szerepe között?**  
     Az ethosz a hitelességre, a pátosz az érzelmekre, a logosz pedig a logikára összpontosít.
+
+Íme a kiválasztott kérdések válaszokkal, valamint az előadásokhoz kapcsolódóan:
+
+---
+
+### I. Retorika és stíluseszközök alapjai
+
+1. **Mi a retorika?**  
+    Szónoklattan.
+    
+2. **Miért használunk retorikai stíluseszközöket?**  
+    Hatáskeltés és a mondanivaló színesítése érdekében.
+    
+3. **Mi az alliteráció?**  
+    Az egymást követő szavak azonos kezdőhangjainak ismétlése.
+    
+4. **Mi az irónia?**  
+    Látszólagos állítás, amely az ellenkezőjét sugallja.
+    
+5. **Mi a paradoxon?**  
+    Látszólagos ellentmondás, amely mélyebb igazságot rejt.
+    
+
+---
+
+### II. Viták és érvelési technikák 
+
+1. **Mi a kultúrált vita?**  
+    Érvek tiszteletteljes ütköztetése a megoldás érdekében.
+    
+2. **Mi a racionális vita?**  
+    Logikai érvekkel alátámasztott érvelés az igazság kiderítésére.
+    
+3. **Mi a cáfolás?**  
+    Az ellenérvek megdöntése.
+    
+4. **Miért fontos az ethosz?**  
+    Mert a hallgatóság bízik a hiteles beszélőben.
+    
+5. **Mi az induktív érvelés?**  
+    Konkrét példákból általános következtetés levonása.
+    
+
+---
+
+### III. A szónoki beszéd szerkezete
+1. **Miből áll a szónoki beszéd szerkezete?**  
+    Bevezetés, elbeszélés, kitérés, témamegjelölés, bizonyítás, cáfolás és befejezés.
+    
+2. **Mi a bevezetés célja?**  
+    A figyelem megragadása és a téma felvezetése.
+    
+3. **Mit tartalmaz az elbeszélés?**  
+    Tényeket, előzményeket, fogalmakat.
+    
+4. **Miért fontos a bizonyítás?**  
+    Az érvek alátámasztására szolgál.
+    
+5. **Mi a befejezés szerepe?**  
+    Az érvek összegzése és a hallgatóság cselekvésre ösztönzése.
+    
+
+---
+
+### IV. Szónoklattípusok és céljaik
+1. **Mi a politikai beszéd célja?**  
+    Közéleti kérdésekről szól, és cselekvésre ösztönöz.
+    
+2. **Mi a vádbeszéd célja?**  
+    A vádlott bűnösségének bizonyítása.
+    
+3. **Mi a védőbeszéd?**  
+    A vádlott ártatlanságának bemutatása.
+    
+4. **Mi az alkalmi beszéd?**  
+    Egy meghatározott eseményhez kapcsolódó beszéd.
+    
+5. **Mi a gyászbeszéd célja?**  
+    Egy elhunyt személy emlékének felidézése.
+    
+
+---
+
+### V. Hatáskeltés és közönségkapcsolat
+1. **Mi az ethosz?**  
+    A beszélő hitelessége és jelleme.
+    
+2. **Mi a logosz?**  
+    Logikus érvelés és ésszerű gondolatok.
+    
+3. **Miért fontos a humor a beszédben?**  
+    Oldja a feszültséget és közelebb hozza a hallgatóságot.
+    
+4. **Miért használunk példázatokat?**  
+    A mondanivaló szemléltetésére.
+    
+5. **Mitől lesz hatékony egy beszéd?**  
+    Világos szerkezet, érthető érvek, érzelmi hatás.
+    

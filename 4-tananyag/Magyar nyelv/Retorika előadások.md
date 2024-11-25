@@ -287,3 +287,252 @@ _A retorika művészete: hogyan hatunk másokra szavainkkal._
     
 12. **Miért fontos az étosz, pátosz és logosz egyensúlya a retorikában?**  
     Azért, mert az egyensúly biztosítja, hogy a beszéd egyszerre legyen hiteles, érzelmileg hatásos és logikailag meggyőző.
+
+## Egyszerűsített kérdések 
+
+1. **Mi a retorika?**  
+    Szónoklattan.
+    
+2. **Miért használunk retorikai stíluseszközöket?**  
+    Hatáskeltés és a mondanivaló színesítése érdekében.
+    
+3. **Hány fő csoportja van a retorikai szóképeknek?**  
+    Kettő: alakzatok és szóképek.
+    
+4. **Mi az alliteráció?**  
+    Az egymást követő szavak azonos kezdőhangjainak ismétlése.
+    
+5. **Mi az ismétlés célja?**  
+    Nyomatékosítás vagy érzelmi többlet kifejezése.
+    
+6. **Mi a felsorolás?**  
+    Több elem egymás utáni elhelyezése.
+    
+7. **Mi a figura etimologica?**  
+    Azonos tőből származó szavak összekapcsolása.
+    
+8. **Mi a paradoxon?**  
+    Látszólagos ellentmondás, amely mélyebb igazságot rejt.
+    
+9. **Mi az irónia?**  
+    Látszólagos állítás, amely az ellenkezőjét sugallja.
+    
+10. **Mi az elipszis?**  
+    Grammatikailag szükséges szó elhagyása.
+    
+11. **Mi a kultúrált vita?**  
+    Érvek tiszteletteljes ütköztetése a megoldás érdekében.
+    
+12. **Mi a veszekedés?**  
+    Érzelmekkel teli szócsata, a másik legyőzésére irányul.
+    
+13. **Mi a racionális vita?**  
+    Logikai érvekkel alátámasztott érvelés az igazság kiderítésére.
+    
+14. **Mi fontos egy vitában?**  
+    Fegyelem, türelem, nyitottság és udvariasság.
+    
+15. **Miből áll a szónoki beszéd szerkezete?**  
+    Bevezetés, elbeszélés, kitérés, témamegjelölés, bizonyítás, cáfolás és befejezés.
+    
+16. **Mi a bevezetés célja?**  
+    A figyelem megragadása és a téma felvezetése.
+    
+17. **Mit tartalmaz az elbeszélés?**  
+    Tényeket, előzményeket, fogalmakat.
+    
+18. **Miért fontos a bizonyítás?**  
+    Az érvek alátámasztására szolgál.
+    
+19. **Mi az induktív érvelés?**  
+    Konkrét példákból általános következtetés levonása.
+    
+20. **Mi a deduktív érvelés?**  
+    Általános elvből konkrét állítás levezetése.
+    
+21. **Mi a cáfolás?**  
+    Az ellenérvek megdöntése.
+    
+22. **Mi a befejezés szerepe?**  
+    Az érvek összegzése és a hallgatóság cselekvésre ösztönzése.
+    
+23. **Mi az ethosz?**  
+    A beszélő hitelessége és jelleme.
+    
+24. **Mi a logosz?**  
+    Logikus érvelés és ésszerű gondolatok.
+    
+25. **Mi a pátosz?**  
+    Érzelmekre gyakorolt hatás.
+    
+26. **Miért fontos az ethosz?**  
+    Mert a hallgatóság bízik a hiteles beszélőben.
+    
+27. **Hogyan hat a pátosz a közönségre?**  
+    Érzelmeket vált ki, érdeklődést kelt.
+    
+28. **Miért használunk példázatokat?**  
+    A mondanivaló szemléltetésére.
+    
+29. **Mi a politikai beszéd célja?**  
+    Közéleti kérdésekről szól, és cselekvésre ösztönöz.
+    
+30. **Mi a vádbeszéd célja?**  
+    A vádlott bűnösségének bizonyítása.
+    
+31. **Mi a védőbeszéd?**  
+    A vádlott ártatlanságának bemutatása.
+    
+32. **Mi az alkalmi beszéd?**  
+    Egy meghatározott eseményhez kapcsolódó beszéd.
+    
+33. **Mire jó a köszöntő beszéd?**  
+    Valaki üdvözlésére vagy méltatására.
+    
+34. **Mi a gyászbeszéd célja?**  
+    Egy elhunyt személy emlékének felidézése.
+    
+35. **Milyen részekből áll a szónoki beszéd?**  
+    Bevezetés, elbeszélés, kitérés, témamegjelölés, bizonyítás, cáfolás, befejezés.
+    
+36. **Mi a szerepe a testbeszédnek a szónoklásban?**  
+    Az érzelmek és a mondanivaló kifejezőbbé tétele.
+    
+37. **Mit jelent a tárgyilagosság a retorikában?**  
+    Az objektív és pártatlan érvelést.
+    
+38. **Miért fontos a humor a beszédben?**  
+    Oldja a feszültséget és közelebb hozza a hallgatóságot.
+    
+39. **Milyen eszköz a metafora?**  
+    Képi hasonlat, amely érzékletesebbé teszi a mondanivalót.
+    
+40. **Miért használunk ismétlést?**  
+    Hangsúlyozásra és figyelemfelkeltésre.
+    
+41. **Mit jelent a retorikai kérdés?**  
+    Olyan kérdés, amely nem igényel választ, csak elgondolkodtat.
+    
+42. **Mi az ellentét szerepe a beszédben?**  
+    Kontraszt teremtése, az érvek kiemelése.
+    
+43. **Mi a figyelemfelkeltés legjobb módja?**  
+    Kérdéssel, idézettel vagy érdekes történettel kezdeni.
+    
+44. **Mitől lesz hatékony egy beszéd?**  
+    Világos szerkezet, érthető érvek, érzelmi hatás.
+    
+45. **Hogyan építsünk fel egy jó bevezetést?**  
+    Megszólítással és a téma rövid felvázolásával.
+    
+46. **Milyen eszközök kellenek a sikeres bizonyításhoz?**  
+    Jelek, érvek, példák.
+    
+47. **Mi a különbség az írott és az előadott beszéd között?**  
+    Az írott formálisabb, az előadott közvetlenebb.
+    
+48. **Mit jelent az, hogy egy beszéd „hatásos”?**  
+    Meggyőző, emlékezetes és cselekvésre ösztönző.
+    
+49. **Miért fontos a közönség ismerete?**  
+    Mert a beszédet az ő igényeikhez és érdeklődésükhöz kell igazítani.
+    
+50. **Mitől lesz egy szónok hiteles?**  
+    Szakmai tudástól, erkölcsi jellemtől és őszinteségtől.
+
+### Ágoston - Retorikai eszközök
+
+11. **Mi a különbség az alliteráció és az ismétlés között?**  
+    Az alliteráció a szavak kezdőhangjának egyezésén alapul, míg az ismétlés szavak vagy kifejezések többszöri használata.
+    
+12. **Milyen hatást kelt az ellentét használata egy szövegben?**  
+    Erőteljes kontrasztot teremt, kiemelve az egymásnak ellentmondó gondolatokat.
+    
+13. **Hogyan működik a paradoxon a retorikában?**  
+    Látszólagos ellentmondást fejez ki, amely mögött mélyebb igazság vagy meglepő gondolat rejlik.
+    
+14. **Miért alkalmaznak elipszist az írók vagy szónokok?**  
+    Az elipszis fokozza a mondanivaló tömörségét, és a hallgatóságot aktív értelmezésre ösztönzi.
+    
+15. **Milyen szerepe van az iróniának egy beszédben?**  
+    Humorral vagy rejtett kritikával fűszerezi a mondanivalót, és gyakran mélyebb gondolatot sugall.
+    
+
+---
+
+### Micó - Viták és érvelések
+
+11. **Mi a különbség a racionális és a veszekedő vita között?**  
+    A racionális vita logikára épül, míg a veszekedés érzelmekkel és személyeskedéssel telített.
+    
+12. **Hogyan lehet hatékonyan cáfolni egy tényfeltáró vita során?**  
+    Tényekkel, adatokkal és megalapozott érvekkel kell alátámasztani az ellenérveket.
+    
+13. **Miért fontos az udvariasság egy tárgyalás során?**  
+    Elősegíti a kölcsönös tiszteletet és növeli a megegyezés esélyét.
+    
+14. **Milyen előnyei vannak a politikai vitáknak a közvélemény számára?**  
+    Tájékoztatják a közvéleményt, és segítenek megérteni a különböző álláspontokat.
+    
+15. **Hogyan készülhetünk fel egy tárgyalás típusú vitára?**  
+    Ismerni kell az ellenfél érdekeit, és fel kell készülni kompromisszumos megoldásokra.
+    
+
+---
+
+### Dávid - A szónoki beszéd szerkezete
+
+11. **Miért fontos az átvezetés a bevezetés és a fő rész között?**  
+    Segít a hallgatóságnak zökkenőmentesen váltani a bevezetésről a fő témára.
+    
+12. **Hogyan lehet hatásosan bemutatni az előzményeket az elbeszélésben?**  
+    Releváns tények és történetek segítségével, amelyek kontextust adnak a témának.
+    
+13. **Mikor érdemes kitérést alkalmazni a beszédben?**  
+    Amikor egy mellékszál segíti a fő gondolat erősítését vagy gazdagítását.
+    
+14. **Miért fontos a világos témamegjelölés a beszéd során?**  
+    Egyértelművé teszi a hallgatóság számára, hogy miről szól a beszéd, és mit szeretne a szónok elérni.
+    
+15. **Milyen érzelmi hatása lehet a példák használatának a bizonyítás során?**  
+    Konkrét esetekkel érzelmi kapcsolatot teremtenek, és meggyőzőbbé teszik az érveket.
+    
+
+---
+
+### Lili - Szónoki beszéd típusai
+
+11. **Hogyan különbözik a tudományos és az egyházi beszéd célja?**  
+    A tudományos beszéd az értelemre, míg az egyházi beszéd az érzelmekre és erkölcsi értékekre hat.
+    
+12. **Milyen jellemzői vannak egy vádbeszédnek?**  
+    A vádlott bűnösségére összpontosít, és a büntethetőség igazolására érveket hoz fel.
+    
+13. **Mikor használatos a bírói beszéd, és miért fontos az objektivitás?**  
+    Ítéletek kihirdetésekor alkalmazzák, és az objektivitás a pártatlanság érdekében nélkülözhetetlen.
+    
+14. **Hogyan lehet emlékezetes egy ünnepi beszéd?**  
+    Személyes anekdoták, idézetek és érzelmi hatások alkalmazásával.
+    
+15. **Mi a különbség egy köszöntő és egy búcsúbeszéd között?**  
+    A köszöntő üdvözléssel, míg a búcsúbeszéd elválással foglalkozik.
+    
+
+---
+
+### Rozi - Retorikai kommunikáció
+
+11. **Hogyan befolyásolja az ethosz a beszélő hitelességét?**  
+    A beszélő jelleme, tudása és hírneve révén növeli a közönség bizalmát.
+    
+12. **Miért fontos a pátosz az érzelmi kapcsolat kialakításában?**  
+    Segít a közönséget érzelmileg bevonni és a beszédhez kapcsolódó érzéseket erősíteni.
+    
+13. **Hogyan használható a logosz a meggyőzésben?**  
+    Tények és logikus érvek bemutatásával, amelyek ésszerű gondolkodásra ösztönöznek.
+    
+14. **Milyen veszélyei lehetnek a túlzott pátosznak?**  
+    Manipulációhoz vezethet, és csökkentheti a beszéd hitelességét.
+    
+15. **Mi a különbség az ethosz, pátosz és logosz szerepe között?**  
+    Az ethosz a hitelességre, a pátosz az érzelmekre, a logosz pedig a logikára összpontosít.

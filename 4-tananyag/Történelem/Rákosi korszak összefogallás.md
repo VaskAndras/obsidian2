@@ -59,7 +59,7 @@ A következőkben található fogalmak magyarul:
     
 7. **Forint**: 1946-ban bevezetett új valuta, amelyet a hiperinfláció leküzdésére vezettek be. A forint bevezetése alapvető gazdasági stabilizációs lépés volt【41†source】.
     
-8. **Hiperinfláció**: Az 1945 és 1946 közötti időszakban Magyarországon tapasztalható, rendkívül gyors pénzromlás, amely a gazdaság teljes összeomlásához vezetett【41†source】.
+8. **Hiperinfláció**: Az 1945 és 1946 közötti időszakban Magyarországon  tapasztalható, rendkívül gyors pénzromlás, amely a gazdaság teljes összeomlásához vezetett【41†source】.
     
 9. **Szalámitaktika**: A kommunisták által alkalmazott politikai stratégia, amely az ellenfelek fokozatos "felaprózásával" és elpusztításával biztosította számukra a hatalom megszerzését【41†source】.
     

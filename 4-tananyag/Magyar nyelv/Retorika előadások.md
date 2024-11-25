@@ -31,42 +31,6 @@
 
 - **Mi fontos egy vitában?**
 	- Fegyelem és türelem, őszinteség és becsületesség, nyitottság és belátás, körültekintő gondolkodás, tárcsilagosság, udvariasság
-
-## 3. Dávid - szónoki beszéd szerkezete
-**Mi a szónoki beszéd szerkezete?**
-Bevezetés, elbeszélés, kitérés, Témamegjelölés,
-
-#### Bevezetés fajtái:
-- Előadásra készülő beszéd
-	- megszólítás
-	- átvezetés
-- Írott szöveg esetén
-	- Cím 
-	- átvezetés
-
-#### Elbeszélés:
-Tényfeltárás
-		- Előzmények, kutatások
-		- fogalmak
-		
-#### Kitérés
-
-#### Témamegjelölés
-- álláspont kimondása
-- bizonyítás előkészítése
-
-#### bizonyítás:
--  cél: mások meggyőzése
-- Fajtái:
-	- jelek
-	- érvek
-		- indukció
-		- dedukció
-	- példák
-#### Cáfolás
-- főleg ha a hallgató ellenvéleményen van
-#### Befejezés
-
 ## 3. Dávid - szónoki beszéd szerkezete
 
 **Mi a szónoki beszéd szerkezete?**  
@@ -242,4 +206,14 @@ A szónoki beszéd szerkezete egy világos, logikus felépítést követ, amely 
 ### Étosz
 - Erkölcs
 - karakter 
-- pl fogász reklámot
+- pl fogász reklámoz fogkrémet
+- hozzá: tapasztalat, hírnév kell
+### Pátosz
+- Érzés, szenvedély
+- Érzelmek kivívása a befogadóban.
+- veszélyes lehet
+
+### Logosz
+- Ésszerűség
+- racionalitás
+- tárgyilagos meggyőzési módszer

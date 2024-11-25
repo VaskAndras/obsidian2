@@ -16,8 +16,8 @@
 ### Az új közjogi berendezkedés	
 → **1946. február 1-től az ország köztársaság volt**
 - szimbolikus aktus a monarchia megszüntetése
-- a parlament választotta az **államfőt 4 évre: Tildy Zoltán lett*
-→ **az új miniszterelnök a kisgazda Nagy Ferenc** lett
+- a parlament választotta az **államfőt 4 évre: Tildy Zoltán lett**
+ -  **az új miniszterelnök a kisgazda Nagy Ferenc** lett
 	- a kommunisták ellensúlyozása volt a célja
 ## A gazdasági élet nehézségei
 ### A gazdaság válsága

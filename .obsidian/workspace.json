@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-tananyag/Történelem/2. világháború után magyarország/Az átmenet évei.md",
+                "file": "4-tananyag/Történelem/Rákosi korszak gazgaságpolitikája.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Az átmenet évei"
+              "title": "Rákosi korszak gazgaságpolitikája"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Retorika előadások"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,17 +199,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47b89c03f2926abd",
+  "active": "5d56e38b15617802",
   "lastOpenFiles": [
-    "4-tananyag/Történelem/2. világháború után magyarország/Az átmenet évei.md",
+    "4-tananyag/Történelem/Rákosi korszak.md",
+    "4-tananyag/Történelem/Rákosi korszak gazgaságpolitikája.md",
     "4-tananyag/Magyar nyelv/Retorika előadások.md",
     "4-tananyag/Történelem/Rákosi korszak összefogallás.md",
+    "4-tananyag/Történelem/2. világháború után magyarország/Párizsi béke.md",
+    "4-tananyag/Történelem/2. világháború után magyarország/Az átmenet évei.md",
     "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
     "3-tags/Atomfizika.md",
-    "4-tananyag/Történelem/Rákosi korszak.md",
     "4-tananyag/Matek/Teljes valószínüség tétele.md",
     "3-tags/Háburútól forradalomig.md",
-    "4-tananyag/Történelem/2. világháború után magyarország/Párizsi béke.md",
     "2-Menu/Töri.md",
     "2-Menu/Menü.md",
     "4-tananyag/Magyar nyelv/Az érvek fajtái.md",
@@ -227,7 +227,6 @@
     "3-tags/magyar/Irodalom.md",
     "4-tananyag/Fizika/Elektromágneses hullámok, optika/Fizikai optika.md",
     "Untitled.md",
-    "4-tananyag/Történelem/Rákosi korszak gazgaságpolitikája.md",
     "images/IMG_1688.jpeg",
     "images/IMG_1687.jpeg",
     "images/IMG_1686.jpeg",

@@ -51,8 +51,8 @@
 	- A kisgazdapárt képviselői (1946–1948)
 	- A polgári ellenzék képviselői (1947)
 	- A szociáldemokraták képviselői (1948–1950)
-	- A kommunista politikusok (1949–1952)
 	- A parasztpárt képviselői (1948–1950)
+	- A kommunista politikusok (1949–1952)
 ### A kényszerű együttműködés
 - ##### Az FKGP-ben a békeszerződés aláírásától várak enyhülést
 - ##### Az MKP növelte tömegbázisát, befolyását

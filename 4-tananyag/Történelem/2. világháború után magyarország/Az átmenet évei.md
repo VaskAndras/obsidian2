@@ -54,8 +54,8 @@
 	- A kommunista politikusok (1949–1952)
 	- A parasztpárt képviselői (1948–1950)
 ### A kényszerű együttműködés
-→ az FKGP-ben a békeszerződés aláírásától várak enyhülést
-→ az MKP növelte tömegbázisát, befolyását
+- ##### Az FKGP-ben a békeszerződés aláírásától várak enyhülést
+- ##### Az MKP növelte tömegbázisát, befolyását
 	- gazdasági élet irányítása
     - belügyi szervek
     - „kisnyilasok” beléptetése
@@ -67,7 +67,7 @@
 	- Peyer Károly és Kéthly Anna
 → az NPP kritikusai
     - Kovács Imre
-## Az MKP térnyerése
+### Az MKP térnyerése
  → politikai rendőrség
     - ÁVO
 → kollaboránsok/kriptokommunisták

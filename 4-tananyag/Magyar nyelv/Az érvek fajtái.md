@@ -12,11 +12,11 @@
 	- A szónok 
 ### Logikája szerint
 - #### Visszakövetkeztető bizonyítás (dedukció)
-	- Álltalános --> Egyedi
+	- Általános --> Egyedi
 - #### Az egyedivel kezdődő bizonyítás (indukció)
 	- egyedi --> Általános
 ### Formájuk szerint
-- #### Kategórikus
+- #### Kategorikus
 	- Minden ember halandó így te is
 - #### Feltételes
 	- Példa	
@@ -31,4 +31,12 @@
 	- a helyzet szükségességének indoklása
 - **Összehasonlításból és példákból levezetett érvek**
 - **Tényekből és adatokból levezetett érvek**
-- 
+### Érvelés feltételei
+- Nyitott viselkedés
+- Kommunikatív 
+- Kíváncsiság
+- Felelősség
+
+### Cáfolás
+- #### Tagadás
+	- Az állítás ellentétének állítása

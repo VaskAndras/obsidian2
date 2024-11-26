@@ -13,3 +13,5 @@ Késői modernség
 
 Poszmodern
 [[Posztmodern]]
+[[Kós Károly]]
+[[Reményik Sándor]]

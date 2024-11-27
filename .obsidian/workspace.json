@@ -25,10 +25,17 @@
             "id": "23f1c3f147d71092",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "4-tananyag/Történelem/Untitled.canvas",
+                "viewState": {
+                  "x": 887.579986441437,
+                  "y": -28.894335094403523,
+                  "zoom": -0.6836872915917047
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {

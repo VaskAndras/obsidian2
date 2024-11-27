@@ -3,9 +3,9 @@
 		{"id":"21bd945f3831545b","type":"text","text":"Vaskó András","x":-125,"y":-30,"width":250,"height":60},
 		{"id":"b14621b1bc9a89ee","type":"text","text":"Vaskó János\n1971-\nvállalkozó\nBőny ","x":-270,"y":-220,"width":250,"height":120},
 		{"id":"3e6d88b8b3bf396b","type":"text","text":"Erős Andrea\n1975-\nTanár\nBőny","x":40,"y":-220,"width":250,"height":120},
-		{"id":"bf68c51774e0fe02","type":"text","text":"Vaskó János\n1942 (Budapest)-\nKőműves\nLakhely: Bőny","x":-685,"y":-495,"width":196,"height":120},
+		{"id":"bf68c51774e0fe02","type":"text","text":"Vaskó János\n1942 (Budapest)-\nKőműves\nLakhely: Bőny","x":-685,"y":-495,"width":265,"height":120},
 		{"id":"b0c996837434e765","type":"text","text":"Démy Katalin\n19XX (Bőny)-2013 (Bőny)\nbérszámfejtő???\nLAkhely:Bőny","x":-739,"y":40,"width":250,"height":125},
-		{"id":"9bcf8eefc3423865","type":"text","text":"Vaskó János","x":-1080,"y":-600,"width":250,"height":60},
+		{"id":"9bcf8eefc3423865","type":"text","text":"Vaskó János\nBudapest\nSzabó","x":-1080,"y":-600,"width":250,"height":105},
 		{"id":"03a362212d2eab12","type":"text","text":"Ország Margit\n1920 (Bőny)-2020 (Bőny)\nGazdálkodó\n","x":-1080,"y":-375,"width":250,"height":109},
 		{"id":"b2f67e5b4c0f11bb","type":"text","text":"Erős Lajos\n1942 (Furta)- 2022 (Budapest)\nRendőr\nLakhely: Dunakeszi","x":610,"y":40,"width":250,"height":125},
 		{"id":"c5f0435a615639dd","type":"text","text":"Nemes Julianna\n1942 (Vekerd)- \nBérszámfejtő\nLakhely: Dunakeszi","x":610,"y":-500,"width":250,"height":125},
@@ -17,8 +17,8 @@
 		{"id":"5c0442bdeaf76e86","type":"text","text":"Farkas Erzsgébet","x":-2160,"y":-310,"width":250,"height":60},
 		{"id":"727f9ac41fd7e388","type":"text","text":"Theresia Vörös","x":-2588,"y":-525,"width":250,"height":60},
 		{"id":"e64c155d9ae50122","type":"text","text":"Gábor Zsidi","x":-2588,"y":-382,"width":250,"height":50},
-		{"id":"553d8f8171be07ab","x":-2260,"y":-190,"width":250,"height":60,"type":"text","text":"Pozsgai Vendel"},
-		{"id":"2d9d147158d5cb00","x":-2260,"y":-40,"width":250,"height":60,"type":"text","text":"Tóth Apollónia"}
+		{"id":"553d8f8171be07ab","type":"text","text":"Pozsgai Vendel","x":-2260,"y":-190,"width":250,"height":60},
+		{"id":"2d9d147158d5cb00","type":"text","text":"Tóth Apollónia","x":-2260,"y":-40,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"8ff1355ab97f1448","fromNode":"3e6d88b8b3bf396b","fromSide":"bottom","toNode":"21bd945f3831545b","toSide":"top"},
@@ -38,6 +38,7 @@
 		{"id":"b1046b97c9916721","fromNode":"727f9ac41fd7e388","fromSide":"right","toNode":"a37f562026f84e80","toSide":"left"},
 		{"id":"292ca4a2a7bc2b23","fromNode":"e64c155d9ae50122","fromSide":"right","toNode":"a37f562026f84e80","toSide":"left"},
 		{"id":"fcf5eb55d2985cf8","fromNode":"553d8f8171be07ab","fromSide":"right","toNode":"fef149f999908c3a","toSide":"left"},
-		{"id":"13eb86626444782f","fromNode":"2d9d147158d5cb00","fromSide":"right","toNode":"fef149f999908c3a","toSide":"left"}
+		{"id":"13eb86626444782f","fromNode":"2d9d147158d5cb00","fromSide":"right","toNode":"fef149f999908c3a","toSide":"left"},
+		{"id":"f2cd79b624c3043d","fromNode":"bf68c51774e0fe02","fromSide":"right","toNode":"2e38b884d81429fc","toSide":"left"}
 	]
 }

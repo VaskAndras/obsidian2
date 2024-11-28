@@ -11,14 +11,17 @@
             "id": "5d56e38b15617802",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "4-tananyag/Történelem/2. világháború után magyarország/Rákosi korszak összefogallás.md",
-                "mode": "preview",
-                "source": false
+                "file": "4-tananyag/Történelem/Untitled.canvas",
+                "viewState": {
+                  "x": -319.1395836166194,
+                  "y": -140.56005647612216,
+                  "zoom": -1.0186828632556288
+                }
               },
-              "icon": "lucide-file",
-              "title": "Rákosi korszak összefogallás"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {
@@ -201,8 +204,8 @@
   },
   "active": "5d56e38b15617802",
   "lastOpenFiles": [
-    "4-tananyag/Történelem/2. világháború után magyarország/Rákosi korszak gazgaságpolitikája.md",
     "4-tananyag/Történelem/2. világháború után magyarország/Rákosi korszak összefogallás.md",
+    "4-tananyag/Történelem/2. világháború után magyarország/Rákosi korszak gazgaságpolitikája.md",
     "4-tananyag/Történelem/Untitled.canvas",
     "4-tananyag/Történelem/2. világháború után magyarország/Rákosi korszak.md",
     "4-tananyag/Magyar nyelv/Retorika előadások.md",

@@ -9,3 +9,5 @@ Ratifying the NonScientia Militaria, South African Journal of Military Studies,
 
 
 In January 2003, North Korea withdrew completely from the NPT, which it signed in 1985
+
+More importantly, China is a nuclear power and it has assisted the US in its diplomatic endeavours to disarm North Korea (Cox, 1998:224-245; Albrecht, 2000:129)

@@ -184,3 +184,140 @@ A szövegben szereplő személyek, fogalmak és évszámok:
 7. **1956. november 3.** – Mindszenty József rádióbeszéde.
 8. **1971** – Mindszenty József elhagyja Magyarországot.
 9. **1975** – Mindszenty József halála.
+
+
+
+**I. Előzmények és politikai háttér**
+
+1. **1953. március 5. – Sztálin halála**
+    
+    - **Sztálin halála** – A szovjet diktátor halála után változások kezdődnek a szovjet vezetésben.
+    - **Hruscsov** – A szovjet pártvezetés új irányvonalat képvisel, a diktatúra enyhítése.
+2. **1953. június – Kelet-berlini felkelés**
+    
+    - **Kelet-berlini felkelés** – A szovjetek által elnyomott felkelés, amely megerősíti a reformokat sürgető politikai irányvonalat.
+3. **1953. július – Rákosi Mátyás leváltása**
+    
+    - **Rákosi Mátyás** – A magyar pártvezető, aki 1949-1953 között a diktatúra vezetője volt.
+    - **Nagy Imre** – A Minisztertanács elnöke, akit a szovjet vezetés támogatott, és akit kormányfővé neveztek ki.
+
+---
+
+**II. A reformok és politikai változások**
+
+1. **1953. július – Nagy Imre országgyűlési beszéde**
+    
+    - **Politikai reformok**: Nagy Imre bejelenti a politikai reformokat:
+        - **Országgyűlés szerepének növelése**
+        - **Nehézipari fejlesztések mérséklése**
+        - **Téeszesítés leállítása**
+        - **Törvénytelenségek megszüntetése**
+    - **Rákosi Mátyás** – Továbbra is a párt élén marad, a rendszer alapjai nem változnak.
+2. **1953. november – Berija letartóztatása**
+    
+    - **Berija** – A szovjet belső hatalmi harcban Beriját letartóztatják, és kivégzik.
+    - **Hruscsov** – A szovjet vezetés új irányvonalat képvisel, Nagy Imrét támogatja.
+
+---
+
+**III. A változások és hatalmi harcok**
+
+1. **1955. április – Nagy Imre leváltása**
+    
+    - **Nagy Imre** – A politikai irányvonal és a reformok mellett kiálló miniszterelnököt leváltják.
+    - **Rákosi Mátyás** – Visszatér a hatalomba, és újra ő irányítja az országot.
+2. **1955. december – Nagy Imre kizárása a pártból**
+    
+    - **Kizárás a pártból** – Nagy Imrét kizárják a Magyar Kommunista Pártból, de továbbra is politikai tényező marad.
+3. **1956. február – Szovjet Kommunista Párt XX. Kongresszusa**
+    
+    - **Hruscsov beszéde** – Hruscsov elítéli a sztálini diktatúrát és annak hibáit, ez új reformokat indít el a szovjet blokkban.
+
+---
+
+**IV. Társadalmi és gazdasági helyzet**
+
+1. **1950-1960 – Gazdasági helyzet Magyarországon**
+    
+    - **Nehézipar** – Az ipar fejlesztésének dominanciája.
+    - **Könnyűipar** – A könnyűipar szerepe csökkent.
+    - **Reálbér** – A reálbér fogalma, és az életkörülmények alakulása az 1950-es években.
+    - **Beruházások megoszlása** – Az ipari és mezőgazdasági beruházások közötti arányok.
+2. **1955 – Társadalmi reformok**
+    
+    - **Téeszesítés leállítása** – Az erőszakos kollektivizálás megszüntetése.
+    - **Szociális reformok** – A rehabilitációs folyamatok, a szociális és kulturális beruházások.
+
+---
+
+**V. A forradalom előtti politikai hangulat**
+
+1. **1956 – Petőfi Kör megalakulása**
+    - **Petőfi Kör** – A fiatal kommunista értelmiség által alapított fórum, amely reformokat követelt.
+    - **Tánczos Gábor** – A Petőfi Kör vezetője, aki Nagy Imre reformjait támogatta.
+
+---
+
+**VI. A forradalom és szabadságharc**
+
+1. **1956. október 23. – Forradalom kitörése**
+    
+    - **Forradalom** – A diákok és munkások felkelése, a szovjet hatalom elutasítása.
+2. **1956. november – Szovjet intervenció**
+    
+    - **Szovjet támadás** – A szovjet csapatok bevonulnak Magyarországra, és elnyomják a forradalmat.
+3. **Kádár János** – A szovjetek által támogatott új vezető, aki a forradalom leverése után került hatalomra.
+    
+**Vázlat a 1956-os forradalom és szabadságharc eseményeiről és szereplőiről:**
+
+1. **A magyar sport aranykora (1950-es évek)**
+    
+    - **Események**:
+        - 1952-es helsinki olimpia: Magyar sportolók 16 aranyérmet szereztek.
+        - Labdarúgás: A magyar válogatott, az „aranycsapat”, 1953-ban 6:3-ra megveri az angol válogatottat Londonban.
+        - 1954-es világbajnokság döntő: Magyarország vereséget szenved Németország ellen.
+    - **Fogalom**:
+        - Aranycsapat: A magyar labdarúgó válogatott, amely kiemelkedett a nemzetközi porondon.
+2. **Politikai változások és a rendszer válsága**
+    
+    - **Személyek**:
+        - **Rákosi Mátyás**: A korábbi kommunista vezető, aki lemondott 1956 júliusában.
+        - **Gerő Ernő**: Rákosi utódja, aki nem tudta megnyugtatni az elégedetlenkedőket.
+        - **Nagy Imre**: A kommunista pártellenzék vezetője, aki reformokat kívánt végrehajtani.
+    - **Események**:
+        - **Rákosi lemondása**: 1956. július, a Szovjetunióba távozott.
+        - **Nagy Imre programja**: Reformokat hirdetett a kommunizmus átalakítására.
+        - **Forradalom előestéje**: 1956. október 22-én a Műegyetemen nagygyűlés, ahol 16 pontos követeléseket fogalmaztak meg.
+3. **A forradalom kirobbanása (1956. október 23.)**
+    
+    - **Személyek**:
+        - **Nagy Imre**: A tüntetések során a miniszterelnök kinevezését követelték.
+        - **Gerő Ernő**: A forradalom idején ő volt a párt vezetője, aki az eseményeket ellenforradalomnak minősítette.
+    - **Események**:
+        - **Tüntetés**: A diákok, munkások és más társadalmi csoportok 1956. október 23-án Budapestre vonultak.
+        - **A magyar rádió ostroma**: A felkelők a Rádió épületénél követelték követeléseik nyilvánosságra hozatalát.
+        - **A szovjet beavatkozás**: A szovjet páncélosok megjelenése tovább gerjesztette a harcokat.
+4. **A forradalom és szabadságharc küzdelmei**
+    
+    - **Események**:
+        - **A szabadságharc kitörése**: A felkelők fegyvereket szereztek és a harcok több helyszínen kitörtek Budapesten.
+        - **A lyukas nemzeti lobogó**: A forradalom jelképévé vált, amely a függetlenség iránti vágyat szimbolizálta.
+        - **A szovjet páncélosok és a harcok**: A szovjet katonák megpróbálták elfojtani a lázadást, de nem tudták megfékezni a forradalmárokat.
+5. **A forradalom szereplői és jelképévé válása**
+    
+    - **Személyek**:
+        - **A pesti srácok**: A fiatalok voltak a forradalom kulcsfigurái, akik a legnagyobb részt vállaltak a harcokból.
+    - **Események**:
+        - **Sztálin-szobor ledöntése**: A forradalmárok eltávolították a szovjet diktátor szobrát, szimbolizálva az elnyomás elutasítását.
+        - **A rádió szerepe**: A forradalom idején a rádió rendkívüli szerepet kapott, és Beethoven Egmont-nyitányát is gyakran játszották.
+6. **A forradalom és a szovjet visszavonulás**
+    
+    - **Események**:
+        - **Nagy Imre beszéde**: A kormányfő csillapítani próbálta a helyzetet, de a tömeg már nem reagált pozitívan.
+        - **Szovjet páncélosok**: A szovjet hadsereg nem tudta megfékezni a lázadást, és a harcok folytatódtak.
+7. **A forradalom végső kudarca**
+    
+    - **Események**:
+        - **A szovjet beavatkozás**: 1956. november 4-én a szovjetek katonai erővel fojtották el a forradalmat.
+
+Ez a vázlat segít áttekinteni a 1956-os forradalom kulcsfontosságú eseményeit, szereplőit és fogalmait.

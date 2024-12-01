@@ -383,3 +383,42 @@ Ez a vázlat segít áttekinteni a 1956-os forradalom kulcsfontosságú esemény
 - **Politikai intézkedések**: Nagy Imre és a kormány reformjai, a többpártrendszer, az ÁVH megszüntetése.
 - **Karhatalom és sortüzek**: A karhatalom brutális megtorlása vidéken és Budapesten.
 - **Mindszenty szerepe**: Politikai és vallási vezetőként a forradalom idején.
+
+**Személyek:**
+
+1. **Mansfeld Péter**  
+    Mansfeld Péter, egy 15 éves esztergályos ipari tanuló, csatlakozott a Széna téri csoporthoz a 1956-os forradalom idején. Ő összekötőként vett részt a harcokban, fegyvereket szerzett és társai segítségével röplapokat terjesztett. Elfogása után élethossziglanra ítélték, majd 1959-ben, 18 évesen kivégezték.
+    
+2. **Iván Kovács László**  
+    Iván Kovács László egy debreceni fiú, aki katonai pályára készült, de a háború utáni politikai helyzet miatt ez nem valósulhatott meg. A forradalom alatt a Magyar Rádió ostrománál és a Corvin közben harcoló felkelők vezetője lett. A forradalom leverése után nem menekült el Nyugatra, hanem titokban szervezkedett, míg 1957-ben letartóztatták és kivégezték.
+    
+3. **Wittner Mária**  
+    Wittner Mária a forradalom idején a fiatal szabadságharcosok közé tartozott, és harcolt a forradalmárokkal. A forradalom leverése után halálos ítéletet kapott, amit másodfokon életfogytiglanra változtattak, és 13 évet töltött börtönben. Később a rendszerváltoztatás után a Fidesz politikai képviselője lett.
+    
+
+---
+
+**Események:**
+
+1. **A forradalom kitörése és harcok**  
+    1956. október 23-án robbant ki a forradalom, amely során a magyar nép követelte a szovjetek kivonulását és a politikai változásokat. A felkelők több fontos helyszínen, például a Corvin közben és a Magyar Rádió székházánál harcoltak a szovjet csapatokkal. A harcok különösen Budapest belső részein voltak hevesek, ahol az emberek fegyverekkel álltak szemben a szovjet túlerővel.
+    
+2. **A szovjet intervenció és a leverés**  
+    A szovjetek november 4-én, hajnalban hatalmas katonai túlerővel indítottak támadást Magyarország ellen, miután a forradalom első szakasza még október végén eredményes volt a szovjet csapatok kivonásában. A támadások főként Budapestet és a fontosabb felkelői bázisokat célozták, és a szovjet csapatok fokozatosan felszámolták a fegyveres ellenállást. November 12-ére sikerült teljesen leverniük a magyarországi forradalmat.
+    
+3. **A Varsói Szerződés felmondása**  
+    1956. november 1-jén, a szovjet csapatok kivonásával párhuzamosan Nagy Imre bejelentette, hogy Magyarország kilép a Varsói Szerződésből. Ezzel Magyarország kívánta biztosítani semlegességét és kérte az ENSZ segítségét, hogy a nemzetközi közösség ismerje el ezt a lépést. A lépés viszont nem tudta megakadályozni a szovjetek visszatérését és az újabb inváziót.
+    
+
+---
+
+**Fogalmak:**
+
+1. **Forradalom**  
+    A forradalom 1956 októberében indult Magyarországon, miután a nép fellázadt a kommunista rendszer és a szovjet megszállás ellen. A forradalom célja a politikai változások, a szovjet csapatok kivonása és a szabad választások elérése volt. A szovjetek brutalitása miatt végül a forradalom leverésére került sor, azonban a mozgalom hősi küzdelmei és a magyar ellenállás ma is fontos történelmi jelentőséggel bír.
+    
+2. **Szovjet intervenció**  
+    A szovjet intervenció a forradalom leverésére irányuló katonai akciók sorozata, amelyet a szovjet hadsereg hajtott végre Magyarország területén. A szovjetek 1956. november 4-én indították el a "Forgószél hadműveletet", amelyben óriási katonai erővel támadták meg Budapestet, hogy visszaállítsák a kommunista rendszert és leverjék a felkelést. A szovjet csapatok végül december 12-ére visszavonultak, de a forradalom leverése után Magyarország egy új kormányt kapott, Kádár János vezetésével.
+    
+3. **Szuezi válság**  
+    A szuezi válság 1956-ban robbant ki, amikor Egyiptom államosította a Szuezi-csatornát, amit a brit és francia kormányok nem néztek jó szemmel. A konfliktus a magyar forradalom idején tört ki, és a nemzetközi figyelmet elterelte Magyarország helyzete iránt. Az Egyesült Államok és a Nyugat diplomáciai nyomást gyakorolt a szovjetekre, hogy ne támadják meg Magyarországot, de nem kívántak közvetlenül beavatkozni a szovjet beavatkozás ellen.

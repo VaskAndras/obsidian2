@@ -321,3 +321,65 @@ A szövegben szereplő személyek, fogalmak és évszámok:
         - **A szovjet beavatkozás**: 1956. november 4-én a szovjetek katonai erővel fojtották el a forradalmat.
 
 Ez a vázlat segít áttekinteni a 1956-os forradalom kulcsfontosságú eseményeit, szereplőit és fogalmait.
+
+**Vázlat a szövegből:**
+
+### 1. Események és személyek
+
+- **Forradalom kitörése**:
+    - **Nagy Imre** kinevezése a Minisztertanács élére (október 24.) a pártvezetés próbálkozása a lázadás csillapítására.
+    - Felkelők (munkások, diákok, értelmiségiek) alakítanak irányító csoportokat.
+    - Fegyveres összetűzések Budapest belső részein és vidéken (pl. Széna tér, Corvin köz).
+- **Budapesti és vidéki események**:
+    - Debrecen: halálos áldozatok karhatalmi sortüzekben.
+    - **Október 25-i vérengzés** a Kossuth téren, 88 áldozat.
+- **Munkástanácsok és forradalmi bizottságok** alakulása a gyárakban és intézményekben.
+- **Vidéki sortüzek** (Mosonmagyaróvár, Tiszakécske, Bajon, Kalocsa): véres megtorlások.
+- **Nagykanizsa, Szabadszállás, és más helyek** szintén sortüzek.
+
+### 2. Politikai változások:
+
+- **Kádár János** a párt élén: Sztálinista Gerő eltávolítása.
+- **Nagy Imre** a forradalom támogatása mellett dönt, és a többpártrendszer visszaállítását, az ÁVH megszüntetését ígéri.
+- **Nagy Imre rádióbeszéde (október 28.)**: a forradalom nemzeti demokratikus jellegének elismerése.
+
+### 3. A forradalom katonai és társadalmi összetevői:
+
+- **Corvin köz**: jelentős felkelő központ, vezetők: Iván Kovács László és Pongrátz Gergely.
+- **Fiatalok szerepe** a harcokban, sokaknak nem volt még 18 éves, fegyvereik túlnyomórészt kézifegyverek és Molotov-koktélok voltak.
+
+### 4. Vérengzések és karhatalom szerepe:
+
+- **Kossuth téri vérengzés** és egyéb sortüzek a felkelők és fegyvertelen civilek ellen.
+- **Mosonmagyaróvár**: 100 halott, 200 sebesült a karhatalmi sortűzben.
+
+### 5. Mindszenty József szerepe:
+
+- **Mindszenty kiszabadulása** és a forradalom támogatása.
+- **November 3-i beszéd**: a politikai helyzet kritikája, a jövő kérdései.
+- **Kádár-korszak manipulációja**: a múlt retusálása a beszédek kapcsán.
+
+### 6. Kádár beszéde:
+
+- **Kádár János beszéde**: események minősítése, célkitűzés a rend helyreállítására és a forradalom leverésére.
+- **Nagy Imre kormánya**: szabad sajtó, új politikai arculat, koalíciós kormány.
+
+### 7. Forradalom utáni következmények:
+
+- **Szovjet csapatok kivonása** Budapestről.
+- **Nagy Imre kormányának megpróbált reformjai**, majd a forradalom leverése.
+- **A Nemzetőrség létrejötte** a rend fenntartására.
+
+### 8. Pallavicini Antal és szerepe a forradalomban:
+
+- **Pallavicini Antal** (őrnagy) és szerepe Mindszenty védelmében.
+- Katonai és politikai kapcsolatok a forradalomban.
+
+---
+
+**Kulcsfogalmak és összefüggések:**
+
+- **Fegyveres felkelés**: A felkelők spontán csoportosulása, főleg fiatalok, ellenállás szovjet csapatok és karhatalom ellen.
+- **Politikai intézkedések**: Nagy Imre és a kormány reformjai, a többpártrendszer, az ÁVH megszüntetése.
+- **Karhatalom és sortüzek**: A karhatalom brutális megtorlása vidéken és Budapesten.
+- **Mindszenty szerepe**: Politikai és vallási vezetőként a forradalom idején.

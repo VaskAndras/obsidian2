@@ -35,8 +35,7 @@
               "title": "József Attila"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -200,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d6c9b9eaba4c40f",
+  "active": "306c794ee4f6f968",
   "lastOpenFiles": [
-    "1956-os forradalom összefoglaló.md",
     "József Attila.md",
+    "1956-os forradalom összefoglaló.md",
     "THE INTERNATIONAL POLITICS OF  NUCLEAR WEAPONS - A CONSTRUCTIVIST  ANALYSIS.md",
     "4-tananyag/Magyar gyakorlás/Költői eszközök 1.md",
     "4-tananyag/Történelem/Untitled.canvas",

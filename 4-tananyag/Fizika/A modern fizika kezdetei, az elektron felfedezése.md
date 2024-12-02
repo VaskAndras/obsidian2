@@ -89,7 +89,7 @@ $$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
 
 - **Jelenség**:
     - Fémtárgyra helyezett töltés az azonos töltések taszítása miatt a fém felületére húzódik.
-    - Nagy töltés esetén a taszítás hatására a töltések egy része kiléphet a felületből, különösen éles csúcsoknál.
+    - Nagy töltés esetén a taszítás hatására a töltések egy része kiléphet a  ífelületből, különösen éles csúcsoknál.
 - **Vizsgálat feltételei**:
     - A környezeti gázmolekulák zavaró hatásainak kizárása érdekében légritkított térben végzik a kísérletet.
 - **Következtetés**:

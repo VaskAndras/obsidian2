@@ -11,6 +11,10 @@
 ### 1. Bevezetés
 
 - **Keletkezés és műfaj**: 1924-ben megjelent programvers, expresszionista manifesztum.
+- Kötetének **címadó** verse
+- **Programvers**
+- **Expresszionista**
+- **Alaptézise**: az etikai tisztaság 
 - **Lírai én szerepe**: Apokaliptikus hangvétel, közelgő változás víziója.
 
 ### 2. A vers lüktetése és szerkezete

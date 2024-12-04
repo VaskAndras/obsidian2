@@ -15,3 +15,4 @@ Poszmodern
 [[Posztmodern]]
 [[Kós Károly]]
 [[Reményik Sándor]]
+[[József Attila]]

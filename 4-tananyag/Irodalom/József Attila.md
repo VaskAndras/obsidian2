@@ -53,3 +53,7 @@
 
 - **Fő üzenet**: Az emberi tisztaság, a közösségi lét és az etikai felelősségvállalás fontossága.
 - **Vers szerkezeti és gondolati összetettsége**: A cselekvés és elfogadás ellentétpárja.
+
+## Avantgard dalok
+- Tedd a kezed
+- Áldalak búval bizalommal

@@ -45,14 +45,25 @@
 - **Értelmiség kritikája**
     - Sztálini politika bírálata, lelkiismereti önvizsgálat
     - 1956 nyarán Nagy Imre pozitív mintaként jelent meg
-    
+    - Rákosi lemondatása, helyére Gerő Ernő került
+- **A kiútkeresés** 
+	- Gerő meghatározó alakítója volt a rákosista korszaknak 
+	- bizonytalanság 
+	- Rajk László rehabilitációját (1955. november) az újratemetés követte (1956. október 6.)
 - **Petőfi Kör hatása**
-    
+- A DISZ fóruma hivatalosan
     - Viták szervezése diákság és értelmiség számára
     - Kritikai követelések megfogalmazása
 
 #### Út a forradalomhoz
 
 - **Egyetemisták szerveződése**
-    - MEFESZ megalapítása Szegeden
+    - Szeged: a pártfüggetlen Magyar Egyetemi és Főiskolai Egyesületek Szövetsége (MEFESZ) megalapítása
         - Cél: a nemzetért harcoló bátor, lelkes ifjúság nevelése
+    - a lengyelek poznańi felkelése 
+	    - Hruscsov ott támogatta Gomułka politikáját (~ Nagy Imre) 
+		    - „Lengyelország példát mutat, kövessük a magyar utat!”
+-  Az antisztálinista hangok felerősödése 
+	- a MEFESZ 16 pontja 
+		- nagygyűlés a Műegyetemen, október 22. 
+		- másnapra: szimpátiatüntetés a Bem-szobornál

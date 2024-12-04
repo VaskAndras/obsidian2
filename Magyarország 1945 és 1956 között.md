@@ -149,33 +149,123 @@
   - elfogadtatta a szovjetekkel  
   - a követeléseket jogosnak ismerte el  
 
-## A szovjet invázió
+## Nagy Imre és a gyökeres politikai fordulat  
+- **Bejelentette** a tárgyalást a szovjet csapatok kivonásáról  
+- **Ígéretet tett** az ÁVH feloszlatására  
+- **Kommunista vezetés** és a Varsói Szerződés marad  
 
-- **Előkészítés**  
-  → Kádár feloszlatta az MDP-t  
-  - helyette: MSZMP  
-  → stratégiai pontok birtokba vétele (városok, repterek stb.)  
+## Kitekintő: Kádár János szerepvállalása  
+### Kádár János  
+- **Kádár, az új pártvezér**  
+  - Jelentős szerepe volt Rajk elítélésében  
+  - Börtönben ült 1951 és 1954 között  
 
-- **Nagy Imre lépései**  
-  → kilépés a Varsói Szerződésből  
-  → semlegesség deklarálása  
-  - ENSZ-hez fordult  
+### A forradalmárok és a szovjetek  
+- A szovjetek gyalogsági támogatás nélkül érkeztek  
+  - A magyarok **gerillataktikája** eredményes volt  
+  - **Akadályok és rajtaütések**  
+  - **Molotov-koktélok**, zsákmányolt nehézfegyverzet  
 
-- **Az intervenció**  
-  → Maléter honvédelmi minisztert letartóztatták  
-  → „Forgószél hadművelet” november 4-én indult  
+## A forradalom első napjainak eseményei Budapesten  
+### Az kormány helyzete  
+- **A megbékélés elmaradt**  
+  - A felkelők nem tették le a fegyvert, várták a szovjet kivonulást  
+  - (Újjá)alakuló pártok: **Nagy elismerte őket** október 30-án  
 
-## A forradalom külpolitikai helyzete
+# Nagy Imre törekvései  
+### A szociáldemokraták és kisgazdák felhívása  
+### A Népszabadság címlapja, 1956. november 3.  
+#### A koalíciós kormány  
+- **Több pártból** vont be embereket  
+  - Kimaradtak a rákosista káderek  
+- **Egységes karhatalom**  
+  - Nemzetőrség, hadsereg és rendőrség együtt  
+- **Belső nyugalom**  
 
-- **Nyugati országok**  
-  → alapvető szimpátia, érdeklődés  
-  → USA: nem vállalt fegyveres konfliktust  
+### Nemzetőr igazolvány  
+### A veszprémi MEFESZ felhívása  
 
-- **A Szovjetunió és a keleti blokk**  
-  → döntés a fegyveres beavatkozásról október 31-én  
-  → Kína és más „baráti szocialista országok” támogatták  
+#### A konszolidáció napjai  
+- **Szabad sajtó**  
+  - Szovjetellenes követelések + kilépés a Varsói Szerződésből  
+  - Szabad választások  
+- **Helyi hatalmi szervezetek**  
+  - Nemzeti bizottság, munkástanács, forradalmi bizottmány  
+  - 1945 utáni pártok képviselői  
+  - Elűzték vagy lemondatták a hatalom korábbi birtokosait  
 
-## A forradalom emlékezete
+### Az október 26-i mosonmagyaróvári határőrlaktanyánál történt sortűz áldozatai és temetésük  
 
-- **Zádor Ervin olimpiai győzelme**  
-  → a „melbourne-i vérfürdő” Magyarország–Szovjetunió mérkőzés 4:0  
+## Kitekintő: A Köztársaság téri Pártház ostroma  
+- **A hatalom képviselőivel szembeni atrocitások**  
+  - Az MDP székházánál tűzharc tört ki (október 30.)  
+    - Az ÁVH-s védőket és politikusokat meglincselték  
+
+# A forradalom külpolitikai helyzete  
+### A nyugati országok  
+- **Alapvető szimpátia és érdeklődés**  
+- **Váratlanul érte** őket  
+  - Az USA nem vállalt fegyveres konfliktust Magyarországért  
+  - A felkelők bíztak a nyugati támogatásban  
+
+### A Szovjetunió és a keleti blokk  
+- **Október 31-én döntöttek a fegyveres beavatkozásról**  
+  - Nem látták biztosítva a kommunista hatalom fenntartását  
+  - **Kína** és más baráti szocialista országok támogatták  
+- **Hruscsov kihasználta** a szuezi válság figyelemelterelő hatását  
+
+### A szuezi válság  
+- A brit–francia–izraeli erők szembekerültek a szovjetbarát Egyiptommal  
+
+# A szovjet invázió  
+### Az előkészítés  
+- **Kádár feloszlatta az MDP-t**  
+  - Helyette: Magyar Szocialista Munkáspárt (MSZMP)  
+- **Szovjet erősítések érkeztek**  
+  - Stratégiai pontok birtokba vétele (városok, repterek stb.)  
+
+### Nagy Imre lépései  
+- **Kilépés a Varsói Szerződésből**  
+- **Semlegesség deklarálása**  
+  - Az ENSZ-hez fordult  
+
+### A Kreml  
+- **Kádárt Moszkvába vitték titokban**  
+  - Tudatták vele, hogy támadás indul  
+  - **Őt szemelték ki az új kormány élére**  
+
+### Az intervenció  
+- **Maléter honvédelmi miniszter letartóztatása**  
+- **November 4-én megindult a „Forgószél hadművelet”**  
+  - Nagy Imre rádióbeszédben tudatta a támadást  
+
+# A szovjet intervenció  
+### A magyar vezetők helyzete  
+- **Nagy Imre a jugoszláv követségre menekült**  
+- **Mindszenty József az amerikai követségen talált menedéket**  
+
+### A szabadságharc eltiprása  
+- **Az ellenállás helyenként elhúzódott**  
+  - Nyugatról sugárzó Szabad Európa Rádió táplálta a reményt  
+  - **Gerillaharcok** (pl. mecseki láthatatlanok)  
+
+### KSH adatok a magyar áldozatokról  
+- **Halottak száma:** 2502 fő  
+- **Sebesültek száma:** 19 226 fő  
+
+### A szovjetek veszteségei  
+- **Részvétel:** 58 821 fő  
+- **Halottak:** 669 fő  
+- **Megsebesültek:** 1540 fő  
+
+### Albert Camus: *A magyarok vére* (1957. október)  
+
+# Politikai fordulat  
+
+## Utcai jelenetek  
+
+## A forradalom emlékezete  
+### A „melbourne-i vérfürdő”  
+- **1956. december 6., olimpiai elődöntő**  
+  - Magyarország–Szovjetunió: **4:0**  
+

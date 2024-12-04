@@ -22,17 +22,13 @@
             }
           },
           {
-            "id": "bcf6d6e83ab5f286",
+            "id": "b79dec1338a012f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magyarország 1945 és 1956 között.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Magyarország 1945 és 1956 között"
+              "title": "New tab"
             }
           }
         ],
@@ -201,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcf6d6e83ab5f286",
+  "active": "b79dec1338a012f2",
   "lastOpenFiles": [
     "1956-os forradalom összefoglaló.md",
     "Magyarország 1945 és 1956 között.md",

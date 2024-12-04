@@ -25,10 +25,14 @@
             "id": "b79dec1338a012f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "József Attila.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "József Attila"
             }
           }
         ],
@@ -88,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -199,9 +202,9 @@
   },
   "active": "b79dec1338a012f2",
   "lastOpenFiles": [
-    "1956-os forradalom összefoglaló.md",
     "Magyarország 1945 és 1956 között.md",
     "József Attila.md",
+    "1956-os forradalom összefoglaló.md",
     "THE INTERNATIONAL POLITICS OF  NUCLEAR WEAPONS - A CONSTRUCTIVIST  ANALYSIS.md",
     "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
     "4-tananyag/Magyar gyakorlás/Költői eszközök 1.md",

@@ -170,22 +170,15 @@
 ### Az kormány helyzete  
 - **A megbékélés elmaradt**  
   - A felkelők nem tették le a fegyvert, várták a szovjet kivonulást  
-  - (Újjá)alakuló pártok: **Nagy elismerte őket** október 30-án  
-
-# Nagy Imre törekvései  
-### A szociáldemokraták és kisgazdák felhívása  
-### A Népszabadság címlapja, 1956. november 3.  
-#### A koalíciós kormány  
+  - (Újjá)alakuló pártok: **Nagy elismerte őket** október 30-án    
+### A koalíciós kormány  
 - **Több pártból** vont be embereket  
   - Kimaradtak a rákosista káderek  
 - **Egységes karhatalom**  
   - Nemzetőrség, hadsereg és rendőrség együtt  
 - **Belső nyugalom**  
 
-### Nemzetőr igazolvány  
-### A veszprémi MEFESZ felhívása  
-
-#### A konszolidáció napjai  
+### A konszolidáció napjai  
 - **Szabad sajtó**  
   - Szovjetellenes követelések + kilépés a Varsói Szerződésből  
   - Szabad választások  

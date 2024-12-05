@@ -24,17 +24,17 @@
 - **Sortüzek** a decemberi tüntetéseken  
 - rendfenntartó különítmények (karhatalom: „pufajkások”)
 
-# Nagy Imre-per  
-- **Kirákatper 1957-ben**  
+### Nagy Imre-per  
+- **Kirakatper 1957-ben**  
 - Nagy Imre és társai kivégzése (1958. június 16.)  
 
-# A kollektivizálás befejezése  
+## A kollektivizálás befejezése  
 - **Engedmények az életszínvonal terén**  
   - Ipari munkások béremelése  
   - Parasztok szabad gazdálkodása  
 - **Téeszesítés erőszakos újraindítása** (1959-től)  
 
-# A diktatúra újjáépítése  
+## A diktatúra újjáépítése  
 - **Kétfrontos harc**: pártok elsorvasztása, kritikus hangok elhallgattatása  
 - **MSZMP tisztogatása**: Rákosi nem térhetett vissza, Gerő kiszorult a hatalomból  
 

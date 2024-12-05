@@ -11,10 +11,14 @@
             "id": "f716ee4da809e56a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kádár Korszak.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kádár Korszak"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -166,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +188,12 @@
   },
   "active": "f716ee4da809e56a",
   "lastOpenFiles": [
+    "Kádár Korszak.md",
     "Untitled.md",
-    "Jobboldali erők erősödése.md",
+    "1-Random notes/Jobboldali erők erősödése.md",
     "1-Random notes/THE INTERNATIONAL POLITICS OF  NUCLEAR WEAPONS - A CONSTRUCTIVIST  ANALYSIS.md",
-    "Az országok motivációja a nukleáris fegyverek birtoklására.md",
-    "Nukleáris fegyvereket korlátozó egyezmények összefoglalója.md",
+    "1-Random notes/Az országok motivációja a nukleáris fegyverek birtoklására.md",
+    "1-Random notes/Nukleáris fegyvereket korlátozó egyezmények összefoglalója.md",
     "4-tananyag/Irodalom/József Attila.md",
     "4-tananyag/Történelem/Forradalom 1956.md",
     "2-Menu/Töri.md",
@@ -219,7 +226,6 @@
     "4-tananyag/Magyar gyakorlás/Ötletek a novellaelemzéshez.md",
     "4-tananyag/Irodalom/posztmodern/Kós Károly.md",
     "4-tananyag/Irodalom/Késői modernség/Reményik Sándor.md",
-    "4-tananyag/Fizika/Elektromágneses hullámok, optika/Fizikai optika.md",
     "4-tananyag/Történelem/2. világháború után magyarország",
     "4-tananyag/Irodalom/kötelezők",
     "4-tananyag/Irodalom/posztmodern",

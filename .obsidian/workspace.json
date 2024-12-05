@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-tananyag/Történelem/1956-os forradalom összefoglaló.md",
+                "file": "4-tananyag/Történelem/1956/1956-os forradalom összefoglaló.md",
                 "mode": "source",
                 "source": false
               },
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -186,20 +185,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f716ee4da809e56a",
+  "active": "1a27ef9776193d7b",
   "lastOpenFiles": [
     "3-tags/1956-os forradalom.md",
-    "Kádár Korszak.md",
+    "4-tananyag/Történelem/1956",
+    "4-tananyag/Történelem/1956/1956-os forradalom összefoglaló.md",
+    "4-tananyag/Történelem/1956/Kádár Korszak.md",
     "Untitled.md",
     "1-Random notes/Jobboldali erők erősödése.md",
     "1-Random notes/THE INTERNATIONAL POLITICS OF  NUCLEAR WEAPONS - A CONSTRUCTIVIST  ANALYSIS.md",
     "1-Random notes/Az országok motivációja a nukleáris fegyverek birtoklására.md",
     "1-Random notes/Nukleáris fegyvereket korlátozó egyezmények összefoglalója.md",
     "4-tananyag/Irodalom/József Attila.md",
-    "4-tananyag/Történelem/Forradalom 1956.md",
+    "4-tananyag/Történelem/1956/Forradalom 1956.md",
     "2-Menu/Töri.md",
-    "4-tananyag/Történelem/1956-os forradalom összefoglaló.md",
-    "4-tananyag/Történelem/Magyarország 1945 és 1956 között.md",
+    "4-tananyag/Történelem/1956/Magyarország 1945 és 1956 között.md",
     "2-Menu/Menü.md",
     "3-tags/Háburútól forradalomig.md",
     "2-Menu/Angol.md",
@@ -225,7 +225,6 @@
     "4-tananyag/Magyar gyakorlás/Ötletek a verselemzéshez.md",
     "4-tananyag/Magyar gyakorlás/Ötletek a novellaelemzéshez.md",
     "4-tananyag/Irodalom/posztmodern/Kós Károly.md",
-    "4-tananyag/Irodalom/Késői modernség/Reményik Sándor.md",
     "4-tananyag/Történelem/2. világháború után magyarország",
     "4-tananyag/Irodalom/kötelezők",
     "4-tananyag/Irodalom/posztmodern",
@@ -234,7 +233,6 @@
     "4-tananyag/plugins",
     "4-tananyag/Matek",
     "4-tananyag/Magyar nyelv",
-    "4-tananyag/Magyar gyakorlás",
-    "4-tananyag/Irodalom"
+    "4-tananyag/Magyar gyakorlás"
   ]
 }

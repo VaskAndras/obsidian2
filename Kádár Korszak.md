@@ -32,20 +32,32 @@
 - **Engedmények az életszínvonal terén**  
   - Ipari munkások béremelése  
   - Parasztok szabad gazdálkodása  
-- **Téeszesítés erőszakos újraindítása** (1959-től)  
+- **Téeszesítés erőszakos újraindítása** (1959-től) 
+	- Erőszakos
+	- Voltak kedvezmények (háztáji gazdaság)
 
 ## A diktatúra újjáépítése  
-- **Kétfrontos harc**: pártok elsorvasztása, kritikus hangok elhallgattatása  
-- **MSZMP tisztogatása**: Rákosi nem térhetett vissza, Gerő kiszorult a hatalomból  
-
-# Külpolitikai helyzet  
+- **Kétfrontos harc**: 
+	- pártok elsorvasztása, 
+	- kritikus hangok elhallgattatása  
+- **MSZMP tisztogatása**: 
+	- Rákosi nem térhetett vissza, 
+	- Gerő kiszorult a hatalomból  
+### Rákosi nem térhetett vissza a Szovjetunióból 
+-  megszűnt a rákosista politikai csoportosulás az MSZMP-ben 
+- Péter Gábort és Farkas Mihályt elítélték, de kegyelmet kaptak 
+- Gerő Ernő is hazatérhetett, de kiszorult a hatalomból
+## Külpolitikai helyzet  
 - **Szovjet csapatok maradása**  
-- Kádár elszigetelődése Nyugattól  
-  - ENSZ Közgyűlés napirendjén a „magyarkérdés”  
+- Kádár elszigetelődött teljesen a nyugati országoktól 
+	- ENSZ Közgyűlés: napirenden volt a „magyarkérdés” 
+		- => vizsgálóbizottság: népfelkelés + jogtalan eltiprás 
+	- 1963-tól változás: alku => amnesztia + a Kádár-kormány elismerése az ENSZ-ben
 
-# A hatalom új politikája a társadalommal szemben  
+## A hatalom új politikája a társadalommal szemben  
 - **Enyhülés**: „Aki nincs ellenünk, az velünk van”  
-  - Az életszínvonal javítása legitimációs eszköz  
+  - Az életszínvonal javítása legitimációs eszköz
+- 1962-ben kimondták, hogy nincs olyan osztály vagy réteg, amely egészében a szocialista rendszer ellensége volna
 - **Közösségi szerveződések ellenőrzése**  
 
 # Kulturális élet és állambiztonság  

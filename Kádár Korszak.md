@@ -60,10 +60,25 @@
 - 1962-ben kimondták, hogy nincs olyan osztály vagy réteg, amely egészében a szocialista rendszer ellensége volna
 - **Közösségi szerveződések ellenőrzése**  
 
-# Kulturális élet és állambiztonság  
-- **BM III/III-as csoportfőnökség**: ügynökhálózat kiépítése  
-  - Információgyűjtés és bomlasztás az értelmiségi körökben  
-
-# Mezőgazdaság „szocialista átszervezése”  
-- **Gépesítés és háztáji gazdálkodás**  
-- **Élelmiszerhiány elkerülése**, paraszti gyarapodás  
+## Az enyhülés: 
+- „aki dolgozik, az boldogul” 
+	- az előrejutás lehetőségét kínálták 
+- párttagság nélkül csak egy bizonyos szintig juthatott mindenki 
+	- emelkedett az életszínvonal az 1960-70-es években 
+		- => az életszínvonal javítása a legitimáció egyik kulcsa 
+## A politikai rendőrség felügyelete 
+- **ügynökhálózat 
+	- BM III/III-as csoportfőnökség** 
+	- adatgyűjtés az értelmiségiekről, értelmiségi körökről 
+	- beszervezés: zsarolás, előrelépés esélye, meggyőződés stb. 
+	- információgyűjtés + dezinformáció, bomlasztás
+ 
+## A mezőgazdaság „szocialista átszervezése” 
+ -  **A gazdaság helyzete** 
+	 - a mezőgazdaság 
+	 - növekedésnek indult 
+	 - a gépesítés és a háztáji: nem alakult ki élelmiszerhiány 
+		 - => a nagyüzemi termelés hiányát pótolta az extramunka A gabonatermelés alakulása 
+-  **A téeszesítés eredménye** 
+	- Magyarország elkerülte az élelmiszerhiányt 
+	- a paraszti társadalom valamelyest gyarapodni tudott a plusz munkával 

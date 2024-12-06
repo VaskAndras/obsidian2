@@ -110,3 +110,64 @@
 ## Avantgárd dalok
 - Tedd a kezed
 - Áldalak búval bizalommal
+
+
+## Részletes vázlat: József Attila dalai
+
+### 1. Vágó Márta-szerelem és hatása a költészetre
+
+- **Életkörülmények**
+    - A Vágó Márta iránti szerelem harmonikusabb időszakot hozott.
+    - **Konfliktusforrások:**
+        - Társadalmi különbség.
+        - Márta apjának kívánsága, hogy lánya külföldre utazzon.
+        - József Attila lobbanékony, féltékeny természete.
+
+- **A költemények jellemzői**    
+    - Harmónia és diszharmónia keveredése.
+    - A dal műfajához állnak közel, de nem klasszikus értelemben.
+        - „Nem egyneműek, nem egyszólamúak.” (Lator László).
+        - Avantgárd hatás: váratlan váltások, disszonáns hangzatok.
+
+### 2. Az _Áldalak búval, vigalommal_ című költemény
+
+- **Biblikus hangvétel**
+    - Himnikus, zsoltárszerű stílus.
+    - **Felütés:** a zsoltárokra emlékeztet.
+    - Himnikus, hálaadó hangvétel végig megmarad.
+
+- **Jellemző formai eszközök**    
+    - Erőteljes alliteráció: _„Mindegy, szeretsz-e, nem szeretsz-e, / szívemhez szívvel keveredsz-e”_.
+    - Zsoltárszerűség: _„Istennek tégedet felellek”_.
+
+- **Tartalmi csúcspont**    
+    - Utolsó versszak:
+        - A személyes vallomás univerzális méretet ölt.
+        - Szerelme a határtalan mindenséghez kapcsolódik.
+        - Lator László: _„Nem az emberi méretű szerelemről beszél, hanem a teremtő elragadtatásról.”_
+
+### 3. A _Tedd a kezed_ című dal
+
+- **Cím és tartalom kapcsolata**
+    - Közvetlen megszólítás.
+    - Rövid vers, a szerelmesek azonosulási vágyát fejezi ki.
+
+- **Formai eszközök**    
+    - **Hasonlatokra épülő szerkezet:**
+        
+        - Minden versszak nyelvtanilag hasonlító tartalmú módhatározói alárendelő mondatokból áll.
+        - Példák:
+            - _„Mintha kezed kezem volna.”_
+            - _„Mintha élted éltem volna.”_
+            - _„Mintha szíved szívem volna.”_
+    - **Igealakok szerepe:**
+        
+        - Felszólító módú igék (tedd, őrizz, szeress): az azonosulás azonnali vágyát fejezik ki.
+        - Feltételes módú igék (volna): elbizonytalanítják, remélt állapottá távolítják a vágyott azonosulást.
+
+#### **4. Lexikális összegzés**
+
+- **Műfaj:** dal, de nem a klasszikus tiszta hangulatú forma.
+- **Motívumok:** harmónia-diszharmónia játéka, zsoltárszerűség, azonosulási vágy.
+- **Stílusjegyek:** avantgárd hatás, alliteráció, közvetlen megszólítás.
+- **Költői üzenet:** az emberi érzelem egyetemes, transzcendens szintekre emelése.

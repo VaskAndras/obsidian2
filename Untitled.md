@@ -265,7 +265,7 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 
 ---
 
-#### **3. A táj bemutatása és szimbolikája**
+### 3. A táj bemutatása és szimbolikája
 
 - **Táj leírása:**
     - Jeges, rideg, mozdulatlan környezet.
@@ -276,7 +276,7 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 
 ---
 
-#### **4. A térbeli és időbeli struktúra**
+### 4. A térbeli és időbeli struktúra
 
 - **Térbeli leírás:**
     - A táj fokozatosan bontakozik ki: víz, pusztaság, tó, erdő, tanya, belső tér.
@@ -287,7 +287,7 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 
 ---
 
-#### **5. Ellentétek és zenei elemek**
+### 5. Ellentétek és zenei elemek
 
 - **Ellentétpárok:**
     - Mozdulatlanság–mozgás, távol–közel, holt–élő.
@@ -297,7 +297,7 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 
 ---
 
-#### **6. A lírai én szerepe és magatartása**
+### 6. A lírai én szerepe és magatartása
 
 - **Szemlélődő magatartás:**
     - A lírai én értelmezi és leírja a látottakat.
@@ -307,8 +307,102 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 
 ---
 
-#### **7. Összegzés**
+### 7. Összegzés
 
 - **Jelentőség:**
     - A „Holt vidék” nemcsak a tájat ábrázolja, hanem társadalmi és emberi léthelyzetet is.
     - Feszültséggel teli, komplex képalkotás, amely a modern költészet újító elemeit hordozza.
+
+
+### 30 kérdés rövid válaszokkal:
+
+1. **Mi volt József Attila költői kibontakozása?**
+    
+    - Tudatos és szisztematikus előkészület.
+2. **Milyen hatások formálták József Attila költészetét?**
+    
+    - Irodalom, filozófia, természettudományok.
+3. **Ki voltak József Attila első költői példaképei?**
+    
+    - Petőfi Sándor, Ady Endre, Juhász Gyula, Kosztolányi Dezső, Babits Mihály.
+4. **Melyik kötet tartalmazza a "Szépség koldusa" című művet?**
+    
+    - "Szépség koldusa" című kötet.
+5. **Mi volt az avantgárd hatása József Attilára?**
+    
+    - Új lírai irányzatok, mint expresszionizmus, konstruktivizmus, szürrealizmus.
+6. **Ki volt Kassák Lajos?**
+    
+    - Avantgárd költő, aki hatott József Attilára.
+7. **Milyen irányzatok hatottak József Attilára?**
+    
+    - Avantgárd, Nyugat, népiesség.
+8. **Mit jelent a "Szépség koldusa"?**
+    
+    - József Attila kötetének címe.
+9. **Melyik műben szerepel a "Szeged alatt" című vers?**
+    
+    - Juhász Gyula költeményeiben.
+10. **Melyik művészeti stílust követte a Medáliák-ciklus?**
+    
+    - "Abszolút költészet" stílust.
+11. **Mi volt a Medáliák-ciklus központi jellemzője?**
+    
+    - A népdal ártatlan bájának és varázsigék bűvereje.
+12. **Melyik kötetben található a "Reménytelenül" vers?**
+    
+    - "Medvetánc" kötet.
+13. **Mi volt a "Nem én kiáltok" verse?**
+    
+    - Költői program, expresszionista manifesztum.
+14. **Mi a "Holt vidék" vers szimbolikus jelentése?**
+    
+    - Társadalmi és emberi léthelyzet ábrázolása.
+15. **Mi a "Holt vidék" című vers fő témája?**
+    
+    - A táj ridegsége és a társadalmi rétegek ellentéte.
+16. **Mi az "expresszionizmus" jelentése?**
+    
+    - A művészeti irányzat, amely kifejezi a belső érzelmeket.
+17. **Mi volt József Attila viszonya a népiességhez?**
+    
+    - Független vonzódás a népi hagyományokhoz.
+18. **Melyik művész hatott leginkább József Attilára az avantgárdban?**
+    
+    - Walt Whitman.
+19. **Mi volt a fő jellemzője a "Nem én kiáltok" versnek?**
+    
+    - Apokaliptikus képek és közösségi eszmény.
+20. **Mi volt a Medáliák-ciklus stílusjegye?**
+    
+    - A népdal bája és a varázsige ereje.
+21. **Mi volt József Attila egyéni költészeti célja?**
+    
+    - Egyéni stílus kialakítása.
+22. **Mi volt az újnépiesség szerepe József Attila költészetében?**
+    
+    - A népi hagyományok és avantgárd elemek összehangolása.
+23. **Mit jelent a "Holt vidék" című versben szereplő "jeges ágak"?**
+    
+    - A ridegség és mozdulatlanság szimbóluma.
+24. **Mi volt József Attila költészetében a közösség szerepe?**
+    
+    - Az egyéni élet értéke a közösségben való részvétellel teljesedik ki.
+25. **Mi volt a "Szépség koldusa" című kötet fő vonása?**
+    
+    - A költészet formamívessége.
+26. **Mi volt József Attila hatása a modern lírára?**
+    
+    - Különös hangsúly a reménytelenség és remény váltakozására.
+27. **Milyen technikai jellemzők hatották a Medáliák-ciklus verseit?**
+    
+    - Tömörség és fesztelenség.
+28. **Mi volt a "Reménytelenül" című vers fő motívuma?**
+    
+    - A magány és reménytelenség érzése.
+29. **Mi jellemzi a "Tedd a kezed" című verset?**
+    
+    - Közvetlen szerelmi megszólítás és vágy az összeolvadásra.
+30. **Milyen filozófiai kérdéseket vet fel a "Nem én kiáltok" vers?**
+    
+    - Az egyéni tisztaság, erkölcs és közösség kérdései.

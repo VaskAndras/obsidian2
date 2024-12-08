@@ -214,7 +214,7 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 
 ---
 
-#### **5. A táj és a lírai én kapcsolata**
+### 5. A táj és a lírai én kapcsolata
 
 - **Tájképek:**
     - „Semmi ága”: a kiűzetett ember létezési terepe.
@@ -225,7 +225,7 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 
 ---
 
-#### **6. A vers többszólamúsága**
+### 6. A vers többszólamúsága
 
 - **Polifónia:**
     - Remény és reménytelenség váltakozása.
@@ -235,8 +235,80 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 
 ---
 
-#### **7. Összegzés**
+### 7. Összegzés
 
 - **Jelentőség:**
     - A modern lírai világkép egyik ikonikus példája.
     - Az emberi sors tragikuma és az univerzummal való kapcsolat ábrázolása.
+
+## Vázlat: József Attila – A valóság művészeti birtokbavétele és a „Holt vidék” elemzése**
+
+### 1. A valóság művészeti megközelítése
+
+- **Szerpentin metafora:**
+    - Az ember felfelé haladva a valóság különböző síkjait tárja fel.
+    - A síkváltások feszültséget és vibrálást keltenek a tudatban.
+- **Komplex képek:**
+    - Kettőnél több jelentéssíkot tartalmaznak.
+    - Példa: _Elégia_ – „Töredezett, apró ablakok…”
+        - **Fényképzet:** Mozgás a világosságtól a sötétségig.
+        - **Időképzet:** Elmúló napok lefelé irányuló mozgása.
+        - **Ellentétpárok:** Fény–homály, magasság–mélység.
+
+---
+
+### 2. A „Holt vidék” című vers elemzése
+
+- **Keletkezési háttér:**
+    - Tájleíró vers, az édesanya szülőföldje inspirálta.
+    - A táj konkrét és szimbolikus jelentése összefonódik.
+
+---
+
+#### **3. A táj bemutatása és szimbolikája**
+
+- **Táj leírása:**
+    - Jeges, rideg, mozdulatlan környezet.
+    - Központi kép: „Jeges ágak között zörgő időt vajudik az erdő.”
+- **Szimbolikus jelentés:**
+    - Társadalmi rétegek helyzete (paraszt–uraság ellentéte).
+    - Az emberi sors kilátástalansága, értékhiány.
+
+---
+
+#### **4. A térbeli és időbeli struktúra**
+
+- **Térbeli leírás:**
+    - A táj fokozatosan bontakozik ki: víz, pusztaság, tó, erdő, tanya, belső tér.
+    - A tér az uraság által birtokolt, az emberek számára börtön.
+- **Időbeli aspektus:**
+    - Alkonyati, késő őszi látvány.
+    - Az idő múlása ridegséget és változatlanságot sugall.
+
+---
+
+#### **5. Ellentétek és zenei elemek**
+
+- **Ellentétpárok:**
+    - Mozdulatlanság–mozgás, távol–közel, holt–élő.
+- **Zenei hatások:**
+    - Alliterációk és hangutánzó szavak (zörgő, ropog, kotyog).
+    - A hangok életet visznek a holt tájba.
+
+---
+
+#### **6. A lírai én szerepe és magatartása**
+
+- **Szemlélődő magatartás:**
+    - A lírai én értelmezi és leírja a látottakat.
+    - Tárgyilagos, de elkötelezett hozzáállás.
+- **A táj szimbolikája:**
+    - A paraszti lét kiszolgáltatottsága, a társadalmi változás lehetetlensége.
+
+---
+
+#### **7. Összegzés**
+
+- **Jelentőség:**
+    - A „Holt vidék” nemcsak a tájat ábrázolja, hanem társadalmi és emberi léthelyzetet is.
+    - Feszültséggel teli, komplex képalkotás, amely a modern költészet újító elemeit hordozza.

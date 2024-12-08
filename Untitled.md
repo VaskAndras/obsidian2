@@ -92,3 +92,80 @@ József Attila költői kibontakozását számos irányzat és hatás formálta,
 ### Összefoglalás
 
 A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely egyszerre hordozza a lírai, filozófiai és morális gondolatokat. Az apokaliptikus képek, az egyéni tisztaságra való törekvés és a közösségi eszmények összhangja mutatja, hogy a vers nemcsak korának, hanem az emberi létezés egyetemes kérdéseinek is tükre.
+
+### Vázlat: Medáliák-ciklus és József Attila dalai
+
+---
+
+## 1. Medáliák-ciklus (1927–1928)
+
+### 1.1. Általános jellemzők
+
+- **Stílus és technika:**
+    
+    - „Abszolút költészet” (Németh Andor): mellékcélok nélküli, tiszta líra.
+    - A népdal ártatlan bájának és varázsigék bűverejének ötvözése.
+    - Kubista festményekhez hasonló szerkezet: valóságot tükröző, mégis elvarázsolt.
+- **Formai jegyek:**
+    
+    - Japán versek egyszerűségére emlékeztető tömörség.
+    - Lejtésük és fesztelenségük a népdalt idézi.
+
+### 1.2. Értelmezési lehetőségek**
+
+- A varázsigék és népdalok összeolvadása filozófiai és érzelmi mélységeket tár fel.
+- Egyszerre a valóság és a képzelet lenyomata.
+
+---
+
+### **2. József Attila dalai**
+
+#### **2.1. Harmónia és diszharmónia a Mártához írt versekben**
+
+- A Vágó Márta-szerelem: viszonylagos harmónia, de konfliktusokkal.
+    - Társadalmi különbségek és féltékenység.
+    - Versek sajátossága: harmónia és diszharmónia dinamikus váltakozása.
+- **Műfaji besorolás:**
+    - A dalhoz közel álló költemények, de nem tisztán hangulati líra.
+    - Váratlan váltásokkal, disszonáns hangzatokkal dolgoznak.
+
+---
+
+#### **2.2. Kiemelt művek elemzése**
+
+##### **2.2.1. Áldalak búval, vigalommal**
+
+- **Biblikus hangvétel:**
+    - Himnikus hálaének, zsoltárszerű forma.
+    - Példa: „Istennek tégedet felellek”.
+- **Nyelvi szépségek:**
+    - Erőteljes alliterációk: „Mindegy, szeretsz-e, nem szeretsz-e, / szívemhez szívvel keveredsz-e.”
+- **Teremtő elragadtatás:**
+    - A szerelem már nem emberi léptékű, hanem kozmikus.
+
+##### **2.2.2. Tedd a kezed**
+
+- **Szerelmi megszólítás:**
+    - Közvetlen hangnem, felszólító módú igealakok (tedd, őrizz, szeress).
+    - Példa: „mintha kezed kezem volna; mintha élted éltem volna”.
+- **Azonosulási vágy:**
+    - A teljes összeolvadás vágya.
+    - Feltételes módú igehasználat elbizonytalanítja a megvalósulást, vágyott állapotként jeleníti meg.
+
+---
+
+### **3. Műfaji és stílusbeli megjegyzések**
+
+- **Dal:**
+    - Rövid, zeneiséggel teli, érzelmeket kifejező műfaj.
+    - József Attila dalai azonban nem egyneműek; az avantgárd hatás érezhető bennük.
+
+---
+
+### **4. Összegzés**
+
+- **Medáliák-ciklus:**
+    - A költészet formabontó kísérlete, a népdal bájának és a varázsige erejének ötvözése.
+- **József Attila dalai:**
+    - A személyes érzelmek és a kozmikus távlatok különös összhangja.
+    - Az avantgárd hatás dinamizmusa és komplexitása gazdagítja a hagyományos műfajt.

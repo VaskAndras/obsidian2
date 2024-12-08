@@ -118,8 +118,7 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 
 ---
 
-### **2. József Attila dalai**
-
+### 2. József Attila dalai
 #### **2.1. Harmónia és diszharmónia a Mártához írt versekben**
 
 - A Vágó Márta-szerelem: viszonylagos harmónia, de konfliktusokkal.

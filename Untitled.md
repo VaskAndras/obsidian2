@@ -406,3 +406,171 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 30. **Milyen filozófiai kérdéseket vet fel a "Nem én kiáltok" vers?**
     
     - Az egyéni tisztaság, erkölcs és közösség kérdései.
+
+
+### Teszt: József Attila költői kibontakozása és versei
+
+#### 1. Mi volt József Attila költői fejlődésének alapja?
+
+a) Esztétikai kísérletezés  
+b) Tudatos és szisztematikus előkészület  
+c) Politikai hatások  
+d) Csak a népi hagyományokhoz való vonzódás
+
+#### 2. Melyik költő hatott leginkább József Attilára a Nyugat köreiből?
+
+a) Kosztolányi Dezső  
+b) Juhász Gyula  
+c) Ady Endre  
+d) Babits Mihály
+
+#### 3. Hogyan jellemezhetjük József Attila verseit az avantgárd hatásokkal?
+
+a) A szürrealizmusban való teljes elmerülés  
+b) Új ritmusok és kifejezési formák keresése  
+c) Csak hagyományos költészeti formák alkalmazása  
+d) Csak a konstruktivizmus hatása
+
+#### 4. Mi volt József Attila szintézisre való törekvésének célja?
+
+a) Avantgárd és népi elemek összehangolása  
+b) Csak népiességi versek írása  
+c) A klasszikus formák tisztelete  
+d) Politikai üzenetek kifejezése
+
+#### 5. Mi jellemzi a "Nem én kiáltok" verset?
+
+a) A személyes, szentimentális hangvétel  
+b) Apokaliptikus és etikai víziók  
+c) Csak lírai képek  
+d) Politikai elemzés
+
+#### 6. Milyen formátumot használ József Attila a "Nem én kiáltok" című versben?
+
+a) Szabad vers  
+b) Rigorózus szonett  
+c) Felszólító módú igék  
+d) Nyugodt, meditatív hangvétel
+
+#### 7. Mi jellemzi a Medáliák-ciklus költészetét?
+
+a) Klasszikus irodalmi formák  
+b) Abszolút költészet, tiszta líra  
+c) Csak filozófiai szövegek  
+d) Minden esetben szimbolikus versek
+
+#### 8. Mi a jellemző a Medáliák-ciklus versek stílusára?
+
+a) Tömörség és egyszerűség, japán versekhez hasonlóan  
+b) Nagy léptékű epikus elemek  
+c) Csak elméleti kérdések  
+d) Szentimentalizmus
+
+#### 9. Milyen lírai formában íródnak József Attila dalai?
+
+a) Csak népdalszerű versek  
+b) Dinamikus váltakozásokkal, diszharmóniával  
+c) Klasszikus tragikus versek  
+d) Egyenes, egyszerű hangvétel
+
+#### 10. Milyen szerepet játszik a társadalmi különbség József Attila "Mártához" írt verseiben?
+
+a) A harmónia és diszharmónia dinamikáját  
+b) Csak a személyes érzések kifejezését  
+c) A politikai mondanivalót  
+d) A szentimentalizmus dominanciáját
+
+#### 11. Mi volt a "Tedd a kezed" című vers sajátossága?
+
+a) Hangulati líra és érzelmek  
+b) Közvetlen, felszólító hangnem  
+c) Természeti képek elemzése  
+d) Szomorú hangvétel
+
+#### 12. Melyik verstípusra emlékeztet az "Áldalak búval, vigalommal"?
+
+a) Himnusz  
+b) Nyúlfarknyi vers  
+c) Óda  
+d) Zsoltár
+
+#### 13. Hogyan jelenik meg az idő az "Reménytelenül" című versben?
+
+a) Az idő végtelen terjedelme  
+b) Az emberi élet végessége  
+c) Az idő folyamatának állandó mozgása  
+d) Az idő megállása
+
+#### 14. Mi a második rész, _Vas-színű égboltban..._, jellemzője a "Reménytelenül" versben?
+
+a) A reménytelenség és gyötrő helyzet képei  
+b) A személyes érzelmek megnyilvánulása  
+c) A világ apokaliptikus képei  
+d) Egy optimista vízió
+
+#### 15. Melyik motívum jelenik meg a "Reménytelenül" című versben?
+
+a) A halál és az élet ellentéte  
+b) Az emberi sors végtelensége  
+c) A család és a közösség fontossága  
+d) A születés és újjászületés
+
+#### 16. Mi jellemzi a tájat a "Holt vidék" című versben?
+
+a) Élénk, természetes élet  
+b) Jeges, rideg, mozdulatlan környezet  
+c) Színes, tavaszi táj  
+d) Folyamatosan változó táj
+
+#### 17. Hogyan ábrázolja a "Holt vidék" vers a társadalmat?
+
+a) Az arisztokrácia és a parasztság ellentétével  
+b) A harmóniát és békét  
+c) A szegénység és gazdagság közötti összhangot  
+d) A városi élet gyorsaságát
+
+#### 18. Mi a "Holt vidék" vers szimbolikájának fő üzenete?
+
+a) Az emberi élet szép pillanatai  
+b) A társadalmi és emberi léthelyzet kilátástalansága  
+c) A természet szépsége  
+d) A család fontossága
+
+#### 19. Milyen stílust alkalmaz József Attila a "Holt vidék" című versben?
+
+a) Tömör és egyszerű kifejezésmód  
+b) Komplex képek és feszültségkeltés  
+c) Egyszerű, hangulati líra  
+d) Politikai kommentár
+
+#### 20. Mi volt József Attila verseinek legfontosabb célja?
+
+a) A politikai állásfoglalás  
+b) A társadalmi változás előmozdítása  
+c) Az emberi sors és az univerzummal való kapcsolat bemutatása  
+d) A történelmi események leírása
+
+---
+
+### Válaszok:
+
+1. b
+2. c
+3. b
+4. a
+5. b
+6. c
+7. b
+8. a
+9. b
+10. a
+11. b
+12. d
+13. b
+14. a
+15. b
+16. b
+17. a
+18. b
+19. b
+20. c

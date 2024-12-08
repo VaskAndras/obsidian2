@@ -119,7 +119,7 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 ---
 
 ### 2. József Attila dalai
-#### **2.1. Harmónia és diszharmónia a Mártához írt versekben**
+#### 2.1. Harmónia és diszharmónia a Mártához írt versekben
 
 - A Vágó Márta-szerelem: viszonylagos harmónia, de konfliktusokkal.
     - Társadalmi különbségek és féltékenység.
@@ -130,9 +130,9 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 
 ---
 
-#### **2.2. Kiemelt művek elemzése**
+### 2.2. Kiemelt művek elemzése
 
-##### **2.2.1. Áldalak búval, vigalommal**
+#### 2.2.1. Áldalak búval, vigalommal
 
 - **Biblikus hangvétel:**
     - Himnikus hálaének, zsoltárszerű forma.
@@ -142,7 +142,7 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 - **Teremtő elragadtatás:**
     - A szerelem már nem emberi léptékű, hanem kozmikus.
 
-##### **2.2.2. Tedd a kezed**
+#### 2.2.2. Tedd a kezed
 
 - **Szerelmi megszólítás:**
     - Közvetlen hangnem, felszólító módú igealakok (tedd, őrizz, szeress).
@@ -153,7 +153,7 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 
 ---
 
-### **3. Műfaji és stílusbeli megjegyzések**
+### 3. Műfaji és stílusbeli megjegyzések
 
 - **Dal:**
     - Rövid, zeneiséggel teli, érzelmeket kifejező műfaj.
@@ -161,10 +161,82 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
 
 ---
 
-### **4. Összegzés**
+### 4. Összegzés
 
 - **Medáliák-ciklus:**
     - A költészet formabontó kísérlete, a népdal bájának és a varázsige erejének ötvözése.
 - **József Attila dalai:**
     - A személyes érzelmek és a kozmikus távlatok különös összhangja.
     - Az avantgárd hatás dinamizmusa és komplexitása gazdagítja a hagyományos műfajt.
+
+## Vázlat: József Attila: _Reménytelenül_
+
+### 1. A vers háttere
+
+- **Megjelenés:** _Medvetánc_ kötet, 1934.
+- **Keletkezési körülmények:**
+    - Két részből szerkesztett:
+        - _Lassan tünődve_ (1933)
+        - _Vas-színű égboltban..._ (1927).
+    - Modern ember életérzését fogalmazza meg: elidegenedés, magány.
+
+---
+
+### 2. Szerkezeti és tematikai sajátosságok
+
+- **Versforma:**
+    - Keresztrímes, emelkedő ritmusú, négysoros jambikus versszakok.
+- **Alaptematika:**
+    - A lírai én reménytelensége, magánya.
+    - Az ember sorsának végessége és a világmindenség végtelensége közötti ellentét.
+
+---
+
+### 3. Az első rész (_Lassan tünődve_) jellemzői
+
+- **Témája:**
+    - A reménytelenség enyhítése képekkel, gondolatokkal.
+- **Fontos képek és motívumok:**
+    - Végtelen tér: „szétnéz merengve”.
+    - Csillagok szelídsége enyhíti az emberi magányt.
+    - Az időtlenség és elmúlás ellentéte.
+
+---
+
+### 4. A második rész (_Vas-színű égboltban…_) jellemzői
+
+- **Témája:**
+    - Kilátástalanság, gyötrőbb helyzet.
+- **Fontos képek és motívumok:**
+    - Rideg csillag-dinamók, gépi világ.
+    - Halált idéző metaforák: kard éle, hajszál.
+    - Az ember elmúlása pillanatnyi az idő végtelenségében.
+
+---
+
+#### **5. A táj és a lírai én kapcsolata**
+
+- **Tájképek:**
+    - „Semmi ága”: a kiűzetett ember létezési terepe.
+    - Fa: élet- és világfa motívuma.
+- **Szimbólumok:**
+    - Paradicsomból kiűzött ember magánya.
+    - Sors és végesség szimbólumai: időtlenségbe oldódás.
+
+---
+
+#### **6. A vers többszólamúsága**
+
+- **Polifónia:**
+    - Remény és reménytelenség váltakozása.
+    - Az emberi lét véges, mégis része a mindenségnek.
+- **Modern líra jellemzője:**
+    - Az egyéni és egyetemes szembesítése.
+
+---
+
+#### **7. Összegzés**
+
+- **Jelentőség:**
+    - A modern lírai világkép egyik ikonikus példája.
+    - Az emberi sors tragikuma és az univerzummal való kapcsolat ábrázolása.

@@ -89,6 +89,6 @@ József Attila költői kibontakozását számos irányzat és hatás formálta,
 - **Etikai parancsok**
     - Az emberi tisztaság, a közösség szeretete és az erkölcsi felelősség központi motívumai a költeménynek.
 
-### **Összefoglalás
+### Összefoglalás
 
 A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely egyszerre hordozza a lírai, filozófiai és morális gondolatokat. Az apokaliptikus képek, az egyéni tisztaságra való törekvés és a közösségi eszmények összhangja mutatja, hogy a vers nemcsak korának, hanem az emberi létezés egyetemes kérdéseinek is tükre.

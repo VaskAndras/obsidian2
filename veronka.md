@@ -27,4 +27,9 @@
 ### Homoszexualitás
 - nem fogadja el az egyház
 
-### Abo
+### Abortusz
+- az egyház elítéli
+- gyermekgyilkosság
+- nők és férfiak is hibásak
+- fogamzásgátlást is elveti
+ 

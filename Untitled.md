@@ -111,7 +111,7 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
     - Japán versek egyszerűségére emlékeztető tömörség.
     - Lejtésük és fesztelenségük a népdalt idézi.
 
-### 1.2. Értelmezési lehetőségek**
+### 1.2. Értelmezési lehetőségek
 
 - A varázsigék és népdalok összeolvadása filozófiai és érzelmi mélységeket tár fel.
 - Egyszerre a valóság és a képzelet lenyomata.
@@ -241,7 +241,7 @@ A _Nem én kiáltok_ József Attila költészetének kiemelkedő darabja, amely 
     - A modern lírai világkép egyik ikonikus példája.
     - Az emberi sors tragikuma és az univerzummal való kapcsolat ábrázolása.
 
-## Vázlat: József Attila – A valóság művészeti birtokbavétele és a „Holt vidék” elemzése**
+## Vázlat: József Attila – A valóság művészeti birtokbavétele és a „Holt vidék” elemzése
 
 ### 1. A valóság művészeti megközelítése
 

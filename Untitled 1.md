@@ -18,4 +18,5 @@ Hogyan tervezem beosztani az időmet?
 - Főleg az emeltekre fókuszálok.
 - Matekból minden hónapban 4 tételt akarok megtanulni legalább
 - Fizikából ét akarom olvasni a 2 könyvet legalább 2 szer plusz a tételeket is de azokat lehet csak később 
-- Töriből a közös ismétléssel szeretnék haladni  
+- Töriből a közös ismétléssel szeretnék haladni, a korábbi osztályok szerint az elég alapos 
+- Magyarból eddig nem készítettem előzetes tervet, viszont szerintem ha 3 hónap alatt sikerül a teljes anyagot átnéznem (jan-márc) 

@@ -11,8 +11,11 @@ Mi az ami jól ment?
 
 Mi az amit át kell nézni?
 - Szerzők és múzsáik
-- minden az irodalmi teszthez
+- Minden az irodalmi teszthez
+- 
 
 Hogyan tervezem beosztani az időmet?
 - Főleg az emeltekre fókuszálok.
-- JAnuárban
+- Matekból minden hónapban 4 tételt akarok megtanulni legalább
+- Fizikából ét akarom olvasni a 2 könyvet legalább 2 szer plusz a tételeket is de azokat lehet csak később 
+- Töriből a közös ismétléssel szeretnék haladni  

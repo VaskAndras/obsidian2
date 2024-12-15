@@ -49,7 +49,8 @@
               "title": "21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,11 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e6cbbeeaec707b4",
+  "active": "df557c32c06e8200",
   "lastOpenFiles": [
+    "4. tétel Logika.md",
     "21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
     "8. tétel statisztika.md",
-    "4. tétel Logika.md",
     "Pasted image 20241214223228.png",
     "Untitled 1.md",
     "Veronka.md",

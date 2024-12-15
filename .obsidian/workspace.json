@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -215,10 +214,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df557c32c06e8200",
+  "active": "ca3e98c481c2c052",
   "lastOpenFiles": [
-    "4. tétel Logika.md",
     "21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
+    "4. tétel Logika.md",
     "8. tétel statisztika.md",
     "Pasted image 20241214223228.png",
     "Untitled 1.md",

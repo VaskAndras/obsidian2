@@ -35,7 +35,8 @@
               "title": "8. tétel statisztika"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,11 +201,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e6cbbeeaec707b4",
+  "active": "ca3e98c481c2c052",
   "lastOpenFiles": [
+    "4. tétel Logika.md",
     "8. tétel statisztika.md",
     "Pasted image 20241214223228.png",
-    "4. tétel Logika.md",
     "Untitled 1.md",
     "Veronka.md",
     "Untitled.md",

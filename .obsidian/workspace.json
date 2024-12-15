@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "8. tétel statisztika"
             }
+          },
+          {
+            "id": "df557c32c06e8200",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,10 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca3e98c481c2c052",
+  "active": "df557c32c06e8200",
   "lastOpenFiles": [
-    "4. tétel Logika.md",
     "8. tétel statisztika.md",
+    "4. tétel Logika.md",
     "Pasted image 20241214223228.png",
     "Untitled 1.md",
     "Veronka.md",

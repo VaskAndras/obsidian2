@@ -208,7 +208,7 @@ már kitakarta,
 sárga virágját bontja a som.  
 Fut, fut az áram  
 a déli sugárban  
-s hökken a hó a hideg havason.
+s hökken a hó a hideg havason. 
 
 Barna patakja  
 napra kacagva  

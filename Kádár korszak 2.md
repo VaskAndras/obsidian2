@@ -49,37 +49,27 @@ A reformok vége
 - Rába gyár
 - Ikarus gyár
 
-### A társadalomszerkezet átalakítása
+## A társadalomszerkezet átalakítása
 
-- A gazdasági és a társadalmi szféra államosítása
+- **A gazdasági és a társadalmi szféra államosítása**
     - A régi társadalmi csoportok megszűntek
     - Hivatalosan:
         - Két osztály: munkásság és parasztság
         - Plusz: értelmiségi réteg
-
-### A szociálpolitika kiterjesztése
-
-**A társadalomszerkezet átalakítása**
-
-- A társadalmi tagolódás mégis sokféle:
+- **A társadalmi tagolódás mégis sokféle:**
     - Falu–város
     - Mezőgazdaság–ipar
     - Iskolázottság, képzettség
 
-**A jóléti szolgáltatások és juttatások**
-
-- Aránylag komoly juttatások, bővítések:
+### A jóléti szolgáltatások és juttatások
+- **Aránylag komoly juttatások, bővítések:**
     - Gyermekgondozási segély (gyes)
     - Ingyenes orvosi ellátás mindenkinek
     - Oktatási rendszer fejlesztése
-- A gyakorlatban nem sikerült megvalósítani a társadalmi egyenlőséget
+- **A gyakorlatban nem sikerült megvalósítani a társadalmi egyenlőséget**
     - A középréteg, az értelmiség és a pártelit volt a „nyertes”
         - Példa: lakáshoz jutás
-
-### A középrétegek és az újjáéledő magánszektor
-
-**A szélesedő középréteg**
-
+### A szélesedő középréteg
 - Szakmunkások, alkalmazottak, értelmiségiek
     - Növekvő iskolázottság (trend)
     - Nemzetközi összehasonlításban szerény a diplomások aránya

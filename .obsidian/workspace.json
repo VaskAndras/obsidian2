@@ -11,10 +11,14 @@
             "id": "79cde25082e9bb5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "5-Daily/2024-12-18.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-12-18"
             }
           }
         ]
@@ -172,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -194,6 +198,8 @@
   },
   "active": "79cde25082e9bb5e",
   "lastOpenFiles": [
+    "5-Daily/2024-12-18.md",
+    "5-Daily",
     "Kádár korszak 2.md",
     "4-tananyag/Matek/Teljes valószínüség tétele.md",
     "23. Tétel.md",
@@ -224,7 +230,6 @@
     "4-tananyag/Magyar nyelv/Retorika előadások.md",
     "Untitled.canvas",
     "4-tananyag/Történelem/Untitled.canvas",
-    "4-tananyag/Történelem/2. világháború után magyarország/Rákosi korszak összefogallás.md",
     "images/IMG_1688.jpeg",
     "images/IMG_1687.jpeg",
     "images/IMG_1686.jpeg",
@@ -240,7 +245,6 @@
     "4-tananyag/Történelem/2. Világháború",
     "4-tananyag/Történelem",
     "4-tananyag/plugins/obsidian-latex-suite",
-    "4-tananyag/plugins",
-    "4-tananyag/Matek"
+    "4-tananyag/plugins"
   ]
 }

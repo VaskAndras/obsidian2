@@ -15,3 +15,5 @@ Poszmodern
 [[Posztmodern]]
 [[Kós Károly]]
 [[Reményik Sándor]]
+[[4-tananyag/Irodalom/József Attila]]
+[[József Attila tankönyvi vázlat]]

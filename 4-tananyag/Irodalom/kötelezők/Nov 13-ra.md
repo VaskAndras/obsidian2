@@ -186,3 +186,33 @@ Fut velem egy rossz szekér,
 Utána mintha jajszó szállna,  
 Félig mély csönd és félig lárma,  
 Fut velem egy rossz szekér.
+
+## Áprili Lajos - március
+
+A nap tüze, látod,  
+a fürge diákot  
+a hegyre kicsalta: a csúcsra kiállt.  
+Csengve, nevetve  
+kibuggyan a kedve  
+s egy ős evoét a fénybe kiált.
+
+Régi, kiszáradt  
+tó vize árad,  
+néma kutakban a víz kibuzog.  
+Zeng a picinyke  
+szénfejü cinke  
+víg dithyrambusa: dactilusok.
+
+Selymit a barka  
+már kitakarta,  
+sárga virágját bontja a som.  
+Fut, fut az áram  
+a déli sugárban  
+s hökken a hó a hideg havason. 
+
+Barna patakja  
+napra kacagva  
+a lomha Marosba csengve siet.  
+Zeng a csatorna,  
+zeng a hegy orma,  
+s zeng – ugye zeng, ugye zeng a szived?

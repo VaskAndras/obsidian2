@@ -35,8 +35,7 @@
               "title": "Nov 13-ra"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-tananyag/Irodalom/kötelezők/Nov 13-ra.md"
+                "file": "23. Tétel.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Nov 13-ra"
+              "title": "Outline of 23. Tétel"
             }
           },
           {
@@ -212,8 +211,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bdac5783aa81299e",
+  "active": "5dcc12a12250ce28",
   "lastOpenFiles": [
+    "4-tananyag/Irodalom/kötelezők/Nov 13-ra.md",
     "23. Tétel.md",
     "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
     "5-Daily/2024-12-18.md",

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f34df612c798233e",
+        "id": "f9c5cd9575dcd4bf",
         "type": "tabs",
         "children": [
           {
-            "id": "314787d128a2df86",
+            "id": "aff85169a3b5b35b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Menu/Matek.md",
+                "file": "4-tananyag/Történelem/1956/Kádár Korszak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matek"
+              "title": "Kádár Korszak"
             }
           }
         ]
@@ -185,14 +185,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "314787d128a2df86",
+  "active": "aff85169a3b5b35b",
   "lastOpenFiles": [
+    "2-Menu/Töri.md",
+    "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
+    "2-Menu/Magyar.md",
+    "3-tags/magyar/Magyar Gyakorlás.md",
     "Untitled.md",
+    "3-tags/magyar/Irodalom.md",
+    "2-Menu/Matek.md",
     "4-tananyag/hittan/Veronka.md",
     "4-tananyag/hittan",
     "4-tananyag/Magyar gyakorlás/Magyar ütemezés.md",
     "4-tananyag/Irodalom/József Attila tankönyvi vázlat.md",
-    "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
     "4-tananyag/Irodalom/kötelezők/Nov 13-ra.md",
     "4-tananyag/Matek/8. tétel statisztika.md",
     "4-tananyag/Matek/4. tétel Logika.md",
@@ -211,11 +216,6 @@
     "4-tananyag/Történelem/1956/Kádár Korszak.md",
     "1-Random notes/THE INTERNATIONAL POLITICS OF  NUCLEAR WEAPONS - A CONSTRUCTIVIST  ANALYSIS.md",
     "4-tananyag/Történelem/1956/Forradalom 1956.md",
-    "2-Menu/Töri.md",
-    "4-tananyag/Történelem/1956/Magyarország 1945 és 1956 között.md",
-    "2-Menu/Menü.md",
-    "3-tags/Háburútól forradalomig.md",
-    "2-Menu/Angol.md",
     "4-tananyag/Történelem/Untitled.canvas",
     "Untitled.canvas",
     "images/IMG_1688.jpeg",

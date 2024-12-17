@@ -215,4 +215,4 @@ napra kacagva
 a lomha Marosba csengve siet.  
 Zeng a csatorna,  
 zeng a hegy orma,  
-s zeng – ugye zeng, ugye zeng a szived?
+s zeng  – ugye zeng, ugye zeng a szived?

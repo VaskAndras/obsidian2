@@ -63,22 +63,7 @@
   - A bolygók tömege: **alíg ezredrésze** a Nap tömegének.  
   - A Naprendszer perdületének **98%-át a bolygók** adják.  
   - → Következtetés: A bolygók a Nappal **együtt születtek**.
-![[Screenshot_20241217_112621.png]]0
----
-
-## 2. **Csillagok és Protocsillagok Keletkezése**
-
-- **Általános folyamat**:  
-  - Csillagok ritkán keletkeznek egyedül → **csoportos keletkezés** a jellemző.
-
-- **Gravitációs összehúzódás**:
-  - A kisebb perdületű **gáz- és porfelhők** a gravitáció hatására a csillagba tömörülnek → létrejön a **protocsillag**, majd a **csillag**.  
-  - A nagy perdülettel rendelkező **gáz- és porkorong**:  
-    - Nem hullhatott a csillagba.  
-    - A csillagtól távolabb keringve lassan **bolygókká**, törpebolygókká, holdakká, meteorokká és üstökösökké alakul.  
-
----
-
+![[Screenshot_20241217_112621.png]]
 ## Egyensúlyi Állapot a Csillagokban
 
 ### A Csillagok Egyensúlyának Fenntartása
@@ -103,7 +88,7 @@
 - **Élettartam**: Akár **10 milliárd év**.  
 - **Példa**: A Nap.
 
-#### **Óriás- és szuperóriás csillagok**:
+#### Óriás- és szuperóriás csillagok:
 - **Magjuk hőmérséklete**: Sokkal melegebb → **kék színűek**.  
 - **Energiafelszabadítás**: Nagyobb ütemű.  
 - **Hidrogén-égetés**:  

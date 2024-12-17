@@ -35,7 +35,8 @@
               "title": "Nov 13-ra"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,17 +208,16 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5dcc12a12250ce28",
+  "active": "bdac5783aa81299e",
   "lastOpenFiles": [
+    "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
     "4-tananyag/Matek/8. tétel statisztika.md",
     "4-tananyag/Matek/4. tétel Logika.md",
     "23. Tétel.md",
     "4-tananyag/Irodalom/kötelezők/Nov 13-ra.md",
-    "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
     "5-Daily/2024-12-18.md",
     "Recording 20241216155832.webm",
     "5-Daily",

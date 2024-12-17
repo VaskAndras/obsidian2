@@ -49,25 +49,7 @@
    - **Hidrogénfúzió** kezdődik → hatalmas energia szabadul fel.
    - **Sugárzási nyomás** megállítja a gravitációs összehúzódást → **egyensúlyi állapot**.
 
----
-
-## 4. A csillagok egyensúlyi állapota
-- **Egyensúlyi állapot**: A csillagokban két erő tart egyensúlyt:
-  1. **Gravitációs vonzás** (behatol a mag felé).
-  2. **Sugárzási nyomás** és **gáznyomás** (a magból kifelé hat).
-
-- **Tartóssága**:
-  - A **Naphoz hasonló csillagok**: ~10 milliárd évig stabilak.
-  - **Óriás- és szuperóriás csillagok**:
-    - Magjuk sokkal forróbb, gyorsabb a hidrogénfúzió.
-    - Stabil állapot csak **néhány millió évig** tart.
-
-
-# A Csillagok Kialakulása és Egyensúlyi Állapota
-
----
-
-## 1. **A Naprendszer Perdülete és Kialakulása**
+## A Naprendszer Perdülete
 
 - **Perdületmegmaradás törvénye**:  
   - A csillag körül gáz- és porkorong alakul ki.  
@@ -81,7 +63,7 @@
   - A bolygók tömege: **alíg ezredrésze** a Nap tömegének.  
   - A Naprendszer perdületének **98%-át a bolygók** adják.  
   - → Következtetés: A bolygók a Nappal **együtt születtek**.
-
+![[Screenshot_20241217_112621.png]]0
 ---
 
 ## 2. **Csillagok és Protocsillagok Keletkezése**

@@ -79,9 +79,9 @@
 
 ---
 
-## 3. **Egyensúlyi Állapot a Csillagokban**
+## Egyensúlyi Állapot a Csillagokban
 
-### 3.1 **A Csillagok Egyensúlyának Fenntartása**
+### A Csillagok Egyensúlyának Fenntartása
 
 - **Gravitációs erők**:  
   - A csillag tömegközéppontja felé hatnak.  
@@ -92,16 +92,14 @@
 
 - **Egyensúlyi állapot**:  
   - A gravitációs vonzás erejét a **sugárzási nyomás** és a **gáznyomás** kiegyenlíti.  
-
----
-
-### 3.2 **Az Egyensúlyi Állapot Időtartama**
+![[Pasted image 20241217113048.png]]  
+### Az Egyensúlyi Állapot Időtartama
 
 - **Függ**:  
   - A csillag **tömegétől**.  
   - A csillag **méretétől**.  
 
-#### **Kis méretű csillagok (1,4 naptömeg alatt)**:
+#### Kis méretű csillagok (1,4 naptömeg alatt):
 - **Élettartam**: Akár **10 milliárd év**.  
 - **Példa**: A Nap.
 

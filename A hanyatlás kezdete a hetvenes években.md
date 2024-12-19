@@ -177,11 +177,11 @@ __→ üdítőitalok__
 
 ## Az átalakuló divat
 
-→ az 1950-es években korlátozott kínálat + ideológiai elutasítás  
-→ „rehabilitálták” a női divatot 1957-től
+__→ az 1950-es években korlátozott kínálat + ideológiai elutasítás__  
+__→ „rehabilitálták” a női divatot 1957-től__
 - magazinok, változatosabb kínálat
 - rendezett megjelenés elvárás volt (pl. nyakkendő)  
-__→ könnyűzenei trendek
+__→ könnyűzenei trendek__
 - farmer, pulóver, miniszoknya
 
 ## Kulturális élet

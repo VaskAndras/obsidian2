@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -59,8 +59,7 @@
               "title": "21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,11 +234,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5c2b17fea3b20071",
+  "active": "5dcc12a12250ce28",
   "lastOpenFiles": [
+    "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
     "23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md",
     "Csillagászat.md",
-    "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
     "4-tananyag/Irodalom/kötelezők/Nov 13-ra.md",
     "Screenshot_20241217_112621.png",
     "Screenshot_20241217_111733.png",

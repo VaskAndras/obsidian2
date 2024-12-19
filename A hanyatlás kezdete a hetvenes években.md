@@ -65,13 +65,12 @@
         - állami és gazdasági vezetők, értelmiségiek
         - lakás, háztartási gépek, autó, nyaraló
 - **Az 1968-as reform eredményei**
-    
-    - → a reformot politikai okokból leállították
-    - → volt maradandó hozadéka
+    - *→ a  reformot politikai okokból leállították*
+        - Moszkvában veszélyesnek ítélték
+    - *→ volt maradandó hozadéka*
         - téeszek: melléküzemágakat hoztak létre
         - ipar: munkaidő utáni munkalehetőség
 - **A magánszektor megjelenése („maszekolás”)**
-    
     - → legális/félig legális/illegális jövedelmek
     - önkizsákmányoló életmód: egészségügyi következmények
 

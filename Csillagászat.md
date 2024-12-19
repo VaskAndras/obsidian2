@@ -164,3 +164,4 @@
 - Az energiatermelés és továbbítás mechanizmusai biztosítják a Nap stabil fény- és hőmérséklet-kibocsátását.
 - Megfigyelhető jelenségei fontos információkat nyújtanak a csillagok működéséről és a Naprendszer dinamikájáról.
 
+![[Pasted image 20241219213201.png]]

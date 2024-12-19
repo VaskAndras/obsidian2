@@ -11,46 +11,42 @@
     - az érsek elhagyhatta az amerikai követséget és az országot
     - => a pápa felmentette hivatalából, mert a főpap nem mondott le
 - **A legvidámabb barakk**
-- 
-- **Európai Biztonsági és Együttműködési Értekezlet előkészítése**
+	- Kádár egyre pozitívabb színben tűnt fel nyugaton
+    - A hercegprímás VI. Pál pápával – Mindszenty Ausztráliában, Amerikában és Kölnben misézik
     
-    - aktív magyar diplomácia
 - **A Szent Korona hazatérése**
-    
     - → az USA-ban őrizték a világháború után
     - 1978-ra egyeztek meg a visszaadásról: presztízsnyereség
     - => az emigráns magyarok ellenezték
     - => feltételek, pl. Kádár nem vehetett részt az átadáson stb.
     - a legnagyobb kereskedelmi kedvezményt kapta az ország
     - Apró Antal átveszi a koronát az amerikai külügyminisztertől
-- **A „kis szabadságok”**
     
+- **A „kis szabadságok”**
     - → engedélyezték a magyar állampolgárok külföldre utazását
     - az állambiztonság csak néhány ezer esetben hiúsította meg
     - korlátozott valutakeret
-- **A beutazás és a turisták**
     
+- **A beutazás és a turisták**
     - → a két német állam rokonai és barátai itt találkoztak
     - Balaton
+    
+## A szocialista rendszer gazdasági hanyatlása
 
----
-
-### A szocialista rendszer gazdasági hanyatlása
-
-#### A lassú elgyengülés
+### A lassú elgyengülés
 
 - → az extenzív gazdasági növekedés vége
 - merev, bürokratizált gazdaságirányítás
 - nem tudták modernizálni, hatékonyabbá tenni a gazdaságot
 
-#### A pangás és a hanyatlás
+### A pangás és a hanyatlás
 
 - → az olajárrobbanás után nem sikerült a megújulás
 - sikertelen gazdasági reformkísérletek
 - nincs új munkaerő, technológiai lemaradás
-- technológiai import: eladósodás
+- technológiai import: **eladósodás**
 
-#### Az eladósodás
+### Az eladósodás
 
 - → az életszínvonal-politika nem fedezhető belső erőforrásokból
 - külföldi hitelfelvételek
@@ -60,15 +56,14 @@
 
 ---
 
-### Életszínvonal és mindennapok
+## Életszínvonal és mindennapok
 
-#### A középrétegek és az újjáéledő magánszektor
+### A középrétegek és az újjáéledő magánszektor
 
 - **A szélesedő középréteg**
-    
-    - → a felső-középosztály
-    - állami és gazdasági vezetők, értelmiségiek
-    - lakás, háztartási gépek, autó, nyaraló
+    -  *a felső-középosztály*
+        - állami és gazdasági vezetők, értelmiségiek
+        - lakás, háztartási gépek, autó, nyaraló
 - **Az 1968-as reform eredményei**
     
     - → a reformot politikai okokból leállították

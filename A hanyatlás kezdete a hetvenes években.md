@@ -72,16 +72,16 @@
         - ipar: munkaidő utáni munkalehetőség
 ## A magánszektor megjelenése („maszekolás”)
 
-→ állami vállalatoknál betöltött állás mellett
+__→ állami vállalatoknál betöltött állás mellett__
 - kisipari szolgáltatás, vendéglátás, háztáji
 
 ### Állami-redisztributív gazdaság
 
-→ a magánszektor megjelenése
+#### A magánszektor megjelenése
 
-- relatíve anyagi jólétet eredményezett
+- __relatíve anyagi jólétet eredményezett__
     - önkizsákmányoló életmód: egészségügyi következmények
-- __az informális magángazdaság
+- __az informális magángazdaság__
     - autószerelés, felújítás stb.
     - gyakran állami vállalatok eszközeivel
     - hétvégén v. munkaidő után  
@@ -120,7 +120,7 @@ __→ magas volt az öngyilkosságok száma__
 
 ### Az életszínvonal emelése
 
-→ „gulyáskommunizmus vagy fridzsiderszocializmus”
+__→ „gulyáskommunizmus vagy fridzsiderszocializmus”__
 - elterjedt a fogyasztói szemlélet
 - viszonylagos árubőség
 - mesterségesen alacsony árak
@@ -130,33 +130,31 @@ __→ magas volt az öngyilkosságok száma__
 
 ### A lakásállomány
 
-→ a világháború utáni állapotok
-
+__→ a világháború utáni állapotok__
 - többségében alapozás nélküli vályogházak
 - fa- és széntüzelés
 - hűtés: vermek, kutak  
-    → a „Kádár-kockák” világa
+  
+__→ a „Kádár-kockák” világa__
     - az 1960-as évektől a kockaházak váltották a hagyományos háztípusokat
     - polgárias lakótérhasználat, fürdőszoba
     - cserépkályha, villany- és gáztűzhely
 
 ### Az urbanizáció
 
-→ kb. félmillió panel/házgyári technológiával készült lakás épült
-
+__→ kb. félmillió panel/házgyári technológiával készült lakás épült__
 - javult a komfortfokozat/felszereltség
 - állami programok
 - az 1960-as évektől nőtt a magánerős építkezések száma
 
 ### A közlekedés változása
 
-→ Volán-buszjáratok hálózata
-
+__→ Volán-buszjáratok hálózata__
 - a falvak bekapcsolása a közösségi közlekedésbe  
-    → autózás elterjedése
+__→ autózás elterjedése__
 - új autó: több éves várakozás + előre fizetés
 - 1978: Skoda = 84 ezer ft, átlagbér: 3678 ft  
-    → autópályák építése
+__→ autópályák építése__
 - gyorsabb közlekedés, szállítás
 - turizmus fellendítése (Budapest–Balaton)
 
@@ -168,13 +166,12 @@ __→ magas volt az öngyilkosságok száma__
 
 ## A fogyasztás
 
-→ önkiszolgáló ABC-hálózat
-
+__→ önkiszolgáló ABC-hálózat__
 - tartós élelmiszer + háztartási cikk
 - gasztronómiai változások: túlsúly probléma kezdete  
-    → általánossá vált a sör fogyasztása
+__→ általánossá vált a sör fogyasztása__
 - korábban: bor + tömény szeszes italok  
-    → üdítőitalok
+__→ üdítőitalok__
     - Bambi, Márka, Traubisoda
     - Coca-Cola (gyártás: 1968)
 
@@ -182,10 +179,9 @@ __→ magas volt az öngyilkosságok száma__
 
 → az 1950-es években korlátozott kínálat + ideológiai elutasítás  
 → „rehabilitálták” a női divatot 1957-től
-
 - magazinok, változatosabb kínálat
 - rendezett megjelenés elvárás volt (pl. nyakkendő)  
-    → könnyűzenei trendek
+__→ könnyűzenei trendek
 - farmer, pulóver, miniszoknya
 
 ## Kulturális élet

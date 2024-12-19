@@ -173,7 +173,7 @@
 - **Tulajdonságok**:
     - Sugárzásuk az infravörös tartományban történik.
     - Nem tekinthetők "teljes értékű" csillagoknak.
-
+![[Pasted image 20241219213201.png]]
 ### Vörös törpecsillagok
 
 - **Keletkezés**:
@@ -209,27 +209,56 @@
     - Hőmérséklete: 30 000–100 000 K.
     - Energiáját lassan sugározza ki, élettartama több tízmilliárd év lehet.
 
-
+![[Pasted image 20241219221358.png]]
 ### Fekete törpe (elméleti állapot)
 
 - A fehér törpe hőtartalékai teljesen kimerülnek.
 - A csillag hideg és sötét objektummá válik.
 - *A világegyetem fiatal volta miatt jelenleg nincsenek fekete törpék*.
+## Nagy tömegű csillagok életútja
 
-#### 7. **Példák és érdekességek**
+### Bevezetés a nagy tömegű csillagok fejlődésébe
 
-- **Szíriusz B**:
-    - Az első felfedezett fehér törpe.
-    - Tömege a Napéval megegyező, de sugara csak a Föld kétszerese.
-- Kis tömegű csillagok stabilitása és hosszú élettartama különlegessé teszi őket.
+- A nagy tömegű csillagok (*>8 naptömeg*) életútja lényegesen eltér a kisebb tömegű csillagokétól.
+- A gravitációs erők miatt rendkívül forró magjukban a **hidrogénégetés gyorsabb**, *csupán néhány millió évig tart.*
 
----
+### A hidrogén és a hélium égése
 
-#### 8. **Összegzés**
+- Hidrogénégés után a mag gravitációs összeomlása következik.
+- A mag hőmérséklete elérheti a 100 millió K-t, megindítva a **hélium magfúzióját**.
+- A hélium fúziója nehezebb elemek (C, O, Ne, Mg, Si, Fe) kialakulásához vezet.
 
-- A kis tömegű csillagok életútja:
-    - Barna törpe → Vörös törpe → Vörös óriás → Fehér törpe → (Fekete törpe).
-- Jelentőségük:
-    - Fontos szerepet játszanak a csillagközi anyag gazdagításában.
-    - Stabil, hosszú élettartamuk miatt a galaxisok "háttércsillagai".
-![[Pasted image 20241219213201.png]]
+#### 3. **Vörös szuperóriások
+
+- A nagy tömegű csillagok vörös szuperóriássá válnak.
+- Hagymahéj-szerkezetükben különböző elemek alakulnak ki egymás után.
+- A vasnál nehezebb elemek fúziója már nem energiatermelő, így a csillag fejlődése új szakaszba lép.
+
+#### 4. **Szupernóva-robbanás**
+
+- A vasmag összeomlásakor neutroncsillag vagy fekete lyuk alakul ki, attól függően, hogy a mag tömege meghaladja-e a Chandrasekhar-határt (~1,4 naptömeg).
+- A szupernóva-robbanás során hatalmas energia szabadul fel, és a vasnál nehezebb elemek is kialakulnak.
+
+#### 5. **Neutroncsillagok és fekete lyukak**
+
+**Neutroncsillagok:**
+
+- A Chandrasekhar-határ és 3 naptömeg közötti maradványcsillagok neutroncsillagokká sűrűsödnek össze.
+- Átmérőjük mindössze 10 km lehet, mágneses terük rendkívül erős, és gyorsan forognak.
+
+**Fekete lyukak:**
+
+- Ha a maradványcsillag tömege meghaladja a 3 naptömeget, fekete lyukká válik.
+- A fekete lyukaknak két fő típusa van:
+    - Csillagtömegű fekete lyukak (<10 naptömeg).
+    - Szupermasszív fekete lyukak (>100 000 naptömeg), amelyek galaxisok középpontjában találhatók.
+
+#### 6. **A szupernóva-robbanások kozmikus jelentősége**
+
+- A szupernóvák során létrejött nehéz elemek (pl. arany, ezüst, réz) az univerzumban szétszóródva hozzájárulnak az új csillagok és bolygók keletkezéséhez.
+- Az emberi test és a földi anyagok eredete is visszavezethető ezekhez a kozmikus eseményekhez.
+
+#### 7. **Összegzés**
+
+- A nagy tömegű csillagok rövid, de látványos életútja az univerzum fejlődésének kulcsfontosságú része.
+- Hozzájárulnak a nehéz elemek kialakulásához és az univerzum szerkezetének gazdagításához.

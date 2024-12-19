@@ -94,16 +94,74 @@
 - **Hidrogén-égetés**:  
   - A hidrogén rövidebb idő alatt alakul át **héliummá**.  
   - **Élettartam**: Csupán **néhány millió év** → gyorsan elégetik üzemanyagukat.  
+## Nap és hozzá hasonlócsillagok
 
----
+### 1. A Nap általános jellemzői
 
-## 4. Összegzés
+- **Tömeg**: A Naphoz hasonló csillagok tömege kisebb, mint 1,4 naptömeg.
+- **Hőmérséklet a magban**: ~15 millió K.
+- **Hidrogénfúzió**:
+    - Gravitációs összehúzódás hatására indul be.
+    - Minden másodpercben 600 millió tonna hidrogén alakul héliummá.
 
-- A csillagok keletkezése szorosan összefügg a **perdületmegmaradás törvényével**.  
-- A csillagok hosszú ideig fennálló egyensúlyi állapotát a **gravitáció** és a belső nyomások közötti kölcsönhatás biztosítja.  
-- A csillagok tömege határozza meg élettartamukat:  
-  - **Kisebb csillagok** stabilabbak és hosszabb életűek.  
-  - **Szuperóriások** rövid életűek, de nagy energiát szabadítanak fel.
+#### 2. **A Nap energiatermelése**
 
+- **Magreakciók**:
+    - A magban gamma-sugárzás formájában szabadul fel az energia.
+- **Energia átvitele a felszínre**:
+    - **Sugárzási zóna**: Az energia fotonok formájában terjed.
+    - **Áramlási zóna**: Anyagáramlással továbbítja az energiát.
 
+#### 3. **A Nap szerkezeti felépítése**
+
+- **Mag (~200 000 km)**:
+    - Legforróbb rész (~15 millió K).
+- **Sugárzási zóna (~300 000 km)**:
+    - A fotonok zegzugos mozgással haladnak kifelé.
+    - Hőmérséklet csökken.
+- **Áramlási zóna (~200 000 km)**:
+    - Anyagáramlás révén juttatja a hőt a felszínig.
+- **Fotoszféra (~500 km)**:
+    - A Nap "látható" felszíne.
+    - Átlaghőmérséklet: ~6000 K.
+- **Kromoszféra (~1500 km)**:
+    - Ritkább, alacsonyabb sűrűség.
+    - Jellemző jelenségek: napkitörések (protuberanciák).
+- **Korona**:
+    - Rendkívül ritka, de hőmérséklete meghaladja az 1 millió K-t.
+    - Innen indul a napszél.
+
+#### 4. **A Nap külső rétegei és jelenségei**
+
+- **Fotoszféra**:
+    - Vastagsága: ~400 km.
+    - Napfoltok figyelhetők meg, amelyek alacsonyabb hőmérsékletűek.
+- **Kromoszféra**:
+    - Átmenet a fotoszféra és a korona között.
+    - Napkitörések itt figyelhetők meg.
+- **Korona**:
+    - Sűrűsége rendkívül alacsony (~10⁻¹⁵ g/cm³).
+    - A hőmérséklet itt újra millió kelvin fölé emelkedik.
+    - Forrása a napszélnek.
+
+#### 5. **A Nap energiaterjedésének folyamatai**
+
+- **Sugárzási zóna**:
+    - Az atomok elnyelik és újra kibocsátják a fotonokat.
+    - Energiavesztés, hőmérséklet-csökkenés.
+- **Áramlási zóna**:
+    - Fel-le irányuló anyagáramlás.
+    - Hőenergia továbbítása a fotoszféráig.
+
+#### 6. **A Nap megfigyelhető jelenségei**
+
+- **Napfoltok**: Alacsonyabb hőmérsékletű, sötétebb területek a fotoszférában.
+- **Napkitörések (protuberanciák)**: Hatalmas energiafelszabadulással járó jelenségek a kromoszférában.
+- **Napszél**: Részecskék áramlása a koronából.
+
+#### 7. **Összegzés**
+
+- A Nap szerkezeti felépítése és működése komplex folyamatok eredménye.
+- Az energiatermelés és továbbítás mechanizmusai biztosítják a Nap stabil fény- és hőmérséklet-kibocsátását.
+- Megfigyelhető jelenségei fontos információkat nyújtanak a csillagok működéséről és a Naprendszer dinamikájáról.
 

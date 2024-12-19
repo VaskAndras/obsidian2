@@ -226,39 +226,34 @@
 
 - Hidrogénégés után a mag gravitációs összeomlása következik.
 - A mag hőmérséklete elérheti a 100 millió K-t, megindítva a **hélium magfúzióját**.
-- A hélium fúziója nehezebb elemek (C, O, Ne, Mg, Si, Fe) kialakulásához vezet.
+- A hélium fúziója nehezebb elemek (*C, O, Ne, Mg, Si, Fe*) kialakulásához vezet.
+![[Pasted image 20241219222124.png]]
+### Vörös szuperóriások
 
-#### 3. **Vörös szuperóriások
-
-- A nagy tömegű csillagok vörös szuperóriássá válnak.
+- **A nagy tömegű csillagok vörös szuperóriássá válnak.**
 - Hagymahéj-szerkezetükben különböző elemek alakulnak ki egymás után.
-- A vasnál nehezebb elemek fúziója már nem energiatermelő, így a csillag fejlődése új szakaszba lép.
+- **A vasnál nehezebb elemek fúziója már nem energiatermelő, így a csillag fejlődése új szakaszba lép.**
+![[Pasted image 20241219222138.png]]
+### Szupernóva-robbanás
 
-#### 4. **Szupernóva-robbanás**
-
-- A vasmag összeomlásakor neutroncsillag vagy fekete lyuk alakul ki, attól függően, hogy a mag tömege meghaladja-e a Chandrasekhar-határt (~1,4 naptömeg).
+- A **vasmag összeomlásakor neutroncsillag vagy fekete lyuk alakul k**i, attól függően, hogy a mag tömege meghaladja-e a **Chandrasekhar-határt (~1,4 naptömeg)**.
 - A szupernóva-robbanás során hatalmas energia szabadul fel, és a vasnál nehezebb elemek is kialakulnak.
 
-#### 5. **Neutroncsillagok és fekete lyukak**
+### Neutroncsillagok és fekete lyukak
 
 **Neutroncsillagok:**
-
-- A Chandrasekhar-határ és 3 naptömeg közötti maradványcsillagok neutroncsillagokká sűrűsödnek össze.
+- A *Chandrasekhar-határ és 3 naptömeg* közötti maradványcsillagok **neutroncsillagokká** sűrűsödnek össze.
 - Átmérőjük mindössze 10 km lehet, mágneses terük rendkívül erős, és gyorsan forognak.
 
 **Fekete lyukak:**
 
-- Ha a maradványcsillag tömege meghaladja a 3 naptömeget, fekete lyukká válik.
+- Ha a maradványcsillag tömege *meghaladja a 3 naptömeget,* fekete lyukká válik.
 - A fekete lyukaknak két fő típusa van:
     - Csillagtömegű fekete lyukak (<10 naptömeg).
     - Szupermasszív fekete lyukak (>100 000 naptömeg), amelyek galaxisok középpontjában találhatók.
 
-#### 6. **A szupernóva-robbanások kozmikus jelentősége**
+### A szupernóva-robbanások kozmikus jelentősége
 
 - A szupernóvák során létrejött nehéz elemek (pl. arany, ezüst, réz) az univerzumban szétszóródva hozzájárulnak az új csillagok és bolygók keletkezéséhez.
 - Az emberi test és a földi anyagok eredete is visszavezethető ezekhez a kozmikus eseményekhez.
-
-#### 7. **Összegzés**
-
-- A nagy tömegű csillagok rövid, de látványos életútja az univerzum fejlődésének kulcsfontosságú része.
-- Hozzájárulnak a nehéz elemek kialakulásához és az univerzum szerkezetének gazdagításához.
+![[Pasted image 20241219222216.png]]

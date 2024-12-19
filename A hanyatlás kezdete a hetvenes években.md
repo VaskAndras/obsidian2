@@ -70,53 +70,156 @@
     - *→ volt maradandó hozadéka*
         - téeszek: melléküzemágakat hoztak létre
         - ipar: munkaidő utáni munkalehetőség
-- **A magánszektor megjelenése („maszekolás”)**
-    - → legális/félig legális/illegális jövedelmek
+## A magánszektor megjelenése („maszekolás”)
+
+→ állami vállalatoknál betöltött állás mellett
+- kisipari szolgáltatás, vendéglátás, háztáji
+
+### Állami-redisztributív gazdaság
+
+→ a magánszektor megjelenése
+
+- relatíve anyagi jólétet eredményezett
     - önkizsákmányoló életmód: egészségügyi következmények
+- __az informális magángazdaság
+    - autószerelés, felújítás stb.
+    - gyakran állami vállalatok eszközeivel
+    - hétvégén v. munkaidő után  
+    - 
+__→ legális/félig legális/illegális jövedelmek__
+- a családok háromnegyedének volt jövedelme így
+- a fogyasztás 1/6-a származott ebből
 
-#### Társadalmi problémák
+## A jövedelmek alakulása
 
-- növekedett az alkoholizmus
-- magas volt az öngyilkosságok száma
-- korrupció („csúszópénz”, „hálapénz”)
+__→ a jövedelmi különbségek mesterséges csökkentése fenntarthatatlan volt__
+- „maszekolás”, túlóra: extra jövedelmek  
+    → növekedtek a jövedelmi különbségek és az önkizsákmányolás
 
----
+### A társadalmi problémák
 
-### A puha diktatúra kedvezményei
+__→ növekedett az alkoholizmus__  
 
-#### Az életszínvonal emelése
+__→ magas volt az öngyilkosságok száma__
 
-- → „gulyáskommunizmus vagy fridzsiderszocializmus”
+→ __csökkent a születések száma__
+- demográfiai csúcspont
+- nőtt a válások száma
+	- nagycsaládok eltűnése  
+
+→ __korrupció__
+- „csúszópénz”, „hálapénz”
+
+## A puha diktatúra kedvezményei
+
+→ __az 1960-as évektől nagyobb szabadság: a „kádári alku”__
+- háztáji
+- külföldre utazás (korlátozva)
+- a magánszféra tiszteletben tartása
+- nyugati fogyasztási cikkek, kulturális termékek beengedése
+
+### Az életszínvonal emelése
+
+→ „gulyáskommunizmus vagy fridzsiderszocializmus”
 - elterjedt a fogyasztói szemlélet
+- viszonylagos árubőség
 - mesterségesen alacsony árak
-#### A falvak világa
+- háztartási gépek, járművek, elektronikai eszközök
 
-- → a „Kádár-kockák” világa
-#### A nagyvárosok fejlődése
+## A falvak világa
 
-- → félmillió panel/házgyári technológiával készült lakás épült
+### A lakásállomány
 
----
+→ a világháború utáni állapotok
 
-### Kulturális élet
+- többségében alapozás nélküli vályogházak
+- fa- és széntüzelés
+- hűtés: vermek, kutak  
+    → a „Kádár-kockák” világa
+    - az 1960-as évektől a kockaházak váltották a hagyományos háztípusokat
+    - polgárias lakótérhasználat, fürdőszoba
+    - cserépkályha, villany- és gáztűzhely
 
-#### A szólásszabadság hiánya
+### Az urbanizáció
 
-- → tiltott, tűrt, támogatott („három t”)
+→ kb. félmillió panel/házgyári technológiával készült lakás épült
 
-#### Tudományok
+- javult a komfortfokozat/felszereltség
+- állami programok
+- az 1960-as évektől nőtt a magánerős építkezések száma
+
+### A közlekedés változása
+
+→ Volán-buszjáratok hálózata
+
+- a falvak bekapcsolása a közösségi közlekedésbe  
+    → autózás elterjedése
+- új autó: több éves várakozás + előre fizetés
+- 1978: Skoda = 84 ezer ft, átlagbér: 3678 ft  
+    → autópályák építése
+- gyorsabb közlekedés, szállítás
+- turizmus fellendítése (Budapest–Balaton)
+
+### A szociális ellátórendszer változásai
+
+→ bölcsődék, óvodák épültek  
+→ gyermekgondozási segély (gyes, 1967)  
+→ gyermekgondozási díj (gyed, 1985)
+
+## A fogyasztás
+
+→ önkiszolgáló ABC-hálózat
+
+- tartós élelmiszer + háztartási cikk
+- gasztronómiai változások: túlsúly probléma kezdete  
+    → általánossá vált a sör fogyasztása
+- korábban: bor + tömény szeszes italok  
+    → üdítőitalok
+    - Bambi, Márka, Traubisoda
+    - Coca-Cola (gyártás: 1968)
+
+## Az átalakuló divat
+
+→ az 1950-es években korlátozott kínálat + ideológiai elutasítás  
+→ „rehabilitálták” a női divatot 1957-től
+
+- magazinok, változatosabb kínálat
+- rendezett megjelenés elvárás volt (pl. nyakkendő)  
+    → könnyűzenei trendek
+- farmer, pulóver, miniszoknya
+
+## Kulturális élet
+
+### A szólásszabadság hiánya
+
+→ irodalmi művekben, szociográfiákban jelenhetett meg a (bújtatott) bírálat
+
+- a szellemi élet ellenőrzése: Aczél György
+- a „három t”: tiltott, tűrt, támogatott  
+    → öncenzúra, cenzúra
+
+### Tudományok
 
 - MTA központi szerepe
-- Rubik-kocka világsiker lett
+- Nobel-díjasaink külföldön érték el sikereiket
+    - Gábor Dénes, Wigner Jenő, Békésy György
+- Farkas Bertalan: első magyar űrhajós, 1980
+- Rubik-kocka világsiker
 
-#### Sport
+### Sport
 
-- Egyéni szabadidősportok elterjedése
-- Olimpiák: nagyhatalom maradtunk
+→ egyéni szabadidősportok elterjedése  
+→ hazai turizmus (vállalati, szakszervezeti nyaralás)  
+→ versenysportok vonzereje csökkent  
+→ olimpiai nagyhatalom maradtunk
 
-#### Lázadó ifjúság
+## Lázadó ifjúság
 
-- Rock and roll, beatzene térhódítása
-- Újfajta öltözködési stílus: farmer, hosszú haj, trapéznadrág
+→ rock and roll és beatzene térhódítása (60-as évektől)
 
-Ez a vázlat az eredeti tartalmat teljes mértékben megőrizte, strukturált és könnyen áttekinthető formában.
+- zenekarok: Illés, Metro, Omega, Hungária
+- rendszer finom bírálata a dalokban  
+    → új öltözködési stílus: farmer, hosszú haj, kockás ing, trapéznadrág, miniszoknya  
+    → hippimozgalom megjelenése
+- 80-as évek: popkultúra általánosan elfogadottá vált
+    - István, a király rockopera, 1983

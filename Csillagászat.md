@@ -270,63 +270,61 @@
 ### Gravitációs lencsehatás
 
 - A fekete lyuk gravitációja eltéríti a fényt, hasonlóan egy csillaghoz vagy galaxisokhoz, és gravitációs lencseként viselkedik.
-
+![[Pasted image 20241219223530.png]]
 ### c) Akkréciós korong
 
 - Az anyag spirálisan halad a fekete lyuk felé, miközben felhevül (akár 10 millió fokra).
 - Intenzív röntgensugárzást bocsát ki.
 
-##### d) **Szupermasszív fekete lyukak**
+### Szupermasszív fekete lyukak
 
-- A galaxisok középpontjában találhatók, hatalmas tömeggel (pl. Tejútrendszer: 4,3 milliószor a Nap tömege).
+- **A galaxisok középpontjában találhatók, hatalmas tömeggel** (pl. Tejútrendszer: 4,3 milliószor a Nap tömege).
 - Csillagközi anyagot és plazmát vonzanak be.
 
 ---
 
-#### **2. Pulzárok**
+## Pulzárok
 
-##### a) **Felfedezésük története**
+### Felfedezésük története
 
 - Jocelyn Burnell és Antony Hewish fedeztek fel először rádiójelet (1,33 másodperc ismétlődéssel).
 - A jel gyorsan forgó neutroncsillagtól származott.
 
-##### b) **Működésük jellemzői**
+### Működésük jellemzői
 
 - **Gyors forgás**: Nagy energiájú elektromosan töltött részecskéket bocsátanak ki mágneses tengelyük mentén.
 - **Világítótorony-effektus**: A rádióhullámok nyalábja a forgás miatt időnként eléri a Földet.
 
-##### c) **Kapcsolat a szupernóvákkal**
+### Kapcsolat a szupernóvákkal
 
 - Bizonyítják a szupernóva-robbanás után keletkezett neutroncsillagok létezését.
 
----
+## Sugárzás
 
-#### **3. Sugárzás**
-
-##### a) **Fekete lyukak sugárzása**
+### Fekete lyukak sugárzása
 
 - A fekete lyuk közvetlenül nem sugároz, de az akkréciós korongból származó röntgensugarak figyelhetők meg.
 - **Hawking-sugárzás**: Elméleti kvantumjelenség, amely során részecskék sugárzódhatnak ki az eseményhorizont környezetéből.
 
-##### b) **Pulzárok rádió- és részecskesugárzása**
+### Pulzárok rádió- és részecskesugárzása
 
 - **Rádióhullámok**: A mágneses tengely mentén kibocsátott nagy energiájú hullámok.
 - **Pulzárszél**: Elektromosan töltött részecskék áramlása.
 
 ---
 
-#### **4. Kidolgozott feladat: Schwarzschild-sugár**
+## Kidolgozott feladat: Schwarzschild-sugár
 
-##### a) **Feladat megfogalmazása**
+### Feladat megfogalmazása
 
-Határozzuk meg egy adott MM tömegű fekete lyuk Schwarzschild-sugarát!
+Határozzuk meg egy adott M tömegű fekete lyuk Schwarzschild-sugarát!
 
 ##### b) **Egyenlet levezetése**
 
-1. **Gravitációs potenciális energia**: Eg=−G⋅m⋅MrE_g = -\frac{G \cdot m \cdot M}{r}
-2. **Mozgási energia**: Ek=12m⋅v2E_k = \frac{1}{2} m \cdot v^2
-3. **Egyensúlyi állapot**: 12m⋅v2=G⋅m⋅Mr\frac{1}{2} m \cdot v^2 = \frac{G \cdot m \cdot M}{r}
-4. **Szökési sebesség**: v=cv = c, ahol cc a fénysebesség: rs=2G⋅Mc2r_s = \frac{2G \cdot M}{c^2}
+1. **Gravitációs potenciális energia**: $$E_g = -\frac{G \cdot m \cdot M}{r}$$
+2. **Mozgási energia**: $$E_k = \frac{1}{2} m \cdot v^2$$
+3. **Egyensúlyi állapot**: $$\frac{1}{2} m \cdot v^2 = \frac{G \cdot m \cdot M}{r}$$
+4. **Szökési sebesség**: v = c, ahol cc a fénysebesség: rs=2G⋅Mc2r_s = \frac{2G \cdot M}{c^2}
 
 ##### c) **Példaértékek**
 

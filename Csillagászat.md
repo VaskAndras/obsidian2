@@ -174,7 +174,7 @@
     - Sugárzásuk az infravörös tartományban történik.
     - Nem tekinthetők "teljes értékű" csillagoknak.
 
-#### 3. **Vörös törpecsillagok**
+### Vörös törpecsillagok
 
 - **Keletkezés**:
     - A protocsillag tömege 0,08–0,5 naptömeg között van.
@@ -183,9 +183,7 @@
     - Gyenge fényük miatt nehezen észlelhetők.
     - Élettartamuk évmilliárdokig tart.
 
----
-
-#### 4. **Vörös óriás fázis**
+### Vörös óriás fázis
 
 - **Keletkezés**:
     - 0,5–8 naptömeg közötti csillagok fejlődnek vörös óriássá, amikor a magban lévő hidrogén elfogy.

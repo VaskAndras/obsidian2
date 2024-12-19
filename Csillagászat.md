@@ -238,7 +238,7 @@
 
 - A **vasmag összeomlásakor neutroncsillag vagy fekete lyuk alakul k**i, attól függően, hogy a mag tömege meghaladja-e a **Chandrasekhar-határt (~1,4 naptömeg)**.
 - A szupernóva-robbanás során hatalmas energia szabadul fel, és a vasnál nehezebb elemek is kialakulnak.
-
+![[Pasted image 20241219222441.png]]
 ### Neutroncsillagok és fekete lyukak
 
 **Neutroncsillagok:**

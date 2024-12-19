@@ -324,17 +324,12 @@ Határozzuk meg egy adott M tömegű fekete lyuk Schwarzschild-sugarát!
 1. **Gravitációs potenciális energia**: $$E_g = -\frac{G \cdot m \cdot M}{r}$$
 2. **Mozgási energia**: $$E_k = \frac{1}{2} m \cdot v^2$$
 3. **Egyensúlyi állapot**: $$\frac{1}{2} m \cdot v^2 = \frac{G \cdot m \cdot M}{r}$$
-4. **Szökési sebesség**: v = c, ahol cc a fénysebesség: rs=2G⋅Mc2r_s = \frac{2G \cdot M}{c^2}
+4. **Szökési sebesség**: v = c, ahol c a fénysebesség: $$r_s = \frac{2G \cdot M}{c^2}$$
+### Példaértékek
 
-##### c) **Példaértékek**
+- Nap tömegével rendelkező fekete lyuk Schwarzschild-sugara: 3 km.
+- Háromszor akkora tömeg esetén: 9 km
 
-- Nap tömegével rendelkező fekete lyuk Schwarzschild-sugara: 3 km3 \, \text{km}.
-- Háromszor akkora tömeg esetén: 9 km9 \, \text{km}.
+### Következtetések
 
-##### d) **Következtetések**
-
-A Schwarzschild-sugár az égitest tömegétől függ, és meghatározza a fekete lyuk eseményhorizontját.
-
----
-
-Ez a vázlat lényegkiemeléssel mutatja be a fekete lyukak, pulzárok, sugárzás, és a Schwarzschild-sugár számításának összefüggéseit. Ha szükséges, részletezhetjük az egyes pontokat vagy készíthetünk vizuális kiegészítéseket!
+**A Schwarzschild-sugár az égitest tömegétől függ, és meghatározza a fekete lyuk eseményhorizontját.**

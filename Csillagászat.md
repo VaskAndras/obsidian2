@@ -333,3 +333,78 @@ Határozzuk meg egy adott M tömegű fekete lyuk Schwarzschild-sugarát!
 ### Következtetések
 
 **A Schwarzschild-sugár az égitest tömegétől függ, és meghatározza a fekete lyuk eseményhorizontját.**
+
+### Vázlat: Csillagok állapothatározói
+
+---
+
+#### **1. Csillagok tömege**
+
+- A csillagok **legfontosabb állapothatározója**.
+- Meghatározza:
+    - **Születésüket** (csillagközi gázfelhő összehúzódása).
+    - **Fejlődésüket** (életútjuk a tömegtől függ).
+    - **Halálukat** (pl. szupernóva, fekete lyuk, neutroncsillag).
+
+---
+
+#### **2. Látszólagos fényesség**
+
+**a) Meghatározás**
+
+- Látszólagos fényesség: **Az égitest fényessége, ahogyan azt a Földről látjuk**.
+- **Mértékegysége:** Magnitúdó (m).
+
+**b) Hipparkhosz skála**
+
+- Az égbolt csillagai 6 osztályba sorolva:
+    - **1m:** Legfényesebb csillagok.
+    - **6m:** Éppen látható csillagok.
+
+**c) Logaritmikus magnitúdóskála**
+
+- **1 magnitúdókülönbség**: 2,512-szeres fényességkülönbség.
+- **5 magnitúdókülönbség**: 100-szoros intenzitásarány.
+
+**d) Példák**
+
+- A Nap látszólagos fényessége: **–26,7m**.
+- Vega csillag: **0m**.
+- Szíriusz: **–1m**.
+
+**Kidolgozott feladatok:**
+
+- **A –1m fényességű csillag** 2,512-szer fényesebb, mint a **0m fényességű Vega csillag**.
+- **A 4m fényességű csillag** 15,815-szer halványabb, mint az **1m fényességű csillag**.
+
+---
+
+#### **3. Abszolút fényesség**
+
+**a) Meghatározás**
+
+- Az égitest **valódi fényessége** egyezményes távolságról: **10 parszek** (32,6 fényév).
+- Jelölés: Magnitúdó **M**.
+
+**b) Példák**
+
+- Nap abszolút fényessége: **4,84M**.
+- Szíriusz abszolút fényessége: **1,41M**.
+
+**c) Összehasonlítás**
+
+- A Nap 3,43-szor halványabb, mint a Szíriusz, de látszólag sokkal fényesebb a **Földtől való kis távolság miatt**.
+
+---
+
+#### **4. Láthatóság és technológia**
+
+- Szabad szemmel látható csillagok: **6m-ig**.
+- Nagy teleszkópok határa: **30m**.
+- Hubble űrtávcsővel észlelhető leggyengébb égitest: **~30m**.
+
+---
+
+#### **5. Kapcsolat a csillagsugárral**
+
+- **Látszólagos fényesség** + távolság → következtetés a **csillag sugarára**.

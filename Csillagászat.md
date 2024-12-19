@@ -96,15 +96,14 @@
   - **Élettartam**: Csupán **néhány millió év** → gyorsan elégetik üzemanyagukat.  
 ## Nap és hozzá hasonlócsillagok
 
-### 1. A Nap általános jellemzői
-
+### Általános jellemzőik
 - **Tömeg**: A Naphoz hasonló csillagok tömege kisebb, mint 1,4 naptömeg.
 - **Hőmérséklet a magban**: ~15 millió K.
 - **Hidrogénfúzió**:
     - Gravitációs összehúzódás hatására indul be.
     - Minden másodpercben 600 millió tonna hidrogén alakul héliummá.
-
-#### 2. **A Nap energiatermelése**
+![[Screenshot_20241219_212447.png]]
+### Energiatermelése
 
 - **Magreakciók**:
     - A magban gamma-sugárzás formájában szabadul fel az energia.
@@ -113,7 +112,7 @@
     - **Áramlási zóna**: Anyagáramlással továbbítja az energiát.
 
 #### 3. **A Nap szerkezeti felépítése**
-
+![[Screenshot_20241219_212538.png]]
 - **Mag (~200 000 km)**:
     - Legforróbb rész (~15 millió K).
 - **Sugárzási zóna (~300 000 km)**:

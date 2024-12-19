@@ -197,27 +197,24 @@
 
 ---
 
-#### 5. **Planetáris köd és fehér törpe**
+### Planetáris köd és fehér törpe
 
 - **Planetáris köd**:
     - A vörös óriás külső rétegei eltávolodnak.
     - Az anyag csillagszél formájában távozik, vagy planetáris ködöt alkot.
 - **Fehér törpe**:
-    - A csillag maradványa <1,4 naptömeg (Chandrasekhar-határ).
+    - A csillag maradványa <1,4 naptömeg (*Chandrasekhar-határ*).
     - A gravitáció hatására összehúzódik, elektrondegenerációs nyomás állítja meg a további zsugorodást.
     - Föld méretű, de rendkívül sűrű objektum.
     - Hőmérséklete: 30 000–100 000 K.
     - Energiáját lassan sugározza ki, élettartama több tízmilliárd év lehet.
 
----
 
-#### 6. **Fekete törpe (elméleti állapot)**
+### Fekete törpe (elméleti állapot)
 
 - A fehér törpe hőtartalékai teljesen kimerülnek.
 - A csillag hideg és sötét objektummá válik.
-- A világegyetem fiatal volta miatt jelenleg nincsenek fekete törpék.
-
----
+- *A világegyetem fiatal volta miatt jelenleg nincsenek fekete törpék*.
 
 #### 7. **Példák és érdekességek**
 

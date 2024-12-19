@@ -111,7 +111,7 @@
     - **Sugárzási zóna**: Az energia fotonok formájában terjed.
     - **Áramlási zóna**: Anyagáramlással továbbítja az energiát.
 
-#### 3. **A Nap szerkezeti felépítése**
+### Szerkezeti felépítése
 ![[Screenshot_20241219_212538.png]]
 - **Mag (~200 000 km)**:
     - Legforróbb rész (~15 millió K).
@@ -125,12 +125,12 @@
     - Átlaghőmérséklet: ~6000 K.
 - **Kromoszféra (~1500 km)**:
     - Ritkább, alacsonyabb sűrűség.
-    - Jellemző jelenségek: napkitörések (protuberanciák).
+    - Jellemző jelenségek: napkitörések (**protuberanciák**).
 - **Korona**:
     - Rendkívül ritka, de hőmérséklete meghaladja az 1 millió K-t.
     - Innen indul a napszél.
 
-#### 4. **A Nap külső rétegei és jelenségei**
+### A Nap külső rétegei és jelenségei
 
 - **Fotoszféra**:
     - Vastagsága: ~400 km.
@@ -143,7 +143,7 @@
     - A hőmérséklet itt újra millió kelvin fölé emelkedik.
     - Forrása a napszélnek.
 
-#### 5. **A Nap energiaterjedésének folyamatai**
+### A Nap energiaterjedésének folyamatai
 
 - **Sugárzási zóna**:
     - Az atomok elnyelik és újra kibocsátják a fotonokat.
@@ -152,16 +152,89 @@
     - Fel-le irányuló anyagáramlás.
     - Hőenergia továbbítása a fotoszféráig.
 
-#### 6. **A Nap megfigyelhető jelenségei**
+### A Nap megfigyelhető jelenségei
 
 - **Napfoltok**: Alacsonyabb hőmérsékletű, sötétebb területek a fotoszférában.
 - **Napkitörések (protuberanciák)**: Hatalmas energiafelszabadulással járó jelenségek a kromoszférában.
 - **Napszél**: Részecskék áramlása a koronából.
 
-#### 7. **Összegzés**
 
-- A Nap szerkezeti felépítése és működése komplex folyamatok eredménye.
-- Az energiatermelés és továbbítás mechanizmusai biztosítják a Nap stabil fény- és hőmérséklet-kibocsátását.
-- Megfigyelhető jelenségei fontos információkat nyújtanak a csillagok működéséről és a Naprendszer dinamikájáról.
+## Kis tömegű csillagok életútja
 
+### A csillagok fejlődése
+
+- A csillagok életútját kezdeti tömegük határozza meg.
+- Kis tömegű csillagok (<8 naptömeg) életútja eltér a nagyobb csillagokétól.
+
+### Barna törpecsillagok
+
+- **Keletkezés**:
+    - Ha a protocsillag tömege nem éri el a naptömeg 8%-át, a magfúzió nem indul be.
+- **Tulajdonságok**:
+    - Sugárzásuk az infravörös tartományban történik.
+    - Nem tekinthetők "teljes értékű" csillagoknak.
+
+#### 3. **Vörös törpecsillagok**
+
+- **Keletkezés**:
+    - A protocsillag tömege 0,08–0,5 naptömeg között van.
+- **Tulajdonságok**:
+    - Lassú hidrogénfúzió, alacsony felszíni hőmérséklet (~3000 K).
+    - Gyenge fényük miatt nehezen észlelhetők.
+    - Élettartamuk évmilliárdokig tart.
+
+---
+
+#### 4. **Vörös óriás fázis**
+
+- **Keletkezés**:
+    - 0,5–8 naptömeg közötti csillagok fejlődnek vörös óriássá, amikor a magban lévő hidrogén elfogy.
+- **Héjégés**:
+    - A gravitáció hatására a mag összehúzódik és felmelegszik.
+    - A héliummag körüli héjban újraindul a hidrogénfúzió.
+- **Tulajdonságok**:
+    - Méretük a Napénak 10–100-szorosára tágul.
+    - Külső rétegek hőmérséklete 2000–4000 K-re csökken.
+    - A Nap is eléri ezt a fázist, elnyelve a Merkúrt, Vénuszt és Földet.
+
+---
+
+#### 5. **Planetáris köd és fehér törpe**
+
+- **Planetáris köd**:
+    - A vörös óriás külső rétegei eltávolodnak.
+    - Az anyag csillagszél formájában távozik, vagy planetáris ködöt alkot.
+- **Fehér törpe**:
+    - A csillag maradványa <1,4 naptömeg (Chandrasekhar-határ).
+    - A gravitáció hatására összehúzódik, elektrondegenerációs nyomás állítja meg a további zsugorodást.
+    - Föld méretű, de rendkívül sűrű objektum.
+    - Hőmérséklete: 30 000–100 000 K.
+    - Energiáját lassan sugározza ki, élettartama több tízmilliárd év lehet.
+
+---
+
+#### 6. **Fekete törpe (elméleti állapot)**
+
+- A fehér törpe hőtartalékai teljesen kimerülnek.
+- A csillag hideg és sötét objektummá válik.
+- A világegyetem fiatal volta miatt jelenleg nincsenek fekete törpék.
+
+---
+
+#### 7. **Példák és érdekességek**
+
+- **Szíriusz B**:
+    - Az első felfedezett fehér törpe.
+    - Tömege a Napéval megegyező, de sugara csak a Föld kétszerese.
+- Kis tömegű csillagok stabilitása és hosszú élettartama különlegessé teszi őket.
+
+---
+
+#### 8. **Összegzés**
+
+- A kis tömegű csillagok életútja:
+    - Barna törpe → Vörös törpe → Vörös óriás → Fehér törpe → (Fekete törpe).
+- Jelentőségük:
+    - Fontos szerepet játszanak a csillagközi anyag gazdagításában.
+    - Stabil, hosszú élettartamuk miatt a galaxisok "háttércsillagai".
 ![[Pasted image 20241219213201.png]]

@@ -353,7 +353,7 @@ Határozzuk meg egy adott M tömegű fekete lyuk Schwarzschild-sugarát!
 - Az égbolt csillagai 6 osztályba sorolva:
     - **1m:** Legfényesebb csillagok.
     - **6m:** Éppen látható csillagok.
-
+    - 
 #### Logaritmikus magnitúdóskála
 - **1 magnitúdókülönbség**: 2,512-szeres fényességkülönbség.
 - **5 magnitúdókülönbség**: 100-szoros intenzitásarány.
@@ -364,9 +364,7 @@ Határozzuk meg egy adott M tömegű fekete lyuk Schwarzschild-sugarát!
 - Szíriusz: **–1m**.
 
 
-### Abszolút fényesség**
-
-**a) Meghatározás**
+### Abszolút fényesség
 
 - Az égitest **valódi fényessége** egyezményes távolságról: **10 parszek** (32,6 fényév).
 - Jelölés: Magnitúdó **M**.

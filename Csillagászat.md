@@ -373,17 +373,10 @@ be (fényrendbe) sorolta. Beosztását a mai csillagászok is
 
 - Az égitest **valódi fényessége** egyezményes távolságról: **10 parszek** (32,6 fényév).
 - Jelölés: Magnitúdó **M**.
-
-**b) Példák**
-P
+#### Példák
 - Nap abszolút fényessége: **4,84M**.
 - Szíriusz abszolút fényessége: **1,41M**.
-
-**c) Összehasonlítás**
-
 - A Nap 3,43-szor halványabb, mint a Szíriusz, de látszólag sokkal fényesebb a **Földtől való kis távolság miatt**.
-
----
 
 #### **4. Láthatóság és technológia**
 

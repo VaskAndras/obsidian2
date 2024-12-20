@@ -353,24 +353,29 @@ Határozzuk meg egy adott M tömegű fekete lyuk Schwarzschild-sugarát!
 - Az égbolt csillagai 6 osztályba sorolva:
     - **1m:** Legfényesebb csillagok.
     - **6m:** Éppen látható csillagok.
-    - 
+*Hipparkhosz* (i. e. 180?–125), az égbolt csillagait hat fé-
+nyességi osztályba sorolta. Katalógusában a legfényesebb
+csillagokat az 1., a még éppen láthatókat a 6. nagyságrend-
+be (fényrendbe) sorolta. Beosztását a mai csillagászok is
+átvették, a skálát mindkét irányban kiterjesztették.
 #### Logaritmikus magnitúdóskála
 - **1 magnitúdókülönbség**: 2,512-szeres fényességkülönbség.
 - **5 magnitúdókülönbség**: 100-szoros intenzitásarány.
-
+![[Pasted image 20241220092647.png]]
 #### Példák
 - A Nap látszólagos fényessége: **–26,7m**.
 - Vega csillag: **0m**.
 - Szíriusz: **–1m**.
+**Az 1. magnitúdójú csillag (1m) fényessége 100-szor nagyobb, mint a 6. nagyságrendű csillagé.**
 
-
+- Más szavakkal, az 5 nagyságrendű magnitúdókülönbség 100-szoros aránynak felel meg. Ez azt jelenti, hogy **1m különbség $100^{1/5}$ ~ 2,512-szeres intenzitásaránynak felel meg**.
 ### Abszolút fényesség
 
 - Az égitest **valódi fényessége** egyezményes távolságról: **10 parszek** (32,6 fényév).
 - Jelölés: Magnitúdó **M**.
 
 **b) Példák**
-
+P
 - Nap abszolút fényessége: **4,84M**.
 - Szíriusz abszolút fényessége: **1,41M**.
 

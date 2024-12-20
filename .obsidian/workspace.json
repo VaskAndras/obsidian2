@@ -49,7 +49,8 @@
               "title": "Versek"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -224,10 +226,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "548f525d42773766",
+  "active": "b2f853688d0115f7",
   "lastOpenFiles": [
-    "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
     "4-tananyag/Matek/23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md",
+    "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
     "4-tananyag/Matek/Teljes valószínüség tétele.md",
     "4-tananyag/Irodalom/kötelezők/Versek.md",
     "4-tananyag/Matek/8. tétel statisztika.md",

@@ -362,6 +362,10 @@ be (fényrendbe) sorolta. Beosztását a mai csillagászok is
 - **1 magnitúdókülönbség**: 2,512-szeres fényességkülönbség.
 - **5 magnitúdókülönbség**: 100-szoros intenzitásarány.
 ![[Pasted image 20241220092647.png]]
+Fő jellemzője, hogy az **1m fényességű csillagok 2,512-szer
+fényesebbek a 2m csillagoknál**. Az 1m-nál 2,512-szer fénye-
+sebb égitesteket 0m-val, a **0m-nál 2,512-szer fényesebbeket
+–1m-val jelöljük**.
 #### Példák
 - A Nap látszólagos fényessége: **–26,7m**.
 - Vega csillag: **0m**.
@@ -377,15 +381,83 @@ be (fényrendbe) sorolta. Beosztását a mai csillagászok is
 - Nap abszolút fényessége: **4,84M**.
 - Szíriusz abszolút fényessége: **1,41M**.
 - A Nap 3,43-szor halványabb, mint a Szíriusz, de látszólag sokkal fényesebb a **Földtől való kis távolság miatt**.
-
-#### **4. Láthatóság és technológia**
-
+#### Láthatóság
 - Szabad szemmel látható csillagok: **6m-ig**.
 - Nagy teleszkópok határa: **30m**.
-- Hubble űrtávcsővel észlelhető leggyengébb égitest: **~30m**.
+- Hubble űrtávcsővel észlelhető leggyengébb égitest: **~30m**
+  
+- **Látszólagos fényesség** + távolság → következtetés a **csillag sugarára**
+ #A fekete test sugárzása**
 
 ---
 
-#### **5. Kapcsolat a csillagsugárral**
+### **1. A fekete test sugárzásának alapjai**
 
-- **Látszólagos fényesség** + távolság → következtetés a **csillag sugarára**.
+- **Hevített fémek viselkedése:**
+    
+    - Kis hőmérséklet: tompavörös fény.
+    - Hőmérséklet emelkedése: vöröses-narancssárga fény.
+    - Magas hőmérséklet: fehér izzás.
+- **Összefüggés:**  
+    A testek hőmérséklete és az általuk kibocsátott fény spektruma között kapcsolat van.
+    
+- **Fekete test definíciója:**
+    
+    - Olyan ideális test, amely **minden hullámhosszon** elnyeli az elektromágneses sugárzást.
+    - Hőmérsékletének megfelelő hullámhosszeloszlású sugárzást bocsát ki termikus egyensúlyban.
+    - Példa: csillagok fekete testként modellezhetők.
+
+---
+
+### **2. A fekete test sugárzása és a hullámhossz-intenzitás kapcsolata**
+
+- **Hullámhosszeloszlás:**
+    - Egy adott hőmérsékleten a fekete test által kibocsátott sugárzás intenzitása a hullámhossz függvényében változik.
+    - **Példa:** Nap (5500 K) fekete testként:
+        - Kibocsátott sugárzás grafikonja az elektromágneses spektrum intenzitásának hullámhossztól való függését mutatja.
+
+---
+
+### **3. Csillagok színe és hőmérséklete**
+
+- **Szín és hőmérséklet kapcsolata:**
+    - **Forró csillagok:** rövidebb hullámhosszon (nagyobb frekvencián) sugároznak → kékesfehér szín.
+    - **Átlagos hőmérsékletű csillagok:** közepes hullámhosszon sugároznak → sárga szín.
+    - **Hideg csillagok:** hosszabb hullámhosszon sugároznak → vörös szín.
+- **Példák:**
+    - **Kékesfehér csillagok:** felszíni hőmérsékletük ~30 000 K (pl. Szíriusz: 25 000 K).
+    - **Sárga csillagok:** felszíni hőmérsékletük ~5500 K (pl. Nap: 6000 K).
+    - **Vörös óriások:** felszíni hőmérsékletük ~3000 K (pl. Betelgeuze).
+
+---
+
+### **4. Grafikon – Intenzitás és hullámhossz kapcsolata**
+
+- **Általános trend:**
+    - A kibocsátott sugárzás intenzitása és a legintenzívebb hullámhossztartomány a hőmérséklettől függ.
+    - **Példa:**
+        - Alacsonyabb hőmérséklet → hosszabb hullámhosszon maximális sugárzás.
+        - Magasabb hőmérséklet → rövidebb hullámhosszon maximális sugárzás.
+- **Grafikon értelmezése:**
+    - A Nap (5500 K) és más hőmérsékletek szerinti intenzitás-hullámhossz görbék.
+
+---
+
+### **5. Kulcsösszefüggés – Wien törvénye**
+
+- **Wien-féle eltolódási törvény:** λmax∝1T\lambda_{\text{max}} \propto \frac{1}{T}
+    - A hőmérséklet növekedésével a kibocsátott sugárzás csúcshullámhossza csökken.
+
+---
+
+### **6. Ellenőrző kérdések (tanulók számára):**
+
+1. Miért használják a fekete test modellt a csillagok leírására?
+2. Hogyan változik egy fekete test sugárzásának spektruma a hőmérséklet emelkedésével?
+3. Mi a kapcsolat a csillag színe és felszíni hőmérséklete között?
+4. Mit mutat meg a Wien-féle eltolódási törvény?
+
+---
+
+**Használat:**  
+Ez a vázlat kiemeli a fekete test sugárzásának kulcsfogalmait, és logikus sorrendben mutatja be a témát, miközben támogatja a tanulók megértését a grafikonok és törvények értelmezésében.

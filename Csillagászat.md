@@ -334,11 +334,9 @@ Határozzuk meg egy adott M tömegű fekete lyuk Schwarzschild-sugarát!
 
 **A Schwarzschild-sugár az égitest tömegétől függ, és meghatározza a fekete lyuk eseményhorizontját.**
 
-### Vázlat: Csillagok állapothatározói
+## Csillagok állapothatározói
 
----
-
-#### **1. Csillagok tömege**
+### Csillagok tömege
 
 - A csillagok **legfontosabb állapothatározója**.
 - Meghatározza:
@@ -346,40 +344,27 @@ Határozzuk meg egy adott M tömegű fekete lyuk Schwarzschild-sugarát!
     - **Fejlődésüket** (életútjuk a tömegtől függ).
     - **Halálukat** (pl. szupernóva, fekete lyuk, neutroncsillag).
 
----
-
-#### **2. Látszólagos fényesség**
-
-**a) Meghatározás**
+### Látszólagos fényesség
 
 - Látszólagos fényesség: **Az égitest fényessége, ahogyan azt a Földről látjuk**.
 - **Mértékegysége:** Magnitúdó (m).
 
-**b) Hipparkhosz skála**
-
+#### Hipparkhosz skála
 - Az égbolt csillagai 6 osztályba sorolva:
     - **1m:** Legfényesebb csillagok.
     - **6m:** Éppen látható csillagok.
 
-**c) Logaritmikus magnitúdóskála**
-
+#### Logaritmikus magnitúdóskála
 - **1 magnitúdókülönbség**: 2,512-szeres fényességkülönbség.
 - **5 magnitúdókülönbség**: 100-szoros intenzitásarány.
 
-**d) Példák**
-
+#### Példák
 - A Nap látszólagos fényessége: **–26,7m**.
 - Vega csillag: **0m**.
 - Szíriusz: **–1m**.
 
-**Kidolgozott feladatok:**
 
-- **A –1m fényességű csillag** 2,512-szer fényesebb, mint a **0m fényességű Vega csillag**.
-- **A 4m fényességű csillag** 15,815-szer halványabb, mint az **1m fényességű csillag**.
-
----
-
-#### **3. Abszolút fényesség**
+### Abszolút fényesség**
 
 **a) Meghatározás**
 

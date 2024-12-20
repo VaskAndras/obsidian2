@@ -387,25 +387,22 @@ sebb égitesteket 0m-val, a **0m-nál 2,512-szer fényesebbeket
 - Hubble űrtávcsővel észlelhető leggyengébb égitest: **~30m**
   
 - **Látszólagos fényesség** + távolság → következtetés a **csillag sugarára**
- #A fekete test sugárzása**
+## A fekete test sugárzása
 
----
-
-### **1. A fekete test sugárzásának alapjai**
+### A fekete test sugárzásának alapjai
 
 - **Hevített fémek viselkedése:**
-    
     - Kis hőmérséklet: tompavörös fény.
     - Hőmérséklet emelkedése: vöröses-narancssárga fény.
     - Magas hőmérséklet: fehér izzás.
+      
 - **Összefüggés:**  
     A testek hőmérséklete és az általuk kibocsátott fény spektruma között kapcsolat van.
     
 - **Fekete test definíciója:**
-    
     - Olyan ideális test, amely **minden hullámhosszon** elnyeli az elektromágneses sugárzást.
     - Hőmérsékletének megfelelő hullámhosszeloszlású sugárzást bocsát ki termikus egyensúlyban.
-    - Példa: csillagok fekete testként modellezhetők.
+    - Példa: *csillagok fekete testként modellezhetők*.
 
 ---
 

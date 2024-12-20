@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-tananyag/Matek/Teljes valószínüség tétele.md",
+                "file": "4-tananyag/Matek/23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teljes valószínüség tétele"
+              "title": "23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás"
             }
           },
           {
@@ -39,14 +39,17 @@
             "id": "ca349b4d490b8dd1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4-tananyag/Irodalom/kötelezők/Versek.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Versek"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,12 +224,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ca349b4d490b8dd1",
+  "active": "548f525d42773766",
   "lastOpenFiles": [
-    "4-tananyag/Matek/Teljes valószínüség tétele.md",
-    "4-tananyag/Matek/23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md",
-    "4-tananyag/Matek/8. tétel statisztika.md",
     "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
+    "4-tananyag/Matek/23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md",
+    "4-tananyag/Matek/Teljes valószínüség tétele.md",
+    "4-tananyag/Irodalom/kötelezők/Versek.md",
+    "4-tananyag/Matek/8. tétel statisztika.md",
     "kádár korszak összefoglalás.md",
     "Csillagászat.md",
     "Pasted image 20241219223530.png",
@@ -241,7 +245,6 @@
     "Screenshot_20241219_212447.png",
     "A hanyatlás kezdete a hetvenes években.md",
     "Recording 20241219110042.webm",
-    "4-tananyag/Irodalom/kötelezők/Nov 13-ra.md",
     "3-tags/Váltóáram.md",
     "3-tags/Levelek.md",
     "3-tags/II. világháború.md",

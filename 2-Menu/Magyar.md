@@ -4,4 +4,4 @@ Tantárgyak:
 [[Magyar Gyakorlás]]
 
 Kötelezők:
-[[Nov 13-ra]]
+[[Versek]]

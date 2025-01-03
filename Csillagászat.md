@@ -406,7 +406,7 @@ sebb égitesteket 0m-val, a **0m-nál 2,512-szer fényesebbeket
 
 ---
 
-### **2. A fekete test sugárzása és a hullámhossz-intenzitás kapcsolata**
+### 2. A fekete test sugárzása és a hullámhossz-intenzitás kapcsolata
 
 - **Hullámhosszeloszlás:**
     - Egy adott hőmérsékleten a fekete test által kibocsátott sugárzás intenzitása a hullámhossz függvényében változik.
@@ -415,7 +415,7 @@ sebb égitesteket 0m-val, a **0m-nál 2,512-szer fényesebbeket
 
 ---
 
-### **3. Csillagok színe és hőmérséklete**
+### **3. Csillagok színe és hőmérséklete
 
 - **Szín és hőmérséklet kapcsolata:**
     - **Forró csillagok:** rövidebb hullámhosszon (nagyobb frekvencián) sugároznak → kékesfehér szín.

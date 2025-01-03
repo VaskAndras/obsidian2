@@ -415,7 +415,7 @@ sebb égitesteket 0m-val, a **0m-nál 2,512-szer fényesebbeket
 
 ---
 
-### **3. Csillagok színe és hőmérséklete
+### 3. Csillagok színe és hőmérséklete
 
 - **Szín és hőmérséklet kapcsolata:**
     - **Forró csillagok:** rövidebb hullámhosszon (nagyobb frekvencián) sugároznak → kékesfehér szín.
@@ -428,7 +428,7 @@ sebb égitesteket 0m-val, a **0m-nál 2,512-szer fényesebbeket
 
 ---
 
-### **4. Grafikon – Intenzitás és hullámhossz kapcsolata**
+### 4. Grafikon – Intenzitás és hullámhossz kapcsolata
 
 - **Általános trend:**
     - A kibocsátott sugárzás intenzitása és a legintenzívebb hullámhossztartomány a hőmérséklettől függ.

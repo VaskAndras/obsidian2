@@ -35,7 +35,8 @@
               "title": "Hittanos prezi jegyzet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +212,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e6b0be85402c064",
+  "active": "ec1616327062e86b",
   "lastOpenFiles": [
-    "Hittanos prezi jegyzet.md",
     "hittan prezi.md",
+    "Hittanos prezi jegyzet.md",
     "Csillagászat.md",
     "Pasted image 20250103211611.png",
     "Kádár korszak 2.md",

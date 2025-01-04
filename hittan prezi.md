@@ -344,8 +344,11 @@ Ezek a részletes kiegészítések segítenek abban, hogy az előadás még vil�
   
 
 Remélem, hogy ezek a részletes kiegészítések és az összefoglaló segítenek egy átfogó és alapos előadás összeállításában. Ha bármilyen további kérésed lenne, bátran jelezd!
-
-
+- **Ábrahám:** Az egyik legfontosabb bibliai patriarchák egyike, akit a hit ősatyjának tartanak. Az ő történetei a hűség és az Isten iránti engedelmesség példái. Ábrahámot különösen az jellemezte, hogy kész volt mindent megtenni Isten parancsai szerint, akár a fia, Izsák feláldozását is vállalta volna.
+    
+- **Izsák:** Ábrahám és Sára fia, a hűség és engedelmesség példaképe. Bár az ő életéről kevesebb történet szól, de Izsák Isten ígéretének beteljesítése volt Ábrahám számára.
+    
+- **Jákób:** Izsák fia, aki később az Izrael nevet kapta, és tizenkét fia az izraeli törzsek ősatyjai lettek. Jákób történetei többek között a bűn és a megbánás, valamint a családi konfliktusok és megbékélés tanulságait hordozzák.
 
   
 

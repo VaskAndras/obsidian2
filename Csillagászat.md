@@ -437,6 +437,7 @@ sebb égitesteket 0m-val, a **0m-nál 2,512-szer fényesebbeket
         - Magasabb hőmérséklet → rövidebb hullámhosszon maximális sugárzás.
 - **Grafikon értelmezése:**
     - A Nap (5500 K) és más hőmérsékletek szerinti intenzitás-hullámhossz görbék.
+- ![[Pasted image 20250103211611.png]]
 
 ---
 

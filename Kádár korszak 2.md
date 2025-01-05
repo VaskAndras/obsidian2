@@ -73,3 +73,4 @@ A reformok vége
 - Szakmunkások, alkalmazottak, értelmiségiek
     - Növekvő iskolázottság (trend)
     - Nemzetközi összehasonlításban szerény a diplomások aránya
+

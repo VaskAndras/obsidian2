@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kádár korszak 2.md",
+                "file": "4-tananyag/Magyar gyakorlás/Érettségi ütemezés.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kádár korszak 2"
+              "title": "Érettségi ütemezés"
             }
           }
         ]
@@ -176,12 +176,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,12 +197,14 @@
   },
   "active": "eafdd5df0b89297a",
   "lastOpenFiles": [
+    "4-tananyag/Magyar gyakorlás/Teszt 1.md",
+    "4-tananyag/Magyar gyakorlás/teszt 2.md",
     "kádár korszak összefoglalás.md",
+    "Kádár korszak 2.md",
     "Pasted image 20250103211611.png",
     "hittan prezi.md",
     "Hittanos prezi jegyzet.md",
     "Csillagászat.md",
-    "Kádár korszak 2.md",
     "5-Daily/2025-01-02.md",
     "images/Pasted image 20241220092647.png",
     "4-tananyag/Matek/23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md",
@@ -236,7 +237,6 @@
     "4-tananyag/hittan/Veronka.md",
     "4-tananyag/hittan",
     "4-tananyag/Történelem/1956/Magyarország 1945 és 1956 között.md",
-    "4-tananyag/Történelem/1956/Kádár Korszak.md",
     "4-tananyag/Történelem/1956",
     "Untitled.canvas",
     "4-tananyag/Történelem/Untitled.canvas",

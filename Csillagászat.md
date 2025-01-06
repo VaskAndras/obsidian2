@@ -441,21 +441,7 @@ sebb égitesteket 0m-val, a **0m-nál 2,512-szer fényesebbeket
 
 ---
 
-### **5. Kulcsösszefüggés – Wien törvénye**
+### 5. Kulcsösszefüggés – Wien törvénye
 
-- **Wien-féle eltolódási törvény:** λmax∝1T\lambda_{\text{max}} \propto \frac{1}{T}
+- **Wien-féle eltolódási törvény:** $$\lambda_{\text{max}} \propto \frac{1}{T}$$
     - A hőmérséklet növekedésével a kibocsátott sugárzás csúcshullámhossza csökken.
-
----
-
-### **6. Ellenőrző kérdések (tanulók számára):**
-
-1. Miért használják a fekete test modellt a csillagok leírására?
-2. Hogyan változik egy fekete test sugárzásának spektruma a hőmérséklet emelkedésével?
-3. Mi a kapcsolat a csillag színe és felszíni hőmérséklete között?
-4. Mit mutat meg a Wien-féle eltolódási törvény?
-
----
-
-**Használat:**  
-Ez a vázlat kiemeli a fekete test sugárzásának kulcsfogalmait, és logikus sorrendben mutatja be a témát, miközben támogatja a tanulók megértését a grafikonok és törvények értelmezésében.

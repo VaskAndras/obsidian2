@@ -276,7 +276,7 @@
 - Az anyag spirálisan halad a fekete lyuk felé, miközben felhevül (akár 10 millió fokra).
 - Intenzív röntgensugárzást bocsát ki.
 
-### Szupermasszív fekete lyukak
+### Szupermasszív fekete lyukak (szuper nehéz)
 
 - **A galaxisok középpontjában találhatók, hatalmas tömeggel** (pl. Tejútrendszer: 4,3 milliószor a Nap tömege).
 - Csillagközi anyagot és plazmát vonzanak be.

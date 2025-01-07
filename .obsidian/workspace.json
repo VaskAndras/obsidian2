@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csillagászat.md",
+                "file": "kádár korszak összefoglalás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Csillagászat"
+              "title": "kádár korszak összefoglalás"
             }
           },
           {
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -169,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md"
+                "file": "kádár korszak összefoglalás.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás"
+              "title": "Outline of kádár korszak összefoglalás"
             }
           },
           {
@@ -206,12 +205,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,6 +226,10 @@
   },
   "active": "b2f853688d0115f7",
   "lastOpenFiles": [
+    "Pasted image 20241219213201.png",
+    "Pasted image 20241219221358.png",
+    "A hanyatlás kezdete a hetvenes években.md",
+    "Csillagászat.md",
     "Pasted image 20241220092647.png",
     "4-tananyag/Matek/23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md",
     "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
@@ -235,18 +237,13 @@
     "4-tananyag/Irodalom/kötelezők/Versek.md",
     "4-tananyag/Matek/8. tétel statisztika.md",
     "kádár korszak összefoglalás.md",
-    "Csillagászat.md",
     "Pasted image 20241219223530.png",
     "Pasted image 20241219222441.png",
     "Pasted image 20241219222216.png",
     "Pasted image 20241219222203.png",
     "Pasted image 20241219222138.png",
     "Pasted image 20241219222124.png",
-    "Pasted image 20241219221358.png",
-    "Pasted image 20241219213201.png",
     "Screenshot_20241219_212538.png",
-    "Screenshot_20241219_212447.png",
-    "A hanyatlás kezdete a hetvenes években.md",
     "Recording 20241219110042.webm",
     "3-tags/Váltóáram.md",
     "3-tags/Levelek.md",

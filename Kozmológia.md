@@ -48,17 +48,11 @@ $$
 Z =- \frac{v}{c}
 $$
 A z előjelét meghatározza:
+-  ha a csillag (forrás) távolodik, akkor v < 0, z értéke **pozitív**,
+- ha a csillag (forrás)  közeledik, akkor a v > 0, így a z értéke **negatív**.
 
-– ha a csillag (forrás) a megfi gyelőtől távolodik, akkor a
-
-v < 0, így a z értéke pozitív,
-
-– ha a csillag (forrás) a megfi gyelő felé közeledik, akkor
-
-a v > 0, így a z értéke negatív.
-
-A fenti összefüggés az elektromágneses hullámok minden
-
-hullámhosszára érvényes, a kozmológiában csak az optikai
-
-és rádiófrekvenciák esetében számolnak vörös eltolódással.
+##### A fenti képlet hullámhosszal
+$$
+z= \frac{\Delta \lambda}{\lambda}=-\frac{v}{c}
+$$
+*A fenti képletben a hullámhosszos tényező* **a relatív hullámhosszváltozás**

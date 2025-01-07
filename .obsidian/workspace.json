@@ -11,26 +11,42 @@
             "id": "eafdd5df0b89297a",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250106215252.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250106215252"
-            }
-          },
-          {
-            "id": "04622f7d9f600e5f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Csillagászat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Csillagászat"
+            }
+          },
+          {
+            "id": "aa1fdbc4b72bea37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kozmológia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kozmológia"
+            }
+          },
+          {
+            "id": "db39c1e88fc4d6ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A modern fizika kezdetei, az elektron felfedezése"
             }
           }
         ],
@@ -90,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -193,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,25 +226,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04622f7d9f600e5f",
+  "active": "aa1fdbc4b72bea37",
   "lastOpenFiles": [
-    "Pasted image 20250106215252.png",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20250106215007.png",
-    "Pasted image 20250106213732.png",
-    "5-Daily/2025-01-07.md",
+    "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
+    "Kozmológia.md",
+    "3-tags/Atomfizika.md",
+    "Pasted image 20250107184624.png",
     "Csillagászat.md",
-    "Magyar tételek.md",
     "kádár korszak összefoglalás.md",
-    "Pasted image 20250106215426.png",
-    "Pasted image 20250106215412.png",
-    "Pasted image 20250106215316.png",
-    "Pasted image 20250106215025.png",
-    "Pasted image 20250106214929.png",
-    "Pasted image 20250106214905.png",
-    "Pasted image 20250106213041.png",
+    "images/Recording 20250106110815.m4a",
+    "images/Pasted image 20250103211611.png",
+    "images/Pasted image 20250106215252.png",
+    "conflict-files-obsidian-git.md",
+    "images/Pasted image 20250106215007.png",
+    "images/Pasted image 20250106213732.png",
+    "5-Daily/2025-01-07.md",
+    "Magyar tételek.md",
+    "images/Pasted image 20250106215426.png",
+    "images/Pasted image 20250106215412.png",
+    "images/Pasted image 20250106215316.png",
+    "images/Pasted image 20250106215025.png",
+    "images/Pasted image 20250106214929.png",
     "4-tananyag/Magyar gyakorlás/Érettségi ütemezés.md",
-    "Recording 20250106110815.m4a",
     "Hittanos prezi jegyzet.md",
     "4-tananyag/Magyar gyakorlás/Teszt 1.md",
     "4-tananyag/Magyar gyakorlás/teszt 2.md",
@@ -245,8 +266,6 @@
     "3-tags/II. világháború.md",
     "3-tags/Háburútól forradalomig.md",
     "3-tags/Félvezetők.md",
-    "3-tags/Elektromágneses hullámok, optika.md",
-    "3-tags/Atomfizika.md",
     "Recording 20241216155832.webm",
     "5-Daily",
     "4-tananyag/hittan",

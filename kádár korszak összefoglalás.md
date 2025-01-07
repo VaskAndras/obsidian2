@@ -36,8 +36,10 @@ pesti srácok
 Pongrácz Gergely
 Iván Kovács László
 Maléter Pál
-Rácz Gábor
+Rácz Sándor
+Gimes Miklós
 elítéltek
+Nyers Rezső
 Biszku Béla
 Acél György
 Hofi Géza

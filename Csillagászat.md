@@ -276,7 +276,7 @@
 - Az anyag spirálisan halad a fekete lyuk felé, miközben felhevül (akár 10 millió fokra).
 - Intenzív röntgensugárzást bocsát ki.
 
-### Szupermasszív fekete lyukak
+### Szupermasszív fekete lyukak (szuper nehéz)
 
 - **A galaxisok középpontjában találhatók, hatalmas tömeggel** (pl. Tejútrendszer: 4,3 milliószor a Nap tömege).
 - Csillagközi anyagot és plazmát vonzanak be.
@@ -406,7 +406,7 @@ sebb égitesteket 0m-val, a **0m-nál 2,512-szer fényesebbeket
 
 ---
 
-### **2. A fekete test sugárzása és a hullámhossz-intenzitás kapcsolata**
+### 2. A fekete test sugárzása és a hullámhossz-intenzitás kapcsolata
 
 - **Hullámhosszeloszlás:**
     - Egy adott hőmérsékleten a fekete test által kibocsátott sugárzás intenzitása a hullámhossz függvényében változik.
@@ -415,7 +415,7 @@ sebb égitesteket 0m-val, a **0m-nál 2,512-szer fényesebbeket
 
 ---
 
-### **3. Csillagok színe és hőmérséklete**
+### 3. Csillagok színe és hőmérséklete
 
 - **Szín és hőmérséklet kapcsolata:**
     - **Forró csillagok:** rövidebb hullámhosszon (nagyobb frekvencián) sugároznak → kékesfehér szín.
@@ -428,7 +428,7 @@ sebb égitesteket 0m-val, a **0m-nál 2,512-szer fényesebbeket
 
 ---
 
-### **4. Grafikon – Intenzitás és hullámhossz kapcsolata**
+### 4. Grafikon – Intenzitás és hullámhossz kapcsolata
 
 - **Általános trend:**
     - A kibocsátott sugárzás intenzitása és a legintenzívebb hullámhossztartomány a hőmérséklettől függ.
@@ -437,24 +437,167 @@ sebb égitesteket 0m-val, a **0m-nál 2,512-szer fényesebbeket
         - Magasabb hőmérséklet → rövidebb hullámhosszon maximális sugárzás.
 - **Grafikon értelmezése:**
     - A Nap (5500 K) és más hőmérsékletek szerinti intenzitás-hullámhossz görbék.
+- ![[Pasted image 20250103211611.png]]
 
 ---
 
-### **5. Kulcsösszefüggés – Wien törvénye**
+### 5. Kulcsösszefüggés – Wien törvénye
 
-- **Wien-féle eltolódási törvény:** λmax∝1T\lambda_{\text{max}} \propto \frac{1}{T}
-    - A hőmérséklet növekedésével a kibocsátott sugárzás csúcshullámhossza csökken.
+- **Wien-féle eltolódási törvény:** $$\lambda_{\text{max}} \propto \frac{1}{T}$$
+    - A hőmérséklet növekedésével a kibocsátott sugárzás csúcshullámhossza csökken
 
----
+## Hertzsprung–Russell-diagram
 
-### **6. Ellenőrző kérdések (tanulók számára):**
+### Bevezetés
+Ejnar Hertzsprung és Henry Russell felfedezése: a csillagok fényessége és felszíni hőmérséklete közötti kapcsolat.
+##### Tengelyek
+**Függőleges tengely:** abszolút fényesség, Naphoz viszonyítva.
+**Vízszintes tengely:** felszíni hőmérséklet (logaritmikus skála, jobbról balra növekvő értékekkel).
+![[Pasted image 20250106213041.png]]
+  
 
-1. Miért használják a fekete test modellt a csillagok leírására?
-2. Hogyan változik egy fekete test sugárzásának spektruma a hőmérséklet emelkedésével?
-3. Mi a kapcsolat a csillag színe és felszíni hőmérséklete között?
-4. Mit mutat meg a Wien-féle eltolódási törvény?
+### A fősorozat: a csillagok „felnőttkora”
 
----
+#### Jellemzők:
+- A hidrogénfúzió megkezdődésekor alakul ki.
+- Az energiaegyensúly stabil (gravitáció és sugárnyomás kiegyenlíti egymást).
+- A csillagok életük 90%-át itt töltik.
 
-**Használat:**  
-Ez a vázlat kiemeli a fekete test sugárzásának kulcsfogalmait, és logikus sorrendben mutatja be a témát, miközben támogatja a tanulók megértését a grafikonok és törvények értelmezésében.
+#### Elhelyezkedés:
+-  Bal felső sarok: forró, fényes csillagok (30 000 K)
+- Jobb alsó sarok: hidegebb, kevésbé világító csillagok (3000 K).
+- Nap helyzete: 6000 K, a fősorozat középső része.
+
+#### Tömegszerinti felosztás:
+- 0,3 naptömeg alatt: halvány csillagok (jobb alsó rész).
+- 0,3–3 naptömeg: sárga csillagok (középső rész, pl. Napunk).
+- 3 naptömeg felett: kék és kékesfehér csillagok (bal felső rész).
+
+![[Pasted image 20250106213732.png]]
+# Részletes jegyzet a galaxisokról és a világegyetem szerkezetéről
+
+## A Tejútrendszer részletes jellemzői
+
+### Alapvető tulajdonságok és szerkezet
+- Nevének eredete: a Földről látható ködös sáv az éjszakai égbolton
+- Diszkosz alakú galaxis, amelyben a Naprendszerünk található
+- Csillagok száma: 200-400 milliárd
+- Főbb méretei:
+  - Átmérő: kb. 100 000 fényév
+  - Legnagyobb vastagság: 16 300 fényév
+  - Naprendszer távolsága a központtól: kb. 26 000 fényév
+
+### A Tejútrendszer spirálkarjai
+- Két fő spirálkar:
+  - Scutum-Centaurus-kar
+  - Perseus-kar
+- Kisebb karok, köztük az Orion-kar (itt található a Naprendszer)
+
+### A Tejútrendszer arányai és méretviszonyai
+- Csillagok közötti átlagos távolság jelentős
+- Proxima Centauri (legközelebbi csillag) távolsága: 4,25 fényév
+- Méretarányok szemléltetése:
+  - Ha a csillagok gombostűfej méretűek: néhány km távolság egymástól
+  - Ha a galaxis fősíkjának átmérője Magyarország hossza: csillagok 0,01 mm méretűek
+
+## Galaxisok részletes jellemzői
+
+### Általános tulajdonságok
+- Csillagok és egyéb anyagok óriási tömörülései
+- Csillagszám: 10⁷-10¹² között
+- Középpontjukban általában szupernagy tömegű fekete lyuk
+- Tartalmaz:
+  - Magányos csillagokat
+  - Kettős- és többes csillagrendszereket
+  - Nyílthalmazokat
+  - Ködöket
+  - Gömbhalmazokat
+![[Pasted image 20250106214905.png]]
+![[Pasted image 20250106214929.png]]
+### Galaxistípusok részletes bemutatása
+
+#### 1. Spirálgalaxisok
+- Gömb alakú mag vagy központi kidudorodás
+- Porban és gázban gazdag lapos korong
+- Aktív csillagkeletkezési területek
+- Példa: Tejútrendszer (küllős spirálgalaxis)
+
+#### 2. Elliptikus galaxisok
+- Gömbszerű alakzat
+- Főleg idős csillagpopuláció
+- Kevés új csillag keletkezik
+- Jelentős mennyiségű sötét anyag
+- Példa: Sombrero-köd
+![[Pasted image 20250106215252.png]]
+#### 3. Szabálytalan galaxisok
+- Gyakran ütközés vagy gravitációs hatás miatt torzultak
+- Jellemzők:
+  - Sok por- és gázfelhő
+  - Forró kék csillagok
+  - Nagy rózsaszínű hidrogénemissziós ködök
+  - Aktív csillagkeletkezés
+- Példák: Nagy és Kis Magellán-felhő
+![[Pasted image 20250106215316.png]]
+### Galaxishalmazok típusai
+
+#### Nyílthalmazok
+- Fiatal csillagcsoportosulások
+- Azonos korú és kémiai összetételű csillagok
+- A Tejútrendszer fősíkjában helyezkednek el
+- Idővel szétszóródhatnak
+- Aktív csillagkeletkezés lehetséges
+
+![[Pasted image 20250106215025.png]]
+#### Gömbhalmazok
+- Zárt szerkezetűek
+- Gravitációsan stabil rendszerek
+- A galaxis halójában találhatók
+- Nem jellemző az új csillagok keletkezése
+- Hosszú élettartam
+
+![[Pasted image 20250106215007.png]]
+
+## Galaxishalmazok és szuperhalmazok
+
+### Lokális galaxiscsoport
+- Tagok:
+  - Tejútrendszer
+  - Androméda-köd
+  - Kis és Nagy Magellán-felhő
+  - További kb. 50 kisebb galaxis
+- A Tejútrendszer mozgása: 400-450 km/s az Androméda felé
+
+### Méretarányok a Lokális galaxiscsoportban
+- 10 méteres modellben:
+  - Tejútrendszer: 30 cm-es korong
+  - Androméda-köd: 40 cm átmérő
+  - Távolságuk: 4,4 méter
+  - Kisebb galaxisok: 0,5-2 cm
+
+### Virgo szuperhalmaz
+- Hossz: több mint 200 millió fényév
+- Tartalmaz:
+  - Kb. 100 000 galaxist
+  - Különböző méretű galaxishalmazokat
+- Mozgás: 600 km/s sebességgel a Nagy Vonzó felé
+![[Pasted image 20250106215412.png]]
+## A világegyetem nagy léptékű szerkezete
+
+### Szerkezeti jellemzők
+- Galaxishalmazok szálas szerkezetbe rendeződnek
+- Szálak között üregek találhatók
+- Ismétlődő mintázatok nagy távolságokban
+- A szerkezet az ősrobbanás után alakult ki
+![[Pasted image 20250106215426.png]]
+### Kutatási módszerek
+- Mesterséges intelligencia alkalmazása
+- Asztrofizikai szuperszámítógépek használata
+- Főbb kutatási területek:
+  - Sötét energia
+  - Sötét anyag
+  - Univerzum struktúrája
+  - Ismeretlen részletek feltárása
+
+Ez a részletes jegyzet tartalmazza a szöveg összes lényeges információját, rendszerezve és strukturált formában bemutatva a galaxisok, galaxishalmazok és a világegyetem szerkezetének legfontosabb jellemzőit.
+
+

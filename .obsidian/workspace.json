@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "ed86bde6f33c5acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "ca349b4d490b8dd1",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kádár korszak összefoglalás.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of kádár korszak összefoglalás"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -224,26 +238,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b2f853688d0115f7",
+  "active": "ed86bde6f33c5acf",
   "lastOpenFiles": [
-    "Pasted image 20241219213201.png",
-    "Pasted image 20241219221358.png",
+    "kádár korszak összefoglalás.md",
+    "conflict-files-obsidian-git.md",
+    "images/Screenshot_20241219_212538.png",
+    "images/Screenshot_20241219_212447.png",
+    "images/Pasted image 20241220092647.png",
+    "images/Pasted image 20241219223530.png",
+    "images/Pasted image 20241219222441.png",
+    "images/Pasted image 20241219222216.png",
+    "images/Pasted image 20241219222203.png",
+    "images/Pasted image 20241219222138.png",
+    "images/Pasted image 20241219222124.png",
+    "images/Pasted image 20241219221358.png",
+    "hittan prezi.md",
+    "Recording 20250106110815.m4a",
+    "Magyar tételek.md",
+    "Hittanos prezi jegyzet.md",
+    "5-Daily/2025-01-07.md",
+    "5-Daily/2025-01-02.md",
+    "4-tananyag/Magyar gyakorlás/Érettségi ütemezés.md",
     "A hanyatlás kezdete a hetvenes években.md",
     "Csillagászat.md",
-    "Pasted image 20241220092647.png",
     "4-tananyag/Matek/23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md",
     "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
     "4-tananyag/Matek/Teljes valószínüség tétele.md",
     "4-tananyag/Irodalom/kötelezők/Versek.md",
     "4-tananyag/Matek/8. tétel statisztika.md",
-    "kádár korszak összefoglalás.md",
-    "Pasted image 20241219223530.png",
-    "Pasted image 20241219222441.png",
-    "Pasted image 20241219222216.png",
-    "Pasted image 20241219222203.png",
-    "Pasted image 20241219222138.png",
-    "Pasted image 20241219222124.png",
-    "Screenshot_20241219_212538.png",
     "Recording 20241219110042.webm",
     "3-tags/Váltóáram.md",
     "3-tags/Levelek.md",
@@ -257,21 +279,13 @@
     "5-Daily/2024-12-18.md",
     "Recording 20241216155832.webm",
     "5-Daily",
-    "conflict-files-obsidian-git.md",
-    "4-tananyag/hittan/Veronka.md",
     "4-tananyag/hittan",
-    "4-tananyag/Történelem/1956/Magyarország 1945 és 1956 között.md",
-    "4-tananyag/Történelem/1956/Kádár Korszak.md",
-    "4-tananyag/Történelem/1956/Forradalom 1956.md",
-    "4-tananyag/Történelem/1956/1956-os forradalom összefoglaló.md",
     "4-tananyag/Történelem/1956",
-    "4-tananyag/Magyar gyakorlás/Magyar ütemezés.md",
     "Untitled.canvas",
     "4-tananyag/Történelem/Untitled.canvas",
     "images",
     "4-tananyag/Történelem/A kétpólusú világ",
     "4-tananyag/Történelem/2. világháború után magyarország",
-    "4-tananyag/Történelem/2. Világháború",
-    "4-tananyag/Történelem"
+    "4-tananyag/Történelem/2. Világháború"
   ]
 }

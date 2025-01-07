@@ -20,51 +20,8 @@
               "icon": "lucide-file",
               "title": "23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás"
             }
-          },
-          {
-            "id": "b2f853688d0115f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kádár korszak összefoglalás.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "kádár korszak összefoglalás"
-            }
-          },
-          {
-            "id": "ed86bde6f33c5acf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "ca349b4d490b8dd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-tananyag/Irodalom/kötelezők/Versek.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Versek"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "4-tananyag/Matek/23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of 23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás"
             }
           },
           {
@@ -238,7 +195,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ed86bde6f33c5acf",
+  "active": "548f525d42773766",
   "lastOpenFiles": [
     "kádár korszak összefoglalás.md",
     "conflict-files-obsidian-git.md",

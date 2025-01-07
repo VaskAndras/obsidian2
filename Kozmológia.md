@@ -192,3 +192,136 @@ $$
 - A mérésből kiderült, hogy az univerzum szerkezetében a galaxishalmazok között üres terek találhatók.
 ![[Pasted image 20250107202137.png]]
 ---
+# Az univerzum jövője
+
+## Az univerzum anyagának összetétele
+- Az univerzum anyagának 95%-a:
+  - **Sötét anyag** (26%)
+  - **Sötét energia** (69%)
+- Csak **5%** az általunk ismert barionos anyag (hidrogén, hélium, neutrínók, stb.).
+
+---
+
+## **Sötét anyag**
+- **Fő tulajdonságai**:
+  - Tömeggel rendelkezik (gravitációs kölcsönhatás).
+  - Átlátszó a fény számára (nem lép kölcsönhatásba fotonokkal).
+  - Az univerzumban gömb alakban helyezkedik el a galaxisok körül.
+  - Lassú mozgású anyag, a galaxisokkal együtt halad.
+  - Képes gravitációslencse-hatást kifejteni.
+
+- **Felfedezésének története**:
+  - Az 1930-as években Jan Oort és Fritz Zwicky hiányzó tömegre utaló jeleket találtak.
+  - Galaxisok forgási görbéiből a keringési sebesség állandóságát figyelték meg.
+  - A galaxisok külső részén láthatatlan tömeg jelenlétét mutatták ki.
+
+- **Bizonyítékai**:
+  - Galaxisok forgási görbéje.
+  - Kozmikus háttérsugárzás spektruma.
+  - Tömegvonzó hatás mérései.
+
+---
+
+### Sötét energia
+- **Fő tulajdonságai**:
+  - Az univerzum gyorsuló tágulását okozza.
+  - Nem hígul a tér tágulásával (sűrűsége állandó).
+  - Láthatatlan, nem lép kölcsönhatásba részecskékkel vagy elektromágneses hullámokkal.
+  - Egyenletesen oszlik el az univerzumban.
+
+- **Bizonyítékai**:
+  - A galaxisok gyorsuló távolodása.
+  - A tér tágulásával is állandó sűrűség.
+
+- **Energia mennyisége**:
+  - Egy köbfényévnyi térfogatban több energia van, mint amennyit a Nap kibocsátott az emberi történelem során.
+
+---
+
+### Az univerzum jövőjét leíró elméletek
+1. **Pulzáló világegyetem modellje**:
+   - A gravitáció megállítja a tágulást, és az univerzum egy fekete lyukban omlik össze.
+   - Ezt követően új ősrobbanás jöhet létre.
+![[Pasted image 20250107215024.png]]
+2. **Statikus állapot**:
+   - A tágulás megáll, de zsugorodás nem indul el.
+   - Ezt az elméletet a kozmológusok elvetették.
+
+3. **Gyorsuló tágulás modellje**:
+   - Az univerzum gyorsulva tágul tovább.
+   - A galaxisok egyre távolabb kerülnek egymástól, a gravitációs kölcsönhatás csökken.
+   - A sötét energia szerepe domináns.
+
+### Gravitációs hullámok
+- **Mi a gravitációs hullám?**
+  - Gyorsuló tömegek által keltett téridő-deformáció.
+  - Fénysebességgel terjed.
+
+- **Keletkezésük**:
+  - Nagy tömegek kicsi helyen, gyors mozgással.
+  - Példák: két fekete lyuk, neutroncsillagok, vagy fehér törpe és neutroncsillag keringése.
+
+- **Detektálásuk**:
+  - Interferométerekkel mérik:
+    - LIGO (USA) és VIRGO (Európa) detektorok.
+    - Az interferométerek mikroszkopikus hosszváltozást észlelnek.
+  - Az első jelet 2015-ben észlelték (két fekete lyuk összeolvadása).
+![[Pasted image 20250107215051.png]]
+- **Fontos megfigyelések**:
+  - A gravitációs hullámok energia-kibocsátásának mérése igazolta Einstein általános relativitáselméletét.
+  - A kettőscsillagok mozgásának változásai pontosan egyeztek az elméleti számításokkal.
+## Bináris kettősök és exobolygók
+
+### Spektroszkópiai bináris kettőscsillagok
+- **Kettőscsillagok**: A csillagászok által megfigyelt csillagok közel fele kettőscsillag. Ezek közös tömegközéppontjuk körül elliptikus pályán keringenek.
+- **Spektroszkópiai kettőscsillagok**: 
+  - Közvetlen távcsöves megfigyeléssel nem láthatók.
+  - Színképükből derül ki a kettőscsillag jellege.
+  - Ha a keringési sík a látóirányunkba esik, a csillagok keringés közben elfedik egymást, így a keringési idő kiszámítható.
+- **Színképvonalak**:
+  - Kettőscsillagok keringése során a színkép abszorpciós vonalai változnak.
+  - A keringési periódus kétszerese a spektrum két szélső állapota közötti időnek.
+
+![[Pasted image 20250107220616.png]]
+
+### Exobolygók
+#### Mi az exobolygó?
+- Naprendszerünkön kívüli, idegen csillagok körül keringő bolygók.
+- **Jellemzőik**:
+  - Tömegük kisebb, mint 13 Jupiter-tömeg (a deutérium fúzió határa).
+  - Több mint 4000 ismert exobolygó létezik, száma folyamatosan nő.
+  - Legközelebbi ismert exobolygó: 20,5 fényévre, egy vörös törpecsillag lakható övében.
+
+#### Exobolygók típusai
+1. **Csillag körül keringő bolygók**:
+   - A Tejútrendszerben kb. 160 milliárd exobolygó kering 100 milliárd csillag körül.
+   - A Naphoz hasonló csillagok 50%-ának van bolygórendszere.
+2. **Árva bolygók**:
+   - Nem csillag körül keringenek.
+   - Jupiter-méretű bolygók, számukat ezermilliárdokra becsülik.
+
+### Élet lehetősége exobolygókon
+- Felfedeztek Föld-típusú vagy annál kisebb bolygókat, amelyeket „Szuper-Földnek” neveztek el.
+- Egyes exobolygók 50%-a vízből állhat.
+- Ezek a felfedezések erősítik az élet lehetőségének gondolatát más csillagok körül.
+
+---
+
+## Exobolygók felfedezésének módszerei
+### Radiálissebesség-módszer
+- A csillag látóirányú sebességének változását figyeli.
+- **Doppler-effektus**: 
+  - Kékeltolódás: közeledés.
+  - Vöröseltolódás: távolodás.
+- A színképvonalak eltolódása alapján a keringési idő és a bolygó tömege becsülhető.
+
+### Asztrometriai módszer
+- A csillag kismértékű mozgását figyeli a közös tömegközéppont körül.
+- Csak nagy tömegű és/vagy csillagukhoz közel keringő bolygók kimutatására alkalmas.
+
+### Tranzit-módszer
+- A csillag fényességének időleges csökkenését figyeli, amikor a bolygó áthalad előtte.
+- **Fénygörbe**:
+  - A fényességcsökkenés mértéke a bolygó méretétől függ.
+  - Pontos mérésekhez világűrbe telepített űrtávcsövek szükségesek.
+- A módszerrel exobolygók pályája és mérete is meghatározható.

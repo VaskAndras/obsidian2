@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fbc203bde2c0c44b",
+        "id": "f2540f331e8dd52c",
         "type": "tabs",
         "children": [
           {
-            "id": "548f525d42773766",
+            "id": "4336838b9c3e045d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-tananyag/Matek/23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás"
+              "title": "New tab"
             }
           }
         ]
@@ -138,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4-tananyag/Matek/23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás"
+              "title": "Outline"
             }
           },
           {
@@ -195,8 +189,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "548f525d42773766",
+  "active": "4336838b9c3e045d",
   "lastOpenFiles": [
+    "4-tananyag/Matek/23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md",
     "kádár korszak összefoglalás.md",
     "conflict-files-obsidian-git.md",
     "images/Screenshot_20241219_212538.png",
@@ -218,7 +213,6 @@
     "4-tananyag/Magyar gyakorlás/Érettségi ütemezés.md",
     "A hanyatlás kezdete a hetvenes években.md",
     "Csillagászat.md",
-    "4-tananyag/Matek/23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md",
     "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
     "4-tananyag/Matek/Teljes valószínüség tétele.md",
     "4-tananyag/Irodalom/kötelezők/Versek.md",

@@ -168,7 +168,7 @@ Maradok meg még neked,
 De a kezedet fogom  
 S őrizem a szemedet.
 
-# Ady Endre: Kocsi-út az éjszakában
+## Ady Endre: Kocsi-út az éjszakában
 
 Kocsi-út az éjszakában 
 
@@ -187,6 +187,7 @@ Utána mintha jajszó szállna,
 Félig mély csönd és félig lárma,  
 Fut velem egy rossz szekér.
 
+# jan 15-re
 ## Áprili Lajos - március
 
 A nap tüze, látod,  
@@ -216,3 +217,93 @@ a lomha Marosba csengve siet.
 Zeng a csatorna,  
 zeng a hegy orma,  
 s zeng  – ugye zeng, ugye zeng a szived?
+
+
+## Toldi estéje 1/1 és 6/6
+  
+Őszbe csavarodott a természet feje,  
+Dérré vált a harmat, hull a fák levele,  
+Rövidebb, rövidebb lesz a napnak útja,  
+És hosszúkat alszik rá, midőn megfutja.  
+Megpihen legszélén az égi határnak  
+S int az öregeknek: „benneteket várlak!”  
+Megrezdűl a feje sok öregnek erre:  
+Egymásután mégis mennek a nyughelyre.
+
+„Végső rendelkezést tennék: de hát minek?  
+Nem igen van: miről. S ha volna sincs: kinek.  
+Nem hagyok örököst... csak egy hű cselédet:  
+Azt kötöm szivedre - - meg a magyar népet.”  
+„Szeresd a magyart, de ne faragd le” - szóla,  
+„Erejét, formáját, durva kérgét róla:  
+Mert mi haszna símább, ha jól megfaragják?  
+Nehezebb eltörni a faragatlan fát.”
+
+## JÓNÁS IMÁJA 
+
+Hozzám már hűtlen lettek a szavak,  
+vagy én lettem mint túláradt patak  
+oly tétova céltalan parttalan  
+s ugy hordom régi sok hiú szavam  
+mint a tévelygő ár az elszakadt  
+sövényt jelzőkarókat gátakat.  
+Óh bár adna a Gazda patakom  
+sodrának medret, biztos útakon  
+vinni tenger felé, bár verseim  
+csücskére Tőle volna szabva rim  
+előre kész, s mely itt áll polcomon,  
+szent Bibliája lenne verstanom,  
+hogy ki mint Jónás, rest szolgája, hajdan  
+bujkálva, később mint Jónás a Halban  
+leszálltam a kinoknak eleven  
+süket és forró sötétjébe, nem  
+három napra, de három hóra, három  
+évre vagy évszázadra, megtaláljam,  
+mielőtt egy mégvakabb és örök  
+Cethal szájában végkép eltünök,  
+a régi hangot s, szavaim hibátlan  
+hadsorba állván, mint Ő sugja, bátran  
+szólhassak s mint rossz gégémből telik  
+és ne fáradjak bele estelig  
+vagy míg az égi és ninivei hatalmak  
+engedik hogy beszéljek s meg ne haljak.
+
+
+
+Vitézek, mi lehet ez széles föld felett  
+     szebb dolog az végeknél?  
+Holott kikeletkor az sok szép madár szól,  
+     kivel ember ugyan él;  
+Mező jó illatot, az ég szép harmatot  
+     ád, ki kedves mindennél.
+
+Óh, végbelieknek, ifjú vitézeknek  
+     dicséretes serege!  
+Kiknek ez világon szerteszerént vagyon  
+     mindeneknél jó neve,  
+Mint sok fát gyümölccsel, sok jó szerencsékkel  
+     áldjon Isten mezőkbe!
+
+## Berzsenyi Dániel: A KÖZELÍTŐ TÉL
+
+Hervad már ligetünk, s díszei hullanak,  
+Tarlott bokrai közt sárga levél zörög.  
+Nincs rózsás labyrinth, s balzsamos illatok  
+Közt nem lengedez a Zephyr.
+
+## Anakreón: gyűlölöm azt
+
+Gyűlölöm, azt aki telt kupa mellett,bort iszogatván,  
+háborút emleget és lélekölő viadalt.  
+S kedvelem azt ,aki bölcs és Aphrodité meg a Múzsák  
+szép adományairól zengve szeretni tanít.
+
+gyűlölöm azt megvan
+március magvan
+toldi estéje 1/1 6/6 megvan
+jónás imája megvan
+egy katonaének 
+a közelítő tél 1.
+magyarokhoz 1 1.
+osztályrászem 1.
+katullus gyűlölök

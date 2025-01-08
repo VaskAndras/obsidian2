@@ -25,4 +25,12 @@ Három alkalommal utoljára volt a legrosszabb, legkeményebb
 
 # Költészete
 
+## Járkálj csak, halálraítélt!
+### Hány szerkezeti egységre osztható a vers?
+ mert 3 különböző személynek beszél 
+1. halálraítélt 
+2. őszi levél
+3. költő
 
+### Cím értelmezése
+A halálraítélt járkálásáról egy börtön udvara jut eszembe elsőként, ahol a magas falak között egy lebetonozott üres udvar van, ahonnan nincs kiút. Esetleg itt egy utolsó sétára gondolok. A megszólítás pedig kicsit lenéző, hogy járkálj ameddig megteheted. 

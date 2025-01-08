@@ -219,7 +219,7 @@ zeng a hegy orma,
 s zeng  – ugye zeng, ugye zeng a szived?
 
 
-## Toldi estéje 1/1 és 6/6
+## Arany János: Toldi estéje 1/1 és 6/6
   
 Őszbe csavarodott a természet feje,  
 Dérré vált a harmat, hull a fák levele,  
@@ -239,7 +239,7 @@ Azt kötöm szivedre - - meg a magyar népet.”
 Mert mi haszna símább, ha jól megfaragják?  
 Nehezebb eltörni a faragatlan fát.”
 
-## JÓNÁS IMÁJA 
+## Babits Mihály: JÓNÁS IMÁJA 
 
 Hozzám már hűtlen lettek a szavak,  
 vagy én lettem mint túláradt patak  
@@ -268,7 +268,7 @@ szólhassak s mint rossz gégémből telik
 vagy míg az égi és ninivei hatalmak  
 engedik hogy beszéljek s meg ne haljak.
 
-
+## Balassi Bálint: Egy katonaének
 
 Vitézek, mi lehet ez széles föld felett  
      szebb dolog az végeknél?  
@@ -277,7 +277,14 @@ Holott kikeletkor az sok szép madár szól,
 Mező jó illatot, az ég szép harmatot  
      ád, ki kedves mindennél.
 
-Óh, végbelieknek, ifjú vitézeknek  
+4. Jó szerecsen lovak alattok ugrálnak,  
+     hogyha trombita riadt,  
+Köztök ki strázsát áll, ki lováról leszáll,  
+     nyugszik reggel, hol virradt,  
+Midőn éjten-éjjel csataviseléssel  
+     mindenik lankadt s fáradt.
+
+9. Óh, végbelieknek, ifjú vitézeknek  
      dicséretes serege!  
 Kiknek ez világon szerteszerént vagyon  
      mindeneknél jó neve,  
@@ -293,10 +300,58 @@ Közt nem lengedez a Zephyr.
 
 ## Anakreón: gyűlölöm azt
 
-Gyűlölöm, azt aki telt kupa mellett,bort iszogatván,  
+Gyűlölöm, azt aki telt kupa mellett, bort iszogatván,  
 háborút emleget és lélekölő viadalt.  
 S kedvelem azt ,aki bölcs és Aphrodité meg a Múzsák  
 szép adományairól zengve szeretni tanít.
+
+## Catullus Gyűlölök és szeretek…
+
+Gyűlölök és szeretek. Kérded tán, mért teszem én ezt?  
+Mit tudom! Ezt érzem. Szenvedek, ezt tudom én.
+
+## Berzsenyi: A magyarokhoz I
+
+Romlásnak indult hajdan erős magyar!
+Nem látod, Árpád vére miként fajul?
+Nem látod a bosszús egeknek
+Ostorait nyomorult hazádon?
+
+## Berzsenyi Dániel: OSZTÁLYRÉSZEM 
+
+Partra szállottam. Levonom vitorlám.  
+A szelek mérgét nemesen kiálltam.  
+Sok Charybdis közt, sok ezer veszélyben  
+Izzada orcám.
+
+## Babits Mihály: A LÍRIKUS EPILÓGJA 
+
+Csak én birok versemnek hőse lenni,  
+első s utolsó mindenik dalomban:  
+a mindenséget vágyom versbe venni,  
+de még tovább magamnál nem jutottam. 
+
+S már azt hiszem: nincs rajtam kívül semmi,  
+de hogyha van is, Isten tudja hogy' van?  
+Vak dióként dióban zárva lenni  
+s törésre várni beh megundorodtam. 
+
+Bűvös körömből nincsen mód kitörnöm,  
+csak nyílam szökhet rajta át: a vágy -  
+de jól tudom, vágyam sejtése csalfa. 
+
+Én maradok: magam számára börtön,  
+mert én vagyok az alany és a tárgy,  
+jaj én vagyok az ómega s az alfa.
+
+
+
+
+
+
+
+
+
 
 gyűlölöm azt megvan
 március magvan
@@ -305,5 +360,6 @@ jónás imája megvan
 egy katonaének 
 a közelítő tél 1.
 magyarokhoz 1 1.
-osztályrászem 1.
-katullus gyűlölök
+osztályrászem 1. 
+katullus gyűlölök megvan
+lírikus epilógia

@@ -300,28 +300,35 @@ $$
    - Nem csillag körül keringenek.
    - Jupiter-méretű bolygók, számukat ezermilliárdokra becsülik.
 
-### Élet lehetősége exobolygókon
+#### Élet lehetősége exobolygókon
 - Felfedeztek Föld-típusú vagy annál kisebb bolygókat, amelyeket „Szuper-Földnek” neveztek el.
 - Egyes exobolygók 50%-a vízből állhat.
 - Ezek a felfedezések erősítik az élet lehetőségének gondolatát más csillagok körül.
 
----
-
-## Exobolygók felfedezésének módszerei
-### Radiálissebesség-módszer
+### Exobolygók felfedezésének módszerei
+#### Radiálissebesség-módszer
 - A csillag látóirányú sebességének változását figyeli.
 - **Doppler-effektus**: 
   - Kékeltolódás: közeledés.
   - Vöröseltolódás: távolodás.
 - A színképvonalak eltolódása alapján a keringési idő és a bolygó tömege becsülhető.
-
-### Asztrometriai módszer
+![[Pasted image 20250107222428.png]]
+#### Asztrometriai módszer
 - A csillag kismértékű mozgását figyeli a közös tömegközéppont körül.
 - Csak nagy tömegű és/vagy csillagukhoz közel keringő bolygók kimutatására alkalmas.
-
-### Tranzit-módszer
+![[Pasted image 20250107222413.png]]
+#### Tranzit-módszer
 - A csillag fényességének időleges csökkenését figyeli, amikor a bolygó áthalad előtte.
 - **Fénygörbe**:
   - A fényességcsökkenés mértéke a bolygó méretétől függ.
   - Pontos mérésekhez világűrbe telepített űrtávcsövek szükségesek.
 - A módszerrel exobolygók pályája és mérete is meghatározható.
+![[Pasted image 20250107222500.png]]
+
+### gravitációs mikrolencse hatása
+Egy csillag és a körülötte keringő bolygó gravitációs mik-ro lencseként viselkedik, amikor a kettős rendszer elhalada távoli csillag előtt. A távoli csillag fénye felerősödik, amit felfényesedésként észlelünk. Ekkor a távoli csillag fénygörbéje rárakódik a kettős rendszer fénygörbéjére, amit észlelünk.
+*Előny*:
+- nagyon távolról ki lehet mutatni a bolgókat
+*Hátrány*:
+- Az esemény megismételhetetlen
+- ![[Pasted image 20250107222836.png]]

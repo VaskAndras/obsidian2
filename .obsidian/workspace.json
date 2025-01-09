@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95ac361047741433",
+            "id": "0ed0143b4b592c58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-tananyag/Kinematika Pontszerű test, pálya, út, elmozdulás.md",
+                "file": "Egyenes vonalú egyenletesen gyorsuló mozgás és szabadesés.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kinematika Pontszerű test, pálya, út, elmozdulás"
+              "title": "Egyenes vonalú egyenletesen gyorsuló mozgás és szabadesés"
             }
           }
         ]
@@ -197,8 +197,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95ac361047741433",
+  "active": "0ed0143b4b592c58",
   "lastOpenFiles": [
+    "Pasted image 20250109122655.png",
+    "Pasted image 20250109122410.png",
+    "Egyenes vonalú egyenletesen gyorsuló mozgás és szabadesés.md",
+    "4-tananyag/Kinematika Pontszerű test, pálya, út, elmozdulás.md",
     "2-Menu/Töri.md",
     "4-tananyag/Kádár Kor.md",
     "4-tananyag/Történelem/1956/Kádár Korszak.md",
@@ -206,7 +210,6 @@
     "3-tags/magyar/Irodalom.md",
     "1-Random notes/Az országok motivációja a nukleáris fegyverek birtoklására.md",
     "2-Menu/Matek.md",
-    "4-tananyag/Kinematika Pontszerű test, pálya, út, elmozdulás.md",
     "4-tananyag/kádár korszak összefoglalás.md",
     "4-tananyag/Kádár korszak 2.md",
     "Csillagászat.md",
@@ -223,7 +226,6 @@
     "images/Pasted image 20250107215024.png",
     "images/Pasted image 20250107202137.png",
     "images/Pasted image 20250107190211.png",
-    "images/Pasted image 20250107184624.png",
     "4-tananyag/Irodalom/kötelezők/Versek.md",
     "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
     "4-tananyag/Radnóti Miklós.md",
@@ -234,8 +236,6 @@
     "4-tananyag/Magyar tételek.md",
     "4-tananyag/Magyar gyakorlás/Érettségi ütemezés.md",
     "4-tananyag/Hittanos prezi jegyzet.md",
-    "4-tananyag/Magyar gyakorlás/Teszt 1.md",
-    "4-tananyag/Magyar gyakorlás/teszt 2.md",
     "Recording 20241219110042.webm",
     "Recording 20241216155832.webm",
     "5-Daily",

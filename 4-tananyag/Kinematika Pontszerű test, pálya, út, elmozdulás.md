@@ -76,14 +76,12 @@
 
 ## 9. A gyorsulás $(a)$
 - Definíció: A sebességváltozás és az eltelt idő hányadosa.
-  \[
+  $$
   a = \frac{\Delta v}{\Delta t} = \frac{v_\text{vég} - v_\text{kezdet}}{\Delta t}
-  \]
-- **Mértékegysége**: \( \frac{m}{s^2} \).
+  $$
+- **Mértékegysége**: $\frac{m}{s^2}$.
 - **Vektormennyiség**: Iránya megegyezik a sebességváltozás vektor irányával.
 
 ### 9.1 A gyorsulás és sebességvektor kapcsolata
 - Egyenes vonalú mozgás: Gyorsulásvektor és sebességvektor egy egyenesbe esik.
 - Görbe vonalú mozgás: A gyorsulásvektor iránya eltérhet a sebességvektorétól.
-
----

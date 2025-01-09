@@ -5,3 +5,6 @@ Tantárgyak:
 
 Kötelezők:
 [[Versek]]
+
+Tételek:
+[[Magyar tételek]]

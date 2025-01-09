@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e17e06fe60bc404d",
+        "id": "fd40a7f29af56e8e",
         "type": "tabs",
         "children": [
           {
-            "id": "ada978af4eff36d6",
+            "id": "95ac361047741433",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-tananyag/Irodalom/kötelezők/Versek.md",
+                "file": "4-tananyag/Kinematika Pontszerű test, pálya, út, elmozdulás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Versek"
-            }
-          },
-          {
-            "id": "c2949520b798da9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Radnóti Miklós.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Radnóti Miklós"
+              "title": "Kinematika Pontszerű test, pálya, út, elmozdulás"
             }
           }
         ]
@@ -211,46 +197,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ada978af4eff36d6",
+  "active": "95ac361047741433",
   "lastOpenFiles": [
-    "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
-    "4-tananyag/Irodalom/kötelezők/Versek.md",
-    "Radnóti Miklós.md",
-    "Kozmológia.md",
-    "Pasted image 20250107222836.png",
-    "Pasted image 20250107222500.png",
-    "Pasted image 20250107222428.png",
-    "Pasted image 20250107222413.png",
-    "Pasted image 20250107220616.png",
-    "Pasted image 20250107215051.png",
-    "Pasted image 20250107215024.png",
-    "Pasted image 20250107202137.png",
-    "Pasted image 20250107190211.png",
-    "3-tags/Atomfizika.md",
-    "Pasted image 20250107184624.png",
+    "2-Menu/Töri.md",
+    "4-tananyag/Kádár Kor.md",
+    "4-tananyag/Történelem/1956/Kádár Korszak.md",
+    "2-Menu/Magyar.md",
+    "3-tags/magyar/Irodalom.md",
+    "1-Random notes/Az országok motivációja a nukleáris fegyverek birtoklására.md",
+    "2-Menu/Matek.md",
+    "4-tananyag/Kinematika Pontszerű test, pálya, út, elmozdulás.md",
+    "4-tananyag/kádár korszak összefoglalás.md",
+    "4-tananyag/Kádár korszak 2.md",
     "Csillagászat.md",
-    "kádár korszak összefoglalás.md",
+    "4-tananyag/A hanyatlás kezdete a hetvenes években.md",
+    "2-Menu/Fizika.md",
+    "3-tags/Kinematika.md",
+    "3-tags/Atomfizika.md",
+    "images/Pasted image 20250107222836.png",
+    "images/Pasted image 20250107222500.png",
+    "images/Pasted image 20250107222428.png",
+    "images/Pasted image 20250107222413.png",
+    "images/Pasted image 20250107220616.png",
+    "images/Pasted image 20250107215051.png",
+    "images/Pasted image 20250107215024.png",
+    "images/Pasted image 20250107202137.png",
+    "images/Pasted image 20250107190211.png",
+    "images/Pasted image 20250107184624.png",
+    "4-tananyag/Irodalom/kötelezők/Versek.md",
+    "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
+    "4-tananyag/Radnóti Miklós.md",
+    "4-tananyag/Kozmológia.md",
     "images/Recording 20250106110815.m4a",
     "conflict-files-obsidian-git.md",
     "5-Daily/2025-01-07.md",
-    "Magyar tételek.md",
+    "4-tananyag/Magyar tételek.md",
     "4-tananyag/Magyar gyakorlás/Érettségi ütemezés.md",
-    "Hittanos prezi jegyzet.md",
+    "4-tananyag/Hittanos prezi jegyzet.md",
     "4-tananyag/Magyar gyakorlás/Teszt 1.md",
     "4-tananyag/Magyar gyakorlás/teszt 2.md",
-    "Kádár korszak 2.md",
-    "hittan prezi.md",
-    "5-Daily/2025-01-02.md",
-    "4-tananyag/Matek/23. Tétel Kombinációk. Binomiális tétel, a Pascal-háromszög. A valószínűség kiszámításának kombinatorikusmodellje. A hipergeometrikus eloszlás.md",
-    "4-tananyag/Matek/21. tétel Térelemek távolsága és szöge. Térbeli alakzatok. Felszín- és térfogatszámítás.md",
-    "4-tananyag/Matek/Teljes valószínüség tétele.md",
-    "4-tananyag/Matek/8. tétel statisztika.md",
-    "A hanyatlás kezdete a hetvenes években.md",
     "Recording 20241219110042.webm",
-    "3-tags/Váltóáram.md",
-    "3-tags/Levelek.md",
-    "3-tags/II. világháború.md",
-    "3-tags/Háburútól forradalomig.md",
     "Recording 20241216155832.webm",
     "5-Daily",
     "4-tananyag/hittan",

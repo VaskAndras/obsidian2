@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Függőleges hajítások.md",
+                "file": "Függőleges hajítások.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Függőleges hajítások"
+              "title": "Függőleges hajítások"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-tananyag/Magyar tételek.md",
+                "file": "4-tananyag/Magyar gyakorlás/Magyar tételek.md",
                 "mode": "source",
                 "source": false
               },
@@ -212,9 +212,12 @@
   },
   "active": "8aa48bf694712637",
   "lastOpenFiles": [
-    "Nem nulla kezdősebességű mozgások.md",
-    "4-tananyag/Magyar tételek.md",
-    "4. Függőleges hajítások.md",
+    "4-tananyag/Történelem/1956/Kádár Korszak.md",
+    "4-tananyag/hittan prezi.md",
+    "4-tananyag/Történelem/Kádár rendszer",
+    "Függőleges hajítások.md",
+    "4-tananyag/Fizika/Nem nulla kezdősebességű mozgások.md",
+    "4-tananyag/Magyar gyakorlás/Magyar tételek.md",
     "5-Daily/2025-01-07.md",
     "4-tananyag/Irodalom/kötelezők/Versek.md",
     "images/Pasted image 20250109132121.png",
@@ -224,28 +227,27 @@
     "images/Pasted image 20250109124940.png",
     "images/Pasted image 20250109124927.png",
     "images/Pasted image 20250109124724.png",
-    "Egyenes vonalú egyenletesen gyorsuló mozgás és szabadesés.md",
+    "4-tananyag/Fizika/Egyenes vonalú egyenletesen gyorsuló mozgás és szabadesés.md",
     "images/Pasted image 20250109122655.png",
     "images/Pasted image 20250109122410.png",
-    "4-tananyag/Kinematika Pontszerű test, pálya, út, elmozdulás.md",
+    "4-tananyag/Fizika/Kinematika Pontszerű test, pálya, út, elmozdulás.md",
     "2-Menu/Töri.md",
-    "4-tananyag/Kádár Kor.md",
-    "4-tananyag/Történelem/1956/Kádár Korszak.md",
+    "4-tananyag/Történelem/Kádár rendszer/Kádár Kor.md",
     "2-Menu/Magyar.md",
     "3-tags/magyar/Irodalom.md",
     "1-Random notes/Az országok motivációja a nukleáris fegyverek birtoklására.md",
     "2-Menu/Matek.md",
-    "4-tananyag/kádár korszak összefoglalás.md",
-    "4-tananyag/Kádár korszak 2.md",
-    "Csillagászat.md",
-    "4-tananyag/A hanyatlás kezdete a hetvenes években.md",
+    "4-tananyag/Történelem/Kádár rendszer/kádár korszak összefoglalás.md",
+    "4-tananyag/Történelem/Kádár rendszer/Kádár korszak 2.md",
+    "4-tananyag/Fizika/Csillagászat.md",
+    "4-tananyag/Történelem/Kádár rendszer/A hanyatlás kezdete a hetvenes években.md",
     "2-Menu/Fizika.md",
     "3-tags/Kinematika.md",
     "3-tags/Atomfizika.md",
     "images/Pasted image 20250107222836.png",
     "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
-    "4-tananyag/Radnóti Miklós.md",
-    "4-tananyag/Kozmológia.md",
+    "4-tananyag/Irodalom/Radnóti Miklós.md",
+    "4-tananyag/Fizika/Kozmológia.md",
     "images/Recording 20250106110815.m4a",
     "conflict-files-obsidian-git.md",
     "Recording 20241219110042.webm",
@@ -257,7 +259,6 @@
     "4-tananyag/Történelem/Untitled.canvas",
     "images",
     "4-tananyag/Történelem/A kétpólusú világ",
-    "4-tananyag/Történelem/2. világháború után magyarország",
-    "4-tananyag/Történelem/2. Világháború"
+    "4-tananyag/Történelem/2. világháború után magyarország"
   ]
 }

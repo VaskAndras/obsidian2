@@ -87,4 +87,4 @@ $$
 ## Összegzés:
 - A függőlegesen lefelé hajított test mozgása egyenletesen gyorsuló mozgás.
 - A függőlegesen felfelé hajított test mozgása szimmetrikus: az emelkedés és az esés időtartama azonos.
-- A gravitációs gyorsulás (\(g\)) mindig lefelé irányul, és értéke állandó.
+- A gravitációs gyorsulás (g) mindig lefelé irányul, és értéke állandó.

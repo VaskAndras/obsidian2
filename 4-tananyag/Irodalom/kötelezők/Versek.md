@@ -279,7 +279,7 @@ Mező jó illatot, az ég szép harmatot
 
 4. Jó szerecsen lovak alattok ugrálnak,  
      hogyha trombita riadt,  
-Köztök ki strázsát áll, ki lováról leszáll,  
+Köztök ki strázsát áll, ki lováról leszáll, 
      nyugszik reggel, hol virradt,  
 Midőn éjten-éjjel csataviseléssel  
      mindenik lankadt s fáradt.

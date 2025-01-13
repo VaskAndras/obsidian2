@@ -1,0 +1,68 @@
+
+
+## Törvény megfogalmazása:
+*Minden test megtartja egyenes vonalú egyenletes mozgását vagy nyugalmi állapotát mindaddig, amíg egy másik test a mozgásállapotának megváltoztatására nem kényszeríti.*
+
+---
+
+## **Fogalmak:**
+- **Mozgásállapot:** Egy test sebességének és irányának állapota.
+- **Inerciarendszer:** Olyan vonatkoztatási rendszer, amelyben a tehetetlenség törvénye érvényes.
+  - Példa: Közelítőleg a Földhöz rögzített rendszer.
+- **Zavaró tényezők:** Súrlódás, közegellenállás. Ezek elhanyagolhatósága esetén a törvény könnyebben megfigyelhető.
+
+---
+
+## **Példák Newton I. törvényére:**
+
+1. **Űrhajós az űrben:**
+   - Egy súlytalanság állapotában lebegő űrhajós, ha ellöki magát a faltól, egyenletes sebességgel halad tovább, amíg valami meg nem állítja.
+
+2. **Kartonlap és pénzérme:**
+   - Ha egy kartonlapot hirtelen kipöckölünk egy pénzérme alól, a pénzérme nyugalmi állapotban marad, mert tehetetlensége miatt nem mozdul el vele együtt.
+
+3. **Jármű fékezése:**
+   - Egy autó hirtelen fékezésekor az utas előrelendül, mert igyekszik megőrizni mozgásállapotát.
+
+---
+
+## **Kidolgozott feladatok:**
+
+### **1. Fékező mikrobuszban lévő tárgyak viselkedése:**
+- **Feladat:** Magyarázd meg, miért lendül előre a fagolyó, és miért hátra a héliumos lufi!
+- **Megoldás:**
+  - A fagolyó tehetetlensége miatt az addigi mozgásállapotának megfelelően előrelendül.
+  - A mikrobusz levegője szintén tehetetlenségénél fogva előrefelé mozog, ami nyomáskülönbséget okoz. Ez a héliumos lufit hátralendíti.
+
+---
+
+### **2. Vascső mozgása fékező teherautó platóján:**
+- **Feladat:** Mennyi idő múlva ütközik neki a vascső a sofőrkabin falának?
+- **Adatok:**
+  - Teherautó hossza: \( L = 5 \, \mathrm{m} \)
+  - Kezdeti sebesség: \( v_0 = 15 \, \mathrm{m/s} \)
+  - Lassulás: \( a = -4 \, \mathrm{m/s^2} \)
+
+- **Megoldás:**
+  - A becsapódás pillanatáig megtett utak kapcsolata:  
+    \[
+    s_1 = s_2 + L
+    \]
+    Ahol:
+    - \( s_1 = v_0 \cdot t \)
+    - \( s_2 = v_0 \cdot t + \frac{1}{2} a t^2 \)
+
+  - A fenti egyenletből időre rendezve:  
+    \[
+    t = \sqrt{\frac{2 \cdot L}{-a}} = \sqrt{\frac{2 \cdot 5}{4}} = 1.6 \, \mathrm{s}
+    \]
+
+  - **Eredmény:** A vascső \( 1.6 \, \mathrm{s} \) múlva csapódik a sofőrkabin falának.
+
+---
+
+## **Inerciarendszer fogalma:**
+- **Definíció:** Olyan vonatkoztatási rendszer, amelyben a tehetetlenség törvénye érvényes.
+- **Fontos:** Egy lassuló vagy gyorsuló rendszer, illetve forgó rendszer nem inerciarendszer.
+- **Példa:**
+  - A Föld lassú forgása miatt közelítőleg tekinthető inerciarendszernek a hétköznapi mozgások vizsgálatakor.

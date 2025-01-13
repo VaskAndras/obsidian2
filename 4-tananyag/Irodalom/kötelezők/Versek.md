@@ -270,17 +270,12 @@ engedik hogy beszéljek s meg ne haljak.
 
 ## Balassi Bálint: Egy katonaének
 
-Vitézek, mi lehet ez széles föld felett  
-     szebb dolog az végeknél?  
-Holott kikeletkor az sok szép madár szól,  
-     kivel ember ugyan él;  
-Mező jó illatot, az ég szép harmatot  
-     ád, ki kedves mindennél.
+Vitézek, mi lehet ez széles föld felett  szebb dolog az végeknél?  
+Holott kikeletkor az sok szép madár szól, kivel ember ugyan él;  
+Mező jó illatot, az ég szép harmatot  ád , ki kedves mindennél.
 
-4. Jó szerecsen lovak alattok ugrálnak,  
-     hogyha trombita riadt,  
-Köztök ki strázsát áll, ki lováról leszáll, 
-     nyugszik reggel, hol virradt,  
+4. Jó szerecsen lovak alattok ugrálnak,  hogyha trombita riadt,  
+Köztök ki strázsát áll, ki lováról leszáll,  nyugszik reggel, hol virradt,  
 Midőn éjten-éjjel csataviseléssel  
      mindenik lankadt s fáradt.
 

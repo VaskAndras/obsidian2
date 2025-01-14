@@ -270,7 +270,7 @@ engedik hogy beszéljek s meg ne haljak.
 
 ## Balassi Bálint: Egy katonaének
 
-Vitézek, mi lehet ez széles föld felett  szebb dolog az végeknél?  
+Vitézek, mi lehet ez széles föld felett   szebb dolog az végeknél?  
 Holott kikeletkor az sok szép madár szól, kivel ember ugyan él;  
 Mező jó illatot, az ég szép harmatot  ád , ki kedves mindennél.
 

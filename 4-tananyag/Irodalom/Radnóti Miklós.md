@@ -34,3 +34,5 @@ Három alkalommal utoljára volt a legrosszabb, legkeményebb
 
 ### Cím értelmezése
 A halálraítélt járkálásáról egy börtön udvara jut eszembe elsőként, ahol a magas falak között egy lebetonozott üres udvar van, ahonnan nincs kiút. Esetleg itt egy utolsó sétára gondolok. A megszólítás pedig kicsit lenéző, hogy járkálj ameddig megteheted. 
+
+### bizonyíts hogy a vers szervező elve a  hasonlat és az ellentét

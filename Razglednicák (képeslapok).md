@@ -59,4 +59,4 @@ A **Razglednicák** a költő Golgotájának egyes állomásait örökítette me
   - Halk, alig hallható verszene.
 - **Hatás:** A meghalás tragikumának közvetítése.
 
---- 
+

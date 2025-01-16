@@ -169,7 +169,8 @@ $$m\times g = V \times \rho \times g =Q \times E = Q \times \frac{U}{d}$$
 ### Alkalmazások
 -  **oszcilloszkóp**: olyan elektronikus mérőműszer, amely időben állandó vagy változó elektromos feszültségek ábrázolására és mérésére szolgál
 - ![[Pasted image 20250116083726.png]]
-- **Katódsugárcsöves tv**
+- **Katódsugárcsöves tv**:
+- ![[Pasted image 20250116083830.png]]
 ## Kvantumfizika születése 
 
 ### 1. Bevezetés a kvantumfizikába

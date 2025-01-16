@@ -1,5 +1,6 @@
 ## 1.könyv 
 [[Kinematika]]
+[[Mechanika]]
 
 
 Tananyag

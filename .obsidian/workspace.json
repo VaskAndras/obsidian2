@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f05e8e20c01da29c",
+        "id": "9eaa338736403bc2",
         "type": "tabs",
         "children": [
           {
-            "id": "36e4cf15f8034afd",
+            "id": "e41bf5e38e03ab1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Ferde hajítás.md",
+                "file": "4-tananyag/Fizika/1. A modern fizika kezdetei, az elektron felfedezése.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Ferde hajítás"
-            }
-          },
-          {
-            "id": "e856f61294e27c31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-tananyag/Irodalom/kötelezők/Versek.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Versek"
-            }
-          },
-          {
-            "id": "4f487aa0863604f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Szabó lőrinc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Szabó lőrinc"
+              "title": "1. A modern fizika kezdetei, az elektron felfedezése"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,16 +196,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e856f61294e27c31",
+  "active": "e41bf5e38e03ab1f",
   "lastOpenFiles": [
+    "Pasted image 20250116083726.png",
+    "Pasted image 20250115132642.png",
+    "Pasted image 20250115132531.png",
+    "Pasted image 20250115132418.png",
+    "3-tags/Atomfizika.md",
+    "4-tananyag/Fizika/1. A modern fizika kezdetei, az elektron felfedezése.md",
+    "2-Menu/Fizika.md",
+    "2-Menu/Magyar.md",
     "Szabó lőrinc.md",
-    "4-tananyag/Irodalom/kötelezők/Versek.md",
-    "6. Ferde hajítás.md",
+    "Razglednicák (képeslapok).md",
+    "Mechanika.md",
     "A nyugati demokráciák és a szovjet tömb az enyhülés éveibe.md",
     "A két világrendszer versengése és a szovjet blokk felbomlása.md",
+    "20 év múlva.md",
+    "6. Ferde hajítás.md",
+    "4-tananyag/Irodalom/kötelezők/Versek.md",
     "3. A dinamika alaptörvénye.md",
     "2. Newton II. és III. törvénye.md",
-    "20 év múlva.md",
     "4-tananyag/Magyar gyakorlás/teszt 2.md",
     "4-tananyag/Magyar gyakorlás/Teszt 1.md",
     "4-tananyag/Magyar gyakorlás/József Attila vers szóképek.md",
@@ -242,7 +223,6 @@
     "4-tananyag/Magyar gyakorlás/Ötletek a verselemzéshez.md",
     "4-tananyag/Irodalom/Radnóti Miklós.md",
     "4-tananyag/Magyar nyelv/1. Retorika alapjai.md",
-    "Razglednicák (képeslapok).md",
     "images/Pasted image 20250113223817.png",
     "images/Pasted image 20250113223233.png",
     "images/Pasted image 20250113145534.png",
@@ -250,19 +230,10 @@
     "images/Pasted image 20250113225934.png",
     "images/Pasted image 20250113225919.png",
     "images/Pasted image 20250113225341.png",
-    "images/Pasted image 20250113224639.png",
-    "images/Pasted image 20250113224459.png",
-    "images/Pasted image 20250113223846.png",
     "5. Vízszintes hajítás.md",
-    "Mechanika.md",
     "1. Newton I. törvénye (A tehetetlenség törvénye).md",
     "3-tags/Kinematika.md",
     "4. Függőleges hajítások.md",
-    "4-tananyag/Fizika/2. Egyenes vonalú egyenletesen gyorsuló mozgás és szabadesés.md",
-    "4-tananyag/Fizika/3. Nem nulla kezdősebességű mozgások.md",
-    "4-tananyag/Fizika/1. Kinematika Pontszerű test, pálya, út, elmozdulás.md",
-    "2-Menu/Fizika.md",
-    "4-tananyag/Magyar gyakorlás/Magyar tételek.md",
     "4-tananyag/Történelem/Kádár rendszer",
     "images/Recording 20250106110815.m4a",
     "Recording 20241219110042.webm",

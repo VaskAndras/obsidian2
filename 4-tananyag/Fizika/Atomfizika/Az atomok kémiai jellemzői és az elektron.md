@@ -119,12 +119,12 @@
   \( a = \frac{F}{m} = \frac{e \cdot E}{m} \).
 
 - **Idő a kondenzátorban való áthaladáshoz:**  
-  \( t = \frac{l}{v} \), ahol:  
+  $t = \frac{l}{v}$ , ahol:  
   - \( l \): A kondenzátor hossza.  
   - \( v \): Az elektron sebessége az elektromos térben.
 
 - **Sebességváltozás:**  
-  \( u = a \cdot t = \frac{e \cdot E}{m} \cdot \frac{l}{v} \).
+  $u = a \cdot t = \frac{e \cdot E}{m} \cdot \frac{l}{v}$.
 
 - **Függőleges eltérülés a kondenzátorból kilépésig:**  
   \( y_1 = \frac{1}{2} a \cdot t^2 = \frac{1}{2} \frac{e \cdot E}{m} \cdot \left( \frac{l}{v} \right)^2 \).

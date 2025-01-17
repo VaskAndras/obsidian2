@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-tags/Kinematika.md",
+                "file": "4-tananyag/Fizika/2. dinamika/3. A dinamika alaptörvénye.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kinematika"
+              "title": "3. A dinamika alaptörvénye"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-tananyag/Fizika/Atomfizika/Az atomok kémiai jellemzői és az elektron.md",
+                "file": "4-tananyag/Fizika/Atomfizika/1. Az atomok kémiai jellemzői és az elektron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Az atomok kémiai jellemzői és az elektron"
+              "title": "1. Az atomok kémiai jellemzői és az elektron"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,13 +211,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e41bf5e38e03ab1f",
+  "active": "712ce5b444fbdf72",
   "lastOpenFiles": [
+    "Untitled.md",
+    "4-tananyag/Fizika/Atomfizika/1. Az atomok kémiai jellemzői és az elektron.md",
+    "4-tananyag/Fizika/2. dinamika/3. A dinamika alaptörvénye.md",
+    "3-tags/Kinematika.md",
     "2-Menu/Fizika.md",
     "4-tananyag/Fizika/1. kinematika/4. Függőleges hajítások.md",
     "4-tananyag/Irodalom/20 év múlva.md",
     "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
-    "4-tananyag/Fizika/Atomfizika/Az atomok kémiai jellemzői és az elektron.md",
     "Pasted image 20250116104957.png",
     "Pasted image 20250116103759.png",
     "Pasted image 20250116103312.png",
@@ -224,7 +228,6 @@
     "4-tananyag/Fizika/Atomfizika",
     "3-tags/Atomfizika.md",
     "3-tags/Mechanika.md",
-    "4-tananyag/Fizika/2. dinamika/3. A dinamika alaptörvénye.md",
     "4-tananyag/Fizika/2. dinamika/2. Newton II. és III. törvénye.md",
     "4-tananyag/Fizika/2. dinamika/1. Newton I. törvénye (A tehetetlenség törvénye).md",
     "4-tananyag/Fizika/2. dinamika",
@@ -244,7 +247,6 @@
     "4-tananyag/Történelem/A két világrendszer versengése és a szovjet blokk felbomlása.md",
     "4-tananyag/Fizika/6. Ferde hajítás.md",
     "4-tananyag/Fizika/5. Vízszintes hajítás.md",
-    "4-tananyag/Szabó lőrinc.md",
     "images/Pasted image 20250116083830.png",
     "images/Pasted image 20250116083726.png",
     "images/Pasted image 20250115132642.png",

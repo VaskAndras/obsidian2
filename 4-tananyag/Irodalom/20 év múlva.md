@@ -25,3 +25,10 @@ elzárkózás
 második rész
 az ifjúság és egykori szerelmi emlékek újraélése
 
+*mint a mountblanc csúcsán a jég*:
+2
+
+## melyek a versnek az alapmotívumai
+- szerelem
+- jelen és a múlt szembenállítása
+- 

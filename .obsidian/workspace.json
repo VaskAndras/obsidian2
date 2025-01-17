@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
+                "file": "4-tananyag/Irodalom/20 év múlva.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A modern fizika kezdetei, az elektron felfedezése"
+              "title": "20 év múlva"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Az atomok kémiai jellemzői és az elektron"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,11 +210,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "712ce5b444fbdf72",
+  "active": "e41bf5e38e03ab1f",
   "lastOpenFiles": [
-    "Pasted image 20250116104957.png",
     "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
     "4-tananyag/Fizika/Atomfizika/Az atomok kémiai jellemzői és az elektron.md",
+    "Pasted image 20250116104957.png",
     "Pasted image 20250116103759.png",
     "Pasted image 20250116103312.png",
     "Pasted image 20250116101241.png",
@@ -252,7 +251,6 @@
     "images/Pasted image 20250115132531.png",
     "images/Pasted image 20250115132418.png",
     "Pasted image 20250116083830.png",
-    "Pasted image 20250116083726.png",
     "4-tananyag/Történelem/Kádár rendszer",
     "images/Recording 20250106110815.m4a",
     "Recording 20241219110042.webm",

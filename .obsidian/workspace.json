@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,12 +225,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e7aabd3bb94f008",
+  "active": "90baa069bb155135",
   "lastOpenFiles": [
+    "9. Tehetelenségi erők.md",
+    "2. fényelektromos jelenség.md",
+    "3. Munka, energia.md",
     "Pasted image 20250119202952.png",
     "Pasted image 20250119184543.png",
-    "3. Munka, energia.md",
-    "9. Tehetelenségi erők.md",
     "3-tags/Mechanika.md",
     "8. Lendület, lendületmegmaradás.md",
     "7. Pontrendszerek.md",
@@ -246,9 +247,7 @@
     "images/Pasted image 20250118162349.png",
     "images/Pasted image 20250118162330.png",
     "images/Pasted image 20250118161239.png",
-    "images/Pasted image 20250118161227.png",
     "6.Erőhatások a lejtőn.md",
-    "2. fényelektromos jelenség.md",
     "5. Súrlódási és közegellenállási erő.md",
     "4. Súlyerő, rugóerő.md",
     "2-Menu/Fizika.md",

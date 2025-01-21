@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Menu/Fizika.md",
+                "file": "1. Munkatétel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fizika"
+              "title": "1. Munkatétel"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "A modern fizika kezdetei, az elektron felfedezése"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,15 +210,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4e91fb2fc309cf0",
+  "active": "1265d5d1e07f28d9",
   "lastOpenFiles": [
-    "a.md",
+    "4-tananyag/Fizika/2. dinamika/9. Tehetelenségi erők.md",
+    "3-tags/Mechanika.md",
+    "2-Menu/Fizika.md",
     "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
+    "a.md",
     "1. Munkatétel.md",
     "3-tags/3. Munka, energia.md",
-    "2-Menu/Fizika.md",
     "4-tananyag/Fizika/Elektromágneses hullámok, optika/2. fényelektromos jelenség.md",
-    "4-tananyag/Fizika/2. dinamika/9. Tehetelenségi erők.md",
     "4-tananyag/Fizika/2. dinamika/8. Lendület, lendületmegmaradás.md",
     "4-tananyag/Fizika/9. Tehetelenségi erők.md",
     "4-tananyag/Fizika/8. Lendület, lendületmegmaradás.md",
@@ -238,7 +238,6 @@
     "images/Pasted image 20250120143615.png",
     "images/Pasted image 20250120143557.png",
     "9. Tehetelenségi erők.md",
-    "3-tags/Mechanika.md",
     "8. Lendület, lendületmegmaradás.md",
     "4-tananyag/Fizika/2. dinamika/7. Pontrendszerek.md",
     "4-tananyag/Fizika/2. dinamika/6.Erőhatások a lejtőn.md",

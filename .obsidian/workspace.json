@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Munkatétel.md",
+                "file": "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Munkatétel"
+              "title": "A modern fizika kezdetei, az elektron felfedezése"
+            }
+          },
+          {
+            "id": "ce6a1a3ebda60c97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,10 +225,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4e91fb2fc309cf0",
+  "active": "ce6a1a3ebda60c97",
   "lastOpenFiles": [
-    "3-tags/3. Munka, energia.md",
+    "a.md",
+    "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
     "1. Munkatétel.md",
+    "3-tags/3. Munka, energia.md",
     "2-Menu/Fizika.md",
     "4-tananyag/Fizika/Elektromágneses hullámok, optika/2. fényelektromos jelenség.md",
     "4-tananyag/Fizika/2. dinamika/9. Tehetelenségi erők.md",
@@ -247,8 +263,6 @@
     "4-tananyag/Fizika/2. dinamika/4. Súlyerő, rugóerő.md",
     "6.Erőhatások a lejtőn.md",
     "5. Súrlódási és közegellenállási erő.md",
-    "4. Súlyerő, rugóerő.md",
-    "2-Menu/Menü.md",
     "4-tananyag/Fizika/Atomfizika",
     "4-tananyag/Fizika/2. dinamika",
     "4-tananyag/Fizika/untitled folder",

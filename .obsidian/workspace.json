@@ -4,45 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "d2c87752f0322c6e",
-        "type": "tabs",
-        "dimension": 36.67621776504298,
-        "children": [
-          {
-            "id": "a4e91fb2fc309cf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Energiamegmaradás törvénye.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Energiamegmaradás törvénye"
-            }
-          },
-          {
-            "id": "8636a595079aeb52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-tananyag/Irodalom/kötelezők/Versek.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Versek"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "55b2371c084a7fc6",
         "type": "tabs",
-        "dimension": 63.323782234957015,
         "children": [
           {
             "id": "ca4eb8d2812ffcd6",
@@ -50,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. energiaforrások.md",
+                "file": "4-tananyag/Fizika/2. centripetális gyorsulás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. energiaforrások"
+              "title": "2. centripetális gyorsulás"
             }
           }
         ]
@@ -114,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -234,53 +196,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8636a595079aeb52",
+  "active": "ca4eb8d2812ffcd6",
   "lastOpenFiles": [
-    "2. centripetális gyorsulás.md",
-    "2. Energiamegmaradás törvénye.md",
-    "Pasted image 20250121220510.png",
-    "Pasted image 20250121220429.png",
-    "Pasted image 20250121220312.png",
-    "4. Körmozgás.md",
-    "1. Egyenletes körmozgás.md",
-    "Pasted image 20250121215725.png",
-    "Pasted image 20250121215608.png",
-    "Pasted image 20250121215547.png",
-    "Pasted image 20250121215518.png",
-    "6. energiaforrások.md",
-    "Pasted image 20250121215107.png",
-    "Pasted image 20250121215017.png",
-    "Pasted image 20250121215002.png",
-    "3-tags/3. Munka, energia.md",
-    "5. Ütközések energiaviszonyai.md",
-    "4.Teljesítmény, Hatásfok.md",
-    "3. rugalmassági energia.md",
+    "Pasted image 20250122122759.png",
+    "Pasted image 20250122122750.png",
+    "3-tags/4. Körmozgás.md",
+    "3. egyenletes körmozgás dinamikai feltétele.md",
+    "Pasted image 20250122122300.png",
+    "4-tananyag/Fizika/2. centripetális gyorsulás.md",
     "2-Menu/Fizika.md",
-    "1. Munkatétel.md",
-    "4-tananyag/Fizika/A modern fizika kezdetei, az elektron felfedezése.md",
-    "3-tags/Mechanika.md",
-    "4-tananyag/Fizika/2. dinamika/9. Tehetelenségi erők.md",
-    "a.md",
-    "4-tananyag/Fizika/Elektromágneses hullámok, optika/2. fényelektromos jelenség.md",
-    "4-tananyag/Fizika/2. dinamika/8. Lendület, lendületmegmaradás.md",
-    "4-tananyag/Fizika/9. Tehetelenségi erők.md",
-    "4-tananyag/Fizika/8. Lendület, lendületmegmaradás.md",
-    "4-tananyag/Fizika/2. fényelektromos jelenség.md",
-    "4-tananyag/9. Tehetelenségi erők.md",
-    "4-tananyag/8. Lendület, lendületmegmaradás.md",
-    "4-tananyag/2. fényelektromos jelenség.md",
-    "9. Tehetelenségi erők.md",
-    "8. Lendület, lendületmegmaradás.md",
+    "4-tananyag/Fizika/3. munka energia/6. energiaforrások.md",
+    "4-tananyag/Fizika/3. munka energia/5. Ütközések energiaviszonyai.md",
+    "4-tananyag/Fizika/3. munka energia/4.Teljesítmény, Hatásfok.md",
+    "4-tananyag/Fizika/3. munka energia/3. rugalmassági energia.md",
+    "4-tananyag/Fizika/3. munka energia/2. Energiamegmaradás törvénye.md",
+    "4-tananyag/Fizika/3. munka energia/1. Munkatétel.md",
+    "4-tananyag/Fizika/3. munka energia",
+    "4-tananyag/Fizika/untitled folder",
+    "4-tananyag/Fizika/1. Egyenletes körmozgás.md",
+    "4-tananyag/Fizika/6. energiaforrások.md",
+    "4-tananyag/Fizika/5. Ütközések energiaviszonyai.md",
+    "4-tananyag/Fizika/4.Teljesítmény, Hatásfok.md",
+    "4-tananyag/Fizika/3. rugalmassági energia.md",
+    "4-tananyag/Fizika/2. Energiamegmaradás törvénye.md",
+    "4-tananyag/Fizika/1. Munkatétel.md",
+    "4-tananyag/6. energiaforrások.md",
+    "4-tananyag/5. Ütközések energiaviszonyai.md",
+    "4-tananyag/4.Teljesítmény, Hatásfok.md",
+    "4-tananyag/3. rugalmassági energia.md",
+    "4-tananyag/2. Energiamegmaradás törvénye.md",
+    "4-tananyag/2. centripetális gyorsulás.md",
+    "4-tananyag/1. Munkatétel.md",
+    "4-tananyag/1. Egyenletes körmozgás.md",
+    "images/Pasted image 20250121220510.png",
+    "images/Pasted image 20250121220429.png",
+    "images/Pasted image 20250121220312.png",
+    "images/Pasted image 20250121215725.png",
+    "images/Pasted image 20250121215608.png",
+    "images/Pasted image 20250121215547.png",
+    "images/Pasted image 20250121215518.png",
+    "images/Pasted image 20250121215107.png",
     "4-tananyag/Fizika/Atomfizika",
     "4-tananyag/Fizika/2. dinamika",
-    "4-tananyag/Fizika/untitled folder",
     "4-tananyag/Fizika/1. kinematika",
     "4-tananyag/Történelem/Kádár rendszer",
     "images/Recording 20250106110815.m4a",
     "Recording 20241219110042.webm",
     "Recording 20241216155832.webm",
     "5-Daily",
-    "4-tananyag/hittan",
     "Untitled.canvas",
     "4-tananyag/Történelem/Untitled.canvas"
   ]

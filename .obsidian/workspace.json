@@ -76,9 +76,19 @@
               "icon": "lucide-file",
               "title": "kétpólusú világrend válsága, felbomlása"
             }
+          },
+          {
+            "id": "37b5627b61e4007d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -253,11 +263,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd3299254deb4443",
+  "active": "37b5627b61e4007d",
   "lastOpenFiles": [
+    "kétpólusú világrend válsága, felbomlása.md",
     "Recording 20250127113304.m4a",
     "Recording 20250127112617.m4a",
-    "kétpólusú világrend válsága, felbomlása.md",
     "Wass Albert - Üzenet haza.md",
     "pragmatika I..md",
     "Pragmatika.md",
@@ -300,7 +310,6 @@
     "4-tananyag/Történelem/Kádár rendszer",
     "images/Recording 20250106110815.m4a",
     "Recording 20241219110042.webm",
-    "Recording 20241216155832.webm",
     "Untitled.canvas",
     "4-tananyag/Történelem/Untitled.canvas"
   ]

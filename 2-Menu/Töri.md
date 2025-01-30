@@ -6,5 +6,6 @@
 [[Háburútól forradalomig]]
 [[1956-os forradalom]]
 [[Kádár Kor]]
-[[A hanyatlás kezdete a hetvenes években]]
+[[a kétpólusú világ pusztulása]]
+
 

@@ -12,7 +12,7 @@
 - 1948: „Fordulat éve” – létrejön az egypártrendszer és a proletárdiktatúra.
 - Marxista ideológia hirdetése, de sztálinista rendszer kiépítése.
 
-## 2. A diktatúra időszakai**
+## 2. A diktatúra időszakai
 ### 2.1 A sztálini diktatúra és a terror (1948–1956)
 - 1948-tól a politikai ellenfelek megsemmisítése, koncepciós perek, kivégzések.
 - A Rákosi-rendszer jellemzői:
@@ -23,7 +23,7 @@
 - 1956: Forradalom a bolsevik diktatúra és a terror ellen.
   - A forradalmat a szovjet hadsereg leveri, Kádár János kerül hatalomra.
 
-### **2.2 A Kádár-korszak és a „puha diktatúra” (1957–1989)**
+### 2.2 A Kádár-korszak és a „puha diktatúra” (1957–1989)
 - 1957–1963: Véres megtorlás, kivégzések, börtönbüntetések.
 - 1963: Amnesztia – a hatalom stabilizálása.
 - „Gulyáskommunizmus” vagy „fridzsiderszocializmus”:
@@ -31,14 +31,14 @@
   - Látszólagos szólásszabadság, de a rendszerhez hű értelmiség támogatása.
   - A pártállam irányította a kultúrát és a művelődést.
 
-## **3. A kultúra és művelődés a diktatúra évtizedeiben**
-### **3.1 A kommunista ideológia szerepe a kultúrában**
+## 3. A kultúra és művelődés a diktatúra évtizedeiben
+### 3.1 A kommunista ideológia szerepe a kultúrában
 - A kultúra az ideológiai nevelés eszközévé vált.
 - A könyvkiadás és művészet cenzúrázása:
   - Csak a párthoz hű alkotások jelenhettek meg.
   - Történelemtanítás átpolitizálása, múlt átértelmezése.
 
-### **3.2 A média és a tömegkultúra szerepe**
+### 3.2 A média és a tömegkultúra szerepe
 - A politikai rendőrség (III/III-as csoportfőnökség) figyelte az értelmiséget.
 - A nyugati kultúra hatásaitól való elzárás.
 - A televízió elterjedése és propaganda célú felhasználása:

@@ -78,12 +78,84 @@
   - Beszédszünet  
   - Beszédtempó  
 
----
-
-## Személyközi és tömegkommunikáció  
 ### **Személyközi kommunikáció**  
 - Két vagy több partner között zajlik  
 - Adó és vevő szerepe folyamatosan cserélődhet  
 - Lehet közvetlen vagy közvetett (pl. telefon)  
+- Egy adó széles befogadórétegnek küld üzenetet  
+- Általában egyirányú és közvetett  
+- Példák: sajtó, televízió, rádió, digitális média (pl. internet)  
 
-### **
+### **A tömegkommunikáció előnyei**  
+- Gyors és naprakész tájékoztatás  
+- A kultúra és tudományos eredmények széles körű terjesztése  
+- Könnyebb kapcsolattartás, kiterjedtebb kapcsolati háló  
+
+### **A tömegkommunikáció hátrányai, veszélyei**  
+- Egyoldalúság, félreinformálás  
+- Szándékos félrevezetés, manipuláció  
+- Gyorsan változó divatjelenségek, a nyelv túlzott szlengesedése  
+
+---
+
+## A média és a kommunikáció  
+- A tömegkommunikáció szorosan összefügg a médiával  
+- **Hagyományos média:** sajtó, rádió, televízió  
+- **Új média:** internetes kommunikációs csatornák, közösségi média  
+- Az internet teljesen új kommunikációs szokásokat hozott létre  
+  - **Új szóbeliség** – írott beszélt nyelv (pl. chat, kommentek)  
+  - **Új szövegformák** – mémek, rövid videók, emotikonok  
+
+### **A médiaműfajok**  
+- Hír, tudósítás  
+- Interjú  
+- Kommentár, véleménycikk  
+- Reklám  
+
+### **A reklámok kommunikációs szerepe**  
+- Fogyasztói döntések befolyásolása  
+- Érzelmekre és racionális érvekre hat  
+- Manipulatív technikák alkalmazása  
+
+---
+
+## Manipuláció a kommunikációban  
+- A manipuláció egyoldalú befolyásolás, amely során az adó célja a vevő gondolkodásának, érzelmeinek vagy viselkedésének megváltoztatása  
+- Gyakran észrevétlenül történik  
+- A manipuláció eszközei:  
+  - Érzelmekre ható érvelés  
+  - Részleges vagy torzított információ  
+  - Ismétlés és szlogenhasználat  
+  - Híres emberek vagy szakértők bevonása  
+  - Félelemkeltés  
+
+---
+
+## A kommunikációs folyamat zavarai  
+- **Zajok** – külső vagy belső tényezők, amelyek akadályozzák a megértést  
+- **Félreértések** – eltérő kódolás, kulturális különbségek, figyelmetlenség miatt  
+- **Kommunikációs gátak** – előítéletek, érdekellentétek, személyes problémák  
+
+---
+
+## Kommunikáció a digitális korban  
+- **Online kommunikáció jellemzői:**  
+  - Aszinkronitás (nem egy időben zajlik)  
+  - Írott beszédszerűség (chat, kommentek)  
+  - Rövidítések, emotikonok, GIF-ek használata  
+  - Az anonimitás hatása (személyes felelősség csökkenése)  
+
+- **Digitális kommunikáció veszélyei:**  
+  - Fake news (álhírek) terjedése  
+  - Internetes zaklatás (cyberbullying)  
+  - Adatvédelem és személyes információk védelme  
+
+---
+
+## Összegzés  
+- A kommunikáció az emberi kapcsolatok alapja  
+- Több tényező határozza meg (adó, vevő, csatorna, kód, kontextus stb.)  
+- Számos funkciója van (tájékoztatás, érzelemkifejezés, felhívás stb.)  
+- Különböző típusai léteznek (személyközi, tömegkommunikáció, verbális, nonverbális)  
+- A modern technológia új kommunikációs formákat hozott létre  
+- Fontos a tudatos és kritikus kommunikációs magatartás  

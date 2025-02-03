@@ -102,6 +102,9 @@ Jugoszláv kommunista vezető, aki független külpolitikát folytatott a Szovje
 
 Nyugat-Németország kancellárja (1982–1998). Jelentős szerepe volt Németország újraegyesítésében és az Európai Unió bővítésében.
 
+-  Walesa _ lengyel mozgalom vezetője
+- Havel - cseszlovák író
+
 
 **A Szovjetunió felbomlása**
 

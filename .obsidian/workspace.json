@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1fdc7adedbd3c58e",
+        "id": "591c215b2832827b",
         "type": "tabs",
         "children": [
           {
-            "id": "66ef14da7b8a7773",
+            "id": "2f71d42a6940b0c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Felhajtóerő.md",
+                "file": "3 Molekuláris jelenségek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.Felhajtóerő"
+              "title": "3 Molekuláris jelenségek"
             }
           }
         ]
@@ -198,18 +198,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "66ef14da7b8a7773",
+  "active": "2f71d42a6940b0c2",
   "lastOpenFiles": [
-    "Pasted image 20250209154402.png",
+    "Pasted image 20250209191427.png",
     "13.Folyadékok, gázok mechanikája.md",
-    "2.Felhajtóerő.md",
+    "3 Molekuláris jelenségek.md",
+    "OH-FIZ910E__teljes (dragged).pdf",
     "1. Nyomásviszonyok.md",
+    "2.Felhajtóerő.md",
+    "Pasted image 20250209191216.png",
+    "Pasted image 20250209191207.png",
+    "Pasted image 20250209191157.png",
+    "Pasted image 20250209190415.png",
+    "Pasted image 20250209154402.png",
     "Pasted image 20250209154237.png",
     "Pasted image 20250209154205.png",
     "Pasted image 20250209153720.png",
     "Pasted image 20250209153505.png",
     "Angol_közép_2021_máj_rövid.md",
-    "OH-FIZ910E__teljes (dragged).pdf",
     "Pasted image 20250209151349.png",
     "2-Menu/Fizika.md",
     "2-Menu/Menü.md",
@@ -233,18 +239,12 @@
     "4-tananyag/Fizika/4. körmozgás",
     "4-tananyag/Fizika/untitled folder",
     "4-tananyag/Történelem/kétpólusú világrend megszűnése/2.A nyugati demokráciák és a szovjet tömb az enyhülés éveiben.md",
-    "4-tananyag/Történelem/kétpólusú világrend megszűnése/1. Szembenállás de enyhülés.md",
     "4-tananyag/Történelem/kétpólusú világrend megszűnése",
     "4-tananyag/Történelem/untitled folder",
     "images/Recording 20250127113304.m4a",
     "images/Recording 20250127112617.m4a",
-    "images/Pasted image 20250122122759.png",
-    "images/Pasted image 20250122122750.png",
-    "images/Pasted image 20250122122300.png",
     "Recording 20250127113304.m4a",
     "Recording 20250127112617.m4a",
-    "Pasted image 20250122122759.png",
-    "Pasted image 20250122122750.png",
     "4-tananyag/Fizika/3. munka energia",
     "Untitled.canvas",
     "4-tananyag/Történelem/Untitled.canvas"

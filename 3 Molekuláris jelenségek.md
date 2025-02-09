@@ -63,7 +63,7 @@
   - **Homorú meniszkusz**: Adhéziós erő nagyobb, mint a kohéziós erő.
   - **Domború meniszkusz**: Kohéziós erő nagyobb, mint az adhéziós erő.
 - **Példa**: Víz és üveg, higany és üveg.
-  
+  ![[Pasted image 20250209210615.png]]
 ## 10. Alkalmazások
 - **Viaszos felületek**: Vízlepergetés viasz bevonattal.
   - **Példa**: Cipő, asztalterítő, szélvédő impregnált felületei.

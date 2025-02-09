@@ -3,7 +3,7 @@
 [[Mechanika]]
 [[3. Munka, energia]]
 [[4. Körmozgás]]
-
+[[13.Folyadékok, gázok mechanikája]]
 
 Tananyag
 [[3-tags/Váltóáram]]

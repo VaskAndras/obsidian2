@@ -7,5 +7,6 @@
 [[1956-os forradalom]]
 [[Kádár Kor]]
 [[a kétpólusú világ pusztulása]]
+[[Magyar privatizáció és harmadik köztársaság]]
 
 

@@ -6,4 +6,5 @@
 
 [[kétpólusú világrend válsága, felbomlása]]
 [[A kétpólusú világ meszünése összefoglaló]]
+[[A nyugati demokráciák és a szovjet tömb az enyhülés éveibe]]
 

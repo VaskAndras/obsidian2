@@ -8,4 +8,7 @@
 - [[TED vs mindenki akadémiája]]
 - [[Az érvek fajtái]]
 - [[Retorika előadások]]
+- [[Pragmatika]]
+- [[pragmatika I.]]
+- [[Kommunikáció]]
 - 

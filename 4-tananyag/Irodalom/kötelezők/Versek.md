@@ -358,3 +358,23 @@ magyarokhoz 1 1.
 osztályrászem 1. 
 katullus gyűlölök megvan
 lírikus epilógia
+
+
+## Márc:
+
+### Nagy László - KI VISZI ÁT A SZERELMET
+
+Létem ha végleg lemerűlt  
+ki imád tücsök-hegedűt?  
+Lángot ki lehel deres ágra?  
+Ki feszül föl a szivárványra?  
+Lágy hantu mezővé a szikla-  
+csípőket ki öleli sírva?  
+Ki becéz falban megeredt  
+hajakat, verőereket?  
+S dúlt hiteknek kicsoda állít  
+káromkodásból katedrálist?  
+Létem ha végleg lemerűlt,  
+ki rettenti a keselyűt!  
+S ki viszi át fogában tartva  
+a Szerelmet a túlsó partra!

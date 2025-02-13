@@ -1,6 +1,3 @@
----
-banner: "![[light-of-sunset-digital-art_3840x2160_xtrafondos.com.jpg]]"
----
 ## Feladatok
 
 

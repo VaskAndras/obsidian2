@@ -11,4 +11,6 @@
 - [[Pragmatika]]
 - [[pragmatika I.]]
 - [[Kommunikáció]]
-- 
+
+[[ nyelv és gondolkodás]]
+[[magyar nyelvi kisebbségek]]

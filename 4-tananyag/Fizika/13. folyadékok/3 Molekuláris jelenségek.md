@@ -56,6 +56,7 @@
 - **Kapcsolat**: $W = \sigma \cdot \Delta A$.
 - **Hőmérséklet hatása**: A felületi feszültség csökkenthető magasabb hőmérsékleten.
 - **Kísérlet**: Folyadék felületének megváltoztatásával végzett munka mérése.
+- Felületi feszültség ereje: $F=\frac{\sigma}{2l}$
 
 ## 9. Nedvesítés jelensége
 - **Leírás**: Folyadékok alakja az edény falán.

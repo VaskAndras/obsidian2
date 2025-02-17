@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "326df4da63ef773f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-tananyag/Irodalom/kötelezők/Versek.md",
+                "file": "2. Merev test egyensúlya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Versek"
+              "title": "2. Merev test egyensúlya"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -198,12 +199,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "326df4da63ef773f",
   "lastOpenFiles": [
+    "Pasted image 20250217112014.png",
+    "Pasted image 20250217111734.png",
+    "Pasted image 20250217111711.png",
+    "Pasted image 20250217111657.png",
+    "Pasted image 20250217111622.png",
+    "Pasted image 20250217111603.png",
+    "Pasted image 20250217111336.png",
+    "Pasted image 20250217111257.png",
+    "Pasted image 20250217111236.png",
+    "3-tags/6. A merev test egyensúlya.md",
+    "2. Merev test egyensúlya.md",
+    "1. pontszerű test egyensúlya.md",
+    "Pasted image 20250217103101.png",
+    "Pasted image 20250217103045.png",
+    "2-Menu/Fizika.md",
+    "4-tananyag/Irodalom/kötelezők/Versek.md",
     "2-Menu/Magyar.md",
+    "2-Menu/Menü.md",
     "3-tags/magyar/Irodalom.md",
     "4-tananyag/Irodalom/Nagy László.md",
-    "2-Menu/Menü.md",
     "4-tananyag/Matek/1. tétel Halmazok, halmazműveletek. Nevezetes ponthalmazok a síkban és a térben.md",
     "2-Menu/Matek.md",
     "4-tananyag/Fizika/5. rezgőmozgás/6. Kényszerrezgések.md",
@@ -222,23 +239,7 @@
     "4-tananyag/Fizika/1. Mechanikai rezgések leírása.md",
     "4-tananyag/összefoglalás.md",
     "4-tananyag/nyelv és gondolkodás.md",
-    "4-tananyag/magyar nyelvi kisebbségek.md",
-    "4-tananyag/6. Kényszerrezgések.md",
-    "4-tananyag/5. Rezgés energiája.md",
-    "4-tananyag/4. Lengésidő.md",
-    "4-tananyag/3. Rezgésidő.md",
-    "4-tananyag/2. Harmonikus rezgőmozgás kinematikája.md",
     "images/Recording 20250213103151.m4a",
-    "images/Pasted image 20250214171525.png",
-    "images/Pasted image 20250214171510.png",
-    "images/Pasted image 20250214171455.png",
-    "images/Pasted image 20250214171437.png",
-    "images/Pasted image 20250214171406.png",
-    "images/Pasted image 20250214154616.png",
-    "images/Pasted image 20250214152943.png",
-    "images/Pasted image 20250214152925.png",
-    "images/Pasted image 20250214152912.png",
-    "images/Pasted image 20250214152829.png",
     "Recording 20250213103151.m4a",
     "4-tananyag/Fizika/13. folyadékok",
     "images/OH-FIZ910E__teljes (dragged).pdf",

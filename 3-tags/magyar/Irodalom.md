@@ -25,3 +25,4 @@ Poszmodern
 [[Nagy László]]
 [[Wass Albert - Üzenet haza]]
 [[Razglednicák (képeslapok)]]
+[[Nagy László]]

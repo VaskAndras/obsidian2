@@ -8,5 +8,6 @@
 [[Kádár Kor]]
 [[a kétpólusú világ pusztulása]]
 [[Magyar privatizáció és harmadik köztársaság]]
+[[Eu működése]]
 
 

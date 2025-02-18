@@ -6,7 +6,8 @@
 [[5. Rezgőmozgás]]
 [[6. A merev test egyensúlya]]
 [[7. Forgómozgás]]
-[[8. Az égbolt vizsgálata]]
+[[8. Gravitáció és naprendszer]]
+
 
 
 

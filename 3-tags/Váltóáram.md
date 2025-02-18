@@ -9,3 +9,4 @@
 - [[Váltóáram esszék]]
 - [[Váltakozó áramú generátorok]]
 - [[Váltakozó áramú motorok]]
+- 

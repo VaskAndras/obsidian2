@@ -170,3 +170,56 @@ A rendszerváltoztatás azonban nemcsak sikereket, hanem nehézségeket is hozot
   
 
 A rendszerváltás Magyarországon az 1980-as évek végén kezdődött és 1990-ben teljesedett ki az első szabad választásokkal. Az eseményeket a gazdasági válság, a belső reformok és a nemzetközi helyzet egyaránt elősegítette. A politikai változásokat gazdasági reformok követték, amelyek bár hosszú távon sikeresnek bizonyultak, rövid távon jelentős társadalmi nehézségeket okoztak. A magyar rendszerváltás történelmileg kiemelkedő esemény, amely meghatározta az ország modern politikai és gazdasági fejlődését.
+
+
+## érettségi esszék
+### 2011 hosszú
+# A rendszerváltás közjogi fordulata Magyarországon
+
+## Bevezetés
+
+A rendszerváltás Magyarországon az 1989–90-es években zajlott le, és gyökeres változást hozott az ország politikai és jogi berendezkedésében. A korábbi szocialista népköztársasági rendszer helyébe egy demokratikus jogállam lépett. Az alkotmányos átalakulás három fő területet érintett: az államformát, az alkotmányos berendezkedést és az emberi jogok érvényesülését. Az alábbiakban bemutatom, hogy miként valósult meg ez a fordulat, és milyen hatása volt a magyar közjogra.
+
+## Az államforma változása
+
+A rendszerváltás előtti Magyarország államformája a Magyar Népköztársaság volt, amelyet az 1949-es szovjet mintára készült alkotmány szabályozott. Az alkotmány kimondta: 
+
+> „1. § Magyarország: népköztársaság.  
+> 1. § A Magyar Népköztársaság szocialista állam. A Magyar Népköztársaságban minden hatalom a dolgozó népé.”
+
+Bár a népköztársaság kifejezés demokratikus berendezkedésre utalhatna, a gyakorlatban ez egy kommunista diktatúrát takart, amelyet az egypárti rendszer, a szovjet befolyás és a politikai elnyomás jellemzett. Az állam valójában a Magyar Szocialista Munkáspárt (MSZMP) kizárólagos hatalma alatt működött, és az alkotmány a szocialista ideológia elvei szerint volt megfogalmazva.
+
+1989-ben az Alkotmány módosításával Magyarország államformája megváltozott:
+
+> „1. § Magyarország: köztársaság.  
+> 1. § A Magyar Köztársaság független, demokratikus jogállam. A Magyar Köztársaságban minden hatalom a népé.”
+
+A népköztársaság helyett köztársaság lett az ország hivatalos államformája, ami már egyértelműen a demokratikus berendezkedést jelezte. Ez a változás szimbolikusan és jogilag is a kommunista diktatúra végét és a demokratikus jogállamiság kezdetét jelentette. A köztársaság kikiáltására 1989. október 23-án került sor, Antall József és más demokratikus politikai vezetők közreműködésével.
+
+## Az alkotmányos berendezkedés átalakulása
+
+A rendszerváltás előtt Magyarország egy szocialista pártállam volt, amelyben az MSZMP irányította az államot, a gazdaságot és a társadalmi életet. Az állampárt kizárólagos hatalma biztosította, hogy az országban ne működjön demokratikus politikai verseny, és a választások csupán formálisak voltak.
+
+A rendszerváltás egyik legfontosabb fordulata az alkotmányos berendezkedés demokratizálása volt. Az 1989-es alkotmánymódosítás kinyilvánította, hogy Magyarország független, demokratikus jogállam, amelyben tilos a hatalom erőszakos megszerzése és kizárólagos birtoklása. Ez a rendelkezés egyértelműen lezárta az egypártrendszer korszakát, és megteremtette a többpárti demokrácia jogi alapjait.
+
+A demokratikus berendezkedés fontos eleme volt a hatalmi ágak szétválasztása. Az új alkotmány rögzítette, hogy az ország parlamentáris demokráciává válik, ahol a törvényhozás a választott országgyűlés kezében van, a végrehajtó hatalom a kormányra hárul, és a bírói hatalom függetlenné válik. A politikai pluralizmus biztosítása érdekében szabad választásokat tartottak, amelyeken több párt is indulhatott, megszűnt az állampárt kizárólagos uralma.
+
+## Az emberi jogok érvényesülése
+
+A rendszerváltás előtti Magyarországon az alkotmány formálisan biztosította bizonyos alapvető jogokat, azonban ezek a gyakorlatban nem érvényesültek teljes mértékben. Az 1949-es alkotmány például kimondta:
+
+> „63. § A Magyar Népköztársaság biztosítja az állampolgárok lelkiismereti szabadságát és a vallás szabad gyakorlásának jogát.”  
+> „64. § A Magyar Népköztársaság a szocializmus, a nép érdekeinek megfelelően biztosítja a szólásszabadságot, a sajtószabadságot és a gyülekezési szabadságot.”
+
+Bár ezek a jogok papíron léteztek, valójában a szocialista állam korlátozta a vallásszabadságot, a szólásszabadságot és a politikai véleménynyilvánítást. Az egyházakat állami ellenőrzés alatt tartották, az ellenzéki véleményeket elnyomták, a sajtót pedig a kommunista párt irányította.
+
+Az 1989-es alkotmánymódosítás után viszont az emberi jogok valóban érvényesülni kezdtek:
+
+> „60. § A Magyar Köztársaságban mindenkinek joga van a gondolat, a lelkiismeret és a vallás szabadságára. A Magyar Köztársaságban az egyház az államtól elválasztva működik.”  
+> „61. § A Magyar Köztársaságban mindenkinek joga van a véleménynyilvánítás és a szólás szabadságához, továbbá a közérdekű adatok megismeréséhez, valamint terjesztéséhez.”
+
+A szólásszabadság, a sajtószabadság és a gyülekezési szabadság ténylegesen érvényesült, így a politikai életben való részvétel lehetősége minden állampolgár számára biztosított lett. A vallásszabadság garantálása és az egyház államtól való elválasztása is új szintre lépett, hiszen az egyházak visszakapták korábbi jogköreiket és függetlenségüket.
+
+## Következtetés
+
+A rendszerváltás közjogi szempontból Magyarország történetének egyik legfontosabb fordulópontja volt. Az államforma népköztársaságból köztársasággá változott, az egypárti diktatúrát egy demokratikus többpárti rendszer váltotta fel, és az emberi jogok valódi védelmet kaptak. Ezek az átalakulások nemcsak formális változásokat jelentettek, hanem a magyar társadalom és jogrendszer alapvető demokratizálódását is. Az 1989-es alkotmánymódosítás előkészítette az utat a szabad választások, a politikai pluralizmus és a jogállamiság felé, amelyek máig meghatározzák Magyarország demokratikus működését.

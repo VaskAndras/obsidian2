@@ -26,3 +26,4 @@ Poszmodern
 [[Wass Albert - Üzenet haza]]
 [[Razglednicák (képeslapok)]]
 [[Nagy László]]
+[[Nemes Nagy Ágnes és Örkény István]]

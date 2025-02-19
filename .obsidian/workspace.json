@@ -49,8 +49,7 @@
               "title": "Nemes Nagy Ágnes és Örkény István"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -228,7 +226,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "decf0073ab6ccc71",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "4-tananyag/Irodalom/Világkép és ábrázolásmód Herczeg Ferenc Az élet kapuja c művében.md",
     "4-tananyag/összefoglalás.md",

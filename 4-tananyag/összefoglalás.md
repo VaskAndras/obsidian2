@@ -24,7 +24,7 @@
 
 • **FKGP (Független Kisgazdapárt)**: A két világháború közötti időszakban is létező, főként parasztságot képviselő párt, amely a rendszerváltáskor újjáalakult.
 
-• **KGMP (Konzervatív Keresztény Párt)**: Kevésbé jelentős, keresztény-konzervatív politikai kezdeményezés a rendszerváltás időszakában.
+• **KDNP (Kereszténydemokrata Néppárt)**: Kevésbé jelentős, keresztény-konzervatív politikai kezdeményezés a rendszerváltás időszakában.
 
   
 

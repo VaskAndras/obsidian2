@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "375d8f9bdc9ad5f2",
+        "id": "098b56de1af5f255",
         "type": "tabs",
         "children": [
           {
-            "id": "efa1deb036180323",
+            "id": "4c251b65b26eba97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-tananyag/összefoglalás.md",
-                "mode": "preview",
+                "file": "2-Menu/Fizika.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "összefoglalás"
+              "title": "Fizika"
+            }
+          },
+          {
+            "id": "a26ef17f269fe9d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "szókapcsolatok.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "szókapcsolatok"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5f507e68ebf77c74",
@@ -198,44 +214,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "efa1deb036180323",
+  "active": "a26ef17f269fe9d2",
   "lastOpenFiles": [
-    "4-tananyag/Magyar privatizáció és harmadik köztársaság.md",
-    "2-Menu/Töri.md",
-    "4-tananyag/összefoglalás.md",
-    "4-tananyag/Történelem/3. A piacgazdaság kiépítése.md",
-    "4-tananyag/Irodalom/Világkép és ábrázolásmód Herczeg Ferenc Az élet kapuja c művében.md",
-    "4-tananyag/Történelem/2. A demokratikus rendszer kiépítése.md",
-    "4-tananyag/Történelem/1.rendszerváltás és az első magyar választások.md",
-    "Nemes Nagy Ágnes és Örkény István.md",
-    "3-tags/magyar/Irodalom.md",
-    "2-Menu/Magyar.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "2-Menu/Menü.md",
-    "4. Súly és súlytalanság.md",
-    "Pasted image 20250218233058.png",
-    "Pasted image 20250218233018.png",
-    "Pasted image 20250218233009.png",
-    "Pasted image 20250218232957.png",
-    "Pasted image 20250218232942.png",
-    "Pasted image 20250218232935.png",
-    "8. Gravitáció és naprendszer.md",
-    "3.A gravitáció elmélete.md",
-    "Pasted image 20250218232802.png",
-    "Pasted image 20250218232751.png",
-    "Pasted image 20250218232740.png",
-    "Pasted image 20250218232731.png",
-    "2. az égitestek mozgása.md",
+    "3-tags/magyar/Nyelvtan.md",
+    "szókapcsolatok.md",
     "2-Menu/Fizika.md",
-    "1. Az égbolt vizsgálata.md",
-    "4. Merev test mozgási energiája.md",
-    "7. Forgómozgás.md",
-    "3. perdület.md",
-    "2. A forgómozgás alapegyenlete.md",
-    "1. Forgómozgás kinematikája.md",
+    "4-tananyag/Fizika/7. Forgómozgás.md",
     "3-tags/6. A merev test egyensúlya.md",
-    "3. egyszerű gépek.md",
+    "3-tags/5. Rezgőmozgás.md",
+    "4-tananyag/Fizika/5. rezgőmozgás/3. Rezgésidő.md",
+    "4-tananyag/Fizika/5. rezgőmozgás/4. Lengésidő.md",
+    "4-tananyag/Fizika/5. rezgőmozgás/5. Rezgés energiája.md",
+    "Untitled 1.md",
+    "4-tananyag/Fizika/8. Gravitáció és naprendszer.md",
+    "4-tananyag/Fizika/4. Súly és súlytalanság.md",
+    "4-tananyag/Fizika/4. Merev test mozgási energiája.md",
+    "4-tananyag/Fizika/3.A gravitáció elmélete.md",
+    "4-tananyag/Fizika/3. perdület.md",
+    "4-tananyag/Fizika/3. egyszerű gépek.md",
+    "4-tananyag/Fizika/2. Merev test egyensúlya.md",
+    "4-tananyag/Fizika/2. az égitestek mozgása.md",
+    "4-tananyag/Fizika/2. A forgómozgás alapegyenlete.md",
+    "4-tananyag/Fizika/1. pontszerű test egyensúlya.md",
+    "4-tananyag/Fizika/1. Forgómozgás kinematikája.md",
+    "4-tananyag/Fizika/1. Az égbolt vizsgálata.md",
+    "4-tananyag/Nemes Nagy Ágnes és Örkény István.md",
+    "4-tananyag/Magyar privatizáció és harmadik.md",
+    "4-tananyag/Eu működése.md",
+    "4-tananyag/Az Európai Unió kialakulása és felépítése.md",
+    "images/Pasted image 20250218233058.png",
+    "images/Pasted image 20250218233018.png",
+    "images/Pasted image 20250218233009.png",
+    "images/Pasted image 20250218232957.png",
+    "images/Pasted image 20250218232942.png",
+    "images/Pasted image 20250218232935.png",
+    "images/Pasted image 20250218232802.png",
+    "images/Pasted image 20250218232751.png",
+    "images/Pasted image 20250218232740.png",
+    "images/Pasted image 20250218232731.png",
     "Untitled.canvas",
     "4-tananyag/Fizika/5. rezgőmozgás",
     "4-tananyag/Fizika/untitled folder",

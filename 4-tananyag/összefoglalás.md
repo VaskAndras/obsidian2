@@ -75,7 +75,7 @@
 
 **Ellenzéki és közéleti személyiségek**
 
-• **Csóri Sándor**: Költő, író és az MDF egyik alapítója. Jelentős szerepet játszott a nemzeti-konzervatív gondolkodásban és a rendszerváltás szellemi előkészítésében.
+• **Csoóri Sándor**: Költő, író és az MDF egyik alapítója. Jelentős szerepet játszott a nemzeti-konzervatív gondolkodásban és a rendszerváltás szellemi előkészítésében.
 
 • **Csurka István**: Író, publicista és politikus. Az MDF egyik meghatározó tagja, majd később radikális jobboldali nézetei miatt kivált és megalapította a MIÉP-et (Magyar Igazság és Élet Pártja).
 

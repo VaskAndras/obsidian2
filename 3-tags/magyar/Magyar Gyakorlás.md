@@ -12,3 +12,5 @@
 - [[Költői eszközök 1]] 
 - [[Ötletek a verselemzéshez]]
 - [[Ötletek a novellaelemzéshez]]
+- [[Szószerkezetek]]
+- 

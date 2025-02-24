@@ -8,3 +8,4 @@ Kötelezők:
 
 Tételek:
 [[Magyar tételek]]
+[[zsombor mann]]

@@ -224,7 +224,7 @@ Nincsen számodra hely;
 Áldjon vagy verjen sors keze:  
 Itt élned, halnod kell.
 
-## Radnóti Miklós: Hetedik 
+## Radnóti Miklós: Hetedik ecloga
 
 Búvó otthoni táj! Ó, megvan-e még az az otthon?  
 Bomba sem érte talán? s van, mint amikor bevonultunk?  

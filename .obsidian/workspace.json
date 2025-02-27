@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Menu/Menü.md",
+                "file": "4-tananyag/Fizika/4. körmozgás/4. Egyenletesen változó körmozgás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Menü"
+              "title": "4. Egyenletesen változó körmozgás"
             }
           },
           {
@@ -214,8 +214,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "tikz.md",
+    "3-tags/4. Körmozgás.md",
+    "4-tananyag/Fizika/4. körmozgás/3. egyenletes körmozgás dinamikai feltétele.md",
+    "2-Menu/Fizika.md",
     "2-Menu/Menü.md",
+    "tikz.md",
     "Memoriterek.md",
     "4-tananyag/Irodalom/kötelezők/Versek.md",
     "4-tananyag/Fizika/2. A forgómozgás alapegyenlete.md",
@@ -223,7 +226,6 @@
     "4-tananyag/Fizika/1. Forgómozgás kinematikája.md",
     "4-tananyag/Fizika/4. Merev test mozgási energiája.md",
     "4-tananyag/Fizika/3. perdület.md",
-    "2-Menu/Fizika.md",
     "2-Menu/Matek.md",
     "2-Menu/Töri.md",
     "3-tags/II. világháború.md",
@@ -242,11 +244,9 @@
     "Pasted image 20250221093917.png",
     "Pasted image 20250221093848.png",
     "Pasted image 20250221093839.png",
-    "Szószerkezetek.md",
     "Pasted image 20250221092842.png",
     "Pasted image 20250221092756.png",
     "Pasted image 20250221092656.png",
-    "3-tags/magyar/Magyar Gyakorlás.md",
     "images/Pasted image 20250218233058.png",
     "images/Pasted image 20250218233018.png",
     "images/Pasted image 20250218233009.png",

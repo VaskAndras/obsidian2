@@ -35,8 +35,7 @@
               "title": "tikz"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +212,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b926b8e6e36aa737",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2-Menu/Menü.md",
     "tikz.md",
+    "2-Menu/Menü.md",
     "Memoriterek.md",
     "4-tananyag/Irodalom/kötelezők/Versek.md",
     "4-tananyag/Fizika/2. A forgómozgás alapegyenlete.md",

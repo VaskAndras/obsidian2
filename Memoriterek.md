@@ -45,10 +45,12 @@ Létem ha végleg lemerűlt
 ki imád tücsök-hegedűt?  
 Lángot ki lehel deres ágra?  
 Ki feszül föl a szivárványra?  
+
 Lágy hantu mezővé a szikla-  
 csípőket ki öleli sírva?  
 Ki becéz falban megeredt  
 hajakat, verőereket?  
+
 S dúlt hiteknek kicsoda állít  
 káromkodásból katedrálist?  
 Létem ha végleg lemerűlt,  

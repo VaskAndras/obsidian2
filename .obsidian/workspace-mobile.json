@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Memoriterek.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -161,10 +161,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "4-tananyag/Irodalom/kötelezők/Versek.md",
-    "2-Menu/Magyar.md",
     "2-Menu/Menü.md",
     "Memoriterek.md",
+    "4-tananyag/Irodalom/kötelezők/Versek.md",
+    "2-Menu/Magyar.md",
     "2-Menu/Fizika.md",
     "4-tananyag/Fizika/2. Merev test egyensúlya.md",
     "3-tags/6. A merev test egyensúlya.md",

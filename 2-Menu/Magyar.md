@@ -5,6 +5,7 @@ Tantárgyak:
 
 Kötelezők:
 [[Versek]]
+[[Memoriterek]]
 
 Tételek:
 [[Magyar tételek]]

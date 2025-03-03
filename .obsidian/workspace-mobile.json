@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memoriterek.md",
-                "mode": "preview",
+                "file": "4-tananyag/Matek/1. tétel Halmazok, halmazműveletek. Nevezetes ponthalmazok a síkban és a térben.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memoriterek"
+              "title": "1. tétel Halmazok, halmazműveletek. Nevezetes ponthalmazok a síkban és a térben"
             }
           }
         ]
@@ -161,9 +161,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2-Menu/Magyar.md",
+    "2-Menu/Matek.md",
     "2-Menu/Menü.md",
     "Memoriterek.md",
+    "2-Menu/Magyar.md",
     "4-tananyag/Irodalom/kötelezők/Versek.md",
     "2-Menu/Fizika.md",
     "4-tananyag/Fizika/2. Merev test egyensúlya.md",

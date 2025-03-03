@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "Brendon"
             }
+          },
+          {
+            "id": "ea7fb671fcea38fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,10 +237,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7151a26c4647fc49",
+  "active": "ea7fb671fcea38fb",
   "lastOpenFiles": [
-    "Brendon.md",
     "parraghy anna.md",
+    "Brendon.md",
     "4-tananyag/Memoriterek.md",
     "4-tananyag/Fizika/4. Merev test mozgási energiája.md",
     "Szószerkezetek.md",

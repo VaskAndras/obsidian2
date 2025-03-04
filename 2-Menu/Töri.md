@@ -10,4 +10,5 @@
 [[Magyar privatizáció és harmadik# köztársaság]]
 [[Eu működése]]
 
-
+## Témakörök vázlatból
+[[Athéni demokrácia]]

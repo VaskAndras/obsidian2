@@ -27,3 +27,4 @@ Poszmodern
 [[Razglednicák (képeslapok)]]
 [[Nagy László]]
 [[Nemes Nagy Ágnes és Örkény István]]
+[[Szabó Magda]]

@@ -13,4 +13,5 @@
 - [[Ötletek a verselemzéshez]]
 - [[Ötletek a novellaelemzéshez]]
 - [[Szószerkezetek]]
+- [[Témakifejtő esszé]]
 - 

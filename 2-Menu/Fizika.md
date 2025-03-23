@@ -8,7 +8,7 @@
 [[7. Forgómozgás]]
 [[8. Gravitáció és naprendszer]]
 [[9. Hőtan]]
-
+[[10. hőtan főtételei]]
 
 
 

@@ -9,9 +9,8 @@
 [[8. Gravitáció és naprendszer]]
 [[9. Hőtan]]
 [[10. hőtan főtételei]]
-
-
-
+[[11. Halmazállapot változások]]
+[[12. Hőterjedés]]
 [[13.Folyadékok, gázok mechanikája]]
 
 Tananyag

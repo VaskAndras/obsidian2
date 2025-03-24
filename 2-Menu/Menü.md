@@ -1,8 +1,6 @@
 ## Feladatok
 
 
-
-
 Tartalom
 [[Angol]]
 [[Fizika]]

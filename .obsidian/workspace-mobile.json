@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Athéni demokrácia.md",
+                "file": "4-tananyag/Fizika/1. a hőtan első főtétele.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Athéni demokrácia"
+              "title": "1. a hőtan első főtétele"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "61206842c063de71",
+    "id": "17e87c9c039b6531",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "191c8742f9e2734e",
+        "id": "bbbcddd7affc98f3",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "25f00d4747297be8",
+        "id": "e9dc291f5159b111",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,20 +61,22 @@
         }
       },
       {
-        "id": "022ea37ec628cbac",
+        "id": "4db329e5ed399129",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-tags",
           "title": "Tags"
         }
       },
       {
-        "id": "1406d3e2ebfcd59d",
+        "id": "9dbd79433e13750b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -87,16 +89,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "9d6278566328b988",
+    "id": "99c2c0d3d6537fb6",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "7f0f10356fd16659",
+        "id": "6b1c12c8c71143d9",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Memoriterek.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
         }
       },
       {
-        "id": "5cf28e5bef0778c7",
+        "id": "a726fda6325f31fe",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -123,23 +124,27 @@
         }
       },
       {
-        "id": "c8e37d8464e11a71",
+        "id": "2608fbabcb962f07",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
       },
       {
-        "id": "b8a683947bc32748",
+        "id": "a08ab4f87f696e5d",
         "type": "leaf",
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       }
     ],
@@ -153,33 +158,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2-Menu/Töri.md",
-    "2-Menu/Menü.md",
-    "4-tananyag/Memoriterek.md",
-    "2-Menu/Magyar.md",
-    "4-tananyag/Fizika/4. körmozgás/4. Egyenletesen változó körmozgás.md",
-    "4-tananyag/Fizika/4. körmozgás/3. egyenletes körmozgás dinamikai feltétele.md",
-    "4-tananyag/Fizika/4. körmozgás/2. centripetális gyorsulás.md",
-    "4-tananyag/Fizika/4. körmozgás/1. Egyenletes körmozgás.md",
-    "4-tananyag/Matek/1. tétel Halmazok, halmazműveletek. Nevezetes ponthalmazok a síkban és a térben.md",
-    "2-Menu/Matek.md",
-    "Memoriterek.md",
-    "4-tananyag/Irodalom/kötelezők/Versek.md",
+    "3-tags/10. hőtan főtételei.md",
     "2-Menu/Fizika.md",
-    "4-tananyag/Fizika/2. Merev test egyensúlya.md",
-    "3-tags/6. A merev test egyensúlya.md",
-    "4-tananyag/Fizika/1. pontszerű test egyensúlya.md",
-    "3-tags/5. Rezgőmozgás.md",
-    "3-tags/4. Körmozgás.md",
-    "4-tananyag/Történelem/1.rendszerváltás és az első magyar választások.md",
-    "4-tananyag/Magyar privatizáció és harmadik köztársaság.md",
-    "Magyar privatizáció és harmadik.md",
-    "Razglednicák (képeslapok).md",
-    "hittan prezi.md"
+    "4-tananyag/Fizika/1. Halmazállapotok.md",
+    "3-tags/11. Halmazállapot változások.md",
+    "3-tags/12. Hőterjedés.md",
+    "4-tananyag/Fizika/13. folyadékok/13.Folyadékok, gázok mechanikája.md",
+    "2-Menu/Menü.md"
   ]
 }

@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. A földrajzi felfedezések és következményei.md",
+                "file": "3-tags/magyar/Irodalom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. A földrajzi felfedezések és következményei"
-            }
-          },
-          {
-            "id": "c6455741e2fecda9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vadon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vadon"
-            }
-          },
-          {
-            "id": "27ead3f7f8bb8472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "swot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "swot"
+              "title": "Irodalom"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,13 +197,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "27ead3f7f8bb8472",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2-Menu/Magyar.md",
+    "2-Menu/Menü.md",
     "swot.md",
     "vadon.md",
     "5. A földrajzi felfedezések és következményei.md",
     "2-Menu/Töri.md",
-    "2-Menu/Menü.md",
     "9. Mária Terézia és II. József reformjai.md",
     "4. Vegyesházi királyok   ---  Károly Róbert idején a hatalom konszolidációja, királyi jövedelmek az Anjouk idejében, külkereskedelmi kapcsolatok és a reformpolitika mérlege.md",
     "8. Brit alkotmányos monarchia és az amerikai köztársaság működése.md",
@@ -253,7 +225,6 @@
     "4-tananyag/Történelem/Eu működése.md",
     "4-tananyag/Történelem/Athéni demokrácia.md",
     "4-tananyag/Történelem/Reformkor.md",
-    "4-tananyag/Magyar gyakorlás/Témakifejtő esszé.md",
     "images/Pasted image 20250323215125.png",
     "images/Pasted image 20250323200119.png",
     "images/Pasted image 20250323200105.png",

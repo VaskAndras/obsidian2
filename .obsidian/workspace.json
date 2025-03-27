@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-tags/12. Hőterjedés.md",
+                "file": "4. hősugárzás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Hőterjedés"
+              "title": "4. hősugárzás"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2.hővezetés.md",
     "3-tags/12. Hőterjedés.md",
+    "4. hősugárzás.md",
+    "2.hővezetés.md",
     "3. hőáramlás.md",
     "1. 10. es tankönyv egyben.md",
     "2-Menu/Fizika.md",
@@ -224,7 +225,6 @@
     "4-tananyag/hittan/parraghy anna.md",
     "4-tananyag/hittan/Brendon.md",
     "4-tananyag/angol/Angol_közép_2021_máj_rövid.md",
-    "4-tananyag/Történelem/Az Európai Unió kialakulása és felépítése.md",
     "images/Pasted image 20250323215125.png",
     "images/Pasted image 20250323200119.png",
     "images/Pasted image 20250323200105.png",

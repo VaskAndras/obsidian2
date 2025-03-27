@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-tags/magyar/Irodalom.md",
+                "file": "2-Menu/Fizika.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Irodalom"
+              "title": "Fizika"
             }
           }
         ]
@@ -199,10 +199,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "vadon.md",
+    "3-tags/magyar/Irodalom.md",
     "2-Menu/Magyar.md",
     "2-Menu/Menü.md",
     "swot.md",
-    "vadon.md",
     "5. A földrajzi felfedezések és következményei.md",
     "2-Menu/Töri.md",
     "9. Mária Terézia és II. József reformjai.md",
@@ -224,7 +225,6 @@
     "4-tananyag/Történelem/Magyar privatizáció és harmadik.md",
     "4-tananyag/Történelem/Eu működése.md",
     "4-tananyag/Történelem/Athéni demokrácia.md",
-    "4-tananyag/Történelem/Reformkor.md",
     "images/Pasted image 20250323215125.png",
     "images/Pasted image 20250323200119.png",
     "images/Pasted image 20250323200105.png",

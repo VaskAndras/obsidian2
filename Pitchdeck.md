@@ -10,8 +10,7 @@
 	- nehéz az embernek a saját igényeire appot találni
 - sokan a google mapst választják, ami bár nagyon hasznos a túratervezésre nem alkalmas 
 	- kutatáááááás!!!!
-
-## igények
+## igények piac 2 
 - ingyenes 
 	- az egyszeri fizetés elrettenti a letöltéstől
 	- havidíjas modell pedig felesleges, mivel a legtöbben csak alkalmanként túráznak 
@@ -27,7 +26,7 @@
 	- könnyíted meg a túratervezést
 - 
 -  Ötvözi a hagyományos túratervezőket és a közösségi felületeket
-- (kép az appról)
+- (kép az appról)![[Pasted image 20250403141254.png]]
 - a lényege hogy a közösség tölti megtartalommal
 - meg lehet osztani 
 	- túraterveket
@@ -37,7 +36,7 @@
 	- teljes túrabejegyzéseket
 	- kilátópontokat
 	- tippeket- tanácsokat
-## Pénzügyileg 
+## business modell 
 - hírdetések
 	- szállás
 	- túratermékek
@@ -47,4 +46,41 @@
 - együttműködések
 
 - fizetős rész
+- deális partner 
+	- 
+
+## go to market 
+- ideális customer 
+- természetjáró fiatal 
+- mivel tudom megszólítani
+## Tervek- roadmap
+- beta app készítése - szeptemberig
+	- térkép
+	- posztok
+	- felhasználók
+	- hírdetések
+
+- tesztidőszak  pár hónap
+	- felhasználók számával funkciók hozzáadása
+	- tartalommal való feltöltés
+
+- mvp készítése
+	- 
+-  aktív kommunikáió
+- terjesztés 
+- sok felhasználó
+- reklám 
+
+- a felhasználók szmával növekednek a reklámbevételek
+- a reklámbevételekkel növekszik az app
+- insta 
+- tiktok kampány
+- stb
+
+## csapat
+- tagok
+- ki mihez 
+- miért állt emellé
+- szakértelem??
+- ki kell színezni
 

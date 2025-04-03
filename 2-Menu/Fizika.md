@@ -13,6 +13,7 @@
 [[12. Hőterjedés]]
 [[13.Folyadékok, gázok mechanikája]]
 
+
 Tananyag
 [[3-tags/Váltóáram]]
 [[Félvezetők]]

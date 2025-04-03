@@ -39,3 +39,6 @@ közös túrákat szervezhet
 
 
 célunk hogy a túra megtervezése a lehető legkevesebb időbe teljen. 
+
+
+

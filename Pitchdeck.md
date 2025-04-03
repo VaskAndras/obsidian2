@@ -40,8 +40,11 @@
 ## Pénzügyileg 
 - hírdetések
 	- szállás
-	- túraterm
+	- túratermékek
+	- éttermek
+	- stb
+
 - együttműködések
-- 
+
 - fizetős rész
-- 
+

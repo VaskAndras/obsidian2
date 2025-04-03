@@ -43,12 +43,14 @@
 	- éttermek
 	- stb
 
-- együttműködések
+- együttműködések - eladásösztönző együttműködések márkákkal 
 
-- fizetős rész
-- deális partner 
-	- 
-
+- fizetős rész 
+	- freemium prémium és free felhasználók 
+		- további kedvezmények
+		- edukációs tartalmak 
+		- offline map
+		- egyedi funkciók
 ## go to market 
 - ideális customer 
 - természetjáró fiatal 
@@ -58,14 +60,14 @@
 	- térkép
 	- posztok
 	- felhasználók
-	- hírdetések
 
 - tesztidőszak  pár hónap
 	- felhasználók számával funkciók hozzáadása
 	- tartalommal való feltöltés
 
-- mvp készítése
-	- 
+- mvp készítés
+
+piacra lépés
 -  aktív kommunikáió
 - terjesztés 
 - sok felhasználó
@@ -76,7 +78,6 @@
 - insta 
 - tiktok kampány
 - stb
-
 ## csapat
 - tagok
 - ki mihez 

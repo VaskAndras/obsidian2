@@ -54,7 +54,7 @@
 ## go to market 
 - ideális customer 
 - természetjáró fiatal 
-- mivel tudom megszólítaniél
+- mivel tudom megszólítani
 ## Tervek- roadmap
 - beta app készítése - szeptemberig
 	- térkép
